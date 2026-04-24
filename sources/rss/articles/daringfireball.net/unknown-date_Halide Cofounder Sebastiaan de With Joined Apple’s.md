@@ -1,0 +1,37 @@
+# Halide Cofounder Sebastiaan de With Joined Apple’s Design Team in January
+
+> 来源: daringfireball.net  
+> 发布时间: 2026-03-11T23:00:00Z  
+> 分类: 海外技术博客  
+> 优先级: medium
+
+## 摘要
+
+<p>Chance Miller, reporting for 9to5Mac back on January 28:</p>
+
+<blockquote>
+  <p><a href="https://halide.cam/">Halide</a> and <a href="https://www.lux.camera/">Lux</a> co-founder and designer Sebastiaan
+de With <a href="https://www.threads.com/@sdw/post/DUEeAwFksRt">announced</a> today that he is joining Apple’s human
+interface design team. This marks a return to Apple for de With,
+who previously worked as a freelancer for the company on projects
+including Find My, MobileMe, and iCloud.</p>
+</blockquote>
+
+<p>The last time I mentioned de With here on Daring Fireball was back in June, on the cusp of WWDC, <a href="https://daringfireball.net/linked/2025/06/03/sdw-physicality-new-age">when I linked to</a> his resplendently illustrated essay, “<a href="https://www.lux.camera/physicality-the-new-age-of-ui/">Physicality: The New Age of UI</a>”, wherein he speculated on where Apple might be going. It’s very much worth your time to revisit de With’s essay now, knowing that he’s joined Apple’s design team. My own comments on his essay hold up well too — especially my concern that a look-and-feel centered on transparency doesn’t seem a good fit for MacOS, where windows stack atop each other.</p>
+
+<p>When de With published his essay, it was as an idea for where Apple might go. Now that we’ve seen and been living with Liquid Glass, his essay works even better as a roadmap for the direction Liquid Glass should head.</p>
+
+<p>Also worth pointing out that despite de With’s departure for Apple, Lux is going strong. Developer Ben Sandofsky recently released <a href="https://www.lux.camera/mark-iii-looks/">a preview of the upcoming Mark III version of Halide</a>.</p>
+
+<div>
+<a href="https://daringfireball.net/linked/2026/03/11/de-with-apple-design-team" title="Permanent link to ‘Halide Cofounder Sebastiaan de With Joined Apple’s Design Team in January’">&nbsp;★&nbsp;</a>
+</div>
+
+## 链接
+
+https://9to5mac.com/2026/01/28/halide-cofounder-sebastiaan-de-with-joins-apples-design-team/
+
+---
+
+*ID: 3e691e92b1981117*
+*抓取时间: 2026-03-12T10:14:27.732167*

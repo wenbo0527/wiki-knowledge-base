@@ -1,0 +1,53 @@
+# AI should help us produce better code
+
+> 来源: simonwillison.net  
+> 发布时间: 2026-03-10T22:25:09+00:00  
+> 分类: 海外技术博客  
+> 优先级: medium
+
+## 摘要
+
+<p><em><a href="https://simonwillison.net/guides/agentic-engineering-patterns/">Agentic Engineering Patterns</a> &gt;</em></p>
+    <p>Many developers worry that outsourcing their code to AI tools will result in a drop in quality, producing bad code that's churned out fast enough that decision makers are willing to overlook its flaws.</p>
+<p>If adopting coding agents demonstrably reduces the quality of the code and features you are producing, you should address that problem directly: figure out which aspects of your process are hurting the quality of your output and fix them.</p>
+<p>Shipping worse code with agents is a <em>choice</em>. We can choose to ship code <a href="https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/#good-code">that is better</a> instead.</p>
+<h2 id="avoiding-taking-on-technical-debt">Avoiding taking on technical debt</h2>
+<p>I like to think about shipping better code in terms of technical debt. We take on technical debt as the result of trade-offs: doing things "the right way" would take too long, so we work within the time constraints we are under and cross our fingers that our project will survive long enough to pay down the debt later on.</p>
+<p>The best mitigation for technical debt is to avoid taking it on in the first place.</p>
+<p>In my experience, a common category of technical debt fixes is changes that are simple but time-consuming.</p>
+<ul>
+<li>Our original API design doesn't cover an important case that emerged later on. Fixing that API would require changing code in dozens of different places, making it quicker to add a very slightly different new API and live with the duplication.</li>
+<li>We made a poor choice naming a concept early on - teams rather than groups for example - but cleaning up that nomenclature everywhere in the code is too much work so we only fix it in the UI.</li>
+<li>Our system has grown duplicate but slightly different functionality over time which needs combining and refactoring.</li>
+<li>One of our files has grown to several thousand lines of code which we would ideally split into separate modules.</li>
+</ul>
+<p>All of these changes are conceptually simple but still need time dedicated to them, which can be hard to justify given more pressing issues.</p>
+<h2 id="coding-agents-can-handle-these-for-us">Coding agents can handle these for us</h2>
+<p>Refactoring tasks like this are an <em>ideal</em> application of coding agents.</p>
+<p>Fire up an agent, tell it what to change and leave it to churn away in a branch or worktree somewhere in the background.</p>
+<p>I usually use asynchronous coding agents for this such as <a href="https://jules.google.com/">Gemini Jules</a>, <a href="https://developers.openai.com/codex/cloud/">OpenAI Codex web</a>, or <a href="https://code.claude.com/docs/en/claude-code-on-the-web">Claude Code on the web</a>. That way I can run those refactoring jobs without interrupting my flow on my laptop.</p>
+<p>Evaluate the result in a Pull Request. If it's good, land it. If it's almost there, prompt it and tell it what to do differently. If it's bad, throw it away.</p>
+<p>The cost of these code improvements has dropped so low that we can afford a zero tolerance attitude to minor code smells and inconveniences.</p>
+<h2 id="ai-tools-let-us-consider-more-options">AI tools let us consider more options</h2>
+<p>Any software development task comes with a wealth of options for approaching the problem. Some of the most significant technical debt comes from making poor choices at the planning step - missing out on an obvious simple solution, or picking a technology that later turns out not to be exactly the right fit.</p>
+<p>LLMs can help ensure we don't miss any obvious solutions that may not have crossed our radar before. They'll only suggest solutions that are common in their training data but those tend to be the <a href="https://boringtechnology.club">Boring Technology</a> that's most likely to work.</p>
+<p>More importantly, coding agents can help with <strong>exploratory prototyping</strong>.</p>
+<p>The best way to make confident technology choices is to prove that they are fit for purpose with a prototype.</p>
+<p>Is Redis a good choice for the activity feed on a site which expects thousands of concurrent users?</p>
+<p>The best way to know for sure is to wire up a simulation of that system and run a load test against it to see what breaks.</p>
+<p>Coding agents can build this kind of simulation from a single well crafted prompt, which drops the cost of this kind of experiment to almost nothing. And since they're so cheap we can run multiple experiments at once, testing several solutions to pick the one that is the best fit for our problem.</p>
+<h2 id="embrace-the-compound-engineering-loop">Embrace the compound engineering loop</h2>
+<p>Agents follow instructions. We can evolve these instructions over time to get better results from future runs, based on what we've learned previously.</p>
+<p>Dan Shipper and Kieran Klaassen at Every describe their company's approach to working with coding agents as <a href="https://every.to/chain-of-thought/compound-engineering-how-every-codes-with-agents">Compound Engineering</a>. Every coding project they complete ends with a retrospective, which they call the <strong>compound step</strong> where they take what worked and document that for future agent runs.</p>
+<p>If we want the best results from our agents, we should aim to continually increase the quality of our codebase over time. Small improvements compound. Quality enhancements that used to be time-consuming have now dropped in cost to the point that there's no excuse not to invest in quality at the same time as shipping new features. Coding agents mean we can finally have both.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/agentic-engineering">agentic-engineering</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p>
+
+## 链接
+
+https://simonwillison.net/guides/agentic-engineering-patterns/better-code/#atom-everything
+
+---
+
+*ID: 2a3ba4a0f285e9a5*
+*抓取时间: 2026-03-12T10:14:21.951028*

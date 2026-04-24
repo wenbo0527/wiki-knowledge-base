@@ -1,0 +1,137 @@
+[
+  {
+    "id": "37e5d4c2a38d822e",
+    "title": "Why We Think",
+    "source": "Lilian Weng",
+    "url": "https://lilianweng.github.io/posts/2025-05-01-thinking/",
+    "published": "Thu, 01 May 2025 00:00:00 +0000",
+    "category": "海外技术领袖",
+    "priority": "high"
+  },
+  {
+    "id": "6b8d45d8c8b9a0b1",
+    "title": "Reward Hacking in Reinforcement Learning",
+    "source": "Lilian Weng",
+    "url": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
+    "published": "Thu, 28 Nov 2024 00:00:00 +0000",
+    "category": "海外技术领袖",
+    "priority": "high"
+  },
+  {
+    "id": "b402a18418f3be0c",
+    "title": "Extrinsic Hallucinations in LLMs",
+    "source": "Lilian Weng",
+    "url": "https://lilianweng.github.io/posts/2024-07-07-hallucination/",
+    "published": "Sun, 07 Jul 2024 00:00:00 +0000",
+    "category": "海外技术领袖",
+    "priority": "high"
+  },
+  {
+    "id": "c9ff060cdde5052d",
+    "title": "Diffusion Models for Video Generation",
+    "source": "Lilian Weng",
+    "url": "https://lilianweng.github.io/posts/2024-04-12-diffusion-video/",
+    "published": "Fri, 12 Apr 2024 00:00:00 +0000",
+    "category": "海外技术领袖",
+    "priority": "high"
+  },
+  {
+    "id": "766211e80922a432",
+    "title": "Thinking about High-Quality Human Data",
+    "source": "Lilian Weng",
+    "url": "https://lilianweng.github.io/posts/2024-02-05-human-data-quality/",
+    "published": "Mon, 05 Feb 2024 00:00:00 +0000",
+    "category": "海外技术领袖",
+    "priority": "high"
+  },
+  {
+    "id": "95371cd4e844df5c",
+    "title": "Adversarial Attacks on LLMs",
+    "source": "Lilian Weng",
+    "url": "https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/",
+    "published": "Wed, 25 Oct 2023 00:00:00 +0000",
+    "category": "海外技术领袖",
+    "priority": "high"
+  },
+  {
+    "id": "00cacf7c851b4f4d",
+    "title": "LLM Powered Autonomous Agents",
+    "source": "Lilian Weng",
+    "url": "https://lilianweng.github.io/posts/2023-06-23-agent/",
+    "published": "Fri, 23 Jun 2023 00:00:00 +0000",
+    "category": "海外技术领袖",
+    "priority": "high"
+  },
+  {
+    "id": "b0ffa97e39b4bfa5",
+    "title": "Prompt Engineering",
+    "source": "Lilian Weng",
+    "url": "https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/",
+    "published": "Wed, 15 Mar 2023 00:00:00 +0000",
+    "category": "海外技术领袖",
+    "priority": "high"
+  },
+  {
+    "id": "af0c5a0fd308b671",
+    "title": "The Transformer Family Version 2.0",
+    "source": "Lilian Weng",
+    "url": "https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/",
+    "published": "Fri, 27 Jan 2023 00:00:00 +0000",
+    "category": "海外技术领袖",
+    "priority": "high"
+  },
+  {
+    "id": "70cbe0cdbc957a5f",
+    "title": "Large Transformer Model Inference Optimization",
+    "source": "Lilian Weng",
+    "url": "https://lilianweng.github.io/posts/2023-01-10-inference-optimization/",
+    "published": "Tue, 10 Jan 2023 10:00:00 -0700",
+    "category": "海外技术领袖",
+    "priority": "high"
+  },
+  {
+    "id": "dbc11a2c5abdc924",
+    "title": "Some Math behind Neural Tangent Kernel",
+    "source": "Lilian Weng",
+    "url": "https://lilianweng.github.io/posts/2022-09-08-ntk/",
+    "published": "Thu, 08 Sep 2022 10:00:00 -0700",
+    "category": "海外技术领袖",
+    "priority": "high"
+  },
+  {
+    "id": "8176c9861f93d7b0",
+    "title": "Generalized Visual Language Models",
+    "source": "Lilian Weng",
+    "url": "https://lilianweng.github.io/posts/2022-06-09-vlm/",
+    "published": "Thu, 09 Jun 2022 15:10:30 -0700",
+    "category": "海外技术领袖",
+    "priority": "high"
+  },
+  {
+    "id": "f16f6d68209f46a3",
+    "title": "Learning with not Enough Data Part 3: Data Generation",
+    "source": "Lilian Weng",
+    "url": "https://lilianweng.github.io/posts/2022-04-15-data-gen/",
+    "published": "Fri, 15 Apr 2022 15:10:30 -0700",
+    "category": "海外技术领袖",
+    "priority": "high"
+  },
+  {
+    "id": "68c1844f696c2c23",
+    "title": "Learning with not Enough Data Part 2: Active Learning",
+    "source": "Lilian Weng",
+    "url": "https://lilianweng.github.io/posts/2022-02-20-active-learning/",
+    "published": "Sun, 20 Feb 2022 00:00:00 +0000",
+    "category": "海外技术领袖",
+    "priority": "high"
+  },
+  {
+    "id": "7b0c0b0f510f9010",
+    "title": "Learning with not Enough Data Part 1: Semi-Supervised Learning",
+    "source": "Lilian Weng",
+    "url": "https://lilianweng.github.io/posts/2021-12-05-semi-supervised/",
+    "published": "Sun, 05 Dec 2021 00:00:00 +0000",
+    "category": "海外技术领袖",
+    "priority": "high"
+  }
+]

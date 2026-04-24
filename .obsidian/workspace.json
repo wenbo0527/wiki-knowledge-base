@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "4fc075aca4c34c60",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c352d1e4c67dc78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1eab992a1dc7ab04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/topics/ai-native/openclaw-practices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "openclaw-practices"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "422cc0c9aff68ff2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c55b648098da692b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d73da17b7fcc9bec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "c22580d477d75adf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "3a993994edcab114",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b527afdd0b0604f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dd7b56fcaf02b38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a3d37baf395d81e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/PROCESS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "PROCESS 的反向链接列表"
+            }
+          },
+          {
+            "id": "c9d33afefa15b8db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/PROCESS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "PROCESS 的出链列表"
+            }
+          },
+          {
+            "id": "8ec169064823424a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "33dedb451ded803d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "483e7f66e70ae18b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/PROCESS.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "PROCESS 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "1eab992a1dc7ab04",
+  "lastOpenFiles": [
+    "wiki/topics/ai-native/ai-programming.md",
+    "wiki/topics/ai-native/agent-engineering.md",
+    "wiki/topics/ai-native/ai-application.md",
+    "wiki/topics/ai-native/openclaw-practices.md",
+    "wiki/topics/analysis-frameworks/majiangbo-framework.md",
+    "wiki/topics/analysis-frameworks/hegang-framework.md",
+    "wiki/topics/analysis-frameworks/caiyu-framework.md",
+    "wiki/topics/analysis-frameworks/10-analysis-models.md",
+    "wiki/PROCESS.md",
+    "wiki/NICK_SCHEMA.md",
+    "README.md",
+    "wiki/topics/tech-ai.md",
+    "wiki/topics/knowledge-management.md"
+  ]
+}

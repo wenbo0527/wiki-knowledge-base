@@ -1,0 +1,244 @@
+{
+  "version": "1.0",
+  "created": "2026-04-21",
+  "maintainer": "尼克·弗瑞",
+  "sources": {
+    "ai_native": {
+      "name": "AI-Native专题",
+      "current_count": 2,
+      "target_count": 15,
+      "priority": "P0",
+      "feeds": [
+        {
+          "name": "Cursor Blog",
+          "url": "https://cursor.sh/blog/feed",
+          "category": "AI Programming",
+          "priority": "P0",
+          "status": "pending"
+        },
+        {
+          "name": "Anthropic News",
+          "url": "https://www.anthropic.com/news/rss.xml",
+          "category": "Agent Engineering",
+          "priority": "P0",
+          "status": "pending"
+        },
+        {
+          "name": "AutoGen Blog",
+          "url": "https://microsoft.github.io/autogen/blog/rss.xml",
+          "category": "Multi-Agent",
+          "priority": "P0",
+          "status": "pending"
+        },
+        {
+          "name": "CrewAI Blog",
+          "url": "https://www.crewai.com/blog/rss.xml",
+          "category": "Agent Orchestration",
+          "priority": "P0",
+          "status": "pending"
+        },
+        {
+          "name": "LangChain Blog",
+          "url": "https://blog.langchain.dev/rss.xml",
+          "category": "Agent Infrastructure",
+          "priority": "P0",
+          "status": "pending"
+        },
+        {
+          "name": "Vercel AI SDK",
+          "url": "https://sdk.vercel.ai/docs/updates",
+          "category": "AI Application",
+          "priority": "P0",
+          "status": "pending"
+        },
+        {
+          "name": "GitHub Copilot",
+          "url": "https://github.blog/tag/copilot/feed",
+          "category": "AI Programming",
+          "priority": "P1",
+          "status": "pending"
+        },
+        {
+          "name": "Semantic Kernel",
+          "url": "https://devblogs.microsoft.com/semantic-kernel/feed",
+          "category": "Agent SDK",
+          "priority": "P1",
+          "status": "pending"
+        }
+      ]
+    },
+    "fintech": {
+      "name": "Fintech专题",
+      "current_count": 5,
+      "target_count": 10,
+      "priority": "P0",
+      "feeds": [
+        {
+          "name": "零壹财经",
+          "url": "https://www.01caijing.com/rss",
+          "category": "Fintech Analysis",
+          "priority": "P0",
+          "status": "pending"
+        },
+        {
+          "name": "看懂经济",
+          "url": "https://www.kandong.com/rss",
+          "category": "Banking Insight",
+          "priority": "P0",
+          "status": "pending"
+        },
+        {
+          "name": "中国金融杂志",
+          "url": "https://www.zgjrzz.com/rss",
+          "category": "Policy",
+          "priority": "P1",
+          "status": "pending"
+        },
+        {
+          "name": "消费金融网",
+          "url": "https://www.xffin.com/rss",
+          "category": "Consumer Finance",
+          "priority": "P1",
+          "status": "pending"
+        },
+        {
+          "name": "数字人民币",
+          "url": "https://www.dcpec.com/rss",
+          "category": "CBDC",
+          "priority": "P2",
+          "status": "pending"
+        }
+      ]
+    },
+    "knowledge_management": {
+      "name": "Knowledge Management",
+      "current_count": 0,
+      "target_count": 5,
+      "priority": "P1",
+      "feeds": [
+        {
+          "name": "Tiago Forte",
+          "url": "https://fortelabs.com/rss",
+          "category": "Second Brain",
+          "priority": "P0",
+          "status": "pending"
+        },
+        {
+          "name": "Andy Matuschak",
+          "url": "https://andymatuschak.org/rss",
+          "category": "Research",
+          "priority": "P0",
+          "status": "pending"
+        },
+        {
+          "name": "Obsidian Updates",
+          "url": "https://obsidian.md/updates.rss",
+          "category": "Tool",
+          "priority": "P0",
+          "status": "pending"
+        },
+        {
+          "name": "Notion Blog",
+          "url": "https://www.notion.so/blog/rss",
+          "category": "Tool",
+          "priority": "P1",
+          "status": "pending"
+        },
+        {
+          "name": "Mem.ai",
+          "url": "https://get.mem.ai/blog/rss",
+          "category": "AI KM",
+          "priority": "P1",
+          "status": "pending"
+        }
+      ]
+    },
+    "analysis_frameworks": {
+      "name": "Analysis Frameworks",
+      "current_count": 0,
+      "target_count": 5,
+      "priority": "P1",
+      "feeds": [
+        {
+          "name": "McKinsey Insights",
+          "url": "https://www.mckinsey.com/insights/rss",
+          "category": "Consulting",
+          "priority": "P0",
+          "status": "pending"
+        },
+        {
+          "name": "BCG Perspectives",
+          "url": "https://www.bcg.com/rss",
+          "category": "Consulting",
+          "priority": "P0",
+          "status": "pending"
+        },
+        {
+          "name": "ThoughtWorks Radar",
+          "url": "https://www.thoughtworks.com/radar/rss",
+          "category": "Tech Trends",
+          "priority": "P1",
+          "status": "pending"
+        },
+        {
+          "name": "Gartner Research",
+          "url": "https://www.gartner.com/newsroom/rss",
+          "category": "Industry",
+          "priority": "P1",
+          "status": "pending"
+        },
+        {
+          "name": "CB Insights",
+          "url": "https://www.cbinsights.com/research/rss",
+          "category": "VC/Startup",
+          "priority": "P1",
+          "status": "pending"
+        }
+      ]
+    },
+    "algorithms": {
+      "name": "Algorithms",
+      "current_count": 0,
+      "target_count": 3,
+      "priority": "P2",
+      "feeds": [
+        {
+          "name": "arXiv cs.LG",
+          "url": "https://arxiv.org/rss/cs.LG",
+          "category": "ML Research",
+          "priority": "P0",
+          "status": "pending"
+        },
+        {
+          "name": "Papers With Code",
+          "url": "https://paperswithcode.com/rss",
+          "category": "Implementation",
+          "priority": "P0",
+          "status": "pending"
+        },
+        {
+          "name": "Distill.pub",
+          "url": "https://distill.pub/rss",
+          "category": "Visualization",
+          "priority": "P1",
+          "status": "pending"
+        }
+      ]
+    }
+  },
+  "summary": {
+    "total_current": 7,
+    "total_target": 38,
+    "total_pending": 31,
+    "coverage_by_priority": {
+      "P0": {"current": 7, "target": 25, "gap": 18},
+      "P1": {"current": 0, "target": 10, "gap": 10},
+      "P2": {"current": 0, "target": 3, "gap": 3}
+    }
+  },
+  "implementation_plan": {
+    "week_1": "配置P0级AI-Native和Fintech源（18个）",
+    "week_2": "配置P1级KM和Frameworks源（10个）",
+    "week_3": "配置P2级Algorithms源（3个）+ 系统优化"
+  }
+}

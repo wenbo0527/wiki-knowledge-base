@@ -1,0 +1,48 @@
+# LLM-generated skills work, if you generate them afterwards
+
+> 来源: seangoedecke.com  
+> 发布时间: Tue, 17 Feb 2026 00:00:00 GMT  
+> 分类: 海外技术博客  
+> 优先级: medium
+
+## 摘要
+
+<p>LLM <a href="https://github.com/anthropics/skills">“skills”</a> are a short explanatory prompt for a particular task, typically bundled with helper scripts. A recent <a href="https://arxiv.org/abs/2602.12670">paper</a> showed that while skills are useful to LLMs, <em>LLM-authored</em> skills are not. From the abstract:</p>
+<blockquote>
+<p>Self-generated skills provide no benefit on average, showing that models cannot reliably author the procedural knowledge they benefit from consuming</p>
+</blockquote>
+<p>For the moment, I don’t really want to dive into the paper. I just want to note that the way the paper uses LLMs to generate skills is bad, and you shouldn’t do this. Here’s how the paper prompts a LLM to produce skills:</p>
+<blockquote>
+<p>Before attempting to solve this task, please follow these steps: 1. Analyze the task requirements and identify what domain knowledge, APIs, or techniques are needed. 2. Write 1–5 modular skill documents that would help solve this task. Each skill should: focus on a specific tool, library, API, or technique; include installation/setup instructions if applicable; provide code examples and usage patterns; be reusable for similar tasks. 3. Save each skill as a markdown file in the environment/skills/ directory with a descriptive name. 4. Then solve the task using the skills you created as reference</p>
+</blockquote>
+<p>The key idea here is that they’re asking the LLM to produce a skill <em>before</em> it starts on the task. It’s essentially a strange version of the “make a plan first” or “think step by step” prompting strategy. I’m not at all surprised that this doesn’t help, because current reasoning models already think carefully about the task before they begin.</p>
+<p>What should you do instead? You should <strong>ask the LLM to write up a skill <em>after</em> it’s completed the task</strong>. Obviously this isn’t useful for truly one-off tasks. But few tasks are truly one-off. For instance, I’ve recently been playing around with <a href="https://transformer-circuits.pub/2024/scaling-monosemanticity/">SAEs</a> and trying to clamp features in open-source models, a la <a href="https://www.anthropic.com/news/golden-gate-claude">Golden Gate Claude</a>. It took a while for Codex to get this right. Here are some things it had to figure out:</p>
+<ul>
+<li>Extracting features from the final layernorm is too late - you may as well just boost individual logits during sampling</li>
+<li>You have to extract from about halfway through the model layers to get features that can be usefully clamped</li>
+<li>Training a SAE on ~10k activations is two OOMs too few to get useful features. You need to train until features account for >50% of variance</li>
+</ul>
+<p>Once I was able (with Codex’s help) to clamp an 8B model and force it to obsess about a subject<sup id="fnref-1"><a class="footnote-ref" href="https://www.seangoedecke.com/rss.xml#fn-1">1</a></sup>, I <em>then</em> asked Codex to summarize the process into an agent skill<sup id="fnref-2"><a class="footnote-ref" href="https://www.seangoedecke.com/rss.xml#fn-2">2</a></sup>. That worked great! I was able to spin up a brand-new Codex instance with that skill and immediately get clamping working on a different 8B model. But if I’d asked Codex to write the skill at the start, it would have baked in all of its incorrect assumptions (like extracting from the final layernorm), and the skill wouldn’t have helped at all.</p>
+<p>In other words, the purpose of LLM-generated skills is to get it to distil the knowledge it’s gained by iterating on the problem for millions of tokens, not to distil the knowledge it already has from its training data. You can get a LLM to generate skills for you, <strong>so long as you do it <em>after</em> the LLM has already solved the problem the hard way</strong>.</p>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn-1">
+<p>If you’re interested, it was “going to the movies”.</p>
+<a class="footnote-backref" href="https://www.seangoedecke.com/rss.xml#fnref-1">↩</a>
+</li>
+<li id="fn-2">
+<p>I’ve pushed it up <a href="https://github.com/sgoedecke/skills/tree/main">here</a>. I’m sure you could do much better for a feature-extraction skill, this was just my zero-effort Codex-only attempt.</p>
+<a class="footnote-backref" href="https://www.seangoedecke.com/rss.xml#fnref-2">↩</a>
+</li>
+</ol>
+</div>
+
+## 链接
+
+https://seangoedecke.com/generate-skills-afterwards/
+
+---
+
+*ID: 2e3c0364e4cc337a*
+*抓取时间: 2026-03-05T10:01:52.676847*

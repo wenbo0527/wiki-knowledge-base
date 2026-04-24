@@ -1,0 +1,91 @@
+# Restricting IP address access to specific ports in eBPF: a sketch
+
+> 来源: utcc.utoronto.ca/~cks  
+> 发布时间: 2026-03-08T03:04:11Z  
+> 分类: 海外技术博客  
+> 优先级: medium
+
+## 摘要
+
+<div class="wikitext"><p>The other day I covered <a href="https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdSocketIPRestrictions">how I think systemd's IPAddressAllow and
+IPAddressDeny restrictions work</a>, which
+unfortunately only allows you to limit this to specific (local)
+ports only if you set up the sockets for those ports in a separate
+<a href="https://www.freedesktop.org/software/systemd/man/latest/systemd.socket.html">systemd.socket</a>
+unit. Naturally this raises the question of whether there is a good,
+scalable way to restrict access to specific ports in eBPF that
+systemd (or other interested parties) could use. I think the answer
+is yes, so here is a sketch of how I think you'd this.</p>
+
+<p>Why we care about a 'scalable' way to do this is because systemd
+generates and installs its eBPF programs on the fly. Since tcpdump
+can do this sort of cross-port matching, we could write an eBPF
+program that did it directly. But such a program could get complex
+if we were matching a bunch of things, and that complexity might
+make it hard to generate on the fly (or at least make it complex
+enough that systemd and other programs didn't want to). So we'd
+like a way that still allows you to generate a simple eBPF program.</p>
+
+<p>Systemd uses <a href="https://docs.ebpf.io/linux/program-type/BPF_PROG_TYPE_CGROUP_SKB/">cgroup socket SKB eBPF programs</a>, which
+attach to a cgroup and filter all network packets on ingress or
+egress. As far as I can understand from staring at code, these are
+implemented by extracting the IPv4 or IPv4 address of the other
+side from the SKB and then querying what eBPF calls a <a href="https://docs.ebpf.io/linux/map-type/BPF_MAP_TYPE_LPM_TRIE/">LPM (Longest
+Prefix Match) map</a>. The
+normal way to use an LPM map is to use the <a href="https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing">CIDR</a>
+prefix length and the start of the CIDR network as the key (for
+individual IPv4 addresses, the prefix length is 32), and then match
+against them, so this is what systemd's cgroup program does. This
+is a nicely scalable way to handle the problem; the eBPF program
+itself is basically constant, and you have a couple of eBPF maps
+(for the allow and deny sides) that systemd populates with the
+relevant information from IPAddressAllow and IPAddressDeny.</p>
+
+<p>However, there's nothing in eBPF that requires the keys to be just
+CIDR prefixes plus IP addresses. A <a href="https://docs.ebpf.io/linux/map-type/BPF_MAP_TYPE_LPM_TRIE/">LPM map</a> key
+has to start with a 32-bit prefix, but the size of the rest of the
+key can vary. This means that we can make our keys be 16 bits longer
+and stick the port number in front of the IP address (and increase
+the CIDR prefix size appropriately). So to match packets to port
+22 from 128.100.0.0/16, your key would be (u32) 32 for the prefix
+length then something like 0x00 0x16 0x80 0x64 0x00 0x00 (if I'm
+doing the math and understanding the structure right). When you
+query this <a href="https://docs.ebpf.io/linux/map-type/BPF_MAP_TYPE_LPM_TRIE/">LPM map</a>, you put the appropriate port number in front
+of the IP address.</p>
+
+<p>This does mean that each separate port with a separate set of IP
+address restrictions needs its own set of map entries. If you wanted
+a set of ports to all have a common set of restrictions, you could
+use a normally structured <a href="https://docs.ebpf.io/linux/map-type/BPF_MAP_TYPE_LPM_TRIE/">LPM map</a> and a second <a href="https://docs.ebpf.io/linux/map-type/BPF_MAP_TYPE_HASH/">plain hash map</a> where the
+keys are port numbers. Then you check the port and the IP address
+separately, rather than trying to combine them in one lookup. And
+there are more complex schemes if you need them.</p>
+
+<p>Which scheme you'd use depends on how you expect port based access
+restrictions to be used. Do you expect several different ports,
+each with its own set of IP access restrictions (or only one port)?
+Then my first scheme is only a minor change from systemd's current
+setup, and it's easy to extend it to general IP address controls
+as well (just use a port number of zero to mean 'this applies to
+all ports'). If you expect sets of ports to all use a common set
+of IP access controls, or several sets of ports with different
+restrictions for each set, then you might want a scheme with more
+maps.</p>
+
+<p>(In theory you could write this eBPF program and set up these maps
+yourself, then use systemd resource control features to <a href="https://www.freedesktop.org/software/systemd/man/latest/systemd.resource-control.html#IPIngressFilterPath=BPF_FS_PROGRAM_PATH">attach
+them to your .service unit</a>.
+In practice, at that point you probably should write host firewall
+rules instead, it's likely to be simpler. But see <a href="https://kailueke.gitlab.io/systemd-bpf-firewall-loader/">this blog post</a> and <a href="https://github.com/pothos/bpf-cgroup-filter">the
+related VCS repository</a>,
+although that uses a more hard-coded approach.)</p>
+</div>
+
+## 链接
+
+https://utcc.utoronto.ca/~cks/space/blog/linux/EBPFPerPortIPRestrictions
+
+---
+
+*ID: c8e0450248bbf185*
+*抓取时间: 2026-03-12T13:49:26.048081*

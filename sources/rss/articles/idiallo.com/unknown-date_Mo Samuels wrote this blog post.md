@@ -1,0 +1,88 @@
+# Mo Samuels wrote this blog post
+
+> 来源: idiallo.com  
+> 发布时间: Mon, 02 Mar 2026 12:00:00 GMT  
+> 分类: 海外技术博客  
+> 优先级: medium
+
+## 摘要
+
+<p>Last year, I pushed myself to write and publish every other day for the whole year. I had accumulated a large number of subjects over the years, and I was ready to start blogging again. After writing a dozen or so articles, I couldn't keep up. What was I thinking? 180 articles in a year is too much. I barely wrote 4 articles in 2024. But there was this new emerging technology that people wouldn't stop talking about. What if I used it to help me achieve my goal?</p>
+			<div class="image">
+    <a href="https://idiallo.com/stats"><img alt="iDiallo Stats" src="https://cdn.idiallo.com/images/assets/625/stats.png" /></a>
+</div>
+
+<p>Have you ever heard of Mo Samuels? You probably haven't. But you must have heard of <a href="https://seths.blog/about/">Seth Godin</a>, right? Seth Godin is the author of several bestsellers. He is an icon in the world of marketing, and at one point he nudged me just enough to quit an old job.</p>
+
+<p>This is someone I deeply respected, and I bought his book <em>All Marketers are Liars</em> with great anticipation. I was several chapters in when he dropped this statement:</p>
+
+<blockquote>
+  <p>I didn't write this book.</p>
+</blockquote>
+
+<p>What does he mean by that? His name is on the cover. These are the familiar words I often heard in his seminars. What is he trying to say?</p>
+
+<blockquote>
+  <p>What I mean is that Seth Godin didn't write this book. It was written by a freelancer for hire named Mo Samuels. Godin hired me to write it based on a skimpy three-page outline.</p>
+</blockquote>
+
+<p>What? Mo Samuels? Who is Mo Samuels? If that name were on the cover, I wouldn't have bought the book in the first place.</p>
+
+<blockquote>
+  <p>Does that bum you out? Does it change the way you feel about the ideas in this book? Does the fact that Seth paid me $10,000 and kept the rest of the advance money make the book less valuable?</p>
+</blockquote>
+
+<p>Well, yeah. It doesn't change the ideas in the book. But it is deceptive. I bought it specifically to read his words. Not someone else's.</p>
+
+<blockquote>
+  <p>Why should it matter who wrote a book? The words don't change, after all. Yet I'm betting that you care a lot that someone named Mo wrote this book instead of the guy on the dust jacket. In fact, you're probably pretty angry.</p>
+</blockquote>
+
+<p>Very.</p>
+
+<blockquote>
+  <p>Well, if you've made it this far, you realize that there is no Mo Samuels, and in fact, I was pulling your leg. I (Seth Godin) wrote every word of this book.</p>
+</blockquote>
+
+<p>Imagine he hadn't added that last line. I never return a book after purchase, but this would have been a first. We don't just buy random books, a name carries value. I bought this book specifically because I wanted insight from this author. Anything less would have been a betrayal.</p>
+
+<p>Well, that's how people feel when they read an LLM-generated article. I wouldn't have noticed if I hadn't used LLMs to write articles on this very blog.</p>
+
+<p>The first time, I wrote a draft that had all the elements I wanted to present. The problem was the structure didn't entirely make sense. The story arc didn't really pay off, and the pacing was off. DeepSeek was just making the rounds, releasing open weights and open source code. I decided to use it to help me structure the article. The result was impressive.</p>
+
+<p>Not only had it fixed the pacing, it restructured the article in a way that made much more sense. Where I had dense blocks of information, DeepSeek turned them into convenient bullet points that were much easier to read. I was satisfied with the result and immediately published it. What I failed to notice, or maybe was too mesmerized to notice, was that the sentence structure had also been rewritten.</p>
+
+<p>I didn't use LLMs every time I wrote, but throughout the year I had at least a dozen AI-enhanced articles. When publishing, they sounded just fine.</p>
+
+<p>The problem started when I wanted to reference one of those articles in a new post. Reading through the AI-enhanced post felt strange. A paragraph I vaguely remembered and wanted to quote didn't sound like what I remembered. The articles were bloated with words I would never use. They had quips that seemed clever at the time but didn't sound like me at all. I ended up rewriting sections of those posts before quoting them.</p>
+
+<p>The second problem appeared whenever I landed on someone else's blog. I noticed the same patterns. The same voice. The same quips. "It's not just X, but Y." "Here's the part I find disturbing." "The irony is not lost on me." "It is a stark reminder." These and many more writing tropes were uniformly distributed across my LLM-assisted articles and countless others across the web.</p>
+
+<p>It felt like Mo Samuels was a guest writer on all of our blogs.</p>
+
+<div class="image">
+    <a href="https://pmsol3.wordpress.com/2009/10/10/world-of-averages-populations-of-the-americas/">
+        <img alt="average face" src="https://cdn.idiallo.com/images/assets/625/average.jpg" />
+    </a>
+</div>
+
+<p>And here's the kicker: (another famous thrope) I'm not singling out DeepSeek here. ChatGPT, Claude, Gemini, they all seem to have taken the same "Writing with Mo Samuels" Master class. It feels like this voice, no matter what personality you try to prompt it with, is the average of all the English language on the web. </p>
+
+<p>I wouldn't say readers of this blog are here for my distinct voice or writing style. I'm not famous or anything. But I know they can spot Mo from a mile away. My goal is not to trick readers. I want the stories and work experiences I share here to come from me, and I want to give readers that same assurance.</p>
+
+<p>So here is what I did. Since my goals are more modest this year, I've rewritten several of those lazy articles. I spend more time writing, and I try to hold onto this idea that's gaining traction among bloggers: </p>
+
+<blockquote>
+  <p>"If you didn't bother writing, why should anyone bother reading?"</p>
+</blockquote>
+
+<p>I want to share my thoughts, even if no one reads them. When I come back to rediscover my own writing, I want to recognize my own voice in it. But if you do read this blog, if it sucks, if you disagree, if you have an opinion to share, you should know that I wrote it. Not Mo Samuels.</p>
+
+## 链接
+
+https://idiallo.com/blog/why-we-hate-llm-articles?src=feed
+
+---
+
+*ID: 0383d7ed11db12b4*
+*抓取时间: 2026-03-06T22:27:31.508462*

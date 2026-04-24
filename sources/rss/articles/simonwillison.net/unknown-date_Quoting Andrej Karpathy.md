@@ -1,0 +1,22 @@
+# Quoting Andrej Karpathy
+
+> 来源: simonwillison.net  
+> 发布时间: 2026-02-26T19:03:27+00:00  
+> 分类: 海外技术博客  
+> 优先级: medium
+
+## 摘要
+
+<blockquote cite="https://twitter.com/karpathy/status/2026731645169185220"><p>It is hard to communicate how much programming has changed due to AI in the last 2 months: not gradually and over time in the "progress as usual" way, but specifically this last December. There are a number of asterisks but imo coding agents basically didn’t work before December and basically work since - the models have significantly higher quality, long-term coherence and tenacity and they can power through large and long tasks, well past enough that it is extremely disruptive to the default programming workflow. [...]</p></blockquote>
+<p class="cite">&mdash; <a href="https://twitter.com/karpathy/status/2026731645169185220">Andrej Karpathy</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/andrej-karpathy">andrej-karpathy</a>, <a href="https://simonwillison.net/tags/coding-agents">coding-agents</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/agentic-engineering">agentic-engineering</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/november-2025-inflection">november-2025-inflection</a></p>
+
+## 链接
+
+https://simonwillison.net/2026/Feb/26/andrej-karpathy/#atom-everything
+
+---
+
+*ID: fd9c90688fa2497f*
+*抓取时间: 2026-03-05T10:01:51.143481*
