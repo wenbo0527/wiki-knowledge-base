@@ -154,6 +154,36 @@ wiki/topics/ai-native/business-world-model/jd-pricing-practice/README.md
 | 大型项目 | 每功能完成1次 |
 | 紧急修复 | 完成后立即提交 |
 
+### 6.2 自动Commit机制
+
+**已配置自动Commit脚本**，无需手动执行：
+
+| 组件 | 说明 |
+|------|------|
+| **定时检查** | 每30分钟自动检查变更 |
+| **自动提交** | 检测到变更自动git add + commit |
+| **自动推送** | 提交后自动推送到GitHub |
+| **本地优先** | 推送失败不影响本地提交 |
+
+**脚本位置**: `~/.nickfury/scripts/wiki_auto_commit.sh`
+**日志位置**: `~/.nickfury/logs/wiki_auto_commit.log`
+**定时任务**: `com.nickfury.wiki-auto-commit` (LaunchAgent)
+
+**手动触发**: 
+```bash
+~/.nickfury/scripts/wiki_auto_commit.sh
+```
+
+**查看日志**: 
+```bash
+tail -f ~/.nickfury/logs/wiki_auto_commit.log
+```
+
+**停止自动任务**: 
+```bash
+launchctl unload /Users/wenbo/Library/LaunchAgents/com.nickfury.wiki-auto-commit.plist
+```
+
 ### 6.2 提交信息格式
 
 ```
