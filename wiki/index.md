@@ -215,6 +215,8 @@
 | [insight-20260423-andrew-ng-ai-career-rules.md](insights/insight-20260423-andrew-ng-ai-career-rules.md) | 2026-04-23 | Andrew Ng AI职业7条铁律 🆕 |
 | [insight-20260418-memos-memory-framework.md](insights/insight-20260418-memos-memory-framework.md) | 2026-04-20 | Memos企业级记忆引擎 🆕 |
 | [insight-20260418-minimax-agent.md](insights/insight-20260418-minimax-agent.md) | 2026-04-20 | MiniMax AI Agent产品实践 🆕 |
+| [insight-20260426-adele-ai-performance.md](insights/ai-technology/insight-20260426-adele-ai-performance.md) | 2026-04-26 | ADeLe AI性能预测框架 🆕 |
+| [insight-20260426-nextie-harness-multiagent.md](insights/ai-technology/insight-20260426-nextie-harness-multiagent.md) | 2026-04-26 | 明日新程Harness群体多智能体 🆕 |
 | [insight-20260418-microsoft-nfw-2025.md](insights/insight-20260418-microsoft-nfw-2025.md) | 2026-04-20 | Microsoft 2025未来工作报告 🆕 |
 ... (共40+个洞察页) |
 
