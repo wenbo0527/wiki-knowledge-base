@@ -219,6 +219,7 @@
 | [insight-20260426-nextie-harness-multiagent.md](insights/ai-technology/insight-20260426-nextie-harness-multiagent.md) | 2026-04-26 | 明日新程Harness群体多智能体 🆕 |
 | [insight-20260426-lsdm-dataset-methodology.md](insights/ai-technology/insight-20260426-lsdm-dataset-methodology.md) | 2026-04-26 | 精益数据集方法论LSDM 🆕 |
 | [insight-20260426-gravitino-metadata-lake.md](insights/ai-technology/insight-20260426-gravitino-metadata-lake.md) | 2026-04-26 | Apache Gravitino元数据湖 🆕 |
+| [insight-20260426-db-ai-skill-engineering.md](insights/ai-technology/insight-20260426-db-ai-skill-engineering.md) | 2026-04-26 | 数据库AI Skill工程化从Demo到可用 ⭐⭐⭐⭐⭐ |
 | [insight-20260426-vibe-analyzing-asktable.md](insights/ai-technology/insight-20260426-vibe-analyzing-asktable.md) | 2026-04-26 | Vibe Analyzing数据分析新范式 ⭐⭐⭐⭐⭐ |
 | [insight-20260426-linjunyang-agent-thinking.md](insights/ai-technology/insight-20260426-linjunyang-agent-thinking.md) | 2026-04-26 | 林俊旸：从推理思维到智能体思维 ⭐⭐⭐⭐⭐ |
 | [insight-20260426-power-book-workplace.md](insights/ai-technology/insight-20260426-power-book-workplace.md) | 2026-04-26 | 职场权力认知误区与构建方法 🆕 |
