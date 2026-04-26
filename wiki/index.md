@@ -217,6 +217,9 @@
 | [insight-20260418-minimax-agent.md](insights/insight-20260418-minimax-agent.md) | 2026-04-20 | MiniMax AI Agent产品实践 🆕 |
 | [insight-20260426-adele-ai-performance.md](insights/ai-technology/insight-20260426-adele-ai-performance.md) | 2026-04-26 | ADeLe AI性能预测框架 🆕 |
 | [insight-20260426-nextie-harness-multiagent.md](insights/ai-technology/insight-20260426-nextie-harness-multiagent.md) | 2026-04-26 | 明日新程Harness群体多智能体 🆕 |
+| [insight-20260426-lsdm-dataset-methodology.md](insights/ai-technology/insight-20260426-lsdm-dataset-methodology.md) | 2026-04-26 | 精益数据集方法论LSDM 🆕 |
+| [insight-20260426-gravitino-metadata-lake.md](insights/ai-technology/insight-20260426-gravitino-metadata-lake.md) | 2026-04-26 | Apache Gravitino元数据湖 🆕 |
+| [insight-20260426-free-energy-principle.md](insights/ai-technology/insight-20260426-free-energy-principle.md) | 2026-04-26 | 自由能原理与主动推断 🆕 |
 | [insight-20260418-microsoft-nfw-2025.md](insights/insight-20260418-microsoft-nfw-2025.md) | 2026-04-20 | Microsoft 2025未来工作报告 🆕 |
 ... (共40+个洞察页) |
 
