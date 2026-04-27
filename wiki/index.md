@@ -160,6 +160,17 @@
 | [roadmap-*.md](topics/product-management/roadmap-*.md) | 8个产品线Roadmap | 2026-04-13 | 托尼 |
 | [epics/](topics/product-management/epics/) | **32个Epic文档** | 2026-04-13 | 托尼 |
 | [pm-career-development/README.md](topics/product-management/pm-career-development/README.md) | PM晋升方法论 | 2026-04-14 🆕 | 尼克 |
+| [github-portfolio/](topics/product-management/github-portfolio/README.md) | **GitHub PM作品集** 🆕 | 2026-04-27 | 尼克 |
+
+**GitHub PM作品集专题** [product-management/github-portfolio/](topics/product-management/github-portfolio/) 🆕 2026-04-27
+| 页面 | 说明 | 更新 | 维护者 |
+|------|------|------|--------|
+| [README.md](topics/product-management/github-portfolio/README.md) | 专题总览 | 2026-04-27 | 尼克 |
+| [profile-guide.md](topics/product-management/github-portfolio/profile-guide.md) | Profile改造指南 | 2026-04-27 | 尼克 |
+| [repo-template.md](topics/product-management/github-portfolio/repo-template.md) | README模板 | 2026-04-27 | 尼克 |
+| [bio-formula.md](topics/product-management/github-portfolio/bio-formula.md) | Bio写作公式 | 2026-04-27 | 尼克 |
+| [attribution-cases.md](topics/product-management/github-portfolio/attribution-cases.md) | 归因SQL实现 | 2026-04-27 | 尼克 |
+| [references.md](topics/product-management/github-portfolio/references.md) | 参考链接 | 2026-04-27 | 尼克 |
 
 **算法与数据科学** [algorithms/](topics/algorithms/) 🆕
 | 页面 | 说明 | 更新 |
@@ -226,6 +237,9 @@
 | [insight-20260426-us-china-tech-stocks.md](insights/ai-technology/insight-20260426-us-china-tech-stocks.md) | 2026-04-26 | 中美科技股估值上涨分析 🆕 |
 | [insight-20260426-free-energy-principle.md](insights/ai-technology/insight-20260426-free-energy-principle.md) | 2026-04-26 | 自由能原理与主动推断 🆕 |
 | [insight-20260418-microsoft-nfw-2025.md](insights/insight-20260418-microsoft-nfw-2025.md) | 2026-04-20 | Microsoft 2025未来工作报告 🆕 |
+| [insight-20260427-github-pm-portfolio-cases.md](insights/insight-20260427-github-pm-portfolio-cases.md) | 2026-04-27 | GitHub PM作品集标杆案例 🆕 |
+| [insight-20260427-leo-cdp-framework-analysis.md](insights/insight-20260427-leo-cdp-framework-analysis.md) | 2026-04-27 | LEO CDP Framework深度分析 🆕 |
+| [insight-20260427-attribution-analysis-case.md](insights/insight-20260427-attribution-analysis-case.md) | 2026-04-27 | 归因分析Portfolio案例解析 🆕 |
 ... (共40+个洞察页) |
 
 ---
