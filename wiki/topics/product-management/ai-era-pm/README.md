@@ -120,6 +120,8 @@
 - [[insight-20260418-openclaw-ai-pm-skills]] - AI PM技能重写
 - [[insight-20260418-vibe-coding-for-pm]] - Vibe Coding与PM
 - [[insight-20260418-openclaw-10-use-cases]] - 龙虾11人阵型
+- [[insight-20260428-andrew-ng-fastest-team]] - 🆕 吴恩达：最快团队人人都是产品经理
+- [[insight-20260419-anthropic-ai-pm]] - Cat Wu：AI指数增长时代的产品管理
 
 ---
 

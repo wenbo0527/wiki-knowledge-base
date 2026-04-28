@@ -37,12 +37,11 @@
 - [[skill-evaluation]] - Skill自动评分系统 ⭐新增
 
 ### 核心Insight（最近更新）
-- [[insights/insight-20260421-openai-skill-evaluation]] - OpenAI Skill自动评分系统调研 ⭐今日
-- [[insights/insight-20260421-palantir-ontology-enterprise-ai]] - Palantir本体论企业AI落地 ⭐今日
-- [[insights/insight-20260421-anthropic-harness-guide]] - Anthropic Harness指南：到期清理 ⭐今日
-- [[insights/insight-20260421-openspec-superpowers-practice]] - OpenSpec+Superpowers实战指南 ⭐今日
-- [[insights/insight-20260421-banking-ai-skill-transformation]] - 银行AI落地：从工具思维到岗位能力数字化 ⭐今日
-- [[insights/insight-20260421-banking-ai-skill-transformation]] - 银行AI落地：从工具思维到岗位能力数字化 ⭐今日
+- [[insights/insight-20260428-jensen-huang-dwarksesh-tpu]] - ⭐⭐⭐⭐⭐ Jensen×Dwarkesh TPU竞争与对华芯片立场
+- [[insights/insight-20260428-marc-andreessen-20vc]] - ⭐⭐⭐⭐⭐ Marc Andreessen AI替代论100%错误
+- [[insights/insight-20260428-ai-three-debates]] - ⭐⭐⭐⭐⭐ AI大神三大分歧（136条访谈提炼）
+- [[insights/insight-20260428-andrew-ng-fastest-team]] - 吴恩达：最快团队人人都是产品经理
+- [[insights/insight-20260427-jeff-dean-tpu-story]] - Jeff Dean TPU诞生与极客往事
 
 ### RSS订阅（需扩充）
 | 类别 | 现有源 | 目标源 | 缺口 |

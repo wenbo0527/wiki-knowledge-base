@@ -96,6 +96,38 @@
 - 智能资源调度
 
 ---
+### 案例5: 小红书 - 增量计算替代Lambda架构
+
+| 属性 | 内容 |
+|------|------|
+| 公司 | 小红书 |
+| 行业 | 互联网大厂 |
+| 解决方案 | 增量计算（Dynamic Table）替代Lambda架构 |
+| 关键技术 | Flink, Iceberg, StarRocks, ClickHouse |
+| 效果 | 架构复杂度-1/3，资源成本-1/3，开发成本-1/3 |
+
+**架构演进**:
+
+| 版本 | 架构 | 核心组件 |
+|------|------|----------|
+| 1.0 | ClickHouse即席分析 | Spark→ClickHouse |
+| 2.0 | 存算分离Lambda | Flink+Spark+ClickHouse |
+| 3.0 | Lakehouse湖上建仓 | Flink+Iceberg+Spark+StarRocks |
+| 4.0 | 增量计算 | Dynamic Table（当前） |
+
+**核心成果**:
+- 实时汇总任务资源约为Flink的 **1/4**
+- 查询性能提升 **3倍**
+- P99时延从15s降至5s
+
+**核心技术点**:
+- 自动Z-Order排序（80-90%查询命中，10倍提升）
+- 物化视图（6000亿→200亿压缩）
+- 倒排索引（Date Skipping效率10倍提升）
+
+📎 详情: [[insight-20260428-xiaohongshu-data-architecture|小红书数据架构演进]]
+
+---
 
 ## 关键架构模式
 

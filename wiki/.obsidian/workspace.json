@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topics/algorithms/causal-inference/tools-implementation.md",
+                "file": "topics/ai-native/business-world-model/causal-inference/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tools-implementation"
+              "title": "README"
             }
           }
         ]
@@ -185,6 +185,18 @@
   },
   "active": "ea660dad63ea971f",
   "lastOpenFiles": [
+    "topics/ai-native/ai-persona-training/insight-20260414-ai-persona-training.md",
+    "topics/ai-enterprise-implementation/enterprise-ai-implementation.md",
+    "topics/ai-data-query/ai-data-query-wrenai-analysis.md",
+    "topics/ai-data-query/ai-data-query-sql-generator.md",
+    "topics/ai-data-query/ai-data-query-semantic-layer.md",
+    "topics/ai-data-query/ai-data-query-result-explanation.md",
+    "topics/ai-data-query/ai-data-query-interactive.md",
+    "topics/ai-data-query/ai-data-query-intent.md",
+    "topics/ai-data-query/ai-data-query-execution.md",
+    "topics/ai-data-query/ai-data-query-components-oss.md",
+    "topics/ai-data-query/README.md",
+    "topics/algorithms/causal-inference/tools-implementation.md",
     "topics/algorithms/causal-inference/core-theory.md",
     "topics/algorithms/causal-inference/case-practices.md",
     "topics/algorithms/causal-inference/applications.md",
@@ -199,18 +211,6 @@
     "insights/fintech/data-platform/insight-20260408-data-asset.md",
     "topics/fintech/product-solutions/README.md",
     "topics/fintech/marketing-suite.md",
-    "topics/fintech/open-banking.md",
-    "topics/fintech/product-solutions.md",
-    "insights/fintech/data-platform/insight-20260409-data-governance.md",
-    "topics/fintech/future-trends.md",
-    "topics/ai-data-query/ai-data-query-sql-generator.md",
-    "topics/ai-data-query/ai-data-query-semantic-layer.md",
-    "topics/ai-data-query/ai-data-query-result-explanation.md",
-    "topics/ai-data-query/ai-data-query-interactive.md",
-    "topics/ai-data-query/ai-data-query-intent.md",
-    "topics/ai-data-query/ai-data-query-execution.md",
-    "topics/ai-data-query/ai-data-query-components-oss.md",
-    "topics/algorithms/machine-learning/unsupervised-learning.md",
     "business-world-model"
   ]
 }

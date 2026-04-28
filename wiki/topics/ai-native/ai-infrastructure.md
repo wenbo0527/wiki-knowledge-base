@@ -38,6 +38,7 @@
 ### 芯片竞争
 
 - [[insight-20260418-jensen-huang-dwarkesh-interview]] - NVIDIA护城河与TPU竞争
+- [[insight-20260427-jeff-dean-tpu-story]] - ⭐⭐⭐⭐ Jeff Dean TPU诞生与极客往事
 
 ### 算力供应链
 

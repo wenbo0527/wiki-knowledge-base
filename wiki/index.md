@@ -26,7 +26,11 @@
 |------|------|--------|
 | [AGENT_COLLAB_GUIDE.md](AGENT_COLLAB_GUIDE.md) | **核心协作指南** ⭐ | 派蒙 & 尼克 & 钟离 |
 | [projects/README.md](projects/README.md) | 项目总览 | 派蒙 |
+| [WIKI_PRINCIPLES.md](WIKI_PRINCIPLES.md) | ⭐ Wiki知识管理原则 | 尼克 |
 | [process/ingest.md](process/ingest.md) | Ingest 流程 | 尼克 |
+| [process/wiki-health-check.md](process/wiki-health-check.md) | Wiki健康走查方案 | 尼克 |
+| [process/doc-code-review-mechanism.md](process/doc-code-review-mechanism.md) | 产品文档/代码走查机制 | 尼克+钟离+托尼 |
+| [process/maintenance-log.md](process/maintenance-log.md) | Wiki维护日志 | 尼克 |
 | [process/lint.md](process/lint.md) | Lint 检查流程 | 派蒙 |
 
 ---
@@ -197,7 +201,20 @@
 
 | 页面 | 日期 | 说明 |
 |------|------|------|
-| [insight-20260409-ai-project-weekly.md](insights/insight-20260409-ai-project-weekly.md) | 2026-04-09 | AI项目周报 |
+| [insight-20260428-simon-willison-anti-patterns.md](insights/insight-20260428-simon-willison-anti-patterns.md) | 2026-04-28 | 🆕 ⭐⭐⭐⭐⭐ Simon Willison Anti-patterns 反模式警示 |
+| [insight-20260428-simon-willison-subagents.md](insights/insight-20260428-simon-willison-subagents.md) | 2026-04-28 | 🆕 ⭐⭐⭐⭐⭐ Simon Willison Subagents 子代理模式 |
+| [insight-20260428-simon-willison-linear-walkthroughs.md](insights/insight-20260428-simon-willison-linear-walkthroughs.md) | 2026-04-28 | 🆕 ⭐⭐⭐⭐⭐ Simon Willison Linear Walkthroughs |
+| [insight-20260428-simon-willison-code-is-cheap.md](insights/insight-20260428-simon-willison-code-is-cheap.md) | 2026-04-28 | 🆕 ⭐⭐⭐⭐ Simon Willison 代码变得廉价 |
+| [insight-20260428-simon-willison-hoard-things.md](insights/insight-20260428-simon-willison-hoard-things.md) | 2026-04-28 | 🆕 ⭐⭐⭐⭐ Simon Willison 囤积知识模式 |
+| [insight-20260428-simon-willison-better-code.md](insights/insight-20260428-simon-willison-better-code.md) | 2026-04-28 | 🆕 ⭐⭐⭐⭐ Simon Willison AI应产出更好代码 |
+| [insight-20260427-jeff-dean-tpu-story.md](insights/insight-20260427-jeff-dean-tpu-story.md) | 2026-04-27 | 🆕 ⭐⭐⭐⭐ Jeff Dean TPU诞生与极客往事 |
+| [insight-20260426-financial-product-marketing-regulations.md](insights/insight-20260426-financial-product-marketing-regulations.md) | 2026-04-26 | 🆕 金融产品网络营销管理办法解读 |
+| [insight-20260428-andrew-ng-fastest-team.md](insights/insight-20260428-andrew-ng-fastest-team.md) | 2026-04-28 | 🆕 吴恩达：最快团队人人都是产品经理 |
+| [insight-20260428-jensen-huang-dwarksesh-tpu.md](insights/insight-20260428-jensen-huang-dwarksesh-tpu.md) | 2026-04-28 | 🆕 ⭐⭐⭐⭐⭐ Jensen Huang×Dwarkesh TPU竞争与对华芯片 |
+| [insight-20260428-marc-andreessen-20vc.md](insights/insight-20260428-marc-andreessen-20vc.md) | 2026-04-28 | 🆕 ⭐⭐⭐⭐⭐ Marc Andreessen AI替代论100%错误 |
+| [insight-20260428-ai-three-debates.md](insights/insight-20260428-ai-three-debates.md) | 2026-04-28 | 🆕 ⭐⭐⭐⭐⭐ AI大神三大根本性分歧（136条访谈提炼） |
+| [insight-20260428-xiaohongshu-data-architecture.md](insights/insight-20260428-xiaohongshu-data-architecture.md) | 2026-04-28 | 🆕 小红书数据架构演进（增量计算） |
+| [insight-20260427-attribution-analysis-case.md](insights/insight-20260427-attribution-analysis-case.md) | 2026-04-27 | 归因分析案例 |
 | [insight-20260409-openclaw-11-person-team.md](insights/insight-20260409-openclaw-11-person-team.md) | 2026-04-09 | OpenClaw团队协作 |
 | [insight-20260409-agentic-ai-aws.md](insights/insight-20260409-agentic-ai-aws.md) | 2026-04-09 | AWS Agentic AI |
 | [insight-20260409-data-governance.md](insights/insight-20260409-data-governance.md) | 2026-04-09 | 数据治理 |
@@ -305,7 +322,7 @@
 
 | 日期 | 更新内容 |
 |------|---------|
-| 2026-04-19 | 新增13个Insights + 6个Sources文档（DeerFlow 2.0、Anthropic多智能体模式、AI PM工作流、PM Skills、Vibe Coding实战等） |
+| 2026-04-28 | 新增2个Insights（吴恩达：最快团队、小红书数据架构演进）+ 案例5 |
 | 2026-04-14 | AI Programming专题大扩充（11个文件）、AGENT_COLLAB_GUIDE新增托尼·斯塔克 |
 | 2026-04-13 | 新增 AGENT_COLLAB_GUIDE.md、projects/、process/ |
 | 2026-04-10 | 新增 ai-enterprise-implementation/、product-management/ |
@@ -314,5 +331,5 @@
 
 ---
 
-*最后更新: 2026-04-19*
+*最后更新: 2026-04-28*
 *维护者: 派蒙 & 尼克·弗瑞 & 钟离 & 托尼·斯塔克*

@@ -426,8 +426,16 @@ Layer 4: 事件通信协议   ── 用户点了我怎么办
 - [[insight-20260417-mitchell-ai-adoption-journey]] - Mitchell六阶段采纳模型
 - [[insight-20260417-claude-code-agent-farm]] - Claude Code Agent Farm实战
 - [[insight-20260422-card-protocol]] - 卡片式对话协议方案(淘宝)
+- [[insight-20260423-umodel-code-knowledge-graph]] - ⭐⭐⭐⭐⭐ UModel代码知识图谱（阿里云）
+- [[insight-20260428-simon-willison-subagents]] - ⭐⭐⭐⭐⭐ Subagents子代理模式
+- [[insight-20260428-simon-willison-anti-patterns]] - ⭐⭐⭐⭐⭐ Anti-patterns反模式警示
+- [[insight-20260428-simon-willison-linear-walkthroughs]] - ⭐⭐⭐⭐⭐ Linear Walkthroughs
+- [[insight-20260428-simon-willison-code-is-cheap]] - ⭐⭐⭐⭐ 代码变得廉价
+- [[insight-20260428-simon-willison-better-code]] - ⭐⭐⭐⭐ AI应产出更好代码
+- [[insight-20260428-simon-willison-hoard-things]] - ⭐⭐⭐⭐ 囤积知识模式
+- [[insight-20260427-agent-mcp-skills-testing]] - ⭐⭐⭐⭐ Agent+MCP+Skills重构自动化测试
 
 ---
 
-*最后更新: 2026-04-16*
+*最后更新: 2026-04-28*
 *维护者: 尼克·弗瑞*
