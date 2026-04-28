@@ -259,6 +259,7 @@
 | [insight-20260427-github-pm-portfolio-cases.md](insights/insight-20260427-github-pm-portfolio-cases.md) | 2026-04-27 | GitHub PM作品集标杆案例 🆕 |
 | [insight-20260427-leo-cdp-framework-analysis.md](insights/insight-20260427-leo-cdp-framework-analysis.md) | 2026-04-27 | LEO CDP Framework深度分析 🆕 |
 | [insight-20260427-attribution-analysis-case.md](insights/insight-20260427-attribution-analysis-case.md) | 2026-04-27 | 归因分析Portfolio案例解析 🆕 |
+| [insight-20260429-huisuan-sql-agent.md](insights/insight-20260429-huisuan-sql-agent.md) | 2026-04-29 | 多Agent Text2SQL 企业级ChatBI实现路径 🆕 |
 ... (共40+个洞察页) |
 
 ---
