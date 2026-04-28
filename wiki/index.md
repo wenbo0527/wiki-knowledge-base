@@ -210,6 +210,7 @@
 | [insight-20260427-jeff-dean-tpu-story.md](insights/insight-20260427-jeff-dean-tpu-story.md) | 2026-04-27 | 🆕 ⭐⭐⭐⭐ Jeff Dean TPU诞生与极客往事 |
 | [insight-20260426-financial-product-marketing-regulations.md](insights/insight-20260426-financial-product-marketing-regulations.md) | 2026-04-26 | 🆕 金融产品网络营销管理办法解读 |
 | [insight-20260428-andrew-ng-fastest-team.md](insights/insight-20260428-andrew-ng-fastest-team.md) | 2026-04-28 | 🆕 吴恩达：最快团队人人都是产品经理 |
+| [insight-20260425-zhangxiaojun-luofuli-ai-paradigm.md](insights/insight-20260425-zhangxiaojun-luofuli-ai-paradigm.md) | 2026-04-25 | ⚠️ 张小珺×罗福莉——AI范式已然巨变（仅摘要） |
 | [insight-20260428-jensen-huang-dwarksesh-tpu.md](insights/insight-20260428-jensen-huang-dwarksesh-tpu.md) | 2026-04-28 | 🆕 ⭐⭐⭐⭐⭐ Jensen Huang×Dwarkesh TPU竞争与对华芯片 |
 | [insight-20260428-marc-andreessen-20vc.md](insights/insight-20260428-marc-andreessen-20vc.md) | 2026-04-28 | 🆕 ⭐⭐⭐⭐⭐ Marc Andreessen AI替代论100%错误 |
 | [insight-20260428-ai-three-debates.md](insights/insight-20260428-ai-three-debates.md) | 2026-04-28 | 🆕 ⭐⭐⭐⭐⭐ AI大神三大根本性分歧（136条访谈提炼） |
