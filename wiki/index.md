@@ -261,6 +261,7 @@
 | [insight-20260427-attribution-analysis-case.md](insights/insight-20260427-attribution-analysis-case.md) | 2026-04-27 | 归因分析Portfolio案例解析 🆕 |
 | [insight-20260429-huisuan-sql-agent.md](insights/insight-20260429-huisuan-sql-agent.md) | 2026-04-29 | 多Agent Text2SQL 企业级ChatBI实现路径 🆕 |
 | [insight-20260429-playwright-claude-code-testing.md](insights/insight-20260429-playwright-claude-code-testing.md) | 2026-04-29 | Playwright CLI×Claude Code自动化测试实战 ⭐⭐⭐⭐ |
+| [insight-20260429-playwright-cli-skills-uitesting.md](insights/insight-20260429-playwright-cli-skills-uitesting.md) | 2026-04-29 | Playwright CLI+Skills无障碍树方案 ⭐⭐⭐ |
 ... (共40+个洞察页) |
 
 ---
