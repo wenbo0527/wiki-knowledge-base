@@ -55,6 +55,11 @@
 |------|------|------|
 | [a-share.md](entities/markets/a-share.md) | A股市场 | 2026-04-08 |
 
+**agents/** (Agent评估)
+| 页面 | 说明 | 更新 |
+|------|------|------|
+| [zhongli-evaluation.md](entities/agents/zhongli-evaluation.md) | 钟离八角能力评估 | 2026-04-29 |
+
 **people/** (人物)
 | 页面 | 说明 | 更新 |
 |------|------|------|
