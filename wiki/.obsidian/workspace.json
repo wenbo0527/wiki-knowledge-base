@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topics/ai-native/business-world-model/causal-inference/README.md",
+                "file": "concepts/llm-wiki-pattern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "llm-wiki-pattern"
             }
           }
         ]
@@ -185,6 +185,17 @@
   },
   "active": "ea660dad63ea971f",
   "lastOpenFiles": [
+    "process/doc-code-review-mechanism.md",
+    "process/daily-question-bank.md",
+    "process/content-quality-control.md",
+    "concepts/llm-wiki-pattern.md",
+    "entities/people/karpathy.md",
+    "topics/knowledge-management/README.md",
+    "topics/knowledge-management.md",
+    "topics/knowledge-management/personal/README.md",
+    "topics/knowledge-management/personal/note-taking-systems.md",
+    "topics/knowledge-management/personal/ai-pkm-workflow.md",
+    "topics/ai-native/business-world-model/causal-inference/README.md",
     "topics/ai-native/ai-persona-training/insight-20260414-ai-persona-training.md",
     "topics/ai-enterprise-implementation/enterprise-ai-implementation.md",
     "topics/ai-data-query/ai-data-query-wrenai-analysis.md",
@@ -200,17 +211,6 @@
     "topics/algorithms/causal-inference/core-theory.md",
     "topics/algorithms/causal-inference/case-practices.md",
     "topics/algorithms/causal-inference/applications.md",
-    "topics/algorithms/machine-learning/ensemble-learning.md",
-    "topics/algorithms/machine-learning/deep-learning-basics.md",
-    "topics/algorithms/machine-learning/model-evaluation.md",
-    "topics/algorithms/machine-learning/supervised-learning.md",
-    "topics/analysis-frameworks/10-analysis-models.md",
-    "topics/algorithms/causal-inference/README.md",
-    "topics/fintech/compliance.md",
-    "topics/fintech/data-platform.md",
-    "insights/fintech/data-platform/insight-20260408-data-asset.md",
-    "topics/fintech/product-solutions/README.md",
-    "topics/fintech/marketing-suite.md",
     "business-world-model"
   ]
 }
