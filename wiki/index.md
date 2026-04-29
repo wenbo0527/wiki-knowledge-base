@@ -60,6 +60,7 @@
 |------|------|------|
 | [zhongli-evaluation.md](entities/agents/zhongli-evaluation.md) | 钟离八角能力评估 | 2026-04-29 |
 | [tony-stark-evaluation.md](entities/agents/tony-stark-evaluation.md) | 托尼七角能力评估 | 2026-04-29 |
+| [nick-fury-self-evaluation.md](entities/agents/nick-fury-self-evaluation.md) | 尼克自评（七角） | 2026-04-29 |
 
 **people/** (人物)
 | 页面 | 说明 | 更新 |
