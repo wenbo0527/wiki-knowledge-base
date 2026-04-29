@@ -130,3 +130,29 @@
 
 *🕵️ 情报分析师：尼克·弗瑞*
 *最后更新：2026-04-14*
+
+## 自主研究框架 🆕 2026-04-30
+
+**Karpathy Autoresearch - 单GPU自动化研究实验**
+
+- 📝 [Insight: Karpathy Autoresearch](../insights/insight-20260430-karpathy-autoresearch.md)
+
+**核心理念**：AI Agent自主修改→训练→验证→保留/丢弃循环，5分钟/次，睡一觉跑~100次实验
+
+---
+
+## 相关Insights
+
+- Insight: MuleRun陈宇森：Vibe Coding与Agent创作新范式 (20260429)
+- Insight: Andre Karpathy亲述AI代理革命的范式转变 (20260429)
+- 💡 Insight: AI驱动的敏捷项目管理趋势 (2026-04-28)
+- 💡 Insight: BMAD方法论 - AI驱动的敏捷开发框架 (2026-04-28)
+- Insight: 18岁AI先锋金豪：主动式AI、记忆系统与模型人格 (20260429)
+- 💡 Insight: DeerFlow 2.0 - ByteDance开源Super Agent Harness (2026-04-28)
+- 洞察：Playwright CLI + Skills UI自动化测试 — 无障碍树方案 (20260429)
+- 洞察：Playwright CLI × Claude Code 企业级自动化测试实践 (20260429)
+- Insight: Boris Churnney：Claude Code技术与代码审查新范式 (20260429)
+- Everything Claude Code (ECC) 项目研究报告 (20260429)
+- 研究报告：提升代码Agent现有项目理解能力 (20260429)
+- Insight: Claude Code创建者亲述"后编程时代"工作方式 (20260429)
+- Insight: Karpathy Autoresearch - 单GPU自动化研究框架 (20260430) 🆕

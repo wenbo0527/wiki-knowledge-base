@@ -1,5 +1,6 @@
 # 🕵️ 尼克·弗瑞知识维基
 
+- [2026-W18] 本周洞察 (2026-04-22~2026-04-29)
 > 多Agent协作知识库 - 派蒙（总协调）🤝 尼克·弗瑞（情报）🤝 钟离（技术）🤝 托尼·斯塔克（产品）
 
 ---
@@ -80,6 +81,7 @@
 | [good-questioning.md](concepts/good-questioning.md) | 提问方法论 | 2026-04-08 |
 | [scqa-framework.md](concepts/scqa-framework.md) | SCQA框架 | 2026-04-08 |
 | [agent-seven-corners-model.md](concepts/agent-seven-corners-model.md) | Agent七角能力评估 | 2026-04-29 |
+| [openclaw-capability-framework.md](concepts/openclaw-capability-framework.md) | **OpenClaw能力框架 ⭐** | 2026-04-29 |
 | [karpathy-coding-guidelines.md](concepts/karpathy-coding-guidelines.md) | Karpathy编码指南 | 2026-04-15 |
 
 ---
@@ -209,6 +211,7 @@
 
 | 页面 | 日期 | 说明 |
 |------|------|------|
+| [insight-20260430-karpathy-autoresearch.md](insights/insight-20260430-karpathy-autoresearch.md) | 2026-04-30 | 🆕 ⭐⭐⭐⭐⭐ Karpathy Autoresearch 单GPU自动化研究框架 |
 | [insight-20260428-simon-willison-anti-patterns.md](insights/insight-20260428-simon-willison-anti-patterns.md) | 2026-04-28 | 🆕 ⭐⭐⭐⭐⭐ Simon Willison Anti-patterns 反模式警示 |
 | [insight-20260428-simon-willison-subagents.md](insights/insight-20260428-simon-willison-subagents.md) | 2026-04-28 | 🆕 ⭐⭐⭐⭐⭐ Simon Willison Subagents 子代理模式 |
 | [insight-20260428-simon-willison-linear-walkthroughs.md](insights/insight-20260428-simon-willison-linear-walkthroughs.md) | 2026-04-28 | 🆕 ⭐⭐⭐⭐⭐ Simon Willison Linear Walkthroughs |
