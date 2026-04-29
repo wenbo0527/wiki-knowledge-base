@@ -72,6 +72,7 @@
 | [llm-agent.md](concepts/llm-agent.md) | LLM Agent | 2026-04-08 |
 | [good-questioning.md](concepts/good-questioning.md) | 提问方法论 | 2026-04-08 |
 | [scqa-framework.md](concepts/scqa-framework.md) | SCQA框架 | 2026-04-08 |
+| [agent-seven-corners-model.md](concepts/agent-seven-corners-model.md) | Agent七角能力评估 | 2026-04-29 |
 | [karpathy-coding-guidelines.md](concepts/karpathy-coding-guidelines.md) | Karpathy编码指南 | 2026-04-15 |
 
 ---
