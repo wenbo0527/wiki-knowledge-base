@@ -394,6 +394,7 @@ grep "ingest" log.md | wc -l        # Ingest 统计
 | v1.0 | 2026-04-16 | 初始版本，整合 ingest/lint 流程 | 尼克·弗瑞 |
 | v1.1 | 2026-04-17 | 同步统计口径，添加托尼·斯塔克，更新Epics统计 | 尼克·弗瑞 |
 | **v2.0** | 2026-04-17 | **双层结构重写，新增Query答案沉淀、矛盾标记、增量更新机制** | 尼克·弗瑞 |
+| **v2.1** | 2026-04-30 | **新增code-examples代码示例库准入标准、tools工具原型准入标准** | 尼克·弗瑞 |
 
 ---
 
@@ -415,6 +416,12 @@ Wiki/
 │   │   ├── markets/
 │   │   └── people/
 │   ├── concepts/                   # 概念定义
+│   ├── code-examples/               # 代码示例库（Simon Willison理念）
+│   │   ├── CODE_EXAMPLES_STANDARDS.md  # 准入标准 ⭐
+│   │   └── {category}/
+│   ├── tools/                      # 工具原型
+│   │   ├── TOOLS_STANDARDS.md          # 准入标准 ⭐
+│   │   └── {category}/
 │   ├── projects/                   # 项目跟踪
 │   ├── process/                    # 流程规范
 │   │   ├── WIKI_MANAGEMENT_RULES.md  # 本文档 ⭐
@@ -468,5 +475,40 @@ insight-{date}-query-{slug}.md
 *情报是决策的基础。我不收集信息，我生产洞察。*
 
 *维护者：尼克·弗瑞 🕵️ | 协调者：派蒙 🤝*
-*最后更新：2026-04-17*
-*版本：v2.0*
+*最后更新：2026-04-30*
+*版本：v2.1*
+
+---
+
+## 📋 附录：Code Examples & Tools 准入标准
+
+### A4. Code Examples 代码示例库
+
+详见: [code-examples/CODE_EXAMPLES_STANDARDS.md](code-examples/CODE_EXAMPLES_STANDARDS.md)
+
+| 准入条件 | 说明 |
+|----------|------|
+| ✅ 可运行 | 有完整的依赖声明和main函数 |
+| ✅ 有来源 | 标注来源Insight |
+| ✅ 最小化 | 聚焦单一概念，≤300行 |
+| ✅ 自文档化 | 有清晰注释和README |
+| ✅ 有输出示例 | 展示运行效果 |
+
+**入库门槛**: ⭐⭐⭐ (3星) 及以上
+
+### A5. Tools 工具原型
+
+详见: [tools/TOOLS_STANDARDS.md](tools/TOOLS_STANDARDS.md)
+
+| 准入条件 | 说明 |
+|----------|------|
+| ✅ 实际使用 | 尼克日常在用的工具 |
+| ✅ 可执行 | 有完整的运行脚本 |
+| ✅ 有输出 | 能产生实际结果 |
+| ✅ 有文档 | 有README或docstring |
+
+| 状态 | 标识 | 说明 |
+|------|------|------|
+| 稳定 | ✅ | 核心功能完成，稳定运行 |
+| 实验 | 🟡 | 功能待验证 |
+| 废弃 | ❌ | 不再使用 |
