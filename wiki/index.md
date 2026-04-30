@@ -212,6 +212,11 @@
 | 页面 | 日期 | 说明 |
 |------|------|------|
 | [insight-20260430-karpathy-autoresearch.md](insights/insight-20260430-karpathy-autoresearch.md) | 2026-04-30 | 🆕 ⭐⭐⭐⭐⭐ Karpathy Autoresearch 单GPU自动化研究框架 |
+| [insight-20260430-multi-agent-architecture-guide.md](insights/insight-20260430-multi-agent-architecture-guide.md) | 2026-04-30 | 🆕 ⭐⭐⭐⭐⭐ 多智能体架构设计指南 - Sub-Agent vs Agent Team |
+| [insight-20260430-claude-code-subagents.md](insights/insight-20260430-claude-code-subagents.md) | 2026-04-30 | 🆕 ⭐⭐⭐⭐⭐ Claude Code Subagents深度解析 - 上下文卫生管理 |
+| [insight-20260430-graph-memory-agent.md](insights/insight-20260430-graph-memory-agent.md) | 2026-04-30 | 🆕 ⭐⭐⭐⭐⭐ 基于图的智能体记忆技术 |
+| [insight-20260430-agent-harness-context-management.md](insights/insight-20260430-agent-harness-context-management.md) | 2026-04-30 | 🆕 ⭐⭐⭐⭐ Agent Harness上下文管理 - Working Set范式 |
+| [insight-20260430-agent-product-design.md](insights/insight-20260430-agent-product-design.md) | 2026-04-30 | 🆕 ⭐⭐⭐⭐ 为Agent设计产品 - 从界面工具到运行底座 |
 | [insight-20260428-simon-willison-anti-patterns.md](insights/insight-20260428-simon-willison-anti-patterns.md) | 2026-04-28 | 🆕 ⭐⭐⭐⭐⭐ Simon Willison Anti-patterns 反模式警示 |
 | [insight-20260428-simon-willison-subagents.md](insights/insight-20260428-simon-willison-subagents.md) | 2026-04-28 | 🆕 ⭐⭐⭐⭐⭐ Simon Willison Subagents 子代理模式 |
 | [insight-20260428-simon-willison-linear-walkthroughs.md](insights/insight-20260428-simon-willison-linear-walkthroughs.md) | 2026-04-28 | 🆕 ⭐⭐⭐⭐⭐ Simon Willison Linear Walkthroughs |
