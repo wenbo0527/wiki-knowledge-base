@@ -83,6 +83,9 @@
 | **Topic** | 主题（一级分类） | `fintech/` | 按领域划分 |
 | **Insight** | 洞察（分析报告） | `insight-20260428-*.md` | 按时间+主题 |
 | **Process** | 流程（规范/SOP） | `doc-code-review-mechanism.md` | 可执行性 |
+| **Template** | 文档模板 | `templates/PD-产品域说明文档.md` | 可复用文档结构 |
+| **Code Example** | 代码样例 | `code-examples/subagent-patterns/` | 可运行代码实现 |
+| **Tool** | 工具原型 | `tools/wiki_lint.py` | 实际工作工具 |
 
 ### 2.2 页面命名规范
 
@@ -93,6 +96,9 @@
 | **Topic** | ` kebab-case/` | `ai-programming/` |
 | **Insight** | `insight-YYYYMMDD-关键词.md` | `insight-20260428-simon-willison.md` |
 | **Process** | `动名词-名称.md` | `doc-code-review-mechanism.md` |
+| **Template** | `{分类代码}-{名称}.md` | `PD-产品域说明文档.md` |
+| **Code Example** | `{category}/example-name.py` | `multi-agent-routing/router.py` |
+| **Tool** | `{category}/tool-name.py` | `wiki-maintenance/wiki_lint.py` |
 
 ### 2.3 归类决策树
 
@@ -185,6 +191,18 @@ Wiki/
 │   └── product-management/
 ├── insights/          ← 洞察页（分析报告）
 ├── process/            ← 流程页（SOP/规范）
+├── code-examples/       ← 代码示例库（可运行代码）
+│   ├── concepts/       ← 从Insights转化
+│   ├── products/       ← Tony贡献
+│   └── backend/       ← Zhongli贡献
+├── templates/           ← 文档模板库
+│   ├── products/       ← 产品文档模板
+│   ├── technical/     ← 技术文档模板
+│   ├── logs/          ← 日志类模板
+│   └── checklists/     ← 检查清单模板
+├── tools/              ← 工具原型
+│   ├── wiki-maintenance/
+│   └── source-evaluation/
 ├── sources/           ← 源数据（原始资料）
 └── index.md           ← 总索引
 ```
@@ -267,8 +285,8 @@ Wiki/
 
 ---
 
-**版本**: v1.0
+**版本**: v2.0
 **创建时间**: 2026-04-28
 **维护者**: 尼克·弗瑞
-**下次审查**: 2026-05-01
+**下次审查**: 2026-07-01
 

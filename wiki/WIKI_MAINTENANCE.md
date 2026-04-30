@@ -7,13 +7,15 @@
 ## 元信息
 
 - **创建时间**: 2026-04-24
+- **更新时间**: 2026-04-30
 - **维护者**: 尼克·弗瑞
+- **版本**: v2.0
 - **类型**: process
 - **标签**: #wiki #maintenance #governance
 
 ---
 
-## 一、维护原则
+## 一，维护原则
 
 ### 核心原则
 
@@ -28,11 +30,13 @@
 
 ## 二、角色与职责
 
-| 角色 | 职责 |
-|------|------|
-| **知识库Owner** | 整体规划、标准制定、重大决策 |
-| **专题维护者** | 各专题的内容更新、质量把控 |
-| **贡献者** | 按需添加/修改内容 |
+| 角色 | 职责 | 范围 |
+|------|------|------|
+| **知识库Owner** | 整体规划、标准制定、重大决策 | 全部 |
+| **专题维护者** | 各专题的内容更新、质量把控 | topics/ |
+| **模板维护者** | Templates创建、评价、更新 | templates/ |
+| **代码样例维护者** | Code Examples创建、评价、更新 | code-examples/ |
+| **贡献者** | 按需添加/修改内容 | 全部 |
 
 ---
 
@@ -46,7 +50,7 @@
 ---
 title: 文档标题
 created: 2026-04-24
-updated: 2026-04-24
+updated: 2026-04-30
 owner: 维护者名称
 type: article/concept/reference
 tags: #tag1 #tag2
@@ -91,17 +95,36 @@ wiki/topics/ai-native/business-world-model/jd-pricing-practice/README.md
 
 ---
 
-## 四、保鲜机制
+## 四、知识库概览
 
-### 4.1 定期评审日历
+| 类型 | 数量 | 说明 |
+|------|------|------|
+| **Insights** | 68+个 | 洞察输出（观点、分析、趋势判断） |
+| **Topics** | 20+个 | 专题深度研究 |
+| **Entities** | 20+个 | 实体档案（公司、产品、人物） |
+| **Concepts** | 7个 | 概念定义 |
+| **Code Examples** | 5+个 | 代码示例（多智能体/上下文/图记忆） |
+| **Templates** | 15个 | 文档模板（产品/技术/日志/检查清单） |
+| **Tools** | 2个 | 工具原型（Wiki维护/源评估） |
+| **Epics** | 32+个 | 需求史诗文档 |
+
+**存储位置**: `/Users/wenbo/Documents/project/Wiki/wiki/`
+
+---
+
+## 五、保鲜机制
+
+### 5.1 定期评审日历
 
 | 评审类型 | 频率 | 时间 | 负责人 |
 |----------|------|------|--------|
 | 专题Review | 每季度 | 季度末 | 专题维护者 |
+| Templates评价 | 每季度 | 季度末 | 模板维护者 |
+| Code Examples评价 | 每季度 | 季度末 | 代码样例维护者 |
 | 全库Audit | 每半年 | 6月/12月 | 知识库Owner |
 | 过期内容清理 | 每月 | 每月最后一周 | 自动+人工 |
 
-### 4.2 保鲜规则
+### 5.2 保鲜规则
 
 | 规则 | 说明 | 触发条件 |
 |------|------|----------|
@@ -110,7 +133,7 @@ wiki/topics/ai-native/business-world-model/jd-pricing-practice/README.md
 | **过时标记** | 1年未更新标记 | 时间戳判断 |
 | **自动归档** | 2年未更新移至Archive | 时间戳判断 |
 
-### 4.3 知识生命周期
+### 5.3 知识生命周期
 
 ```
 创建 → 发布 → 维护 → 评审 → 归档/删除
@@ -121,9 +144,9 @@ wiki/topics/ai-native/business-world-model/jd-pricing-practice/README.md
 
 ---
 
-## 五、质量标准
+## 六、质量标准
 
-### 5.1 文档质量检查清单
+### 6.1 文档质量检查清单
 
 - [ ] 有完整的元信息头部
 - [ ] 有清晰的标题和简介
@@ -132,7 +155,7 @@ wiki/topics/ai-native/business-world-model/jd-pricing-practice/README.md
 - [ ] 有更新日志记录
 - [ ] 无拼写错误和格式问题
 
-### 5.2 专题质量标准
+### 6.2 专题质量标准
 
 每个专题目录应包含：
 
@@ -142,11 +165,43 @@ wiki/topics/ai-native/business-world-model/jd-pricing-practice/README.md
 | `*.md` | 至少3篇 | 有实质内容的文档 |
 | 更新日志 | 必须 | 记录专题的重要变更 |
 
+### 6.3 Templates质量评价（四维模型）
+
+详见: [templates/TEMPLATE_EVALUATION.md](templates/TEMPLATE_EVALUATION.md)
+
+| 维度 | 权重 | 说明 |
+|:---|:---:|:---:|
+| 完整性 | 30% | 元信息/章节/变更记录/使用说明 |
+| 可用性 | 25% | 变量命名/示例/说明 |
+| 规范性 | 25% | 命名/版本/状态/分级 |
+| 实用性 | 20% | 可直接使用/产出质量 |
+
+**入库阈值**: ≥60分
+
+**状态**: 🏆≥85 | ✅60-84 | ⚠️45-59 | ❌<45
+
+### 6.4 Code Examples质量评价（六维模型）
+
+详见: [code-examples/CODE_EXAMPLES_EVALUATION.md](code-examples/CODE_EXAMPLES_EVALUATION.md)
+
+| 维度 | 权重 | 说明 |
+|:---|:---:|:---:|
+| 可运行性 | 25% | 代码能否实际执行 |
+| 可读性 | 20% | 代码是否清晰易懂 |
+| 可复用性 | 20% | 是否易于应用到其他场景 |
+| 文档完整性 | 15% | README/注释是否充分 |
+| 来源可靠性 | 10% | 来源是否可追溯 |
+| 组合价值 | 10% | 是否易于与其他样例组合 |
+
+**入库阈值**: ≥60分
+
+**状态**: 🟢≥80 | 🔵60-79 | 🟡45-59 | 🔴<45
+
 ---
 
-## 六、Git提交规范
+## 七、Git提交规范
 
-### 6.1 提交频率
+### 7.1 提交频率
 
 | 场景 | 最低频率 |
 |------|----------|
@@ -154,7 +209,7 @@ wiki/topics/ai-native/business-world-model/jd-pricing-practice/README.md
 | 大型项目 | 每功能完成1次 |
 | 紧急修复 | 完成后立即提交 |
 
-### 6.2 自动Commit机制
+### 7.2 自动Commit机制
 
 **已配置自动Commit脚本**，无需手动执行：
 
@@ -184,7 +239,7 @@ tail -f ~/.nickfury/logs/wiki_auto_commit.log
 launchctl unload /Users/wenbo/Library/LaunchAgents/com.nickfury.wiki-auto-commit.plist
 ```
 
-### 6.2 提交信息格式
+### 7.3 提交信息格式
 
 ```
 <类型>: <简短描述>
@@ -197,25 +252,26 @@ launchctl unload /Users/wenbo/Library/LaunchAgents/com.nickfury.wiki-auto-commit
 - 🗑️ 删除: 删除内容
 - 📋 管理: 配置、流程修改
 - 🔧 维护: 格式调整、修复
+- 🕵️ 情报: Insights/Templates/Code Examples更新
 ```
 
-### 6.3 示例
+### 7.4 示例
 
 ```bash
-git commit -m "📚 新增AI编程专题 - Claude Code并行开发指南
+git commit -m "🕵️ 新增Code Examples - Subagent Pattern
 
-- 添加Subagents使用指南
-- 添加Agent Teams配置
-- 添加Git Worktree工作流
+- 添加子智能体调度器实现
+- 添加六角评价模型
+- 更新README索引
 
-相关Issue: #12"
+相关: insight-20260430-claude-code-subagents"
 ```
 
 ---
 
-## 七、备份与恢复
+## 八、备份与恢复
 
-### 7.1 备份策略
+### 8.1 备份策略
 
 | 备份类型 | 频率 | 位置 | 说明 |
 |----------|------|------|------|
@@ -223,7 +279,7 @@ git commit -m "📚 新增AI编程专题 - Claude Code并行开发指南
 | 本地Time Machine | 每日 | 本地硬盘 | 快速恢复 |
 | 关键节点备份 | 按需 | 外置硬盘 | 极端情况 |
 
-### 7.2 恢复流程
+### 8.2 恢复流程
 
 ```bash
 # 从Git恢复
@@ -237,7 +293,7 @@ git log --oneline
 
 ---
 
-## 八、问题诊断
+## 九、问题诊断
 
 ### 常见问题与解决
 
@@ -250,14 +306,30 @@ git log --oneline
 
 ---
 
-## 九、附录
+## 十、附录
 
-### 9.1 自动化工具
+### 10.1 相关文档
+
+- [WIKI_MANAGEMENT_RULES.md](./WIKI_MANAGEMENT_RULES.md) - 管理细则（v2.3）
+- [WIKI_PRINCIPLES.md](./WIKI_PRINCIPLES.md) - 管理原则
+- [templates/TEMPLATE_EVALUATION.md](./templates/TEMPLATE_EVALUATION.md) - Templates评价体系
+- [code-examples/CODE_EXAMPLES_EVALUATION.md](./code-examples/CODE_EXAMPLES_EVALUATION.md) - Code Examples评价体系
+
+### 10.2 评价体系概览
+
+| 体系 | 评估对象 | 维度 | 入库阈值 |
+|:---|:---|:---:|:---:|
+| Insights | 洞察文档 | 来源可靠性+价值评级 | ⭐⭐⭐+ |
+| Templates | 文档模板 | 四维（完整/可用/规范/实用） | ≥60分 |
+| Code Examples | 代码样例 | 六维（运行/可读/复用/文档/来源/组合） | ≥60分 |
+| Tools | 工具原型 | 状态定义（✅/🟡/❌） | 实际使用 |
+
+### 10.3 自动化工具
 
 ```bash
 # Wiki健康检查
 cd /Users/wenbo/Documents/project/Wiki
-python3 wiki/scripts/wiki_lint.py
+python3 wiki/tools/wiki-maintenance/wiki_lint.py
 
 # 检查深层目录
 find wiki -type d -depth 4 -not -path '*/.*'
@@ -268,14 +340,17 @@ find wiki/topics -mindepth 2 -type d | while read d; do
 done
 ```
 
-### 9.2 相关文档
+---
 
-- [企业Wiki架构设计](./topics/knowledge-management/enterprise/wiki-architecture.md)
-- [知识治理与权限](./topics/knowledge-management/enterprise/governance.md)
-- [AI驱动的企业知识库](./topics/knowledge-management/enterprise/ai-knowledge-base.md)
+## 版本历史
+
+| 版本 | 日期 | 更新内容 | 更新人 |
+|:---:|:---|:---|:---:|
+| v1.0 | 2026-04-24 | 初始版本 | 尼克·弗瑞 |
+| v2.0 | 2026-04-30 | 新增Templates/Code Examples评价体系、知识库概览更新 | 尼克·弗瑞 |
 
 ---
 
-*最后更新: 2026-04-24*
+*最后更新: 2026-04-30*
 *维护者: 尼克·弗瑞*
-*下次评审: 2026-07-24*
+*下次评审: 2026-07-01*
