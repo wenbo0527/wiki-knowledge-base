@@ -80,9 +80,9 @@ ai-enterprise-implementation/
 
 ### 相关Insights
 
-- [Harness Engineering](../../insights/insight-20260419-harness-engineering.md) - AI工程框架
-- [Agent Design Patterns](../../insights/insight-20260419-harness-agent.md) - Agent设计模式
+- Insight: Claude Code Subagents深度解析 - 上下文卫生管理 (20260430)
 
+<!-- 自动关联的insights将在这里列出 -->
 ---
 
 ## 维护日志

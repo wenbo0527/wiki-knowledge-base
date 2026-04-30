@@ -294,6 +294,31 @@
 
 ---
 
+### code-examples/ (代码示例库) 🆕 2026-04-30
+
+> "运行代码 > 理论知识" - Simon Willison
+
+| 目录 | 内容 | 来源Insight |
+|------|------|-----------|
+| [subagent-patterns/](code-examples/subagent-patterns/) | 子智能体调度器 | insight-20260430-claude-code-subagents |
+| [multi-agent-routing/](code-examples/multi-agent-routing/) | 多智能体路由决策 | insight-20260430-multi-agent-architecture-guide |
+| [graph-memory/](code-examples/graph-memory/) | 图记忆基础实现 | insight-20260430-graph-memory-agent |
+| [context-management/](code-examples/context-management/) | 上下文分层管理 | insight-20260430-agent-harness-context-management |
+| [harness-engineering/](code-examples/harness-engineering/) | Harness核心实现 | insight-20260419-harness-engineering |
+
+---
+
+### tools/ (工具原型) 🆕 2026-04-30
+
+> 展示AI Agent能力边界，供组合参考
+
+| 工具 | 功能 | 状态 |
+|------|------|------|
+| [wiki_lint.py](tools/wiki-maintenance/wiki_lint.py) | Wiki链接健康检查 | ✅ |
+| [source_evaluator.py](tools/source-evaluation/source_evaluator.py) | 信息源质量评估 | ✅ |
+
+---
+
 ### sources/ (原始资料库) 🆕 2026-04-19
 
 | 页面 | 日期 | 说明 |

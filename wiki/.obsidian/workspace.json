@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concepts/llm-wiki-pattern.md",
+                "file": "insights/insight-20260428-simon-willison-linear-walkthroughs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "llm-wiki-pattern"
+              "title": "insight-20260428-simon-willison-linear-walkthroughs"
             }
           }
         ]
@@ -185,10 +185,20 @@
   },
   "active": "ea660dad63ea971f",
   "lastOpenFiles": [
+    "insights/insight-20260428-simon-willison-hoard-things.md",
+    "insights/insight-20260428-simon-willison-code-is-cheap.md",
+    "insights/insight-20260428-simon-willison-better-code.md",
+    "insights/insight-20260428-simon-willison-anti-patterns.md",
+    "insights/insight-20260428-andrew-ng-fastest-team.md",
+    "concepts/llm-wiki-pattern.md",
+    "concepts/llm-agent.md",
+    "concepts/karpathy-coding-guidelines.md",
+    "concepts/good-questioning.md",
+    "concepts/ai-llm.md",
+    "topics/ai-native/ai-persona-training/insight-20260414-ai-persona-training.md",
     "process/doc-code-review-mechanism.md",
     "process/daily-question-bank.md",
     "process/content-quality-control.md",
-    "concepts/llm-wiki-pattern.md",
     "entities/people/karpathy.md",
     "topics/knowledge-management/README.md",
     "topics/knowledge-management.md",
@@ -196,21 +206,11 @@
     "topics/knowledge-management/personal/note-taking-systems.md",
     "topics/knowledge-management/personal/ai-pkm-workflow.md",
     "topics/ai-native/business-world-model/causal-inference/README.md",
-    "topics/ai-native/ai-persona-training/insight-20260414-ai-persona-training.md",
     "topics/ai-enterprise-implementation/enterprise-ai-implementation.md",
     "topics/ai-data-query/ai-data-query-wrenai-analysis.md",
     "topics/ai-data-query/ai-data-query-sql-generator.md",
     "topics/ai-data-query/ai-data-query-semantic-layer.md",
     "topics/ai-data-query/ai-data-query-result-explanation.md",
-    "topics/ai-data-query/ai-data-query-interactive.md",
-    "topics/ai-data-query/ai-data-query-intent.md",
-    "topics/ai-data-query/ai-data-query-execution.md",
-    "topics/ai-data-query/ai-data-query-components-oss.md",
-    "topics/ai-data-query/README.md",
-    "topics/algorithms/causal-inference/tools-implementation.md",
-    "topics/algorithms/causal-inference/core-theory.md",
-    "topics/algorithms/causal-inference/case-practices.md",
-    "topics/algorithms/causal-inference/applications.md",
     "business-world-model"
   ]
 }

@@ -32,25 +32,12 @@ ai-agent 相关内容的综合主题。
 
 ## 相关Insights
 
-- Insight: 多智能体架构设计指南 - Sub-Agent vs Agent Team (20260430) 🆕
-- Insight: Claude Code Subagents深度解析 - 上下文卫生管理 (20260430) 🆕
-- Insight: 基于图的智能体记忆技术 - Graph Memory全解析 (20260430) 🆕
-- Insight: Agent Harness上下文管理 - Working Set范式 (20260430) 🆕
-- Insight: 为Agent设计产品 - 从界面工具到运行底座 (20260430) 🆕
-- Insight: MuleRun陈宇森：Vibe Coding与Agent创作新范式 (20260429)
-- Insight: Andre Karpathy亲述AI代理革命的范式转变 (20260429)
-- Insight: 大模型AI Skill编写、评测迭代与长链路任务实践 (20260429)
-- Insight: Agent系统27种设计模式与Harness工程化 (20260429)
-- 💡 Insight: BMAD方法论 - AI驱动的敏捷开发框架 (2026-04-28)
-- Insight: 18岁AI先锋金豪：主动式AI、记忆系统与模型人格 (20260429)
-- 💡 Insight: DeerFlow 2.0 - ByteDance开源Super Agent Harness (2026-04-28)
-- 洞察：Playwright CLI + Skills UI自动化测试 — 无障碍树方案 (20260429)
-- 洞察：Playwright CLI × Claude Code 企业级自动化测试实践 (20260429)
-- Insight: Boris Churnney：Claude Code技术与代码审查新范式 (20260429)
-- Everything Claude Code (ECC) 项目研究报告 (20260429)
-- 洞察：多Agent Text2SQL 架构 — 企业级 ChatBI 的实现路径 (20260429)
-- 研究报告：提升代码Agent现有项目理解能力 (20260429)
-- Insight: Claude Code创建者亲述"后编程时代"工作方式 (20260429)
+- Insight: Agent Harness上下文管理 - 从聊天记录到工作集的范式转变 (20260430)
+- Insight: Karpathy Autoresearch - 自主AI研究框架 (20260430)
+- Insight: Claude Code Subagents深度解析 - 上下文卫生管理 (20260430)
+- Insight: 基于图的智能体记忆技术 - 架构、应用与实践框架 (20260430)
+- Insight: 为Agent设计产品 - 从"界面工具"到"运行底座"的范式转变 (20260430)
+- Insight: 多智能体架构设计指南 - 从上下文边界到协作模式 (20260430)
 
 <!-- 自动关联的insights将在这里列出 -->
 ---

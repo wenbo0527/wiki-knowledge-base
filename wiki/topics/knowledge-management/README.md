@@ -186,3 +186,10 @@ knowledge-management/
 *最后更新: 2026-04-20*  
 *维护者: 尼克·弗瑞*  
 *状态: 🚧 建设中 - 个人知识库优先*
+
+## 相关Insights
+
+- Insight: Agent系统27种设计模式与Harness工程化 (20260429)
+- 洞察：多Agent Text2SQL 架构 — 企业级 ChatBI 的实现路径 (20260429)
+
+<!-- 自动关联的insights将在这里列出 -->

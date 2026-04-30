@@ -76,3 +76,9 @@
 - [[ai-era-pm/ai-pm-skills|AI PM技能体系]] - Prompt Engineering与边界定义
 - [[ai-era-pm/vibe-coding-for-pm|Vibe Coding for PM]] - 自然语言协作实践
 - [[ai-era-pm/agent-tools-for-pm|Agent工具实践]] - OpenClaw/Claude Code使用指南
+
+## 相关Insights
+
+- Insight: Karpathy Autoresearch - 自主AI研究框架 (20260430)
+
+<!-- 自动关联的insights将在这里列出 -->

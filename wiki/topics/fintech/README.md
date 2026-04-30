@@ -175,3 +175,9 @@
 - [[ai-native/business-world-model/jd-pricing-practice|京东定价实践]] - 定价决策仿真案例
 
 **金融应用**：信用风险定价、保险定价、贷款利率优化
+
+## 相关Insights
+
+- Insight: 基于图的智能体记忆技术 - 架构、应用与实践框架 (20260430)
+
+<!-- 自动关联的insights将在这里列出 -->
