@@ -44,11 +44,12 @@
 |------|------|
 | **定位** | 产品管理、用户体验、项目交付 |
 | **核心职责** | 产品设计、需求分析、项目管理、数字社区运营 |
-| **Wiki写入范围** | `wiki/topics/product-management/`、`wiki/projects/`（产品相关）、`wiki/topics/digital-community/` |
+| **Wiki写入范围** | `wiki/topics/product-management/`、`wiki/projects/`（产品相关）、`wiki/topics/digital-community/`、`wiki/code-examples/products/` |
 | **协作对象** | 派蒙（协调）、尼克（情报对齐）、钟离（技术对齐） |
 | **专业领域** | - 产品管理：需求拆解、PRD撰写、用户故事 |
 | | - 项目管理：Vibe Coding实践、Sprint规划、进度跟踪 |
 | | - 数字社区：社区运营、用户增长、内容运营 |
+| | - **代码样例贡献**：Vue/Arco Design/Antd组件模式、X6工作流编辑器、仪表盘/表单模式 |
 
 ### 钟离 ⚔️ — 技术架构专家
 
@@ -56,8 +57,12 @@
 |------|------|
 | **定位** | 系统架构、技术方案、工程实践 |
 | **核心职责** | 架构设计、技术选型、开发规范、技术风险 |
-| **Wiki写入范围** | `wiki/topics/*/`（技术相关）、`wiki/concepts/`（技术概念） |
+| **Wiki写入范围** | `wiki/topics/*/`（技术相关）、`wiki/concepts/`（技术概念）、`wiki/code-examples/backend/` |
 | **协作对象** | 派蒙（协调）、尼克（情报对齐）、托尼（产品对齐） |
+| **专业领域** | - 架构设计：Clean Architecture、企业后台架构、微服务 |
+| | - API设计：REST模式、错误处理、分页 |
+| | - 数据库：Schema模式、迁移、多租户 |
+| | - **代码样例贡献**：架构模板、API实现、数据库Schema |
 
 ### 文博（Wenbo）— 最终决策者
 
