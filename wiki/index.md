@@ -217,6 +217,8 @@
 | [insight-20260430-graph-memory-agent.md](insights/insight-20260430-graph-memory-agent.md) | 2026-04-30 | 🆕 ⭐⭐⭐⭐⭐ 基于图的智能体记忆技术 |
 | [insight-20260430-agent-harness-context-management.md](insights/insight-20260430-agent-harness-context-management.md) | 2026-04-30 | 🆕 ⭐⭐⭐⭐ Agent Harness上下文管理 - Working Set范式 |
 | [insight-20260430-agent-product-design.md](insights/insight-20260430-agent-product-design.md) | 2026-04-30 | 🆕 ⭐⭐⭐⭐ 为Agent设计产品 - 从界面工具到运行底座 |
+| [insight-20260430-ai-pm-scenario-methodology.md](insights/insight-20260430-ai-pm-scenario-methodology.md) | 2026-04-30 | AI产品经理场景识别方法论 |
+| [insight-20260430-openclaw-config-best-practices.md](insights/insight-20260430-openclaw-config-best-practices.md) | 2026-04-30 | 🆕 ⭐⭐⭐⭐⭐ OpenClaw配置文件最佳实践（七剑文件体系） |
 | [insight-20260428-simon-willison-anti-patterns.md](insights/insight-20260428-simon-willison-anti-patterns.md) | 2026-04-28 | 🆕 ⭐⭐⭐⭐⭐ Simon Willison Anti-patterns 反模式警示 |
 | [insight-20260428-simon-willison-subagents.md](insights/insight-20260428-simon-willison-subagents.md) | 2026-04-28 | 🆕 ⭐⭐⭐⭐⭐ Simon Willison Subagents 子代理模式 |
 | [insight-20260428-simon-willison-linear-walkthroughs.md](insights/insight-20260428-simon-willison-linear-walkthroughs.md) | 2026-04-28 | 🆕 ⭐⭐⭐⭐⭐ Simon Willison Linear Walkthroughs |
