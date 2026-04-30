@@ -12,38 +12,21 @@
 code-examples/
 ├── README.md                          ← 本文件
 ├── CODE_EXAMPLES_STANDARDS.md         ← 准入标准
-├── CODE_EXAMPLES_EVALUATION.md        ← 代码样例评价体系
+├── CODE_EXAMPLES_EVALUATION.md        ← 🆕 v2.0 质量评价体系
 ├── skills/                           ← 🆕 Skill评价
-│   └── SKILL_EVALUATION.md            ← Skill四维评价模型
+│   ├── SKILL_EVALUATION.md           ← 四维评价（自动化/使用/独特/评估）
+│   ├── SKILL_BEST_PRACTICES.md       ← 🆕 mgechev最佳实践
+│   └── SKILL_INTEGRATION_ANALYSIS.md ← Skill整合分析
 ├── concepts/                          ← 从Insights转化
-│   ├── subagent-patterns/
-│   ├── multi-agent-routing/
-│   ├── graph-memory/
-│   ├── context-management/
-│   └── harness-engineering/
 ├── products/                          ← Tony贡献
 └── backend/                          ← Zhongli贡献
 ```
 
 ---
 
-## 核心理念
-
-> **"知道某事理论上可行 ≠ 亲眼见过它实现"** — Simon Willison
-
-| 知识类型 | 价值 | 示例 |
-|----------|------|------|
-| 理论知识 | 知道可能性边界 | Architecture文档 |
-| **运行代码** | **具体实现参考** | **可运行的Python脚本** |
-| 组合模式 | 多示例组合成新方案 | Prompt模板 |
-
----
-
 ## 质量评价体系
 
-### Code Examples六维模型
-
-详见: [CODE_EXAMPLES_EVALUATION.md](CODE_EXAMPLES_EVALUATION.md)
+### Code Examples 六维模型
 
 | 维度 | 权重 |
 |:---|:---:|
@@ -54,20 +37,27 @@ code-examples/
 | 来源可靠性 | 10% |
 | 组合价值 | 10% |
 
-**入库阈值**: ≥60分
+### Skill 四维模型 v2.0
 
-### Skill四维模型
+| 维度 | 问题 | 权重 |
+|:---|:---|:---:|
+| 能自动化 | 这个Skill能自动执行吗？ | 25% |
+| 有人使用 | 最近30天被调用过几次？ | 25% |
+| 功能独特 | 有其他Skill替代吗？ | 25% |
+| 持续评估 | 能定期复审优化吗？ | 25% |
 
-详见: [skills/SKILL_EVALUATION.md](skills/SKILL_EVALUATION.md)
+---
 
-| 维度 | 权重 |
-|:---|:---:|
-| 完整性 | 30% |
-| 可用性 | 25% |
-| 规范性 | 25% |
-| 有效性 | 20% |
+## mgechev最佳实践
 
-**入库阈值**: ≥60分
+详见: [skills/SKILL_BEST_PRACTICES.md](skills/SKILL_BEST_PRACTICES.md)
+
+| 原则 | 说明 |
+|:---|:---|
+| SKILL.md < 500行 | 保持精简 |
+| 渐进式披露 | 案例移至references/ |
+| 触发词优化 | Use when + Don't use for |
+| scripts/确定性 | 重复操作脚本化 |
 
 ---
 
@@ -87,10 +77,10 @@ code-examples/
 
 | 准入条件 | 说明 |
 |----------|------|
-| ✅ SKILL.md | 主文件完整 |
-| ✅ 触发条件 | 清晰描述 |
-| ✅ 执行流程 | 步骤明确 |
-| ✅ 输出格式 | 有说明 |
+| ✅ SKILL.md < 500行 | 保持精简 |
+| ✅ 触发词优化 | 包含正例+反例 |
+| ✅ references/案例 | 案例移至目录 |
+| ✅ 目录结构 | 符合规范 |
 
 ---
 
