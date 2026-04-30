@@ -10,12 +10,19 @@
 
 ```
 code-examples/
-├── README.md                    ← 本文件
-├── multi-agent-routing/         ← 多智能体路由模式
-├── context-management/          ← 上下文管理模式
-├── graph-memory/                ← 图记忆实现
-├── subagent-patterns/           ← Subagent模式
-└── harness-engineering/         ← Harness工程化
+├── README.md                          ← 本文件
+├── CODE_EXAMPLES_STANDARDS.md         ← 准入标准
+├── CODE_EXAMPLES_EVALUATION.md        ← 代码样例评价体系
+├── skills/                           ← 🆕 Skill评价
+│   └── SKILL_EVALUATION.md            ← Skill四维评价模型
+├── concepts/                          ← 从Insights转化
+│   ├── subagent-patterns/
+│   ├── multi-agent-routing/
+│   ├── graph-memory/
+│   ├── context-management/
+│   └── harness-engineering/
+├── products/                          ← Tony贡献
+└── backend/                          ← Zhongli贡献
 ```
 
 ---
@@ -27,42 +34,63 @@ code-examples/
 | 知识类型 | 价值 | 示例 |
 |----------|------|------|
 | 理论知识 | 知道可能性边界 | Architecture文档 |
-| 运行代码 | 具体实现参考 | 可运行的Python脚本 |
+| **运行代码** | **具体实现参考** | **可运行的Python脚本** |
 | 组合模式 | 多示例组合成新方案 | Prompt模板 |
 
 ---
 
-## 代码示例原则
+## 质量评价体系
 
-### 1. 可运行性
-每个示例必须有：
-- 完整的依赖声明
-- 可执行的main函数
-- 输入/输出示例
+### Code Examples六维模型
 
-### 2. 最小化
-每个示例应该：
-- 聚焦单一概念
-- 代码量控制在100行内
-- 易于理解和修改
+详见: [CODE_EXAMPLES_EVALUATION.md](CODE_EXAMPLES_EVALUATION.md)
 
-### 3. 自文档化
-每个示例应该包含：
-- 清晰的文件头注释
-- 关键代码行注释
-- 使用说明和输出示例
+| 维度 | 权重 |
+|:---|:---:|
+| 可运行性 | 25% |
+| 可读性 | 20% |
+| 可复用性 | 20% |
+| 文档完整性 | 15% |
+| 来源可靠性 | 10% |
+| 组合价值 | 10% |
+
+**入库阈值**: ≥60分
+
+### Skill四维模型
+
+详见: [skills/SKILL_EVALUATION.md](skills/SKILL_EVALUATION.md)
+
+| 维度 | 权重 |
+|:---|:---:|
+| 完整性 | 30% |
+| 可用性 | 25% |
+| 规范性 | 25% |
+| 有效性 | 20% |
+
+**入库阈值**: ≥60分
 
 ---
 
-## 来源映射
+## 准入标准
 
-| 示例 | 来源Insight |
-|------|-----------|
-| multi-agent-routing | insight-20260430-multi-agent-architecture-guide |
-| context-management | insight-20260430-agent-harness-context-management |
-| graph-memory | insight-20260430-graph-memory-agent |
-| subagent-patterns | insight-20260430-claude-code-subagents |
-| harness-engineering | insight-20260419-harness-engineering |
+### Code Examples准入
+
+| 准入条件 | 说明 |
+|----------|------|
+| ✅ 可运行 | 有完整的依赖声明和main函数 |
+| ✅ 有来源 | 标注来源Insight |
+| ✅ 最小化 | 聚焦单一概念，≤300行 |
+| ✅ 自文档化 | 有清晰注释和README |
+| ✅ 有输出示例 | 展示运行效果 |
+
+### Skill准入
+
+| 准入条件 | 说明 |
+|----------|------|
+| ✅ SKILL.md | 主文件完整 |
+| ✅ 触发条件 | 清晰描述 |
+| ✅ 执行流程 | 步骤明确 |
+| ✅ 输出格式 | 有说明 |
 
 ---
 
