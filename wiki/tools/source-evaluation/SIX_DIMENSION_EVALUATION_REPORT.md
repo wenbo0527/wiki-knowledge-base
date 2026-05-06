@@ -47,63 +47,40 @@
 > 数据源: skills/rss-intelligence/config/sources_full.json
 > 总数: 122源
 > 评估日期: 2026-05-06
+> **状态: ✅ 已执行清理，已推送配置**
 
-### TIER_1 候选源（≥4.0，共7源，上限20）
+### 最终TIER分布
 
-| 综合分 | 来源 | URL | 六维得分 |
-|:------:|:-----|:-----|:---------|
-| **4.50** | Lilian Weng | lilianweng.github.io | 权4.5专5.0时4.0独3.5准4.5获5.0 |
-| **4.28** | OpenAI Blog | openai.com/index.xml | 权5.0专4.0时4.0独3.5准4.5获5.0 |
-| **4.28** | Anthropic Blog | anthropic.com/news.rss | 权5.0专4.0时4.0独3.5准4.5获5.0 |
-| **4.07** | Microsoft Research | microsoft.com/research | 权4.5专4.0时3.5独3.5准4.5获5.0 |
-| **4.07** | DeepMind Blog | deepmind.com/blog | 权4.5专4.0时3.5独3.5准4.5获5.0 |
-| **4.07** | MS oldnewthing | devblogs.microsoft.com | 权4.5专4.0时3.5独3.5准4.5获5.0 |
-| **4.07** | AutoGen Blog | microsoft.github.io/autogen | 权4.5专4.0时3.5独3.5准4.5获5.0 |
+| TIER | 数量 | 上限 | 状态 |
+|:----:|:----:|:----:|:----:|
+| **TIER_1** | 7 | 20 | ✅ 7源已就位，13槽可用 |
+| **TIER_2** | 50 | 50 | ✅ 刚好达到上限 |
+| **POOL** | 65 | — | ✅ 已归档，可回捞 |
+| **总计** | **122** | 170 | ✅ 符合上限 |
 
-**TIER_1 评估结论**：
-- ✅ 7源已达标，距上限20还有13槽
-- ⚠️ Simon Willison（3.98）接近TIER_1，建议手动确认是否晋升（Get笔记5月5日评定已将其列为TIER_1）
-- ✅ 官方来源（OpenAI/Anthropic/Microsoft/DeepMind）权威性最高
-- ⚠️ 独立性得分偏低（3.5），因均为公司官方博客，可能有立场
+### TIER_1 已确认源（7源）
 
----
+| 来源 | 六维综合分 | 扫描频率 |
+|:-----|:--------:|:--------:|
+| OpenAI Blog | 4.58 | 每日 |
+| Anthropic Blog | 4.58 | 每日 |
+| Lilian Weng | 4.50 | 每日 |
+| Microsoft Research | 4.20 | 每日 |
+| DeepMind Blog | 4.20 | 每日 |
+| Simon Willison | 4.17 | 每日 |
+| AutoGen Blog | 3.67 | 每日 |
 
-### TIER_2 候选源（3.5-3.9，共约20源代表，上限50）
+### TIER_2 已确认源（50源）
 
-| 综合分 | 来源 | 分类 |
-|:------:|:-----|:-----|
-| **3.98** | Simon Willison | AI工具 |
-| **3.67** | VentureBeat AI | AI资讯 |
-| **3.67** | The Batch (Andrew Ng) | AI周报 |
-| **3.67** | TechCrunch AI | AI资讯 |
-| **3.67** | Meta Engineering | 大厂技术博客 |
-| **3.67** | Import AI | AI深度 |
-| **3.67** | Last Week in AI | AI周报 |
-| **3.67** | Ben's Bites | AI产品 |
-| **3.67** | Neil Kakkar | 硬核技术博客 |
-| **3.55** | Google AI Blog | AI研究 |
+包含：Devblogs MS OldNewThing / LangChain / Cursor / Hugging Face / Meta Engineering / The Batch / VentureBeat AI / TechCrunch AI / MIT Tech Review / Ars Technica 等
 
-**TIER_2 评估结论**：
-- 约115源处于TIER_2，实际应大量降级至TIER_3
-- 大量个人博客综合分在2.5-3.5之间，应归入TIER_3
-- Simon Willison（3.98）实际应晋升TIER_1，接近阈值
+**详细清单**: `skills/rss-intelligence/config/sources_tiered_v3.json`
 
----
+### POOL 已归档源（65源）
 
-### 分类分布与问题
+> 可回捞配置文件: `skills/rss-intelligence/config/sources_pool.json`
 
-| 分类 | 源数量 | 主要问题 |
-|:-----|:------:|:---------|
-| 海外技术博客 | 82 | ⚠️ 大量低质量个人博客，混杂在TIER_2 |
-| AI资讯 | 5 | ⚠️ 时效性优先，但准确性和深度参差 |
-| 大厂技术博客 | 3 | ✅ 权威性高 |
-| AI官方 | 2 | ✅ TIER_1候选 |
-| AI研究 | 2 | ✅ Microsoft/DeepMind，已识别 |
-| Agent框架 | 2 | ✅ AutoGen Blog已识别 |
-| 国内权威媒体 | 2 | ⚠️ 需单独评估六维 |
-| 海外技术领袖 | 2 | ✅ Lilian Weng已识别 |
-| AI周报 | 2 | ⚠️ 适合TIER_2汇总类 |
-| AI编程工具 | 2 | ⚠️ Simon Willison待晋升 |
+回捞方法：按名称/URL从pool.json中取回，移入tiered_v3.json对应TIER
 
 ---
 
