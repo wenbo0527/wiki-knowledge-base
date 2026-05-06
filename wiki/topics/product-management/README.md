@@ -79,6 +79,11 @@
 
 ## 相关Insights
 
-- Insight: Karpathy Autoresearch - 自主AI研究框架 (20260430)
+- OpenClaw 配置文件最佳实践 (20260501)
+- AI产品经理场景识别方法论 (20260501)
+- AI编程工具落地指南：从"写得快"到"交付稳" (20260501)
+- OpenClaw 代码Agent配置文件最佳实践 (20260501)
+- 大型项目架构Agent与Claude Code五层架构深度解析 (20260501)
+- 13个让AI Agent能力翻倍的核心Skills (20260501)
 
 <!-- 自动关联的insights将在这里列出 -->

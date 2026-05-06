@@ -1,5 +1,6 @@
 # 🕵️ 尼克·弗瑞知识维基
 
+- [2026-W19] 本周洞察 (2026-04-27~2026-05-04)
 - [2026-W18] 本周洞察 (2026-04-22~2026-04-29)
 > 多Agent协作知识库 - 派蒙（总协调）🤝 尼克·弗瑞（情报）🤝 钟离（技术）🤝 托尼·斯塔克（产品）
 
@@ -199,6 +200,20 @@
 | personal/ | 个人知识库 | 2026-04-20 |
 | enterprise/ | 企业级知识库 | 2026-04-20 |
 
+**信息收集最佳实践** [information-collection/](topics/information-collection/) 🆕 2026-05-01
+| 页面 | 说明 | 更新 |
+|------|------|------|
+| [README.md](topics/information-collection/README.md) | **信息收集总览** ⭐ | 2026-05-01 |
+| methodologies/ | 方法论 | 2026-05-01 |
+| ├── [intelligence-cycle.md](topics/information-collection/methodologies/intelligence-cycle.md) | 情报收集周期 | 2026-05-01 |
+| └── [source-evaluation.md](topics/information-collection/methodologies/source-evaluation.md) | 来源评估体系 | 2026-05-01 |
+| cases/ | 案例研究 | 2026-05-01 |
+| ├── [researcher-systems.md](topics/information-collection/cases/researcher-systems.md) | 研究者情报系统 | 2026-05-01 |
+| ├── [investor-systems.md](topics/information-collection/cases/investor-systems.md) | 投资人情报系统 | 2026-05-01 |
+| └── [company-systems.md](topics/information-collection/cases/company-systems.md) | 公司情报系统 | 2026-05-01 |
+| practices/ | 实践指南 | 2026-05-01 |
+| └── [rss-best-practices.md](topics/information-collection/practices/rss-best-practices.md) | RSS最佳实践 | 2026-05-01 |
+
 **其他专题**
 | 页面 | 说明 | 更新 |
 |------|------|------|
@@ -211,6 +226,14 @@
 
 | 页面 | 日期 | 说明 |
 |------|------|------|
+| [insight-20260505-dingren-daily-064.md](insights/insight-20260505-dingren-daily-064.md) | 2026-05-05 | 🆕 ⭐⭐⭐⭐⭐ 盯人日报#064：最新情报汇总 |
+| [insight-20260505-zhangxiaojun-hongletong-ai-math.md](insights/insight-20260505-zhangxiaojun-hongletong-ai-math.md) | 2026-05-05 | 🆕 ⭐⭐⭐⭐⭐ 张小珺×洪乐潼：AI for Math深度访谈 |
+| [insight-20260505-dwarksesh-jensen-tpu.md](insights/insight-20260505-dwarksesh-jensen-tpu.md) | 2026-05-05 | 🆕 ⭐⭐⭐⭐⭐ Dwarkesh与黄仁勋对话：TPU竞争与供应链护城河 |
+| [insight-20260505-catwu-anthropic-team.md](insights/insight-20260505-catwu-anthropic-team.md) | 2026-05-05 | 🆕 ⭐⭐⭐⭐⭐ Cat Wu：Anthropic产品团队高效运作揭秘 |
+| [insight-20260505-luofuLi-agent-framework.md](insights/insight-20260505-luofuLi-agent-framework.md) | 2026-05-05 | 🆕 ⭐⭐⭐⭐⭐ 罗福莉访谈：AI范式已然巨变 |
+| [insight-20260505-anthropic-mythos-crisis.md](insights/insight-20260505-anthropic-mythos-crisis.md) | 2026-05-05 | 🆕 ⭐⭐⭐⭐⭐ Anthropic Mythos白宫风暴 |
+| [insight-20260505-david-silver-superintelligence.md](insights/insight-20260505-david-silver-superintelligence.md) | 2026-05-05 | 🆕 ⭐⭐⭐⭐⭐ David Silver $11亿创立超智能实验室 |
+| [insight-20260505-deepseek-nyt-analysis.md](insights/insight-20260505-deepseek-nyt-analysis.md) | 2026-05-05 | 🆕 ⭐⭐⭐⭐⭐ NYT定性DeepSeek开源之变 |
 | [insight-20260430-karpathy-autoresearch.md](insights/insight-20260430-karpathy-autoresearch.md) | 2026-04-30 | 🆕 ⭐⭐⭐⭐⭐ Karpathy Autoresearch 单GPU自动化研究框架 |
 | [insight-20260430-multi-agent-architecture-guide.md](insights/insight-20260430-multi-agent-architecture-guide.md) | 2026-04-30 | 🆕 ⭐⭐⭐⭐⭐ 多智能体架构设计指南 - Sub-Agent vs Agent Team |
 | [insight-20260430-claude-code-subagents.md](insights/insight-20260430-claude-code-subagents.md) | 2026-04-30 | 🆕 ⭐⭐⭐⭐⭐ Claude Code Subagents深度解析 - 上下文卫生管理 |

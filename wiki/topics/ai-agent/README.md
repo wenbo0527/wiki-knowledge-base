@@ -32,12 +32,16 @@ ai-agent 相关内容的综合主题。
 
 ## 相关Insights
 
-- Insight: Agent Harness上下文管理 - 从聊天记录到工作集的范式转变 (20260430)
-- Insight: Karpathy Autoresearch - 自主AI研究框架 (20260430)
-- Insight: Claude Code Subagents深度解析 - 上下文卫生管理 (20260430)
-- Insight: 基于图的智能体记忆技术 - 架构、应用与实践框架 (20260430)
-- Insight: 为Agent设计产品 - 从"界面工具"到"运行底座"的范式转变 (20260430)
-- Insight: 多智能体架构设计指南 - 从上下文边界到协作模式 (20260430)
+- OpenClaw 配置文件最佳实践 (20260501)
+- AI编程工具落地指南：从"写得快"到"交付稳" (20260501)
+- AutoResearch软件开发系统 (20260501)
+- OpenClaw 代码Agent配置文件最佳实践 (20260501)
+- Claude Code深度解析：从AI助手到可编排开发环境的进化路径 (20260501)
+- Claude Code长任务治理机制深度解析 (20260501)
+- 大型项目架构Agent与Claude Code五层架构深度解析 (20260501)
+- 13个让AI Agent能力翻倍的核心Skills (20260501)
+- Marc Andreessen：AI劳动力替代论100%错误、公司超编75% (2026-03-30)
+- DeepSeek V4深度解析：开启低成本百万上下文时代 (20260501)
 
 <!-- 自动关联的insights将在这里列出 -->
 ---

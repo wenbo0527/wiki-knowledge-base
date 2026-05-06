@@ -1,3 +1,5 @@
+> ⚠️ 本文档内容已过时（32天未更新），建议review后更新
+
 # Marc Andreessen：AI劳动力替代论100%错误、公司超编75%
 
 > **来源**: 20VC with Harry Stebbings，2026-03-30

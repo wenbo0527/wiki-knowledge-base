@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIKI_MANAGEMENT_RULES.md",
+                "file": "insights/insight-20260430-openclaw-config-best-practices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WIKI_MANAGEMENT_RULES"
+              "title": "insight-20260430-openclaw-config-best-practices"
             }
           }
         ]
@@ -185,9 +185,11 @@
   },
   "active": "ea660dad63ea971f",
   "lastOpenFiles": [
+    "insights/insight-20260430-multi-agent-architecture-guide.md",
+    "insights/insight-20260430-openclaw-config-best-practices.md",
+    "WIKI_MANAGEMENT_RULES.md",
     "WIKI_MAINTENANCE.md",
     "WIKI_PRINCIPLES.md",
-    "WIKI_MANAGEMENT_RULES.md",
     "code-examples/CODE_EXAMPLES_STANDARDS.md",
     "code-examples/harness-engineering/README.md",
     "code-examples/graph-memory/README.md",
@@ -209,8 +211,6 @@
     "process/content-quality-control.md",
     "entities/people/karpathy.md",
     "topics/knowledge-management/README.md",
-    "topics/knowledge-management.md",
-    "topics/knowledge-management/personal/README.md",
     "business-world-model"
   ]
 }

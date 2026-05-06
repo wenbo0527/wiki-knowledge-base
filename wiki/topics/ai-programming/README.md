@@ -143,8 +143,10 @@
 
 ## 相关Insights
 
-- Insight: Agent Harness上下文管理 - 从聊天记录到工作集的范式转变 (20260430)
-- Insight: Karpathy Autoresearch - 自主AI研究框架 (20260430)
-- Insight: Claude Code Subagents深度解析 - 上下文卫生管理 (20260430)
+- AI编程工具落地指南：从"写得快"到"交付稳" (20260501)
+- OpenClaw 代码Agent配置文件最佳实践 (20260501)
+- Claude Code深度解析：从AI助手到可编排开发环境的进化路径 (20260501)
+- Claude Code长任务治理机制深度解析 (20260501)
+- 大型项目架构Agent与Claude Code五层架构深度解析 (20260501)
 
 <!-- 自动关联的insights将在这里列出 -->

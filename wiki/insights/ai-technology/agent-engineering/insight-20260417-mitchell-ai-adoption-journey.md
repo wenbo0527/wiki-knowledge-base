@@ -69,11 +69,29 @@ Mitchell Hashimoto 将个人AI采纳分为六个阶段，这是业内首个完�
 
 **价值**：利用非工作时间进行AI工作，实现"warm start"。
 
+**具体任务类型**：
+1. **Deep Research Sessions**：让Agent调研特定领域，如"找出某语言所有特定许可证的库，并对每个库的生产活跃度、社会情绪做多页摘要"
+2. **Parallel Agents for Vague Ideas**：并行启动多个Agent探索模糊想法，不期待产出可交付成果，但可能在第二天发现未知的未知
+3. **Issue/PR Triage via gh CLI**：用GitHub CLI自动分类Issue和PR，只要求报告不要求回复，筛选高价值/低难度任务
+
+> **注意**：大多数Agent在半小时内完成，无需通宵跑。关键是让Agent在个人效率低谷期（下班前）启动，带来第二天"warm start"。
+
+---
+
 ### 阶段4：Outsource the Slam Dunks
 
 **核心观点**：把简单、高频、模式化的任务交给后台Agent处理。
 
 **目标**：让自己专注于需要深度思考的工作。
+
+**关键操作**：每天从夜间分类报告筛选出"Agent几乎肯定能解决好"的问题，后台逐一运行（不并行），同时自己做深度工作。
+
+**⚠️ 重要原则：关闭Agent桌面通知**
+> "Context switching is very expensive. Be in control of when YOU interrupt the agent, not the other way around."
+
+Agent不应主动打扰你。在自然工作间隙检查进度，而非被通知打断。
+
+**Skill Formation平衡**：把任务交给Agent意味着放弃该任务的技能形成，但你仍在深度工作中继续形成技能——关键是有意识地选择把哪些任务留给自己。
 
 ### 阶段5：Engineer the Harness ⭐（核心）
 
@@ -97,6 +115,12 @@ Mitchell Hashimoto 将个人AI采纳分为六个阶段，这是业内首个完�
 
 **目标**：最大化Agent利用率，实现持续价值交付。
 
+**实践状态**：目前 Mitchell 每天约10-20%的时间有后台Agent运行，正在努力提升。
+
+**与深度模型结合**：他偏好结合慢速、深思模型（如AMP的deep mode，本质是GPT-5.2-Codex），这类模型可能需要30+分钟做小改动，但产出质量很高。
+
+**核心逻辑**：不是为跑Agent而跑Agent，而是持续问自己"现在有什么任务值得委托给Agent？"并持续改善工作流和工具以创造委托任务流——这本身也是重要的工作。
+
 ---
 
 ## 🔑 核心原则总结
@@ -108,10 +132,19 @@ Mitchell Hashimoto 将个人AI采纳分为六个阶段，这是业内首个完�
 3. **任务拆分至关重要**：不要"draw the owl"（一步登天）
 4. **错必工程化**：每次错误都要形成系统改进，不能只是修复表面
 5. **约束产生效率**：明确的边界让Agent更快收敛
+6. **主动委托**：持续问有什么可以委托，而非等有明确任务才跑Agent
 
 ### 对模型能力的态度
 
 > "现代编程模型（如Opus、Codex）专门训练过偏向使用工具，这不同于对话模型。由于模型创新速度快，需要不断重新评估这一判断。"
+
+### ⚠️ 对Junior开发者的警示
+
+Mitchell 在脚注中特别提到：
+
+> "The skill formation issues particularly in juniors without a strong grasp of fundamentals deeply worries me, however."
+
+**含义**：如果初级开发者没有扎实的 fundamentals 就大量依赖Agent，会导致技能形成障碍——他们无法判断Agent输出的质量，也无法在Agent失败时独立修正。这是一个需要正视的结构性风险。
 
 ---
 
@@ -132,5 +165,6 @@ Mitchell Hashimoto 将个人AI采纳分为六个阶段，这是业内首个完�
 ---
 
 *维护者：尼克·弗瑞*
+*深化补充：2026-05-04*
 *整理时间：2026-04-17*
 *来源：Mitchell Hashimoto 博客*

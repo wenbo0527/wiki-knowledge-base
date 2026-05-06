@@ -189,7 +189,7 @@ knowledge-management/
 
 ## 相关Insights
 
-- Insight: Agent系统27种设计模式与Harness工程化 (20260429)
-- 洞察：多Agent Text2SQL 架构 — 企业级 ChatBI 的实现路径 (20260429)
+- OpenClaw 配置文件最佳实践 (20260501)
+- OpenClaw 代码Agent配置文件最佳实践 (20260501)
 
 <!-- 自动关联的insights将在这里列出 -->
