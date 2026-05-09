@@ -189,7 +189,7 @@ knowledge-management/
 
 ## 相关Insights
 
-- OpenClaw 配置文件最佳实践 (20260501)
-- OpenClaw 代码Agent配置文件最佳实践 (20260501)
+- Insight: Simon Willison - Linear Walkthroughs 代码理解模式 (20260506)
+- Insight: Simon Willison - Hoard Things You Know 如何囤积知识 (20260506)
 
 <!-- 自动关联的insights将在这里列出 -->

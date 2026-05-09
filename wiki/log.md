@@ -4,6 +4,40 @@
 
 ---
 
+## 2026-05-07
+
+### Review Logs | 新建问题追踪与经验沉淀系统
+
+**执行人**: 尼克·弗瑞
+**说明**: 为Agent团队建立标准的Review Logs系统，包含问题记录（Incident）和经验沉淀（Lesson）
+
+**创建内容**:
+
+| 文件 | 说明 |
+|:---|:---|
+| `review-logs/_index.md` | 使用指南（核心文档） |
+| `review-logs/_registry.md` | 全局注册表 |
+| `review-logs/_template_incident.md` | Incident模板 |
+| `review-logs/_template_lesson.md` | Lesson模板 |
+| `review-logs/_reference_best_practices.md` | 业界最佳实践参考（Google SRE/Pragmatic Engineer/Atlassian） |
+
+**目录结构**:
+```
+review-logs/
+├── incidents/           ← 问题记录
+│   ├── 2026-05/       ← Open状态
+│   └── resolved/      ← 已解决
+├── lessons/           ← 经验沉淀
+│   ├── by-agent/     ← 按Agent分类
+│   └── by-topic/     ← 按主题分类
+├── reviews/          ← 周期复盘
+└── archives/         ← 历史归档
+```
+
+**参考依据**: Google SRE Blameless Postmortem / Pragmatic Engineer / Atlassian Handbook
+
+---
+
 ## 2026-04-21
 
 ### Ingest | 批量文章入库（3篇高质量Insight）

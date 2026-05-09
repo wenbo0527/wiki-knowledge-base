@@ -32,16 +32,17 @@ ai-agent 相关内容的综合主题。
 
 ## 相关Insights
 
-- OpenClaw 配置文件最佳实践 (20260501)
-- AI编程工具落地指南：从"写得快"到"交付稳" (20260501)
-- AutoResearch软件开发系统 (20260501)
-- OpenClaw 代码Agent配置文件最佳实践 (20260501)
-- Claude Code深度解析：从AI助手到可编排开发环境的进化路径 (20260501)
-- Claude Code长任务治理机制深度解析 (20260501)
-- 大型项目架构Agent与Claude Code五层架构深度解析 (20260501)
-- 13个让AI Agent能力翻倍的核心Skills (20260501)
-- Marc Andreessen：AI劳动力替代论100%错误、公司超编75% (2026-03-30)
-- DeepSeek V4深度解析：开启低成本百万上下文时代 (20260501)
+- Insight: 吴恩达 - 最快的团队，人人都是产品经理 (20260506)
+- Insight: Simon Willison - Linear Walkthroughs 代码理解模式 (20260506)
+- Insight: Simon Willison - Hoard Things You Know 如何囤积知识 (20260506)
+- Insight: UModel - 用知识图谱构建 Agent 原生的代码理解能力 (20260506)
+- AI大神三大根本性分歧：136条访谈精华提炼 (20260506)
+- Insight: Simon Willison - Writing Code is Cheap 代码变得廉价 (20260506)
+- Insight: Simon Willison - AI Should Help Us Produce Better Code (20260506)
+- Insight: 小红书数据架构演进 - Big AI Data时代的新一代增量计算 (20260506)
+- Insight: Simon Willison - Anti-patterns 反模式警示 (20260506)
+- Insight: Agent+MCP+Skills 重构自动化测试 (20260506)
+- Insight: Simon Willison - Subagents 子代理模式 (20260506)
 
 <!-- 自动关联的insights将在这里列出 -->
 ---

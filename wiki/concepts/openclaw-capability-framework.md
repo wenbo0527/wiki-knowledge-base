@@ -2,7 +2,7 @@
 
 > **维护者**: 派蒙（大总管）  
 > **创建时间**: 2026-04-29  
-> **来源**: 基于 OpenClaw 官方文档 v2026.4.26  
+> **来源**: 基于 OpenClaw 官方文档 v2026.5.4  
 > **用途**: 帮助所有 Agent 了解 OpenClaw 原生能力，在需要时快速查找和复用  
 
 ---
@@ -39,6 +39,8 @@
 | **隔离执行** | 独立 session，不影响主会话 |
 | **交付方式** | announce（发送到渠道）、webhook、或静默 |
 | **状态追踪** | 所有执行记录在 `openclaw cron runs` 可查 |
+| **工具可用性检查** | 失败时报告实际工具策略失败而非误导性成功 |
+| **Sessions Cap** | 自动限制到最新 100 行，支持 `--limit all` |
 
 **使用场景**:
 - 每日日报收集（01:00 各 Agent 定时提交）
@@ -300,6 +302,10 @@ openclaw mcp call   # 调用 MCP 工具
 - `weather`: 天气查询
 - 等 20+ 内置技能
 
+**v2026.5.4 更新**:
+- 插件技能现在通过 `~/.openclaw/plugin-skills/` 发布
+- 修复源文件加载问题
+
 ---
 
 ## 六、记忆系统
@@ -313,6 +319,13 @@ openclaw mcp call   # 调用 MCP 工具
 | **语义搜索** | 自然语言查询 |
 | **跨会话** | 搜索历史对话 |
 | **元数据** | 支持 path/date/tag 过滤 |
+| **Wiki 补充** | 支持 `corpus=all` 混合搜索 |
+
+**v2026.5.4 更新**:
+- `corpus=all` 搜索同时保留两个语料库表示
+- Active Memory 改进：跳过QQ等带 `:` 的 channel ID
+- 修复 channel/runtime 元数据不成为搜索字符串
+- 包含 json5 依赖解决内存搜索沙盒问题
 
 **使用方式**:
 ```
@@ -360,7 +373,17 @@ memory_search(query="文博偏好的工作方式")
 | **企业协作** | Slack, Microsoft Teams, Feishu, Google Chat |
 | **社交** | Twitter/X, LINE, Zalo |
 | **自托管** | Matrix, Nostr, IRC |
-| **其他** | BlueBubbles, Mattermost, Nextcloud Talk |
+| **其他** | BlueBubbles, Mattermost, Nextcloud Talk, QQBot |
+
+### v2026.5.4 渠道更新
+
+| 渠道 | 更新 |
+|------|------|
+| **WhatsApp** | 支持 Newsletter `@newsletter` 目标，规范化电话号码ID |
+| **Discord** | 新增状态信号（降级/网关事件循环饥饿），IPv4优先 |
+| **Slack** | Streaming progress with Block Kit |
+| **Telegram** | 保留 stable 论坛 topic ID，渲染交互按钮 |
+| **Google Meet** | 完全重构 voice call：agent/bidi/realtime 模式 |
 
 ---
 
@@ -403,6 +426,8 @@ memory_search(query="文博偏好的工作方式")
 | 跨 Agent 协作 | 派蒙中转 + Subagent |
 | 浏览器自动化采集 | Browser + Cron |
 | 记忆持久化 | Memory Search + Active Memory |
+| **视频会议联动** | Google Meet + Voice Call (新!) |
+| **代码辅助** | OpenAI Codex (新!) |
 
 ---
 
@@ -417,4 +442,4 @@ memory_search(query="文博偏好的工作方式")
 
 ---
 
-*最后更新: 2026-04-29 by 派蒙*
+*最后更新: 2026-05-06 by 派蒙*

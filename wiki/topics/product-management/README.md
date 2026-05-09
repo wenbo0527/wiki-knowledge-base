@@ -79,11 +79,11 @@
 
 ## 相关Insights
 
-- OpenClaw 配置文件最佳实践 (20260501)
-- AI产品经理场景识别方法论 (20260501)
-- AI编程工具落地指南：从"写得快"到"交付稳" (20260501)
-- OpenClaw 代码Agent配置文件最佳实践 (20260501)
-- 大型项目架构Agent与Claude Code五层架构深度解析 (20260501)
-- 13个让AI Agent能力翻倍的核心Skills (20260501)
+- Jensen Huang × Dwarkesh：TPU竞争、对华芯片与供应链护城河 (20260506)
+- Insight: 吴恩达 - 最快的团队，人人都是产品经理 (20260506)
+- AI大神三大根本性分歧：136条访谈精华提炼 (20260506)
+- Insight: Simon Willison - AI Should Help Us Produce Better Code (20260506)
+- Insight: 《金融产品网络营销管理办法》深度解读 (20260506)
+- Insight: Simon Willison - Subagents 子代理模式 (20260506)
 
 <!-- 自动关联的insights将在这里列出 -->

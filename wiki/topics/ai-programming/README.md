@@ -143,10 +143,13 @@
 
 ## 相关Insights
 
-- AI编程工具落地指南：从"写得快"到"交付稳" (20260501)
-- OpenClaw 代码Agent配置文件最佳实践 (20260501)
-- Claude Code深度解析：从AI助手到可编排开发环境的进化路径 (20260501)
-- Claude Code长任务治理机制深度解析 (20260501)
-- 大型项目架构Agent与Claude Code五层架构深度解析 (20260501)
+- Jensen Huang × Dwarkesh：TPU竞争、对华芯片与供应链护城河 (20260506)
+- Insight: 吴恩达 - 最快的团队，人人都是产品经理 (20260506)
+- Insight: Simon Willison - Linear Walkthroughs 代码理解模式 (20260506)
+- Insight: UModel - 用知识图谱构建 Agent 原生的代码理解能力 (20260506)
+- Insight: Simon Willison - Writing Code is Cheap 代码变得廉价 (20260506)
+- Insight: Simon Willison - AI Should Help Us Produce Better Code (20260506)
+- Insight: Simon Willison - Anti-patterns 反模式警示 (20260506)
+- Insight: Simon Willison - Subagents 子代理模式 (20260506)
 
 <!-- 自动关联的insights将在这里列出 -->

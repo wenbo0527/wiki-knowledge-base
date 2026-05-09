@@ -80,7 +80,7 @@ ai-enterprise-implementation/
 
 ### 相关Insights
 
-- Insight: Claude Code Subagents深度解析 - 上下文卫生管理 (20260430)
+- 张小珺 × 罗福莉——AI范式已然巨变（商业访谈录 #138） (20260506)
 
 <!-- 自动关联的insights将在这里列出 -->
 ---

@@ -37,6 +37,42 @@
 
 ---
 
+### 📁 Review Logs（问题追踪与经验沉淀）🆕 2026-05-07
+
+> Agent团队的问题记录、复盘与经验共享系统
+
+| 文档 | 说明 | 维护者 |
+|------|------|--------|
+| [review-logs/_index.md](review-logs/_index.md) | **⭐ 使用指南** - 记录流程与规范 | 尼克 |
+| [review-logs/_registry.md](review-logs/_registry.md) | 全局注册表 - 开放/已解决/沉淀统计 | 尼克 |
+| [review-logs/_template_incident.md](review-logs/_template_incident.md) | Incident模板 | 尼克 |
+| [review-logs/_template_lesson.md](review-logs/_template_lesson.md) | Lesson模板 | 尼克 |
+| [review-logs/_reference_best_practices.md](review-logs/_reference_best_practices.md) | 业界最佳实践参考 | 尼克 |
+
+**目录结构**：
+```
+review-logs/
+├── incidents/           ← 问题记录（按月归档）
+│   ├── 2026-05/       ← Open状态
+│   └── resolved/      ← 已解决
+├── lessons/           ← 经验沉淀
+│   ├── by-agent/     ← 按Agent分类
+│   └── by-topic/     ← 按主题分类
+├── reviews/          ← 周期复盘
+│   ├── weekly/       ← 周复盘
+│   └── monthly/      ← 月复盘
+└── archives/         ← 历史归档
+```
+
+**快速入门**：
+- 发现问题 → 创建 Incident → 通知相关Agent → 跟踪解决 → 沉淀Lesson
+- 参考: [review-logs/_index.md](review-logs/_index.md)
+
+---
+
+
+---
+
 ### entities/ (实体页)
 
 **companies/** (公司)

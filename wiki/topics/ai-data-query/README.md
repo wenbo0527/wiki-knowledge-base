@@ -206,6 +206,6 @@
 
 ## 相关Insights
 
-- 洞察：多Agent Text2SQL 架构 — 企业级 ChatBI 的实现路径 (20260429)
+- Insight: 小红书数据架构演进 - Big AI Data时代的新一代增量计算 (20260506)
 
 <!-- 自动关联的insights将在这里列出 -->
