@@ -1,4 +1,5 @@
 # AI能源挑战：算力的终极瓶颈
+能力框架: capability-data-driven capability-tech-understanding
 
 > **来源**: Get笔记 - 盯人日报整理
 > **评分**: ⭐⭐⭐⭐

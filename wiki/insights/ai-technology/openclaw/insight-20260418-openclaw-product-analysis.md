@@ -1,4 +1,5 @@
 # OpenClaw产品分析：从狂热到理性
+能力框架: capability-value-closed-loop capability-tech-understanding #capability-risk-control
 
 > **来源**: RSS - 人人都是产品经理
 > **发布时间**: 2026-03-11

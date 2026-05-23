@@ -1,4 +1,5 @@
 # 消费金融 - 风控系统行业洞察
+能力框架: capability-requirement-decision capability-tech-understanding #capability-risk-control
 
 > AI风控、实时决策、隐私计算的行业洞察
 

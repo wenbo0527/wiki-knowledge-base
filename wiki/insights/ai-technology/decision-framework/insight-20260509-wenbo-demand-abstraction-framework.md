@@ -1,4 +1,5 @@
 # 需求抽象框架 v1.1
+能力框架: capability-requirement-decision capability-tech-understanding #capability-data-driven
 
 > 版本: v1.1（基于v2.0挖掘流程 + 行业最佳实践）
 > 创建: 2026-05-09

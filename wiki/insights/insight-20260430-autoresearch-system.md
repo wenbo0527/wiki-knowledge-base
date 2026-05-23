@@ -1,4 +1,5 @@
 # AutoResearch软件开发系统
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-risk-control
 
 > 情报编号: INTELLIGENCE-20260430-007
 > 情报来源: Get笔记

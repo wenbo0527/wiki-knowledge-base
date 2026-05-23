@@ -1,4 +1,5 @@
 # Anthropic Opus 4.7：模型能力"武器化"分级新时代
+能力框架: capability-value-closed-loop capability-requirement-decision
 
 > **来源**: Get笔记 - 盯人日报 #048
 > **发布时间**: 2026-04-17

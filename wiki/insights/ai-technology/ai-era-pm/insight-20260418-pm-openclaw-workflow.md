@@ -1,4 +1,5 @@
 # PM与OpenClaw协作工作流
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design
 
 > **来源**: Get笔记 - 盯人日报 #047
 > **发布时间**: 2026-04-16

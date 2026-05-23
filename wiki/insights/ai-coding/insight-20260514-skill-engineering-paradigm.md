@@ -1,6 +1,7 @@
 # Agent Skill工程化开发范式：从规范标准到设计模式
 
 > Insights - Skill工程化
+> 原始链接: https://mp.weixin.qq.com/s/LCpiLyLnRn5WyuHpribyHw
 > 来源: Agent Skill工程化范式
 > 标签: #Agent-Skill #工程化 #设计模式 #insight
 > 创建: 2026-05-14

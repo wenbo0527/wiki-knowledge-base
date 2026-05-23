@@ -1,4 +1,5 @@
 # AI芯片竞争格局：GPU vs TPU vs ASIC
+能力框架: capability-data-driven capability-tech-understanding
 
 > **来源**: Get笔记 + RSS整理
 > **核心人物**: Jensen Huang (NVIDIA), Demis Hassabis (Google DeepMind)

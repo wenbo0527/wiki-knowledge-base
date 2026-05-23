@@ -1,5 +1,8 @@
 # Insight: Andrew Ng斯坦福演讲——AI职业生存7条铁律
 
+> 原始链接: https://mp.weixin.qq.com/s/bSuMQwmvWFsonrDQTjnmAw
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design
+
 > **来源**: AI磊叔 公众号
 > **发布时间**: 2026-04-10
 > **原文链接**: https://mp.weixin.qq.com/s/bSuMQwmvWFsonrDQTjnmAw

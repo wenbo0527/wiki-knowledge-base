@@ -1,4 +1,5 @@
 # AI的下一步：从"推理思维"到"智能体思维"
+能力框架: capability-requirement-decision capability-data-driven
 
 > **来源**: 林俊旸（微信公众号整理）| **发布时间**: 2026-03-26 | **分类**: AI Technology / AI Paradigm Shift
 > **Insight ID**: insight-20260426-linjunyang-agent-thinking

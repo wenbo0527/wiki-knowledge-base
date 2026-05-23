@@ -1,4 +1,5 @@
 # Demis Hassabis × 20VC：AGI时间线、自举效应与第二工作日
+能力框架: capability-tech-understanding #capability-product-design
 
 > **来源**: Get笔记 - 高质量人类谈话库
 > **访谈**: 20VC with Harry Stebbings

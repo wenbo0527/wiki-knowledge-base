@@ -1,6 +1,7 @@
 # 美团31万行代码AI重构：反直觉洞察
 
 > Insights - AI Coding实践
+> 原始链接: https://mp.weixin.qq.com/s/mwRIuBfP8e5xsv0v2HMVLw
 > 来源: 美团技术团队
 > 标签: #AI-Coding #代码重构 #技术债 #insight
 > 创建: 2026-05-14

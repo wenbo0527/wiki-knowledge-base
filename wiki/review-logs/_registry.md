@@ -1,60 +1,62 @@
-# 📋 Review Logs Registry
+---
+title: Review Logs Registry
+---
 
-> 全局注册表 - 追踪所有开放问题、已解决归档、经验沉淀
-> 最后更新: 2026-05-07 10:05
+# 复盘日志总索引
+
+> 记录问题、分析根因、沉淀经验、预防复发
+
+## 目录
+
+- [Incidents](incidents/) - 问题原始记录
+- [Lessons](lessons/) - 经验沉淀
+- [按严重程度](by-severity/) - 按严重程度分类
+
+## 统计
+
+| 维度 | 数量 |
+|:---|---:|
+| 总 Incident | 3 |
+| 总 Lesson | 1 |
+| Open（未解决）| 2 |
+
+## 按Agent统计
+
+| Agent | Incident | Lesson |
+|:---|:---:|:---:|
+| paimon | 1 | 1 |
+| Tony | 2 | 0 |
+
+## 按严重程度统计
+
+| 严重程度 | 数量 | 状态 |
+|:---|:---:|:---:|
+| 🔴 Critical | 0 | - |
+| 🟠 High | 2 | 🔄 Open |
+| 🟡 Medium | 1 | ✅ Resolved |
+| 🟢 Low | 0 | - |
+
+## 最近更新
+
+| 日期 | ID | 摘要 |
+|:---|:---|:---|
+| 2026-05-21 | inc_2026-05-21_001 | agent-task-board wrapper参数错误 |
+| 2026-05-21 | inc_2026-05-21_002 | AI Service离线（Tony） |
+| 2026-05-21 | inc_2026-05-21_003 | P1任务积压（Tony） |
+
+## 标签云
+
+cli (1), wrapper (1), argparse (1), skill-tool (1), ai-service (1), task-management (1)
 
 ---
 
-## 🚨 开放 Incidents
+## Open状态追踪
 
-| ID | 标题 | 级别 | 状态 | 发现者 | 最后更新 |
-|:---|:---|:---:|:---:|:---|:---|
-| inc_2026-05-07_002 | Wiki index.md 过载导致加载缓慢 | 🟡 Medium | 🔄 Open | 尼克·弗瑞 | 2026-05-07 |
-| inc_2026-05-07_003 | 各 Agent 日报 Cron 执行异常 | 🟠 High | 🔄 Open | paimon | 2026-05-07 |
-
----
-
-## ✅ 已解决 Incidents
-
-| ID | 标题 | 级别 | 解决者 | 解决日期 |
-|:---|:---|:---:|:---|:---|
-| inc_2026-05-07_001 | Pipeline防重复机制误判 | 🟠 High | 尼克·弗瑞 | 2026-04-30 |
-| inc_2026-05-07_004 | Portal Shell 测试随机抽样发现空白页面 | 🟡 Medium | ✅ Resolved | zhongli | 2026-05-07 |
+| ID | 问题 | 严重程度 | 负责人 | 状态 | 下次检查 |
+|:---|:---|:---:|:---|:---:|:---|
+| inc_2026-05-21_002 | AI Service离线 | 🟠 High | Tony | 🔄 Open | 明天 |
+| inc_2026-05-21_003 | P1任务积压 | 🟠 High | Tony | 🔄 Open | 明天 |
 
 ---
 
-## 📚 Lessons 沉淀统计
-
-| Agent | 数量 | 最新 Lesson |
-|:---|:---:|:---|
-| 尼克·弗瑞 | 1 | les_2026-05-07_001 |
-| 钟离 | 1 | les_2026-05-07_001 |
-| 派蒙 | 0 | - |
-| 托尼·斯塔克 | 0 | - |
-
----
-
-## 📈 本周问题分布
-
-```
-2026-05 (截至05-07):
-  incidents: 4
-    - 2 resolved (Pipeline防重复, Portal Shell空白页)
-    - 2 open (Wiki过载, 日报Cron)
-  lessons: 1
-    - zhongli: Portal Shell 空白页面排查 SOP
-```
-
----
-
-## 🔥 高频问题
-
-| 问题类型 | 次数 | 最新 |
-|:---|:---:|:---|
-| Pipeline/定时任务 | 1 | 2026-05-07 |
-| Wiki维护 | 1 | 2026-05-07 |
-| Portal Shell 部署 | 1 | 2026-05-07 |
-
----
-
-*最后更新: 2026-05-07 10:05*
+*最后更新: 2026-05-21 15:08*

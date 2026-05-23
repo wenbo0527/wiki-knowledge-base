@@ -1,4 +1,5 @@
 # 💡 Insight: BMAD方法论 - AI驱动的敏捷开发框架
+能力框架: capability-requirement-decision capability-product-design #capability-risk-control
 
 > **日期**: 2026-04-28
 > **来源**: GitHub项目深度研究

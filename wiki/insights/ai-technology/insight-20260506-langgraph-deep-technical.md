@@ -1,6 +1,8 @@
 # LangGraph深度技术解析：构建下一代AI工作流的图结构编排框架
+能力框架: capability-value-closed-loop capability-tech-understanding
 
 > 来源: Get笔记
+> 原始链接: https://mp.weixin.qq.com/s/HLz76bNtURQzfwEMSellFQ
 > 导入日期: 2026-05-06
 > 原始ID: 1909139930098547856
 

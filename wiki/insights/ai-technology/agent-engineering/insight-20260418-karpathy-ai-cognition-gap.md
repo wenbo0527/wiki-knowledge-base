@@ -1,4 +1,5 @@
 # Karpathy "AI认知鸿沟"：能力理解差距正在扩大
+能力框架: capability-tech-understanding
 
 > **来源**: Get笔记 - 盯人日报 #046
 > **发布时间**: 2026-04-13

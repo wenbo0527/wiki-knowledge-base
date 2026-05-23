@@ -1,4 +1,5 @@
 # Karpathy CLAUDE.md：Agent配置范式革命
+能力框架: capability-requirement-decision capability-data-driven
 
 > **来源**: Get笔记 - 盯人日报 #047
 > **发布时间**: 2026-04-16

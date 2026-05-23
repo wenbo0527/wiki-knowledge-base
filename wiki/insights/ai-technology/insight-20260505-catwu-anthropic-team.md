@@ -1,4 +1,5 @@
 # Cat Wu：Anthropic产品团队高效运作揭秘
+能力框架: capability-value-closed-loop capability-tech-understanding
 
 > 来源: Get笔记-Lenny's Podcast
 > 导入日期: 2026-05-05

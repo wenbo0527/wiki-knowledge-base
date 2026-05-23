@@ -1,4 +1,5 @@
 # 互联网金融 - 智能客服行业洞察
+能力框架: capability-requirement-decision capability-tech-understanding
 
 > 大模型客服、人机协同、智能对话的行业洞察
 

@@ -1,4 +1,5 @@
 # 盯人日报 #058 | 2026-04-29
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-data-driven
 
 > 来源: Get笔记 EJ9zwkln
 > 导入日期: 2026-05-02

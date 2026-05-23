@@ -1,4 +1,5 @@
 # 金融科技 - 隐私计算金融应用洞察
+能力框架: capability-value-closed-loop capability-data-driven #capability-risk-control
 
 > 隐私计算技术路线、金融场景落地、商业模式的深度分析
 

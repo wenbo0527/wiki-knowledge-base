@@ -1,4 +1,5 @@
 # ADeLe：AI性能预测与跨任务解释
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-data-driven
 
 > **来源**: Microsoft Research | **发布时间**: 2026-04 | **分类**: AI Technology / AI Evaluation
 > **Insight ID**: insight-20260426-adele-ai-performance

@@ -1,4 +1,5 @@
 # 科技AI - AI项目周刊 Insights
+能力框架: capability-value-closed-loop capability-tech-understanding #capability-product-design
 
 > 追踪AI开源项目与工具的每周精选
 

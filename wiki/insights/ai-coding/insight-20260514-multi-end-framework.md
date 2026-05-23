@@ -1,6 +1,7 @@
 # 多端统一应用框架：从起源到实战
 
 > Insights - 跨端框架
+> 原始链接: https://mp.weixin.qq.com/s/Mm_MF1XJ3nrvwkC3pNQgBg
 > 来源: 跨端框架技术解析
 > 标签: #跨端框架 #iOS #Android #Web #insight
 > 创建: 2026-05-14

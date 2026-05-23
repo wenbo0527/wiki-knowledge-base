@@ -1,4 +1,5 @@
 # AI编程工具落地指南：从"写得快"到"交付稳"
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-risk-control #capability-data-driven
 
 > 情报编号: INTELLIGENCE-20260430-003
 > 情报来源: Get笔记

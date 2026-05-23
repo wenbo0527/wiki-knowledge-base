@@ -1,6 +1,8 @@
 # AI-First战略深度解析：从工程底座重构到组织能力转型
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-risk-control
 
 > 来源: Get笔记
+> 原始链接: https://mp.weixin.qq.com/s/EK0EV7jWeSYs7w-ARJcAiA
 > 导入日期: 2026-05-06
 > 原始ID: 1909139536034827696
 

@@ -1,4 +1,5 @@
 # Jensen Huang × Dwarkesh：NVIDIA的护城河与对华芯片战略
+能力框架: capability-data-driven capability-tech-understanding
 
 > **来源**: Get笔记 - 高质量人类谈话库
 > **访谈**: Dwarkesh Podcast

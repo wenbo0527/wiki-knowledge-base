@@ -1,6 +1,8 @@
 # AI智能体系统架构深度解析：从模型到Harness的协同框架
+能力框架: capability-data-driven capability-product-design #capability-risk-control
 
 > 来源: Get笔记
+> 原始链接: https://mp.weixin.qq.com/s/bDwPm7TxC1NLiEN3UE_CFQ
 > 导入日期: 2026-05-06
 > 原始ID: 1909139236460858800
 

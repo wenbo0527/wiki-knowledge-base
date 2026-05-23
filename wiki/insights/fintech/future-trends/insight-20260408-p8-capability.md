@@ -1,4 +1,5 @@
 # 金融科技 - P8+能力全景洞察
+能力框架: capability-value-closed-loop capability-data-driven #capability-risk-control
 
 > 数据、智能、业务、技术、组织五大能力域的全面复盘
 

@@ -1,4 +1,5 @@
 # 数字员工与AI智能体产业发展分析
+能力框架: capability-requirement-decision capability-data-driven #capability-risk-control
 
 > **来源**: Get笔记 - 录音笔记
 > **原始课程**: 2026-04-18 11:02:57

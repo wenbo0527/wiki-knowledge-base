@@ -1,5 +1,8 @@
 # Insight: 基于图的智能体记忆技术 - 架构、应用与实践框架
 
+> 原始链接: https://mp.weixin.qq.com/s/Ke75EF-0d368UjZmuxrVkw
+能力框架: capability-requirement-decision capability-product-design #capability-data-driven #capability-risk-control
+
 > **来源**: 微信公众号 · AI科技媒体
 > **原始链接**: https://mp.weixin.qq.com/s/Ke75EF-0d368UjZmuxrVkw
 > **评级**: ⭐⭐⭐⭐⭐ (5/5)

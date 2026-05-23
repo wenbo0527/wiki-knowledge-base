@@ -1,4 +1,5 @@
 # David Silver $11亿创立Ineffable Intelligence：超智能新物种
+能力框架: capability-tech-understanding
 
 > 来源: Get笔记-盯人日报#063
 > 导入日期: 2026-05-05

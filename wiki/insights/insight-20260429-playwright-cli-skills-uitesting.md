@@ -1,5 +1,8 @@
 # 洞察：Playwright CLI + Skills UI自动化测试 — 无障碍树方案
 
+> 原始链接: https://mp.weixin.qq.com/s/CCLV_CU1AgSNOjCHkyafAA
+能力框架: capability-value-closed-loop capability-tech-understanding
+
 > **洞察编号**：insight-20260429-playwright-cli-skills-uitesting
 > **来源**：Raina测试 微信公众号 (2026-04-20)
 > **原始链接**：https://mp.weixin.qq.com/s/CCLV_CU1AgSNOjCHkyafAA

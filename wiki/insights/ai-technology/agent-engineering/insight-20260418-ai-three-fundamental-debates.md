@@ -1,4 +1,5 @@
 # AI大神三大根本性分歧：从高质量人类谈话库136条访谈提炼
+能力框架: capability-product-design capability-tech-understanding
 
 > **来源**: Get笔记 - 高质量人类谈话库
 > **原始数据**: 136条中外AI大神访谈

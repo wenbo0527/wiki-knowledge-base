@@ -1,4 +1,5 @@
 # 罗福莉访谈：AI范式已然巨变，Agent框架激发中层模型上限
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design
 
 > 来源: Get笔记-张小珺商业访谈录#138
 > 导入日期: 2026-05-05

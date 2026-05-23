@@ -1,6 +1,7 @@
 # 民生银行SDD实践：AI赋能银行私域研发的探索
 
 > Insights - 银行AI研发
+> 原始链接: https://mp.weixin.qq.com/s/_Q_LlvNcS_5DZzOzp1E3fA
 > 来源: 民生银行技术实践
 > 标签: #SDD #银行科技 #AI研发 #insight
 > 创建: 2026-05-14

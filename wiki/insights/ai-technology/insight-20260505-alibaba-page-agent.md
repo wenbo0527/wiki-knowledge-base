@@ -1,6 +1,8 @@
 # 阿里开源page-agent：重新定义AI驱动的Web自动化范式
+能力框架: capability-value-closed-loop capability-tech-understanding
 
 > 来源: Get笔记
+> 原始链接: https://mp.weixin.qq.com/s/d9RRpRzNo2ukXpx722xM6w
 > 导入日期: 2026-05-06
 > 原始ID: 1909108357793511096
 

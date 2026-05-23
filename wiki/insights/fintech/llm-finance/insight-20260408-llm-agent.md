@@ -1,4 +1,5 @@
 # 洞察: LLM Agent技术演进与投资机会
+能力框架: capability-value-closed-loop capability-requirement-decision
 
 > 2026-04-08 首次Ingest总结
 

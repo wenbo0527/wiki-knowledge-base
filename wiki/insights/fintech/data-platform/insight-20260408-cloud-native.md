@@ -1,4 +1,5 @@
 # 基础设施 - 金融云原生行业洞察
+能力框架: capability-tech-understanding #capability-risk-control
 
 > 金融云市场格局、云原生架构、DevOps的行业发展洞察
 

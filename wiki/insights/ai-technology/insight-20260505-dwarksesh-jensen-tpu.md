@@ -1,6 +1,8 @@
 # Dwarkesh与黄仁勋对话深度解析：TPU竞争格局、对华芯片销售与供应链护城河
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-risk-control
 
 > 来源: Get笔记-高质量人类谈话库
+> 原始链接: https://www.youtube.com/watch?v=Hrbq66XqtCo
 > 导入日期: 2026-05-05
 > 原始ID: 1907414355046364176
 

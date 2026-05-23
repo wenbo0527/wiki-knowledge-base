@@ -1,6 +1,8 @@
 # Harness工程：AI Agent可靠开发的系统方法论与实践指南
+能力框架: capability-requirement-decision capability-tech-understanding #capability-risk-control
 
 > 来源: Get笔记
+> 原始链接: https://mp.weixin.qq.com/s/Et3WwNtEXEgxjaQHrQFDyQ
 > 导入日期: 2026-05-06
 > 原始ID: 1909139700317851056
 

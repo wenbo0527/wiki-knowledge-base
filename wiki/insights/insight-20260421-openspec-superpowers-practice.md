@@ -1,5 +1,8 @@
 # OpenSpec + Superpowers 新项目全流程实战指南
 
+> 原始链接: https://mp.weixin.qq.com/s/7EpVsLbFznkngJbD7tFA9A
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-risk-control
+
 > **情报日期**: 2026-04-21  
 > **来源**: 运维有术 / 术哥无界 微信公众号  
 > **原文**: https://mp.weixin.qq.com/s/7EpVsLbFznkngJbD7tFA9A  

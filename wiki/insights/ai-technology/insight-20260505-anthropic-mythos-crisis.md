@@ -1,4 +1,5 @@
 # Anthropic Mythos风暴：白宫介入与AI治理困境
+能力框架: capability-tech-understanding capability-risk-control
 
 > 来源: Get笔记-盯人日报#063
 > 导入日期: 2026-05-05

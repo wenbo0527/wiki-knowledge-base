@@ -1,4 +1,5 @@
 # 2026-04-21 情报日报：AI工程化落地的五大范式转移
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-risk-control
 
 > **情报日期**: 2026-04-21
 > **分析师**: 尼克·弗瑞

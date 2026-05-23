@@ -126,10 +126,10 @@ Wiki/                              # Wiki根目录
 │   │   ├── README.md              # 项目总览
 │   │   └── {project-name}/
 │   │       ├── README.md          # 项目概述
-│   │       ├── requirements.md     # 需求文档（托尼）
+│   │       ├── topics/product-management/product-management.md     # 需求文档（托尼）
 │   │       ├── product-design.md   # 产品设计（托尼）
-│   │       ├── architecture.md     # 技术架构（钟离）
-│   │       ├── intelligence.md     # 市场情报（尼克）
+│   │       ├── topics/ai-agent/ai-agent.md     # 技术架构（钟离）
+│   │       ├── insights/ai/ai-agent.md     # 市场情报（尼克）
 │   │       ├── decisions.md        # 决策记录
 │   │       └── progress.md        # 进度追踪
 │   │
@@ -211,8 +211,8 @@ Wiki/                              # Wiki根目录
 
 ## 🔗 关联内容
 
-- [[topic-id]] - {关联说明}
-- [[entity-id]] - {关联说明}
+- [[topics/ai-agent|AI Agent]] - {关联说明}
+- [[entities/companies/openai|OpenAI]] - {关联说明}
 - [[insight-YYYYMMDD-xxx]] - {关联说明}
 
 ## 📝 原始资料
@@ -274,8 +274,8 @@ Wiki/                              # Wiki根目录
 
 ## 🔗 关联主题
 
-- [[topic-id]] - {关联关系}
-- [[entity-id]] - {关联关系}
+- [[topics/ai-agent|AI Agent]] - {关联关系}
+- [[entities/companies/openai|OpenAI]] - {关联关系}
 
 ## 📝 更新记录
 
@@ -317,8 +317,8 @@ Wiki/                              # Wiki根目录
 
 ## 🔗 关联内容
 
-- [[topic-id]] - {关系说明}
-- [[concept-id]] - {关系说明}
+- [[topics/ai-agent|AI Agent]] - {关系说明}
+- [[concepts/llm-agent|LLM Agent]] - {关系说明}
 
 ## 📝 更新记录
 
@@ -363,9 +363,9 @@ Wiki/                              # Wiki根目录
 
 ## 🔗 关联内容
 
-- [[concept-id]] - {关联关系}
-- [[topic-id]] - {关联关系}
-- [[entity-id]] - {关联关系}
+- [[concepts/llm-agent|LLM Agent]] - {关联关系}
+- [[topics/ai-agent|AI Agent]] - {关联关系}
+- [[entities/companies/openai|OpenAI]] - {关联关系}
 
 ## 📚 参考资料
 
@@ -442,16 +442,16 @@ Wiki/                              # Wiki根目录
 
 | 文档 | 维护者 | 状态 |
 |------|--------|------|
-| [[requirements|需求文档]] | 派蒙 + 尼克 | 📝 草稿 |
-| [[architecture|技术架构]] | 钟离 | 📝 草稿 |
-| [[intelligence|市场情报]] | 尼克 | ✅ 完成 |
+| [[topics/product-management|产品管理]] | 派蒙 + 尼克 | 📝 草稿 |
+| [[topics/ai-agent|AI Agent]] | 钟离 | 📝 草稿 |
+| [[insights/ai|AI洞察]] | 尼克 | ✅ 完成 |
 
 ---
 
 ## 🔗 关联内容
 
-- [[topic-id]] - {关联主题}
-- [[entity-id]] - {关联实体}
+- [[topics/ai-agent|AI Agent]] - {关联主题}
+- [[entities/companies/openai|OpenAI]] - {关联实体}
 
 ## 📝 决策记录
 

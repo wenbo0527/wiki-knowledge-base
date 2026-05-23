@@ -1,4 +1,5 @@
 # Vibe Analyzing：AI驱动的数据分析新交互范式
+能力框架: capability-product-design capability-tech-understanding
 
 > **来源**: DataFunSummit·崔京（AskTable察言观数创始人）| **发布时间**: 2026-04-26 | **分类**: AI Technology / Data Analytics
 > **Insight ID**: insight-20260426-vibe-analyzing-asktable

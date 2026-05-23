@@ -1,4 +1,5 @@
 # 自由能原理：主动推断与认知成长
+能力框架: capability-requirement-decision capability-product-design #capability-data-driven
 
 > **来源**: 万维钢·现代思维工具课 | **发布时间**: 2026-04-21 | **分类**: Thinking Tools / Cognitive Science
 > **Insight ID**: insight-20260426-free-energy-principle

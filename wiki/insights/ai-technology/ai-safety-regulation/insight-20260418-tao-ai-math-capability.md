@@ -1,4 +1,5 @@
 # 陶哲轩AI数学能力评估：1%成功率真相
+能力框架: capability-value-closed-loop capability-data-driven
 
 > **来源**: Get笔记 - 盯人日报 #045
 > **发布时间**: 2026-04-11

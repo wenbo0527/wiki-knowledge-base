@@ -1,4 +1,5 @@
 # Vibe Coding / AI Programming 热门话题分析
+能力框架: capability-product-design capability-tech-understanding #capability-data-driven #capability-risk-control
 
 > **来源**: Hacker News / GitHub / 技术博客
 > **搜索日期**: 2026-04-18

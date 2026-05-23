@@ -1,4 +1,5 @@
 # Harness Engineering 落地实践：多源情报汇总
+能力框架: capability-tech-understanding #capability-risk-control
 
 > 汇总来源：Martin Fowler、Cursor、Philipp Schmid、Latent Space、arxiv论文
 > 整理时间：2026-04-17

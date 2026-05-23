@@ -1,4 +1,5 @@
 # 科技AI - Agentic AI技术实践 Insights
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-risk-control
 
 > 亚马逊云科技Agentic AI解决方案的技术实践
 

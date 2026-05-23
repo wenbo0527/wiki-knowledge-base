@@ -1,4 +1,5 @@
 # Insight: 大模型AI Skill编写、评测迭代与长链路任务实践
+能力框架: capability-value-closed-loop capability-tech-understanding #capability-data-driven
 
 > **来源**: Get笔记订阅课程录音
 > **原始标题**: 大模型AI Skill编写、评测迭代与长链路任务实践经验分享

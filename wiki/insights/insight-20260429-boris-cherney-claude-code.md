@@ -1,4 +1,5 @@
 # Insight: Claude Code创建者亲述"后编程时代"工作方式
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-risk-control
 
 > **来源**: Get笔记订阅 · 高质量人类谈话库 (The Pragmatic Engineer Podcast)
 > **原始标题**: Boris Cherny (Anthropic Claude Code创建者/负责人) 深度访谈

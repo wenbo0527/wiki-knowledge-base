@@ -1,6 +1,7 @@
 # Agent从"一问一答"到"自主运行"：AI任务调度的技术演进
 
 > Insights - Agent调度
+> 原始链接: https://mp.weixin.qq.com/s/6zGDgA9im21cAmVPvB_fIw
 > 来源: AI任务调度深度解析
 > 标签: #AI-Agent #定时调度 #数字劳动力 #insight
 > 创建: 2026-05-14

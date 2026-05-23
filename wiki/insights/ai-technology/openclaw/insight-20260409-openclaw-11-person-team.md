@@ -1,5 +1,8 @@
 # 科技AI - OpenClaw实践分享 Insights
 
+> 原始链接: https://mp.weixin.qq.com/s/hSpn4CJD_CRc8fMYFudE0A
+能力框架: capability-value-closed-loop capability-requirement-decision
+
 > 用"梦幻11人"阵型实践OpenClaw龙虾的经验总结
 
 ---

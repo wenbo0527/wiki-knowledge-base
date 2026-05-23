@@ -1,5 +1,8 @@
 # 洞察：多Agent Text2SQL 架构 — 企业级 ChatBI 的实现路径
 
+> 原始链接: https://mp.weixin.qq.com/s/Jjtl4bBN61W6ISzpw3q1XQ
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-data-driven
+
 > **洞察编号**：insight-20260429-huisuan-sql-agent
 > **来源**：开源项目解读 微信公众号 (2026-04-28)
 > **原始链接**：https://mp.weixin.qq.com/s/Jjtl4bBN61W6ISzpw3q1XQ

@@ -1,5 +1,8 @@
 # Insight: Agent+MCP+Skills 重构自动化测试
 
+> 原始链接: https://mp.weixin.qq.com/s/aOJBjPgppTAYq39dSUvYqg
+能力框架: capability-data-driven capability-tech-understanding
+
 > **来源**: 千槿（人工智能与自动化测试）  
 > **发布日期**: 2026-04-27  
 > **评级**: ⭐⭐⭐⭐ (4/5)  

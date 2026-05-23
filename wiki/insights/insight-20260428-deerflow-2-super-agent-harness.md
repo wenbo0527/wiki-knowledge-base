@@ -1,4 +1,5 @@
 # 💡 Insight: DeerFlow 2.0 - ByteDance开源Super Agent Harness
+能力框架: capability-tech-understanding
 
 > **日期**: 2026-04-28
 > **来源**: GitHub项目深度研究

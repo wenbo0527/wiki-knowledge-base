@@ -1,4 +1,5 @@
 # AI产品经理技能重写：从"会说话"到"会干活"
+能力框架: capability-requirement-decision capability-tech-understanding #capability-risk-control
 
 > **来源**: RSS - 人人都是产品经理
 > **发布时间**: 2026-03-12

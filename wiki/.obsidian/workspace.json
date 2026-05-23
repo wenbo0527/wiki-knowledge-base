@@ -11,10 +11,14 @@
             "id": "ea660dad63ea971f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "Skills System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Skills System"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "商业世界模型",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,32 +185,32 @@
   },
   "active": "ea660dad63ea971f",
   "lastOpenFiles": [
-    "code-examples/skills/PAIMON_SKILL_HANDBOOK.md",
-    "code-examples/subagent-patterns/README.md",
-    "log.md",
-    "WIKI_PRINCIPLES.md",
-    "WIKI_MANAGEMENT_RULES.md",
+    "insights/agent/insight-20260509-skillos.md",
+    "Skills System.md",
+    "insights/agent/insight-20260509-evolution-engine.md",
+    "insights/agent/insight-20260506-anthropic-agent.md",
+    "insights/ai/insight-20260328-openclaw.md",
+    "insights/ai/insight-20260519-zhihu-ai-productivity.md",
+    "insights/ai/insight-20260520-agent-skills-landscape-research.md",
+    "insights/ai/insight-20260520-databricks-data-agent-research.md",
+    "insights/ai/insight-20260520-enterprise-data-agent-evolution-path.md",
+    "insights/ai/insight-20260520-agent-design-pattern-seven-dimensions.md",
+    "insights/ai/insight-20260515-ai-product-knowledge-system.md",
+    "insights/ai/insight-20260519-data-agent-evolution.md",
+    "insights/ai/insight-20260517-baidu-create-miaoda.md",
+    "insights/ai/insight-20260516-financial-ai-product-system.md",
+    "insights/ai/insight-20260516-financial-ai-interview-questions.md",
+    "insights/ai/insight-20260519-gravitino-lixiang.md",
+    "entities/people/wanweigang.md",
+    "insights/ai/insight-20260514-tianwan-multi-agent.md",
+    "methodologies-v2/00-框架总览/能力关系网.md",
+    "methodologies-v2/03-数据驱动/L1-流程步骤/README.md",
+    "methodologies-v2/02-需求决策/L1-流程步骤/README.md",
+    "methodologies-v2/01-价值闭环/L1-流程步骤/README.md",
     "WIKI_MAINTENANCE.md",
-    "insights/insight-20260430-openclaw-config-best-practices.md",
-    "insights/insight-20260430-multi-agent-architecture-guide.md",
-    "code-examples/CODE_EXAMPLES_STANDARDS.md",
-    "code-examples/harness-engineering/README.md",
-    "code-examples/graph-memory/README.md",
-    "code-examples/context-management/README.md",
-    "insights/insight-20260428-simon-willison-linear-walkthroughs.md",
-    "insights/insight-20260428-simon-willison-hoard-things.md",
-    "insights/insight-20260428-simon-willison-code-is-cheap.md",
-    "insights/insight-20260428-simon-willison-better-code.md",
-    "insights/insight-20260428-simon-willison-anti-patterns.md",
-    "insights/insight-20260428-andrew-ng-fastest-team.md",
-    "concepts/llm-wiki-pattern.md",
-    "concepts/llm-agent.md",
-    "concepts/karpathy-coding-guidelines.md",
-    "concepts/good-questioning.md",
-    "concepts/ai-llm.md",
-    "topics/ai-native/ai-persona-training/insight-20260414-ai-persona-training.md",
-    "process/doc-code-review-mechanism.md",
-    "process/daily-question-bank.md",
+    "methodologies-v2/00-框架总览/Wiki维护机制.md",
+    "methodologies-v2/00-框架总览/README.md",
+    "methodologies-v2/00-框架总览/评估报告模板.md",
     "business-world-model"
   ]
 }

@@ -1,4 +1,5 @@
 # 金融科技 - 综合复盘洞察
+能力框架: capability-requirement-decision capability-data-driven
 
 > 7天全景回顾、AI深度渗透、数据驱动决策的核心洞察
 

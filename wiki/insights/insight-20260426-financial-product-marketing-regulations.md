@@ -1,5 +1,8 @@
 # Insight: 《金融产品网络营销管理办法》深度解读
 
+> 原始链接: https://mp.weixin.qq.com/s/85PPi55pMRHtt80oothUWA
+能力框架: capability-tech-understanding capability-risk-control #capability-data-driven
+
 > **来源**: 销售有道（理财师关注的）  
 > **发布日期**: 2026-04-26 10:55  
 > **评级**: ⭐⭐⭐⭐ (4/5)  

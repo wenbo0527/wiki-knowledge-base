@@ -1,4 +1,5 @@
 # NYT专题定性DeepSeek：改变全球AI竞赛规则的开源力量
+能力框架: capability-tech-understanding
 
 > 来源: Get笔记-盯人日报#063
 > 导入日期: 2026-05-05

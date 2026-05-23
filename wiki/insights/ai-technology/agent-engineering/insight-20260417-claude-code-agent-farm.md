@@ -1,4 +1,5 @@
 # Claude Code Agent Farm：多Agent并行编排实战
+能力框架: capability-value-closed-loop capability-product-design #capability-risk-control
 
 > 来源：GitHub (Dicklesworthstone/claude_code_agent_farm)
 > 整理时间：2026-04-17

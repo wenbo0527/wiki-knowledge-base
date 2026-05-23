@@ -1,4 +1,5 @@
 # Everything Claude Code (ECC) 项目研究报告
+能力框架: capability-tech-understanding #capability-risk-control
 
 > **来源**: GitHub - affaan-m/everything-claude-code
 > **Stars**: 168,867（全球最高Star的Claude Code项目）

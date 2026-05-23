@@ -1,133 +1,185 @@
-# AI Native 专题
+# AI Programming（AI编程）专题
 
-> 聚焦AI Native开发方法论与工程化实践
-
----
-
-## 专题定位
-
-**核心受众**: 产品经理、开发者、架构师
-
-**核心问题**: 如何用AI驱动开发，实现从"用AI辅助编程"到"AI原生开发"的跨越？
+> 🕵️ 尼克·弗瑞情报整理
+> 📅 最后更新：2026-04-14
 
 ---
 
-## 四大子专题
+## 专题概述
 
-| 专题 | 核心问题 | 成熟度 |
-|------|----------|--------|
-| [[ai-programming/ai-programming/]] | 如何用AI快速把需求变成代码？ | ★★★★★ |
-| [[ai-programming/enterprise-refactoring/]] | 存量项目如何引入AI辅助重构？ | ★★★★★ |
-| [[agent-engineering]] | 如何构建可靠的Agent系统？ | ★★★☆☆ |
-| [[ai-application]] | AI在各行业的落地案例？ | ★★★★☆ |
+本专题聚焦于AI辅助编程的最佳实践、工作流程和工具链，涵盖Vibe Coding、Superpowers等主流AI编程方法论。
 
 ---
 
-## 核心资源
+## 核心内容
 
-### AI Programming专题（已完善）
-- [[ai-programming/vibe-coding/]] - Vibe Coding最佳实践
-- [[ai-programming/enterprise-refactoring/]] - 企业重构指南
-- [[ai-programming/code-review-ai.md]] - AI代码审查
-- [[ai-programming/tdd-ai.md]] - AI时代TDD
-- [[ai-programming/superpowers-framework.md]] - Superpowers工作流
+### 1. Vibe Coding 🆕
+**AI结对编程的终极工作流程**
 
-### Agent Engineering专题（持续更新）
-- [[agent-engineering]] - Agent工程化方法论
-- [[skill-evaluation]] - Skill自动评分系统 ⭐新增
+- 📁 [专题主页](./vibe-coding/README.md)
+- 📝 [开发经验](./vibe-coding/开发经验.md)
+- 🏗️ [通用架构模板](./vibe-coding/通用项目架构模板.md)
 
-### 核心Insight（最近更新）
-- [[insights/insight-20260428-jensen-huang-dwarksesh-tpu]] - ⭐⭐⭐⭐⭐ Jensen×Dwarkesh TPU竞争与对华芯片立场
-- [[insights/insight-20260428-marc-andreessen-20vc]] - ⭐⭐⭐⭐⭐ Marc Andreessen AI替代论100%错误
-- [[insights/insight-20260428-ai-three-debates]] - ⭐⭐⭐⭐⭐ AI大神三大分歧（136条访谈提炼）
-- [[insights/insight-20260428-andrew-ng-fastest-team]] - 吴恩达：最快团队人人都是产品经理
-- [[insights/insight-20260427-jeff-dean-tpu-story]] - Jeff Dean TPU诞生与极客往事
+**核心理念**：规划驱动 + 上下文固定 + AI协作
 
-### RSS订阅（需扩充）
-| 类别 | 现有源 | 目标源 | 缺口 |
-|------|--------|--------|------|
-| AI编程 | 2 | 10+ | 8+ |
-| Agent工程 | 0 | 8+ | 8+ |
-| Vibe Coding | 0 | 5+ | 5+ |
+### 2. Superpowers Framework
+**AI辅助开发工程纪律框架**
 
-### 最佳实践来源
-- 托尼·斯塔克编程项目
-- Instreet Vibe Coding实战
-- 专题08 AI_Agent_Design
-- Day15 大模型金融应用
-- Day19 AIGC产品设计与应用
+- 📁 [Superpowers工作流](./superpowers-framework.md)
+- 📝 [PM实践](./superpowers-pm-practices.md)
+- 🧪 [TDD Superpowers](./tdd-superpowers.md)
 
-### 知乎文章
-- 产品管理专题02b-1/02b-2 (AI需求拆解)
-- 产品管理专题02c (本体论约束AI)
+**核心理念**：给AI上工程纪律，从凭感觉到可流程化
 
----
+### 3. Enterprise Refactoring 🆕
+**企业中后台项目重构最佳实践**
 
-## 专题目标
+- 📁 [专题主页](./enterprise-refactoring/README.md)
+- 📝 [Brownfield项目重构](./enterprise-refactoring/brownfield-projects.md)
+- 🏛️ [Clean Architecture](./enterprise-refactoring/clean-architecture.md)
+- 🔐 [安全编码实践](./enterprise-refactoring/security-coding.md)
 
-1. **建立AI编程方法论**: 沉淀Vibe Coding最佳实践
-2. **构建Agent工程能力**: 从框架选型到生产落地
-3. **追踪行业应用**: 金融、企业、工具类AI应用案例
-4. **分享OpenClaw经验**: Agent平台运维与协作
+**核心理念**：AI作为监督下的初级工程师 + 安全边界定义 + 分层架构约束
+
+### 4. AI代码审查工具 🆕
+**AI驱动的代码审查与质量保障**
+
+- 📝 [AI代码审查工具](./code-review-ai.md)
+
+**核心理念**：异构AI团队协作 + 两阶段审查 + 质量门控
+
+### 5. AI时代的TDD实践 🆕
+**测试驱动开发与AI的协同模式**
+
+- 📝 [AI-TDD实践](./tdd-ai.md)
+
+**核心理念**：AI生成测试 + 自动验证 + 人类终审
 
 ---
 
-## 当前进度
+## 核心概念对比
 
-| 专题 | 页面 | 状态 | 更新 |
-|------|------|------|------|
-| ai-programming | [[ai-programming/ai-programming/]] | ✅ 已升级 | 2026-04-14 |
-| Vibe Coding | [[ai-programming/vibe-coding/]] | ✅ 已完成 | 2026-04-14 |
-| Enterprise Refactoring | [[ai-programming/enterprise-refactoring/]] | ✅ 已完成 | 2026-04-14 |
-| AI代码审查 | [[ai-programming/code-review-ai.md]] | ✅ 已完成 | 2026-04-14 |
-| AI-TDD | [[ai-programming/tdd-ai.md]] | ✅ 已完成 | 2026-04-14 |
-| agent-engineering | agent-engineering.md | ✅ 已创建 | 2026-04-09 |
-| ai-application | ai-application.md | ✅ 已创建 | 2026-04-09 |
-| openclaw-practices | openclaw-practices.md | ✅ 已创建 | 2026-04-09 |
-| insights | [[insights/insight-20260414-vibe-coding.md]] | ✅ 已创建 | 2026-04-14 |
-| insights | insight-agent-engineering.md | ⏳ 待创建 | - |
+| 方法论 | 核心理念 | 适用场景 |
+|--------|----------|----------|
+| **Vibe Coding** | 规划驱动 + 人机协同 | 快速原型、项目开发 |
+| **Superpowers** | 工程纪律 + TDD | 严谨开发、质量把控 |
+| **TDD Superpowers** | 测试先行 + 持续验证 | 大型项目、复杂系统 |
 
 ---
 
-## TODO
+## 工具链全景图
 
-- [x] Vibe Coding专题 ✅ 2026-04-14
-- [x] Enterprise Refactoring专题 ✅ 2026-04-14
-- [x] AI代码审查 ✅ 2026-04-14
-- [x] AI-TDD实践 ✅ 2026-04-14
-- [x] insight-vibe-coding.md ✅ 2026-04-14
-- [x] insight-agent-engineering.md ✅ 2026-04-21
-- [x] 补充AI公司实体页（Cursor, Anthropic, DeepMind）✅ Cursor 2026-04-21
-- [ ] 同步知乎文章02b-1/02b-2到Wiki
-
----
-
-*维护者: 尼克·弗瑞*
-*最后更新: 2026-04-14*
-
----
-
-## AI时代的PM 🆕
-
-**PM与AI的协作**：如何用AI工具提升PM效率
-
-- [[product-management/ai-era-pm/README|AI时代PM总览]] - PM的核心能力转变
-- [[product-management/ai-era-pm/vibe-coding-for-pm|Vibe Coding for PM]] - PM的自然语言协作
-- [[product-management/ai-era-pm/agent-tools-for-pm|Agent工具实践]] - PM的Agent工具箱
-
-**与其他Topic的关系**：
-- 继承 [[ai-native/ai-programming|Vibe Coding]] 的理念
-- 应用 [[ai-native/agent-engineering|Agent Engineering]] 的技术
-- 面向 [[product-management/product-management-methodology|产品方法论]] 的实践
+```
+┌─────────────────────────────────────────────────────────────┐
+│                        AI 编程工具体系                        │
+├─────────────────────────────────────────────────────────────┤
+│  IDE/编辑器                                                  │
+│  ├── VSCode + Claude/Copilot扩展                            │
+│  ├── Cursor                                                 │
+│  └── Neovim + LazyVim                                       │
+├─────────────────────────────────────────────────────────────┤
+│  CLI工具                                                    │
+│  ├── Claude Code                                            │
+│  ├── Codex CLI                                              │
+│  └── Ollama (本地模型)                                       │
+├─────────────────────────────────────────────────────────────┤
+│  辅助工具                                                    │
+│  ├── Mermaid Chart (架构图)                                 │
+│  ├── NotebookLM (文档理解)                                   │
+│  └── Zread (代码阅读)                                       │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 商业世界模型 🆕
+## AI模型分级（2025-2026）
 
-**面向商业经营决策的仿真模拟器，为经营Agent提供虚拟训练环境**
+| 梯队 | 模型 | 适用场景 |
+|------|------|----------|
+| 第一梯队 | Claude Opus 4.5, Codex 5.1-max, GPT-5.2 | 复杂架构设计、大规模代码生成 |
+| 第二梯队 | Claude Sonnet 4.5, Kimi K2, GLM-4.6 | 常规开发任务 |
+| 第三梯队 | Qwen3, SWE, Grok4 | 简单任务、补全 |
 
-- [[business-world-model/README|商业世界模型总览]] - 核心概念与框架
-- [[business-world-model/causal-inference|因果推断理论]] - Judea Pearl三层框架与四步建模
-- [[business-world-model/jd-pricing-practice|京东定价实践]] - 商业世界模型落地案例
+---
 
-**核心洞察**：预测准确 ≠ 决策准确，商业世界模型必须满足因果逻辑约束
+## 实践案例
+
+1. **Linus Torvalds项目** - Python可视化vibe coding实践
+2. **2万+行代码项目** - AI深度参与的商业项目
+3. **出海项目** - vibe coding + coding agent实战
+4. **Superpowers工作流** - Andrej Karpathy推崇的工程纪律
+
+---
+
+## 关联专题
+
+- [[tech-ai]] - AI技术总览
+- [[ai-native]] - AI Native软件开发
+- [[product-management]] - 产品管理（专题06 VIBE CODING）
+
+---
+
+## 🆕 2026-05-14 新增内容
+
+### 规格驱动开发 (SDD)
+- 📝 [SDD: AI编程时代工程方法论革命](../insights/insight-20260513-spec-driven-development-sdd.md)
+  > "SDD is version control for your thinking" - 当代码可被AI秒级重写时，真正有价值的是代码背后的决策
+
+### 企业级脚手架
+- 📝 [企业级AI Coding脚手架工程化落地](../insights/insight-20260514-enterprise-ai-coding-scaffold.md)
+  > Landing Zone定义"应该有什么"，脚手架解决"如何低成本复制"，二者关系类似"宪法与印刷厂"
+
+### AI后端平台
+- 📝 [InsForge/Modelence AI后端平台解析](../insights/insight-20260512-ai-backend-platform-insforge-modelence.md)
+  > 从面向人类开发者转向面向AI代理，标准化、语义化接口让AI生成的代码可直接在生产环境运行
+
+### 代码知识图谱
+- 📝 [RepoDoc代码知识图谱文档生成](../insights/insight-20260511-code-knowledge-graph-repo-doc.md)
+  > 增量更新可减少70%以上计算资源消耗，语义增强提升文档连贯性
+
+---
+
+## 📊 核心Insight总结
+
+> **"系统 > 提示词"**：
+> - Harness是底座，决定可用性
+> - SDD是方法论，规格驱动开发
+> - Subagent是架构模式，分工优于单干
+> - 记忆是持续能力，需要治理
+
+---
+
+## 情报来源
+
+- [vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) (19k+ stars)
+- [Andrej Karpathy - Superpowers](https://github.com/Kimani54/superpowers)
+- [Cursor-Windsurf-Mastery-Handbook](https://github.com/hamodywe/Cursor-Windsurf-Mastery-Handbook) (企业级AI开发手册)
+- 知乎社区讨论
+
+---
+
+*🕵️ 情报分析师：尼克·弗瑞*
+*最后更新：2026-05-14*
+
+## 自主研究框架 🆕 2026-04-30
+
+**Karpathy Autoresearch - 单GPU自动化研究实验**
+
+- 📝 [Insight: Karpathy Autoresearch](../insights/insight-20260430-karpathy-autoresearch.md)
+
+**核心理念**：AI Agent自主修改→训练→验证→保留/丢弃循环，5分钟/次，睡一觉跑~100次实验
+
+---
+
+## 相关Insights
+
+- AI编程范式迁移：从Vibe Coding到Agentic Engineering (2026-05-12)
+- Agent时代架构师核心能力框架：从工具追逐到系统沉淀 (2026-05-12)
+- DeerFlow 2.0：字节跳动多智能体系统架构深度解析 (2026-05-12)
+- Hermes Agent：自进化AI Agent的突破性实践 (2026-05-13)
+- Spec-Driven Development (SDD)：AI编程时代的工程方法论革命 (2026-05-13)
+- Subagent：AI协作体系的团队化分工革命 (2026-05-12)
+- Terminus-4B：小模型在代码Agent执行任务中的颠覆性潜力研究 (2026-05-14)
+- Harness工程：AI Agent可靠开发的系统方法论 (2026-05-12)
+
+<!-- 自动关联的insights将在这里列出 -->

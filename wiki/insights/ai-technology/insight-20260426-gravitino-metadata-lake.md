@@ -1,4 +1,5 @@
 # Apache Gravitino：AI时代统一元数据湖技术架构
+能力框架: capability-value-closed-loop capability-tech-understanding #capability-risk-control
 
 > **来源**: Get笔记收藏 | **发布时间**: 2026-04-22 | **分类**: AI Technology / Data Infrastructure
 > **Insight ID**: insight-20260426-gravitino-metadata-lake

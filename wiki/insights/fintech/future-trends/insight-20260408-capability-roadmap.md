@@ -1,4 +1,5 @@
 # 金融科技 - 核心能力路线图洞察
+能力框架: capability-requirement-decision capability-product-design #capability-risk-control
 
 > 14天核心洞察、三大演进定律、能力矩阵的深度分析
 

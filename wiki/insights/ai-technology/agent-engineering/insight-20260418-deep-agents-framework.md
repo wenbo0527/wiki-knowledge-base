@@ -1,4 +1,5 @@
 # LangChain Deep Agents：AI Agent从框架期进入产品期
+能力框架: capability-value-closed-loop capability-requirement-decision
 
 > **来源**: Get笔记 - 盯人日报 #043
 > **发布时间**: 2026-04-11

@@ -1,6 +1,7 @@
 # Langfuse深度解析：开源LLM可观测性平台的技术架构与生态优势
 
 > 来源: Get笔记
+> 原始链接: https://mp.weixin.qq.com/s/f418h-yELjM1M70X2ISmcw
 > 导入日期: 2026-05-02
 > 原始ID: 1908707693179340128
 

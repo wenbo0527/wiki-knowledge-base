@@ -1,4 +1,5 @@
 # AI人才战争：创业数学的崩溃
+能力框架: capability-value-closed-loop capability-data-driven
 
 > **来源**: Get笔记 - 盯人日报整理
 > **评分**: ⭐⭐⭐⭐

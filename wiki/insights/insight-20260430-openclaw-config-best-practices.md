@@ -1,4 +1,5 @@
 # OpenClaw 配置文件最佳实践
+能力框架: capability-tech-understanding
 
 > 文档编号: WIKI-DEVELOPER-001
 > 情报来源: OpenClaw官方文档 + 实战经验

@@ -1,4 +1,5 @@
 # a16z Martin Casado × Sarah Wang：AI资本飞轮与投资逻辑
+能力框架: capability-data-driven capability-tech-understanding #capability-risk-control
 
 > **来源**: Get笔记 - 高质量人类谈话库
 > **访谈**: Latent Space

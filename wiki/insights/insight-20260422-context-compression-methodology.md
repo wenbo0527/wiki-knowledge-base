@@ -1,5 +1,7 @@
 # 洞察：上下文压缩方法论 - 五家AI产品对比
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-risk-control
 
+> 原始链接: https://mp.weixin.qq.com/s/h5QyZ07G7Kj9xi2gUTltMw
 > 来源: 微信公众号 - 三元同学 | 发布: 2026-03-31
 
 ---

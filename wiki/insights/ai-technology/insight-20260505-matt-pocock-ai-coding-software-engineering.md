@@ -1,6 +1,8 @@
 # AI Coding时代软件工程本质：为什么基本功是最高杠杆率的武器
+能力框架: capability-requirement-decision capability-tech-understanding
 
 > 来源: Get笔记
+> 原始链接: https://mp.weixin.qq.com/s/39t2eRXI77CBprgKwwNEDg
 > 导入日期: 2026-05-06
 > 原始ID: 1909074447952941352
 

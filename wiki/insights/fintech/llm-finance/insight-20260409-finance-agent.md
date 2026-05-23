@@ -1,4 +1,5 @@
 # 金融科技 - 金融AI Agent洞察
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-risk-control
 
 > 金融Agent市场、场景落地、技术架构、合规安全的深度分析
 

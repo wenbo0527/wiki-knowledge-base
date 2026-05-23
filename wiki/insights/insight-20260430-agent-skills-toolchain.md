@@ -1,4 +1,5 @@
 # 13个让AI Agent能力翻倍的核心Skills
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design
 
 > 情报编号: INTELLIGENCE-20260430-002
 > 情报来源: Get笔记

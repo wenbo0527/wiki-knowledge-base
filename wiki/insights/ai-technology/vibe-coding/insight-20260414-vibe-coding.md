@@ -1,4 +1,5 @@
 # Vibe Coding最佳实践 - 情报洞察
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-risk-control
 
 > 🕵️ 情报洞察
 > 📅 日期：2026-04-14

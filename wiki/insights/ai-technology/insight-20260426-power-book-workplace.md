@@ -1,4 +1,5 @@
 # 职场权力：认知误区与构建方法
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-data-driven
 
 > **来源**: Get笔记·《权力》书籍解读 | **发布时间**: 2026-04-20 | **分类**: Thinking Tools / Career Growth
 > **Insight ID**: insight-20260426-power-book-workplace

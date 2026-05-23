@@ -1,4 +1,5 @@
 # Microsoft New Future of Work 2026：AI驱动的职场变革
+能力框架: capability-requirement-decision capability-data-driven
 
 > **来源**: Microsoft Research
 > **报告**: New Future of Work Report 2025

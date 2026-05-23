@@ -1,4 +1,5 @@
 # 金融科技 - 指标中台洞察
+能力框架: capability-value-closed-loop capability-data-driven
 
 > 指标中台市场、语义层、自助分析平台的核心分析
 

@@ -1,6 +1,8 @@
 # 代码知识图谱在项目文档生成：RepoDoc技术方案与竞品分析
+能力框架: capability-data-driven capability-tech-understanding #capability-risk-control
 
 > 来源: Get笔记
+> 原始链接: https://mp.weixin.qq.com/s/vCkLbVAHcKAfEHT7C_VL0A
 > 导入日期: 2026-05-06
 > 原始ID: 1909074650890091664
 

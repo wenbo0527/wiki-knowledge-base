@@ -1,4 +1,5 @@
 # Agent Engineering 热门话题分析
+能力框架: capability-product-design capability-tech-understanding #capability-risk-control
 
 > **来源**: Hacker News / GitHub / arXiv
 > **搜索日期**: 2026-04-18

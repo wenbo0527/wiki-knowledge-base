@@ -1,6 +1,7 @@
 # 手搓工业级Skill：工程化实战指南
 
 > Insights - Skill工程化
+> 原始链接: https://mp.weixin.qq.com/s/8WMJ2J45-0gg6aM8Tbe4Dw
 > 来源: Skill开发实战指南
 > 标签: #Skill工程化 #Claude-Code #AI编程 #insight
 > 创建: 2026-05-14

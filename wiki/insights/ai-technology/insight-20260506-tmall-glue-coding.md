@@ -1,4 +1,5 @@
 # 天猫"胶水编程"实践深度分析
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design
 
 > 来源: Get笔记
 > 导入日期: 2026-05-06

@@ -1,5 +1,8 @@
 # Harness Engineering：AI Agent的操作系统
 
+> 原始链接: https://mp.weixin.qq.com/s/sVGeofV9uTgvhgR44q8pNA
+能力框架: capability-tech-understanding #capability-risk-control
+
 > 2026年AI工程圈最热话题深度解读
 
 ## 📌 基本信息

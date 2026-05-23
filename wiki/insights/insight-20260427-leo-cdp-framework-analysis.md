@@ -1,4 +1,5 @@
 # LEO CDP Framework 深度案例分析
+能力框架: capability-tech-understanding #capability-data-driven #capability-risk-control
 
 > 来源: https://github.com/trieu/leo-cdp-framework ⭐11
 > 更新: 2026-04-27

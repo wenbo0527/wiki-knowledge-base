@@ -1,4 +1,5 @@
 # 技术选型决策框架 v2.0
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-risk-control
 
 > 来源：文博的隐性经验挖掘
 > 挖掘者：尼克·弗瑞

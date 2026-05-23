@@ -1,4 +1,5 @@
 # 金融科技 - 数据资产价值洞察
+能力框架: capability-value-closed-loop capability-data-driven
 
 > 数据资产化四阶段、价值评估方法论、市场规模的深度分析
 

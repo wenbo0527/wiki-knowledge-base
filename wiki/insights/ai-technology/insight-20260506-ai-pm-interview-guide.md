@@ -1,6 +1,8 @@
 # AI产品经理面试指南：从0到1落地AI产品的核心方法论
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-risk-control #capability-data-driven
 
 > 来源: Get笔记
+> 原始链接: https://mp.weixin.qq.com/s/fC93sjO-57e-MNaI9XgsTA
 > 导入日期: 2026-05-06
 > 原始ID: 1909139421145003704
 

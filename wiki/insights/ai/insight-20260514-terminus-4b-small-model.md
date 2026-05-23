@@ -1,6 +1,7 @@
 # Terminus-4B：小模型在代码Agent中的颠覆性潜力
 
 > Insights - 代码Agent优化
+> 原始链接: https://mp.weixin.qq.com/s/V2UtwwqNBqhfbZC-m3s1iQ
 > 来源: Microsoft Research
 > 标签: #代码Agent #小模型 #执行子代理 #insight
 > 创建: 2026-05-14

@@ -79,11 +79,8 @@
 
 ## 相关Insights
 
-- Jensen Huang × Dwarkesh：TPU竞争、对华芯片与供应链护城河 (20260506)
-- Insight: 吴恩达 - 最快的团队，人人都是产品经理 (20260506)
-- AI大神三大根本性分歧：136条访谈精华提炼 (20260506)
-- Insight: Simon Willison - AI Should Help Us Produce Better Code (20260506)
-- Insight: 《金融产品网络营销管理办法》深度解读 (20260506)
-- Insight: Simon Willison - Subagents 子代理模式 (20260506)
+- PIVOT: LLM Agent 规划与执行对齐框架 (2026-05-13)
+- 企业级AI Coding脚手架：从Landing Zone共识到工程化落地 (2026-05-14)
+- Spec-Driven Development (SDD)：AI编程时代的工程方法论革命 (2026-05-13)
 
 <!-- 自动关联的insights将在这里列出 -->

@@ -1,6 +1,7 @@
 # 桌面应用开发新选择：Electrobun框架
 
 > Insights - 桌面开发
+> 原始链接: https://mp.weixin.qq.com/s/oAXX2TvUaZxwtYvlFzrIhw
 > 来源: Electrobun框架技术解析
 > 标签: #桌面开发 #跨端框架 #Electron #Tauri #insight
 > 创建: 2026-05-14

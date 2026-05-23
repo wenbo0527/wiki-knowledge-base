@@ -1,4 +1,5 @@
 # Insight: 模型稳定性监控是消费金融风控的"第二曲线"
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-risk-control
 
 > **来源**: Wiki专题「模型稳定性评估」综合提炼
 > **日期**: 2026-04-21

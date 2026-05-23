@@ -1,4 +1,5 @@
 # 金融科技 - 金融数据治理洞察
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-data-driven
 
 > 数据治理平台演进、AI赋能、价值驱动转型的深度分析
 

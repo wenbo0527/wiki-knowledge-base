@@ -1,4 +1,5 @@
 # 合规科技 - 金融安全行业洞察
+能力框架: capability-requirement-decision capability-tech-understanding #capability-risk-control
 
 > 监管复杂度、合规成本、RegTech市场的行业洞察
 

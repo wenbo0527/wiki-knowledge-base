@@ -1,4 +1,5 @@
 # Insight: Tech Interview Handbook - 技术面试完全指南
+能力框架: capability-value-closed-loop capability-requirement-decision
 
 > **来源**: GitHub开源项目  
 > **项目**: Tech Interview Handbook  

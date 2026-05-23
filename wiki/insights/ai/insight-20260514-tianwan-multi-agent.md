@@ -1,6 +1,7 @@
 # 天工万象：蚂蚁消金Multi-Agent智能体平台
 
 > Insights - Multi-Agent
+> 原始链接: https://mp.weixin.qq.com/s/Huf3rfXM0hDqRe87VXiftg
 > 来源: 蚂蚁消金前端团队
 > 标签: #Multi-Agent #Agent平台 #insight
 > 创建: 2026-05-14

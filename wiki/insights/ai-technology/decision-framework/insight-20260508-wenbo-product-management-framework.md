@@ -1,4 +1,5 @@
 # 产品管理体系 v2.0
+能力框架: capability-requirement-decision capability-data-driven #capability-risk-control
 
 > 来源：文博的隐性经验挖掘
 > 挖掘者：尼克·弗瑞

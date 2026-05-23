@@ -1,9 +1,9 @@
-# 📚 Wiki 知识库管理细则 v2.0
+# 📚 Wiki 知识库管理细则 v2.4
 
 > 尼克·弗瑞知识管理系统操作手册
-> 版本：v2.3
+> 版本：v2.4
 > 创建时间：2026-04-16
-> 最后更新：2026-04-30
+> 最后更新：2026-05-22
 > 维护者：尼克·弗瑞 🕵️ | 协调者：派蒙（Paimon）🤝
 
 ---
@@ -23,17 +23,28 @@
 | 尼克产出了一个专题 | → 查看 `wiki/topics/` 目录 |
 | 想让尼克定期检查 Wiki 健康度 | → 派蒙触发「Lint 任务」 |
 
-### 1.2 📊 知识库概览
+### 1.2 📊 知识库概览（v2.4更新）
 
-| 类型 | 数量 | 说明 |
-|------|------|------|
-| **Insights** | 34个 | 洞察输出（观点、分析、趋势判断） |
-| **Topics** | 9主目录+20+子专题 | 专题深度研究 |
-| **Entities** | 20个 | 实体档案（公司、产品、人物） |
-| **Concepts** | 7个 | 概念定义 |
-| **Epics** | 32+个 | 需求史诗文档 |
+| 类型 | 数量 | 说明 | 健康度 |
+|------|------|------|:------:|
+| **Insights** | 90+ | 洞察输出（观点、分析、趋势判断） | 🟢 |
+| **Topics** | 236 | 专题深度研究 | 🟡 需精简 |
+| **Entities** | 65 | 实体档案（公司、产品、人物） | 🟡 需补充 |
+| **Concepts** | 13 | 概念定义 | 🔴 严重缺失 |
+| **Sources** | 35 | 原始资料 | 🔴 严重缺失 |
+| **Epics** | 32+ | 需求史诗文档 | 🟢 |
 
 **存储位置**：`/Users/wenbo/Documents/project/Wiki/wiki/`
+
+### 1.2.1 Karpathy LLM Wiki 三层架构对齐
+
+| 层级 | Karpathy定义 | 我们现状 | 对齐状态 |
+|:---:|:---|:---|:---:|
+| **Layer 1** | Raw Sources（原始文档、URL、书籍） | 35个Sources | 🔴 严重不足 |
+| **Layer 2** | The Wiki（LLM生成的Markdown） | Insights/Topics/Entities | 🟡 失衡（Insights过多） |
+| **Layer 3** | The Schema（CLAUDE.md/AGENTS.md） | Concepts/Skills | 🟡 概念缺失 |
+
+**核心问题**：缺乏Sources输入层，导致Insights成为无源之水。
 
 ### 1.3 团队分工
 
@@ -121,6 +132,39 @@ wiki/process/wiki-health-check-report-YYYYMMDD.md  # 手动Lint报告（派蒙�
 │                                                              │
 └─────────────────────────────────────────────────────────────┘
 ```
+
+### S1.1 当前失衡问题（v2.4重点关注）
+
+**Karpathy LLM Wiki Pattern 强调三层架构的健康循环**：
+
+```
+Raw Sources → The Wiki → Schema
+   ↑           ↑          ↑
+  输入层      加工层     规则层
+```
+
+**我们的问题**：
+
+| 层级 | 现状 | 问题 |
+|:---|:---|:---|
+| **Sources（输入）** | 35个 | 🔴 严重不足，缺乏高质量原始资料 |
+| **Wiki（Insights/Topics/Entities）** | 400+ | 🟢 产出丰富，但质量参差不齐 |
+| **Concepts（规则）** | 13个 | 🔴 概念缺失，框架缺乏系统性 |
+
+**核心问题**：
+- ⚠️ **Insights过载**：90+ Insights 但缺乏 Sources 支撑
+- ⚠️ **Topics冗余**：236个 Topics 但很多是低质量
+- ⚠️ **Concepts断链**：没有把 Insights 提炼成 Concepts
+- ⚠️ **Entities薄弱**：65个 Entities 覆盖不足
+
+**纠偏方向**：
+
+| 优先级 | 任务 | 说明 |
+|:---:|:---|:---|
+| 🔴 | **建立Sources收集机制** | 每产出1个Insight，至少对应1个Source |
+| 🟠 | **精简Topics** | 合并重复Topics，删除低质量内容 |
+| 🟠 | **补充Concepts** | 从Insights提炼通用概念 |
+| 🟡 | **强化Entities** | 补充核心公司/人物/产品档案 |
 
 ### S2. Ingest 操作规程
 
@@ -397,6 +441,7 @@ grep "ingest" log.md | wc -l        # Ingest 统计
 | **v2.1** | 2026-04-30 | **新增code-examples代码示例库准入标准、tools工具原型准入标准** | 尼克·弗瑞 |
 | **v2.2** | 2026-04-30 | **新增Code Examples六角质量评价体系** | 尼克·弗瑞 |
 | **v2.3** | 2026-04-30 | **新增Templates四维质量评价体系** | 尼克·弗瑞 |
+| **v2.4** | 2026-05-22 | **对齐Karpathy LLM Wiki三层架构，新增Sources收集机制、纠偏方向** | 尼克·弗瑞 |
 
 ---
 

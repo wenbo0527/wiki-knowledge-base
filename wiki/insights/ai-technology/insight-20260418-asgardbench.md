@@ -1,4 +1,5 @@
 # AsgardBench: 视觉 Grounding 交互式规划基准
+能力框架: capability-requirement-decision capability-data-driven
 
 > **来源**: Microsoft Research Blog
 > **发布时间**: 2026-04-18

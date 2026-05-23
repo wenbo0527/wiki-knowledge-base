@@ -1,6 +1,7 @@
 # Spec-Driven Development (SDD)：AI编程时代的工程方法论革命
 
 > Insights - AI编程工程方法论
+> 原始链接: https://mp.weixin.qq.com/s/hVizUucsy8rwFOUR-VZ6wA
 > 来源: SDD深度解析
 > 标签: #Spec-Driven #AI编程 #工程方法论 #insight
 > 创建: 2026-05-14

@@ -1,4 +1,5 @@
 # 科技AI - Vibe Coding实践洞察
+能力框架: capability-requirement-decision capability-product-design
 
 > Vibe Coding方法论、工具链、实战技巧的深度分析
 

@@ -1,4 +1,5 @@
 # 传统银行 - 营销套件行业洞察
+能力框架: capability-value-closed-loop capability-data-driven
 
 > 银行营销数字化转型、精准营销、营销自动化的行业洞察
 

@@ -1,4 +1,5 @@
 # 金融科技 - 开放平台洞察
+能力框架: capability-tech-understanding #capability-risk-control
 
 > 开放银行市场、低代码平台、生态建设的核心分析
 

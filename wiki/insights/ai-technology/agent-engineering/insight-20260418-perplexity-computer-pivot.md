@@ -1,4 +1,5 @@
 # Perplexity $5亿验证：从搜索到Agent的平台转型
+能力框架: capability-value-closed-loop capability-data-driven
 
 > **来源**: Get笔记 - 盯人日报 #046
 > **发布时间**: 2026-04-15

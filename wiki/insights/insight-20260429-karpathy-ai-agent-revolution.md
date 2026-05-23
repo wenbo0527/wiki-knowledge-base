@@ -1,4 +1,5 @@
 # Insight: Andre Karpathy亲述AI代理革命的范式转变
+能力框架: capability-product-design capability-tech-understanding
 
 > **来源**: Get笔记订阅 · 高质量人类谈话库
 > **原始标题**: Andre Karpathy深度访谈：AI代理时代的工程革命

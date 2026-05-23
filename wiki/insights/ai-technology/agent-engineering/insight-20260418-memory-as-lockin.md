@@ -1,4 +1,5 @@
 # Harrison Chase "记忆即锁定"：Agent时代的新平台战争
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design
 
 > **来源**: Get笔记 - 盯人日报 #044
 > **发布时间**: 2026-04-13

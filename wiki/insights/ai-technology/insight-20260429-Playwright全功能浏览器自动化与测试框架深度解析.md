@@ -1,4 +1,5 @@
 # Insight: Playwright：全功能浏览器自动化与测试框架深度解析
+能力框架: capability-tech-understanding
 
 > **来源**: AI技术
 > **原文标题**: Playwright：全功能浏览器自动化与测试框架深度解析

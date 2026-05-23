@@ -1,6 +1,8 @@
 # Agent后端架构演进：从最小Loop到运行时能力目录的工程化探索
+能力框架: capability-data-driven capability-tech-understanding #capability-risk-control
 
 > 来源: Get笔记
+> 原始链接: https://mp.weixin.qq.com/s/6bKuYLV1E5LGqUEKV0tbtA
 > 导入日期: 2026-05-06
 > 原始ID: 1909139549993996584
 

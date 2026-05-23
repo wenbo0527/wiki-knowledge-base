@@ -1,4 +1,5 @@
 # Pentagon Paradox：Anthropic的矛盾地位
+能力框架: capability-value-closed-loop capability-tech-understanding
 
 > **来源**: Get笔记 - 盯人日报 #045/#044
 > **发布时间**: 2026-04-12~14

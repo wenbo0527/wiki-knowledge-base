@@ -1,6 +1,8 @@
 # Anthropic《Building Effective AI Agents》深度解读：从诊断到架构的极简主义实践
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-data-driven #capability-risk-control
 
 > 来源: Get笔记
+> 原始链接: https://mp.weixin.qq.com/s/aNwDPZlH4Rkuu6M_xjyd7w
 > 导入日期: 2026-05-06
 > 原始ID: 1909140080421878928
 

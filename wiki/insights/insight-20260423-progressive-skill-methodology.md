@@ -1,5 +1,8 @@
 # Insight: 渐进式Skill方法论——AI大规模数据处理的工程实践
 
+> 原始链接: https://mp.weixin.qq.com/s/9e84FGMa3ok1GTaLW07iOw
+能力框架: capability-product-design capability-tech-understanding #capability-data-driven
+
 > **来源**: 前端C罗 公众号
 > **发布时间**: 2026-03-12 09:00
 > **原文链接**: https://mp.weixin.qq.com/s/9e84FGMa3ok1GTaLW07iOw

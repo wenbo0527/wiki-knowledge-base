@@ -1,6 +1,7 @@
 # 从氛围编程到智能体工程：Andrej Karpathy论Software 3.0与计算新范式
 
 > 来源: Get笔记
+> 原始链接: https://mp.weixin.qq.com/s/HTFcXBzYUVHvwShu3Zp-EA
 > 导入日期: 2026-05-02
 > 原始ID: 1908760301160036024
 

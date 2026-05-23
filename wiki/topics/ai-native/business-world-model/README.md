@@ -7,7 +7,7 @@
 ## 元信息
 
 - **创建时间**: 2026-04-18
-- **更新时间**: 2026-04-18
+- **更新时间**: 2026-05-20 (已审核，无需更新)
 - **类型**: subtopic
 - **标签**: #business-world-model #causal-inference #agent-commerce #京东定价
 

@@ -1,4 +1,5 @@
 # 金融科技 - 组织效能洞察
+能力框架: capability-requirement-decision capability-tech-understanding
 
 > 协同市场、数据协同、AI重塑协同的核心分析
 

@@ -1,4 +1,5 @@
 # OpenClaw 代码Agent配置文件最佳实践
+能力框架: capability-requirement-decision capability-tech-understanding #capability-data-driven #capability-risk-control
 
 > 文档编号: WIKI-DEVELOPER-002
 > 情报来源: Get笔记 + OpenClaw官方文档 + 实战经验

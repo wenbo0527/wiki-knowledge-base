@@ -1,4 +1,5 @@
 # Insight: 消费金融风控模型可解释性 — 不是合规成本，是竞争壁垒
+能力框架: capability-value-closed-loop capability-product-design #capability-risk-control
 
 > **来源**: Wiki专题「模型可解释性」综合提炼
 > **日期**: 2026-04-21

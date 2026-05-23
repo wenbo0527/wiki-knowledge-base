@@ -1,4 +1,5 @@
 # OpenClaw vs Deep Agents：开源Agent平台的价值
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-risk-control
 
 > **来源**: Get笔记 - 盯人日报 #043/#044
 > **发布时间**: 2026-04-12~13

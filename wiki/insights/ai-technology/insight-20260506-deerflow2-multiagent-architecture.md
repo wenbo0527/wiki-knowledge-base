@@ -1,6 +1,8 @@
 # DeerFlow 2.0技术架构深度解析：多智能体系统的工程实现与成本优化
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-risk-control #capability-data-driven
 
 > 来源: Get笔记
+> 原始链接: https://mp.weixin.qq.com/s/jrcXbd5IzsCGMIaVL5qYNg
 > 导入日期: 2026-05-06
 > 原始ID: 1909140751510599352
 

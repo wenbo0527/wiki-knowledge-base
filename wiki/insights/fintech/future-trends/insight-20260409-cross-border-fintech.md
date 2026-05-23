@@ -1,4 +1,5 @@
 # 金融科技 - 跨境金融科技洞察
+能力框架: capability-tech-understanding capability-risk-control
 
 > 跨境支付、电商金融、监管合规、技术应用的深度分析
 

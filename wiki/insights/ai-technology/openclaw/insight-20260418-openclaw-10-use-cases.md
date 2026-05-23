@@ -1,4 +1,5 @@
 # OpenClaw龙虾实战：11人阵容与10个使用场景
+能力框架: capability-value-closed-loop capability-requirement-decision
 
 > **来源**: Get笔记 - OpenClaw案例分享
 > **发布时间**: 2026-04-09

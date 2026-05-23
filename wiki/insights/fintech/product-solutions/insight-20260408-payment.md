@@ -1,4 +1,5 @@
 # 互联网金融 - 支付系统行业洞察
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-risk-control
 
 > 云原生架构、聚合支付、数字人民币、支付安全的行业洞察
 

@@ -1,4 +1,5 @@
 # AI PM GitHub优质资源汇总
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design
 
 > **来源**: GitHub 搜索
 > **发布时间**: 2026-04-18

@@ -1,4 +1,5 @@
 # Demo验证框架 v1.1
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-risk-control #capability-data-driven
 
 > 版本: v1.1（基于v2.0挖掘流程 + 行业最佳实践）
 > 创建: 2026-05-09

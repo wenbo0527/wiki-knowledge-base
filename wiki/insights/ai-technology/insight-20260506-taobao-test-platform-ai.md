@@ -1,6 +1,8 @@
 # 淘宝营销会场智能测试平台AI落地实践：基于LLM与多模态Agent的测试智能化
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-risk-control #capability-data-driven
 
 > 来源: Get笔记
+> 原始链接: https://mp.weixin.qq.com/s/QVeetEguVAzGnfrAgWdP3w
 > 导入日期: 2026-05-06
 > 原始ID: 1909139793732811920
 

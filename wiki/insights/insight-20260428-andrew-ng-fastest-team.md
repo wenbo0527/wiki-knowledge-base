@@ -1,5 +1,8 @@
 # Insight: 吴恩达 - 最快的团队，人人都是产品经理
 
+> 原始链接: https://mp.weixin.qq.com/s/oQshIvxH-3GfPSphN7H3RA
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-risk-control
+
 > **来源**: AGI Hunt（微信公众号）| The Batch 编辑信  
 > **作者**: Andrew Ng（吴恩达）  
 > **发布日期**: 2026-04-28 01:44  

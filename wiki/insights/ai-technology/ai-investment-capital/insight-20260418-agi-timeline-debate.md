@@ -1,4 +1,5 @@
 # AGI时间线争论：从2030到永生
+能力框架: capability-value-closed-loop capability-tech-understanding
 
 > **来源**: Get笔记 - 盯人日报整理
 > **评分**: ⭐⭐⭐⭐

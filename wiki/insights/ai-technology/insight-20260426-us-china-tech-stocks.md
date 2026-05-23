@@ -1,4 +1,5 @@
 # 中美科技股估值上涨分析：2026年4月
+能力框架: capability-value-closed-loop capability-requirement-decision
 
 > **来源**: Get笔记·投资分析讨论 | **发布时间**: 2026-04-20 | **分类**: Investment / Tech Analysis
 > **Insight ID**: insight-20260426-us-china-tech-stocks

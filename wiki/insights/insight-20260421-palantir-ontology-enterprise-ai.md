@@ -1,4 +1,5 @@
 # Palantir本体论：企业AI落地的认知地图
+能力框架: capability-requirement-decision capability-data-driven #capability-risk-control
 
 > **情报日期**: 2026-04-21  
 > **来源**: DataFunTalk微信公众号  

@@ -1,4 +1,5 @@
 # Mitchell Hashimoto：AI采纳六阶段模型
+能力框架: capability-value-closed-loop capability-tech-understanding
 
 > 来源：Mitchell Hashimoto 博客 (2026-02-05)
 > 原文：https://mitchellh.com/writing/my-ai-adoption-journey

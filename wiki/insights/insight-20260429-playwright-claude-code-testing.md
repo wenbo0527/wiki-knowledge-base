@@ -1,5 +1,8 @@
 # 洞察：Playwright CLI × Claude Code 企业级自动化测试实践
 
+> 原始链接: https://mp.weixin.qq.com/s/v20wKu5m0f0ivQQimwFREw
+能力框架: capability-value-closed-loop capability-requirement-decision
+
 > **洞察编号**：insight-20260429-playwright-claude-code-testing
 > **来源**：JAVA日知录 微信公众号 (2026-04-24)
 > **原始链接**：https://mp.weixin.qq.com/s/v20wKu5m0f0ivQQimwFREw

@@ -1,6 +1,7 @@
 # Fresh 2 Beta：Deno官方全栈框架
 
 > Insights - 前端框架
+> 原始链接: https://mp.weixin.qq.com/s/-gtFW6yvoYisggJ92Uog8A
 > 来源: Fresh框架解析
 > 标签: #Deno #Fresh #全栈框架 #insight
 > 创建: 2026-05-14

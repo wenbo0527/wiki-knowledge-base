@@ -1,6 +1,7 @@
 # Milvus向量数据库在多Agent系统中的一致性控制
 
 > Insights - 向量数据库
+> 原始链接: https://mp.weixin.qq.com/s/VngLfpqmK9lOe2zM6YBbhw
 > 来源: Milvus技术解析
 > 标签: #向量数据库 #Milvus #多Agent #一致性 #insight
 > 创建: 2026-05-14

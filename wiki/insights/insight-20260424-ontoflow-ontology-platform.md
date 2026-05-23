@@ -1,5 +1,8 @@
 # Insight: OntoFlow 本体建模平台 - 从数据到决策的完整链路
 
+> 原始链接: https://mp.weixin.qq.com/s/WdZ5uk6-bBgncZNbx8iojA
+能力框架: capability-requirement-decision capability-data-driven #capability-risk-control
+
 > **来源**: AbutionGraph (闭雨哲)
 > **发布时间**: 2026-03-28
 > **原文链接**: https://mp.weixin.qq.com/s/WdZ5uk6-bBgncZNbx8iojA

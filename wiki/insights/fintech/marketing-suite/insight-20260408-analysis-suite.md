@@ -1,4 +1,5 @@
 # 互联网金融 - 分析套件行业洞察
+能力框架: capability-requirement-decision capability-data-driven #capability-risk-control
 
 > 数据分析、BI平台、用户洞察的最新趋势与实践
 

@@ -1,6 +1,7 @@
 # AI编码工具的企业级落地：Claude Code与老项目改造实战
 
 > Insights - Claude Code实践
+> 原始链接: https://mp.weixin.qq.com/s/ZGWBrzT-0lxLTrYXfUaSYw
 > 来源: Claude Code企业落地
 > 标签: #Claude-Code #AI-Coding #老项目改造 #insight
 > 创建: 2026-05-14

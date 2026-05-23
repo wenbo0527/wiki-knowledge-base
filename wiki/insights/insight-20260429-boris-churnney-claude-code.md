@@ -1,4 +1,5 @@
 # Insight: Boris Churnney：Claude Code技术与代码审查新范式
+能力框架: capability-tech-understanding
 
 > **来源**: Get笔记订阅 · 高质量人类谈话库
 > **原始标题**: Boris Churnney：从Meta到Anthropic，AI编码工具Claude Code的崛起与软件工程的未来

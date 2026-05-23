@@ -1,4 +1,5 @@
 # 张小珺×洪乐潼 AI for Math访谈笔记
+能力框架: capability-value-closed-loop capability-tech-understanding #capability-risk-control
 
 > 来源: Get笔记-高质量人类谈话库
 > 导入日期: 2026-05-05

@@ -1,6 +1,8 @@
 # Agent时代架构师核心能力框架：从工具追逐到系统沉淀
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-risk-control #capability-data-driven
 
 > 来源: Get笔记
+> 原始链接: https://mp.weixin.qq.com/s/Litoqoj9WHmV1wCnxybdVQ
 > 导入日期: 2026-05-06
 > 原始ID: 1909139523149952696
 

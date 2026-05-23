@@ -1,6 +1,8 @@
 # Anthropic金融Agent深度解析：重构华尔街工作流的10大突破
+能力框架: capability-value-closed-loop capability-tech-understanding #capability-product-design #capability-risk-control
 
 > 来源: Get笔记
+> 原始链接: https://mp.weixin.qq.com/s/xWTcxsmPyxbJtOAclkpA3Q
 > 导入日期: 2026-05-06
 > 原始ID: 1909139213912280496
 

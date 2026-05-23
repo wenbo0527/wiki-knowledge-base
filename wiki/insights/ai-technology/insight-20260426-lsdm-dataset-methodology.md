@@ -1,4 +1,5 @@
 # 精益场景驱动高质量数据集方法论（LSDM）
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-data-driven
 
 > **来源**: Get笔记收藏 | **发布时间**: 2026-04-22 | **分类**: AI Technology / Data Engineering
 > **Insight ID**: insight-20260426-lsdm-dataset-methodology

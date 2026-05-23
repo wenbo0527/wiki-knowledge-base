@@ -1,6 +1,7 @@
 # 企业级AI Coding脚手架：从Landing Zone共识到工程化落地
 
 > Insights - AI Coding工程化
+> 原始链接: https://mp.weixin.qq.com/s/kJk2vei2m4vRda2Ko0LPqQ
 > 来源: 企业级AI Coding实践
 > 标签: #AI-Coding #Landing-Zone #工程化 #insight
 > 创建: 2026-05-14

@@ -1,4 +1,5 @@
 # 传统银行 - 开放银行行业洞察
+能力框架: capability-value-closed-loop capability-risk-control
 
 > 从监管驱动到市场驱动，嵌入式金融的行业洞察
 

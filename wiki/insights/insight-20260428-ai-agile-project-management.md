@@ -1,4 +1,5 @@
 # 💡 Insight: AI驱动的敏捷项目管理趋势
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-data-driven
 
 > **日期**: 2026-04-28
 > **来源**: GitHub项目研究

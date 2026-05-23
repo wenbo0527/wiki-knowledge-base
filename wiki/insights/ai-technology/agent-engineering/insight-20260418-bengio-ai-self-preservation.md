@@ -1,4 +1,5 @@
 # Bengio获OBE后警告：AI出现"自我保存"行为
+能力框架: capability-value-closed-loop capability-tech-understanding #capability-risk-control
 
 > **来源**: Get笔记 - 盯人日报 #048
 > **发布时间**: 2026-04-16

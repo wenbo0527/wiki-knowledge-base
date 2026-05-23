@@ -1,5 +1,8 @@
 # Insight: Apache Gravitino 统一元数据与血缘
 
+> 原始链接: https://mp.weixin.qq.com/s/5YeEahEtZSOmZ4NpIo-bzw
+能力框架: capability-value-closed-loop capability-tech-understanding #capability-risk-control #capability-data-driven
+
 > **来源**：DataFunSummit - 史少锋（Datastrato VP of engineering）
 > **发布时间**：2026-03-25
 > **原文链接**：https://mp.weixin.qq.com/s/5YeEahEtZSOmZ4NpIo-bzw

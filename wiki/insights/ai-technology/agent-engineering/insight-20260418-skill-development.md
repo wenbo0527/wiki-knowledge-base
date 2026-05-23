@@ -1,4 +1,5 @@
 # 大模型AI Skill编写、评测迭代与长链路任务实践经验
+能力框架: capability-value-closed-loop capability-tech-understanding #capability-data-driven #capability-risk-control
 
 > **来源**: Get笔记 - 录音笔记
 > **原始课程**: 2026-04-17 15:16:45

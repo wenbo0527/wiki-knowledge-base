@@ -1,4 +1,5 @@
 # a16z Q1 3000亿创纪录：AI资本集中度的极端信号
+能力框架: capability-value-closed-loop capability-data-driven
 
 > **来源**: Get笔记 - 盯人日报 #043
 > **发布时间**: 2026-04-11

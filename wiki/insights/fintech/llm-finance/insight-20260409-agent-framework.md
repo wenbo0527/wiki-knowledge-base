@@ -1,4 +1,5 @@
 # 科技AI - Agent框架选型洞察
+能力框架: capability-requirement-decision capability-product-design
 
 > Agent系统框架对比、选型决策、工程落地实践
 

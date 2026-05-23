@@ -1,4 +1,5 @@
 # 消费金融 - 智能信贷行业洞察
+能力框架: capability-requirement-decision capability-product-design
 
 > 毫秒级审批、智能决策、实时授信的行业洞察
 

@@ -1,4 +1,5 @@
 # 商业世界模型：因果推断与京东定价实践
+能力框架: capability-value-closed-loop capability-requirement-decision
 
 > **来源**: Get笔记 - 京东定价课程
 > **发布时间**: 2026-04-18

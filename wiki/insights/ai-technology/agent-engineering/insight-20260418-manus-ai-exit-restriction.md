@@ -1,4 +1,5 @@
 # Manus AI出海受挫：中国AI监管从"鼓励出海"到"战略管控"
+能力框架: capability-data-driven capability-tech-understanding
 
 > **来源**: Get笔记 - 盯人日报 #043
 > **发布时间**: 2026-04-12

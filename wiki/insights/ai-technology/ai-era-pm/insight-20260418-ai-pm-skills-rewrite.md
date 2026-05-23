@@ -1,4 +1,5 @@
 # AI PM技能重写：从"定义功能"到"定义边界"
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design
 
 > **来源**: RSS文章 - 不追OpenClaw，就不配做产品经理了吗？
 > **发布时间**: 2026-03

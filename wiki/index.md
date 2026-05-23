@@ -1,8 +1,56 @@
 # 🕵️ 尼克·弗瑞知识维基
 
-- [2026-W19] 本周洞察 (2026-04-27~2026-05-04)
-- [2026-W18] 本周洞察 (2026-04-22~2026-04-29)
+- [2026-W21] 本周洞察 (2026-05-11~2026-05-18)
 > 多Agent协作知识库 - 派蒙（总协调）🤝 尼克·弗瑞（情报）🤝 钟离（技术）🤝 托尼·斯塔克（产品）
+
+**版本**: v4.0 | **更新**: 2026-05-13 | **架构**: 道法术器 + 四层架构 + 混合存储
+
+---
+
+## 📐 核心架构
+
+### 存储方式（混合方案）
+
+| 层级 | 存储方式 | 说明 |
+|:---|:---|:---|
+| **L1-L3** | 物理存放 | 流程/方法论/模板物理存放 |
+| **L4知识** | Tag+链接 | 洞察只做索引，不复制 |
+
+### Tag体系
+
+| Tag类型 | 示例 | 说明 |
+|:---|:---|:---|
+| **能力Tag** | `#capability-data-driven` | 6大能力 |
+| **层级Tag** | `#L1-流程` | 四层 |
+| **类型Tag** | `#insight` `#template` | 洞察/模板/工具 |
+| **领域Tag** | `#domain-fintech` | 金融科技/AI等领域 |
+
+```
+【道】如何成为企业数智化落地的产品搭档
+【法】能力框架（6大通用能力）+ 领域知识
+【术】方法论（6大方法论）
+【器】模板工具 + 流程规范
+```
+
+### 四层架构
+
+| 层级 | 问题 | 说明 |
+|:---:|:---|:---|
+| **L1 流程** | 做什么？ | MECE流程步骤 |
+| **L2 方法** | 怎么做？ | 方法论框架 |
+| **L3 模板** | 用什么？ | 模板工具 |
+| **L4 知识** | 填充什么？ | 案例/实践/法规/业务 |
+
+### 能力框架（骨架）
+
+| 能力 | 核心问题 | 状态 |
+|:---|:---|:---|
+| **01 价值闭环** | 如何衡量？ | 🟡 良好 |
+| **02 需求决策** | 该不该做？ | 🟡 良好 |
+| **03 数据驱动** | 如何闭环？ | 🟠 一般 |
+| **04 产品设计** | 怎么做？ | 🟠 一般 |
+| **05 技术理解** | 能不能做？ | 🟠 一般 |
+| **06 风险防控** | 如何控制？ | 🟠 一般 |
 
 ---
 
@@ -28,12 +76,51 @@
 |------|------|--------|
 | [AGENT_COLLAB_GUIDE.md](AGENT_COLLAB_GUIDE.md) | **核心协作指南** ⭐ | 派蒙 & 尼克 & 钟离 |
 | [projects/README.md](projects/README.md) | 项目总览 | 派蒙 |
-| [WIKI_PRINCIPLES.md](WIKI_PRINCIPLES.md) | ⭐ Wiki知识管理原则 | 尼克 |
+| [WIKI_PRINCIPLES.md](WIKI_PRINCIPLES.md) | ⭐ Wiki知识管理原则 v3.0 | 尼克 |
 | [process/ingest.md](process/ingest.md) | Ingest 流程 | 尼克 |
-| [process/wiki-health-check.md](process/wiki-health-check.md) | Wiki健康走查方案 | 尼克 |
+| [process/wiki-health-check.md](process/wiki-health-check.md) | Wiki健康走查方案 v2.0 | 尼克 |
 | [process/doc-code-review-mechanism.md](process/doc-code-review-mechanism.md) | 产品文档/代码走查机制 | 尼克+钟离+托尼 |
 | [process/maintenance-log.md](process/maintenance-log.md) | Wiki维护日志 | 尼克 |
 | [process/lint.md](process/lint.md) | Lint 检查流程 | 派蒙 |
+
+---
+
+### 📁 能力框架（骨架层）🆕 2026-05-13
+
+> 6大通用能力 × 四层架构（L1流程/L2方法/L3模板/L4知识）
+
+| 能力 | 核心问题 | L1流程 | L2方法 | L3模板 | L4知识 | 综合 |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| **01 价值闭环** | 如何衡量？ | ✅ | 🟡 | ✅ | ✅ | 🟢 良好 |
+| **02 需求决策** | 该不该做？ | ✅ | 🟡 | ✅ | ✅ | 🟢 良好 |
+| **03 数据驱动** | 如何闭环？ | ✅ | 🟡 | ✅ | ✅ | 🟡 良好 |
+| **04 产品设计** | 怎么做？ | 🟡 | 🟡 | ✅ | ✅ | 🟡 良好 |
+| **05 技术理解** | 能不能做？ | 🟡 | 🟡 | ✅ | ✅ | 🟡 良好 |
+| **06 风险防控** | 如何控制？ | 🟡 | 🟡 | ✅ | ✅ | 🟡 良好 |
+
+**状态说明**: ✅完成 🟡基本OK 🟠需补充 🔴严重缺失
+**迁移进度**: 195个insights + 5个文博案例 + 10个模板 + 6对能力关系
+
+**🆕 methodologies-v2/ （新版能力框架）**
+```
+methodologies-v2/
+├── 00-框架总览/
+│   ├── README.md
+│   └── 能力关系网.md      ← 能力间关联
+├── 01-价值闭环/          ← 四层完整 + 关联
+├── 02-需求决策/          ← 四层完整 + 关联
+├── 03-数据驱动/          ← 四层完整 + 关联
+├── 04-产品设计/          ← 四层完整 + 关联
+├── 05-技术理解/          ← 四层完整 + 关联
+└── 06-风险防控/          ← 四层完整 + 关联
+```
+
+**详细文档**:
+| 文档 | 说明 |
+|------|------|
+| [能力框架研究/能力框架体系_v2.0.md](../05_AgentOutput/agent_work/Nick/能力框架研究/能力框架体系_v2.0.md) | 能力框架体系总览 |
+| [能力框架研究/评估体系/知识评估体系_v3.0.md](../05_AgentOutput/agent_work/Nick/能力框架研究/评估体系/知识评估体系_v3.0.md) | 评估体系 |
+| [能力框架研究/评估报告/六大框架评估报告_v3.0.md](../05_AgentOutput/agent_work/Nick/能力框架研究/评估报告/六大框架评估报告_v3.0.md) | 评估报告 |
 
 ---
 
@@ -250,6 +337,14 @@ review-logs/
 | practices/ | 实践指南 | 2026-05-01 |
 | └── [rss-best-practices.md](topics/information-collection/practices/rss-best-practices.md) | RSS最佳实践 | 2026-05-01 |
 
+**共享知识库** [knowledge-base/](topics/knowledge-base/) 📚 🆕 2026-05-18
+| 页面 | 说明 | 更新 | 维护者 |
+|------|------|------|--------|
+| [README.md](topics/knowledge-base/README.md) | **知识库首页** ⭐ | 2026-05-18 | Tony |
+| [接入指南.md](topics/knowledge-base/接入指南.md) | Agent接入规范 | 2026-05-18 | Tony |
+| [架构设计.md](topics/knowledge-base/架构设计.md) | 技术架构详解 | 2026-05-18 | Tony |
+| [评估报告.md](topics/knowledge-base/评估报告.md) | 性能评估报告 | 2026-05-18 | Tony |
+
 **其他专题**
 | 页面 | 说明 | 更新 |
 |------|------|------|
@@ -262,6 +357,27 @@ review-logs/
 
 | 页面 | 日期 | 说明 |
 |------|------|------|
+| [insight-20260329-boris-cherny.md](insights/ai-coding/insight-20260329-boris-cherny.md) | 2026-05-11 | 🆕 ⭐⭐⭐⭐⭐ Boris Cherny：Claude Code之父深度访谈 |
+| [insight-20260328-cursor-team.md](insights/ai-coding/insight-20260328-cursor-team.md) | 2026-05-11 | 🆕 ⭐⭐⭐⭐⭐ Cursor团队：AI编程的未来 |
+| [insight-20260328-sam-altman.md](insights/ai-strategy/insight-20260328-sam-altman.md) | 2026-05-11 | 🆕 ⭐⭐⭐⭐⭐ Sam Altman：算力是最珍贵的商品 |
+| [insight-20260328-jensen-huang.md](insights/ai-strategy/insight-20260328-jensen-huang.md) | 2026-05-11 | 🆕 ⭐⭐⭐⭐⭐ Jensen Huang：Token经济学与AI的未来 |
+| [insight-20260328-tim-sweeney.md](insights/entrepreneurship/insight-20260328-tim-sweeney.md) | 2026-05-11 | 🆕 ⭐⭐⭐⭐ Tim Sweeney：Epic Games创始人的技术哲学 |
+| [insight-20260328-pavel-durov.md](insights/entrepreneurship/insight-20260328-pavel-durov.md) | 2026-05-11 | 🆕 ⭐⭐⭐⭐ Pavel Durov：Telegram创始人的自由与自律哲学 |
+| [insight-20260328-openclaw.md](insights/ai/insight-20260328-openclaw.md) | 2026-05-11 | 🆕 ⭐⭐⭐⭐ OpenClaw：开源AI代理的崛起与争议 |
+| [insight-20260328-dhh.md](insights/technology/insight-20260328-dhh.md) | 2026-05-11 | 🆕 ⭐⭐⭐⭐ DHH：编程是诗 |
+| [insight-20260212-chen-yusen.md](insights/ai/insight-20260212-chen-yusen.md) | 2026-05-11 | 🆕 ⭐⭐⭐⭐ 陈宇森：软件可以3D打印了 |
+| [insight-20250823-tian-gong-wanxiang.md](insights/architecture/insight-20250823-tian-gong-wanxiang.md) | 2026-05-11 | 🆕 ⭐⭐⭐⭐ 天工万象：蚂蚁Multi-Agent平台 |
+| [insight-20260511-everything-claude-code.md](insights/ai-coding/insight-20260511-everything-claude-code.md) | 2026-05-11 | 🆕 ⭐⭐⭐⭐⭐ everything-claude-code：AI编程工具的操作系统 |
+| [insight-20260510-hermes-agent.md](insights/agent/insight-20260510-hermes-agent.md) | 2026-05-11 | 🆕 ⭐⭐⭐⭐⭐ Hermes Agent：自进化革命 |
+| [insight-20260509-sdd.md](insights/ai-coding/insight-20260509-sdd.md) | 2026-05-11 | 🆕 ⭐⭐⭐⭐⭐ Spec-Driven Development：AI编程时代工程方法论 |
+| [insight-20260509-minyin-sdd.md](insights/ai-coding/insight-20260509-minyin-sdd.md) | 2026-05-11 | 🆕 ⭐⭐⭐⭐⭐ 民生银行SDD实践 |
+| [insight-20260509-ai-coding-paradigm.md](insights/ai-coding/insight-20260509-ai-coding-paradigm.md) | 2026-05-11 | 🆕 ⭐⭐⭐⭐ AI编程范式迁移：从代码生成到Agentic Engineering |
+| [insight-20260509-evolution-engine.md](insights/agent/insight-20260509-evolution-engine.md) | 2026-05-11 | 🆕 ⭐⭐⭐⭐ 进化引擎v1.0.2：让AI吃一堑长一智 |
+| [insight-20260509-skillos.md](insights/agent/insight-20260509-skillos.md) | 2026-05-11 | 🆕 ⭐⭐⭐⭐ SkillOS：8B小模型持续学习 |
+| [insight-20260508-meituan-ai-coding.md](insights/ai-coding/insight-20260508-meituan-ai-coding.md) | 2026-05-11 | 🆕 ⭐⭐⭐⭐ 美团AI Coding：31万行零排期 |
+| [insight-20260508-llm-agent-arch.md](insights/agent/insight-20260508-llm-agent-arch.md) | 2026-05-11 | 🆕 ⭐⭐⭐⭐⭐ LLM Agent架构演进：从模型依赖到外部认知基础设施 |
+| [insight-20260506-autoresearch.md](insights/ai-coding/insight-20260506-autoresearch.md) | 2026-05-11 | 🆕 ⭐⭐⭐⭐ Autoresearch：自主改进引擎 |
+| [insight-20260506-anthropic-agent.md](insights/agent/insight-20260506-anthropic-agent.md) | 2026-05-11 | 🆕 ⭐⭐⭐⭐⭐ Anthropic《Building Effective AI Agents》深度解读 |
 | [insight-20260505-dingren-daily-064.md](insights/insight-20260505-dingren-daily-064.md) | 2026-05-05 | 🆕 ⭐⭐⭐⭐⭐ 盯人日报#064：最新情报汇总 |
 | [insight-20260505-zhangxiaojun-hongletong-ai-math.md](insights/insight-20260505-zhangxiaojun-hongletong-ai-math.md) | 2026-05-05 | 🆕 ⭐⭐⭐⭐⭐ 张小珺×洪乐潼：AI for Math深度访谈 |
 | [insight-20260505-dwarksesh-jensen-tpu.md](insights/insight-20260505-dwarksesh-jensen-tpu.md) | 2026-05-05 | 🆕 ⭐⭐⭐⭐⭐ Dwarkesh与黄仁勋对话：TPU竞争与供应链护城河 |

@@ -1,4 +1,5 @@
 # Insight: MuleRun陈宇森：Vibe Coding与Agent创作新范式
+能力框架: capability-requirement-decision capability-tech-understanding #capability-product-design
 
 > **来源**: Get笔记订阅 · 高质量人类谈话库
 > **原始标题**: 访谈MuleRun陈宇森：Claude Code带来Agent创作新范式、未来的软件是日抛式的

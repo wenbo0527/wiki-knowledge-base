@@ -1,5 +1,8 @@
 # Insight: 小红书数据架构演进 - Big AI Data时代的新一代增量计算
 
+> 原始链接: https://mp.weixin.qq.com/s/5BNCt3zmm9ITYx52N98gtg
+能力框架: capability-value-closed-loop capability-data-driven
+
 > **来源**: DataFunTalk（DataFun Summit）  
 > **作者**: 马尔科（吴浩亮）小红书 交易、基础数仓负责人  
 > **发布日期**: 2026-04-27 13:01  

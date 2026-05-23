@@ -1,6 +1,7 @@
 # 如何用AI提效又不把脑子用废：4个具体建议与认知风险解析
 
 > Insights - AI认知科学
+> 原始链接: https://mp.weixin.qq.com/s/Mg78uwSxQTels7UC5X3cNQ
 > 来源: AI认知风险分析
 > 标签: #AI认知 #效率与成长 #insight
 > 创建: 2026-05-14

@@ -1,6 +1,7 @@
 # AI设计神器大PK：主流UI/前端生成工具深度测评
 
 > Insights - AI前端工具
+> 原始链接: https://mp.weixin.qq.com/s/iOnCuI-DR0nlnrPiOPbEsA
 > 来源: 主流AI设计工具横向测评
 > 标签: #AI前端 #UI生成 #工具测评 #insight
 > 创建: 2026-05-14

@@ -1,4 +1,5 @@
 # 金融科技 - 数据安全洞察
+能力框架: capability-value-closed-loop capability-tech-understanding #capability-risk-control
 
 > 数据安全市场规模、隐私计算、数据治理产品化的核心分析
 

@@ -1,4 +1,5 @@
 # 金融科技 - 数字人民币生态洞察
+能力框架: capability-value-closed-loop capability-tech-understanding #capability-risk-control
 
 > CBDC、数字货币、金融基础设施的行业洞察
 

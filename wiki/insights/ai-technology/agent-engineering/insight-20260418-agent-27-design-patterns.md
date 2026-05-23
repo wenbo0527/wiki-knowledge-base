@@ -1,4 +1,5 @@
 # Agent系统的27种设计模式：Harness工程化实践
+能力框架: capability-value-closed-loop capability-product-design #capability-data-driven #capability-risk-control
 
 > **来源**: Get笔记 - 录音笔记
 > **原始课程**: 2026-04-17 16:39:57

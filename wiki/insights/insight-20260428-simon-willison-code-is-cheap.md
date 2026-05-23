@@ -1,4 +1,5 @@
 # Insight: Simon Willison - Writing Code is Cheap 代码变得廉价
+能力框架: capability-value-closed-loop capability-requirement-decision
 
 > **来源**: Simon Willison's Weblog（Agentic Engineering Patterns指南）  
 > **作者**: Simon Willison（Django联合作者）  

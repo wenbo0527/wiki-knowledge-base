@@ -1,4 +1,5 @@
 # 张小珺 × 罗福莉——AI范式已然巨变（商业访谈录 #138）
+能力框架: capability-value-closed-loop capability-requirement-decision
 
 > **来源**: 商业访谈录 #138，张小珺，2026-04-25
 > **嘉宾**: 罗福莉

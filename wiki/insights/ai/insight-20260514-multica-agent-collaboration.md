@@ -1,6 +1,7 @@
 # Multica深度体验：AI代理协作的「分时系统」革命
 
 > Insights - AI协作工具
+> 原始链接: https://mp.weixin.qq.com/s/-BcaGDpkp8ZvDAtTpm3k9A
 > 来源: Multica深度体验
 > 标签: #AI协作 #项目管理 #多Agent #insight
 > 创建: 2026-05-14

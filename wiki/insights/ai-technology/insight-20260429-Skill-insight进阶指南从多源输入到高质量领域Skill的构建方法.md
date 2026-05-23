@@ -1,5 +1,8 @@
 # Insight: Skill-insight进阶指南：从多源输入到高质量领域Skill的构建方法
 
+> 原始链接: https://mp.weixin.qq.com/s/9jSF7CpH8DO15bzX2R64sg
+能力框架: capability-tech-understanding
+
 > **来源**: AI技术
 > **原文标题**: Skill-insight进阶指南：从多源输入到高质量领域Skill的构建方法
 > **日期**: 2026-04-29

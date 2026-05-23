@@ -1,50 +1,61 @@
-# AI Agent
+# AI Agent 技术 Topic 索引
 
-> 自动生成框架 | 生成时间: 2026-04-29
+> 版本：v1.0
+> 更新：2026-05-15
+> 负责人：尼克·弗瑞
 
-## 主题概述
-
-ai-agent 相关内容的综合主题。
-
-## 核心概念
-
-| 概念 | 说明 |
-|------|------|
-| **Sub-Agent** | 隔离式并行架构，适用于独立任务 |
-| **Agent Team** | 共享式协作架构，适用于强依赖任务 |
-| **Context Boundary** | 决定架构选择的核心维度 |
-| **Graph Memory** | 基于图的智能体记忆技术 |
-
-## 最佳实践
-
-- **架构选型判断框架**：子任务是否需共享上下文 → 决定Sub-Agent或Agent Team
-- **上下文卫生管理**：Subagent作为独立工作区，避免80k token噪音积累
-- **Graph Memory**：显式关系建模，支持因果推理和多跳查询
-
-## 工具资源
-
-| 工具 | 用途 |
-|------|------|
-| **Mem0** | 全流程图记忆管理，时序感知 |
-| **Graphiti(Zep)** | 时序知识图谱，双时间建模 |
-| **Cognee** | 可查询图嵌入，复杂推理 |
-| **LangMem** | LangChain生态集成 |
-
-## 相关Insights
-
-- Insight: 吴恩达 - 最快的团队，人人都是产品经理 (20260506)
-- Insight: Simon Willison - Linear Walkthroughs 代码理解模式 (20260506)
-- Insight: Simon Willison - Hoard Things You Know 如何囤积知识 (20260506)
-- Insight: UModel - 用知识图谱构建 Agent 原生的代码理解能力 (20260506)
-- AI大神三大根本性分歧：136条访谈精华提炼 (20260506)
-- Insight: Simon Willison - Writing Code is Cheap 代码变得廉价 (20260506)
-- Insight: Simon Willison - AI Should Help Us Produce Better Code (20260506)
-- Insight: 小红书数据架构演进 - Big AI Data时代的新一代增量计算 (20260506)
-- Insight: Simon Willison - Anti-patterns 反模式警示 (20260506)
-- Insight: Agent+MCP+Skills 重构自动化测试 (20260506)
-- Insight: Simon Willison - Subagents 子代理模式 (20260506)
-
-<!-- 自动关联的insights将在这里列出 -->
 ---
 
-*本框架由 B2 每日主题扩展脚本自动生成*
+## Topic 列表
+
+| 编号 | Topic | 标签 | 状态 |
+|:---:|:---|:---|:---:|
+| 01 | [AI 基础核心概念](./topic-01-ai-fundamentals.md) | AI基础 / 术语边界 / 部署形态 | ✅ |
+| 02 | [Agent 核心架构与产品设计](./topic-02-agent-architecture.md) | Agent / Plan-Act-Reflect / 记忆体系 | ✅ |
+| 03 | [RAG 全链路产品体系](./topic-03-rag-architecture.md) | RAG / 知识召回 / 向量检索 | ✅ |
+| 04 | [多 Agent 协作架构](./topic-04-multi-agent.md) | 多Agent / 主从式 / 对等式 | ✅ |
+| 05 | [AI 产品工程化与稳定性治理](./topic-05-ai-engineering.md) | 工程化 / 幻觉处理 / 限流熔断 | ✅ |
+| 06 | [企业 Agent 平台业务架构](./topic-06-enterprise-agent.md) | 企业平台 / 冷启动 / 五大能力域 | ✅ |
+
+---
+
+## 学习路径
+
+### 入门路径（模块一 → 模块三）
+
+```
+topic-01 基础概念 → topic-02 Agent架构 → topic-03 RAG体系
+```
+
+### 进阶路径（模块四 → 模块六）
+
+```
+topic-04 多Agent → topic-05 工程化治理 → topic-06 企业平台
+```
+
+### 专项深入
+
+| 方向 | 推荐 Topic |
+|:---|:---|
+| RAG 开发 | topic-03 RAG |
+| Agent 开发 | topic-02 Agent架构 |
+| 平台建设 | topic-06 企业平台 |
+| 稳定性治理 | topic-05 工程化 |
+
+---
+
+## 知识点覆盖
+
+| 模块 | Topic | 知识点数 |
+|:---|:---|:---:|
+| 模块一 | topic-01 AI基础 | 8 |
+| 模块二 | topic-03 RAG | 13 |
+| 模块三 | topic-02 Agent架构 | 11 |
+| 模块四 | topic-04 多Agent | 5 |
+| 模块五 | topic-05 工程化 | 6 |
+| 模块六 | topic-06 企业平台 | 2 |
+| **总计** | | **45** |
+
+---
+
+归档：topics/ai-agent/

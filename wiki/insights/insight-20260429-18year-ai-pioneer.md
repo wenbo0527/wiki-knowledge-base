@@ -1,4 +1,5 @@
 # Insight: 18岁AI先锋金豪：主动式AI、记忆系统与模型人格
+能力框架: capability-value-closed-loop capability-requirement-decision
 
 > **来源**: Get笔记订阅 · 高质量人类谈话库
 > **原始标题**: 18岁AI先锋金豪深度访谈：主动式AI、模型人格与AGI未来路径

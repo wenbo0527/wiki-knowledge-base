@@ -1,4 +1,5 @@
 # 钟离任务情报增强包：架构·代码·编排最佳实践
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-data-driven #capability-risk-control
 
 > 来源: 钟离SOP文档 + Get笔记情报整合
 > 导入日期: 2026-05-06

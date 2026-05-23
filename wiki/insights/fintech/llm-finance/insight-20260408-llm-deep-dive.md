@@ -1,4 +1,5 @@
 # 金融科技 - 大模型深度洞察
+能力框架: capability-requirement-decision capability-tech-understanding #capability-risk-control
 
 > 大模型金融应用成熟度曲线、技术演进、市场规模的深度分析
 

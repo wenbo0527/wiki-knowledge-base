@@ -1,6 +1,7 @@
 # Agent Memory深度解析：从存储到治理的生产级架构
 
 > Insights - Agent Memory架构
+> 原始链接: https://mp.weixin.qq.com/s/tVUVRCWUVj31Pjobjol2bA
 > 来源: Agent Memory深度解析
 > 标签: #Agent-Memory #生产级架构 #记忆治理 #insight
 > 创建: 2026-05-14

@@ -1,6 +1,7 @@
 # 苍何AI视频团队入驻腾讯WorkBuddy：Multi-Agent协作重构短视频生产
 
 > Insights - Multi-Agent实践
+> 原始链接: https://mp.weixin.qq.com/s/zvFr25XDPORPVtYN4hS7Cw
 > 来源: 苍何AI视频团队
 > 标签: #Multi-Agent #AI视频 #Agent协作 #insight
 > 创建: 2026-05-14

@@ -1,4 +1,5 @@
 # 消费金融行业全景分析
+能力框架: capability-tech-understanding capability-risk-control
 
 > **来源**: Wiki知识库整理
 > **创建时间**: 2026-04-18

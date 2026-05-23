@@ -1,6 +1,7 @@
 # SKILL系统深度解析：渐进式披露机制与OpenCode实现架构
 
 > 来源: Get笔记
+> 原始链接: https://mp.weixin.qq.com/s/ZRCmGlXPUOmUkV6VQjDWLA
 > 导入日期: 2026-05-02
 > 原始ID: 1908704199224113336
 

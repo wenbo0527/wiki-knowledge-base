@@ -1,4 +1,5 @@
 # 归因分析Portfolio案例深度解析
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-data-driven
 
 > 来源: Daniel Guidi - delivery-industry-growth-analytics
 > 更新: 2026-04-27

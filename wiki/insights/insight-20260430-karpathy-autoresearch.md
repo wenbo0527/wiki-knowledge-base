@@ -1,4 +1,5 @@
 # Insight: Karpathy Autoresearch - 自主AI研究框架
+能力框架: capability-tech-understanding #capability-risk-control
 
 > **来源**: [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
 > **发布时间**: 2026-03-06

@@ -1,4 +1,5 @@
 # 挖掘过程复盘：v1.0 vs v2.0
+能力框架: capability-requirement-decision capability-tech-understanding
 
 > 文博隐性知识挖掘过程优化
 > 日期：2026-05-08

@@ -1,4 +1,5 @@
 # Zuckerberg AI克隆：AI权力形态的质变
+能力框架: capability-data-driven capability-tech-understanding
 
 > **来源**: Get笔记 - 盯人日报 #046
 > **发布时间**: 2026-04-14

@@ -1,4 +1,5 @@
 # GitHub金融AI PM作品集标杆案例分析
+能力框架: capability-data-driven capability-tech-understanding #capability-risk-control
 
 > 来源: 深度调研GitHub金融科技/数据平台PM作品集
 > 更新: 2026-04-27

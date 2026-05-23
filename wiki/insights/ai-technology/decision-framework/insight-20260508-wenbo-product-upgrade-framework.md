@@ -1,4 +1,5 @@
 # 产品升级方法论 v1.0
+能力框架: capability-value-closed-loop capability-requirement-decision
 
 > 来源：文博的隐性经验挖掘（营销画布升级案例）
 > 挖掘者：尼克·弗瑞

@@ -1,6 +1,7 @@
 # OpenHarness深度解析：AI Agent轻量化安全架构的革命性突破
 
 > 来源: Get笔记
+> 原始链接: https://mp.weixin.qq.com/s/h4-VIy2fH1P5M3Pe_pgmOg
 > 导入日期: 2026-05-02
 > 原始ID: 1908697301506491744
 

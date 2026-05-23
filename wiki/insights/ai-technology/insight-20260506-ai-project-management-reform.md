@@ -1,6 +1,8 @@
 # AI时代的项目管理重构：从去流程化到Jira控制系统的升级路径
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-risk-control #capability-data-driven
 
 > 来源: Get笔记
+> 原始链接: https://mp.weixin.qq.com/s/EqQ4AnEkNO1njTe8wdYePQ
 > 导入日期: 2026-05-06
 > 原始ID: 1909139876411012792
 

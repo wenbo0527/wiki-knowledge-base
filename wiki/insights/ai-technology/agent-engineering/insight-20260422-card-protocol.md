@@ -1,5 +1,7 @@
 # Insight: 卡片式对话协议方案 - 淘宝实践
+能力框架: capability-product-design capability-tech-understanding
 
+> 原始链接: https://mp.weixin.qq.com/s/-aPwcWt076X0B-sEXIeTAg
 > 来源: 大淘宝技术 | 作者: 无二 | 发布时间: 2026-04-17
 
 ---

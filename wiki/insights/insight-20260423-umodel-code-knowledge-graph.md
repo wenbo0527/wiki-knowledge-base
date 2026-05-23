@@ -1,5 +1,8 @@
 # Insight: UModel - 用知识图谱构建 Agent 原生的代码理解能力
 
+> 原始链接: https://mp.weixin.qq.com/s/VE8CKfUUj-548DF81ZuLLg
+能力框架: capability-value-closed-loop capability-tech-understanding #capability-risk-control
+
 > **来源**: 阿里云云原生（张城/元乙）  
 > **发布日期**: 2026-04-23 18:31  
 > **评级**: ⭐⭐⭐⭐⭐ (5/5)  

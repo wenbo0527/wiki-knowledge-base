@@ -1,4 +1,5 @@
 # Insight: Simon Willison - Linear Walkthroughs 代码理解模式
+能力框架: capability-tech-understanding
 
 > **来源**: Simon Willison's Weblog（Agentic Engineering Patterns指南）  
 > **作者**: Simon Willison（Django联合作者）  

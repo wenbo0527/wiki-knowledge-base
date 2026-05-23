@@ -1,4 +1,5 @@
 # Insight: Agent系统27种设计模式与Harness工程化
+能力框架: capability-value-closed-loop capability-tech-understanding #capability-product-design #capability-risk-control #capability-data-driven
 
 > **来源**: Get笔记订阅课程录音
 > **原始标题**: Agent系统的27种设计模式与Harness工程化分享

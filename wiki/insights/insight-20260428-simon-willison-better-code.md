@@ -1,4 +1,5 @@
 # Insight: Simon Willison - AI Should Help Us Produce Better Code
+能力框架: capability-value-closed-loop capability-product-design
 
 > **来源**: Simon Willison's Weblog（Agentic Engineering Patterns指南）  
 > **作者**: Simon Willison（Django联合作者）  

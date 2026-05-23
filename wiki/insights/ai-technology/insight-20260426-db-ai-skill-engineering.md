@@ -1,4 +1,5 @@
 # 数据库AI Skill工程化：从Demo到可用的距离
+能力框架: capability-requirement-decision capability-tech-understanding #capability-product-design #capability-risk-control
 
 > **来源**: 见微·架构与方法 | **发布时间**: 2026-04-25 | **分类**: AI Technology / Skill Engineering
 > **Insight ID**: insight-20260426-db-ai-skill-engineering

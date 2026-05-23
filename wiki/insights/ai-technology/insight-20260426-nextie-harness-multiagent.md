@@ -1,4 +1,5 @@
 # 明日新程与Harness群体多智能体赛道洞察
+能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-risk-control
 
 > **来源**: 雷峰网 | **发布时间**: 2026-04-13 | **分类**: AI Technology / Multi-Agent Systems
 > **Insight ID**: insight-20260426-nextie-harness-multiagent

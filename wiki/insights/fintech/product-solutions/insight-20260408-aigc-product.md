@@ -1,4 +1,5 @@
 # 金融科技 - AIGC产品洞察
+能力框架: capability-product-design capability-tech-understanding
 
 > AIGC市场格局、产品设计方法论、金融应用场景的核心分析
 
