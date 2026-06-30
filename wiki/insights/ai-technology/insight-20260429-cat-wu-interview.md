@@ -1,5 +1,4 @@
 # [访谈笔记] Cat Wu：Anthropic产品团队如何比所有人都快
-能力框架: capability-value-closed-loop capability-tech-understanding
 
 > 来源: Get笔记 EJ9zwkln
 > 导入日期: 2026-05-02

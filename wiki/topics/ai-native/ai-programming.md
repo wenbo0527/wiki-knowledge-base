@@ -208,7 +208,12 @@ Review这段代码：
 - [[agent-engineering]] - Agent工程
 - [[ai-application]] - AI行业应用
 
+## 相关洞察
+
+- [[openclaw-practices/insight-20260620-daoge-kb-2026]] - 刀哥 KB 2026 专题：Claude Code + OpenClaw 双主线之年
+- [[openclaw-practices/insight-20260620-daoge-kb]] - 刀哥 KB 全量分析：1132 篇深度文
+
 ---
 
-*最后更新: 2026-04-09*
+*最后更新: 2026-06-20*
 *维护者: 尼克·弗瑞*

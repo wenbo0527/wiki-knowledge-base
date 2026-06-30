@@ -99,11 +99,16 @@
 - [[rag]] - RAG技术
 - [[karpathy]] - Andrej Karpathy
 
+## 相关洞察
+
+- [[knowledge-management/insight-20260620-subscribed-kbs]] - 13 个订阅 KB 三梯队全景：核心 6 / 价值 4 / 边缘 3
+
 ## 来源引用
 
 - [Karpathy LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
+- 刀哥 AI 学习笔记（2026-06-20 全量抓取）
 
 ---
 
-*最后更新: 2026-04-08*
+*最后更新: 2026-06-20*
 *维护者: 尼克·弗瑞*
