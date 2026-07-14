@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EnvironmentVariables</key>
+	<dict>
+		<key>HOME</key>
+		<string>/Users/wenbo</string>
+		<key>OPENCLAW_HOME</key>
+		<string>/Users/wenbo/.openclaw</string>
+		<key>PATH</key>
+		<string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+	</dict>
+	<key>Label</key>
+	<string>com.nickfury.daily-tech-push</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/usr/bin/python3</string>
+		<string>/Users/wenbo/.openclaw/workspace/agents/nick_fury/scripts/daily_tech_report.py</string>
+	</array>
+	<key>RunAtLoad</key>
+	<false/>
+	<key>StandardErrorPath</key>
+	<string>/tmp/daily_tech_push.stderr.log</string>
+	<key>StandardOutPath</key>
+	<string>/tmp/daily_tech_push.stdout.log</string>
+	<key>StartCalendarInterval</key>
+	<dict>
+		<key>Hour</key>
+		<integer>8</integer>
+		<key>Minute</key>
+		<integer>35</integer>
+	</dict>
+	<key>UMASK</key>
+	<integer>22</integer>
+	<key>UserName</key>
+	<string>wenbo</string>
+	<key>WorkingDirectory</key>
+	<string>/Users/wenbo/.openclaw/workspace/agents/nick_fury</string>
+</dict>
+</plist>

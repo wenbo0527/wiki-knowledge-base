@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EnvironmentVariables</key>
+	<dict>
+		<key>HOME</key>
+		<string>/Users/wenbo</string>
+		<key>OPENCLAW_HOME</key>
+		<string>/Users/wenbo/.openclaw</string>
+		<key>PATH</key>
+		<string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+		<key>UMASK</key>
+		<string>022</string>
+	</dict>
+	<key>Label</key>
+	<string>com.nickfury.wiki-auto-commit</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/bin/bash</string>
+		<string>/Users/wenbo/.nickfury/scripts/wiki_auto_commit.sh</string>
+	</array>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>StandardErrorPath</key>
+	<string>/Users/wenbo/.nickfury/logs/wiki_auto_commit_error.log</string>
+	<key>StandardOutPath</key>
+	<string>/Users/wenbo/.nickfury/logs/wiki_auto_commit_launchd.log</string>
+	<key>StartInterval</key>
+	<integer>1800</integer>
+	<key>UMASK</key>
+	<integer>22</integer>
+	<key>UserName</key>
+	<string>wenbo</string>
+</dict>
+</plist>

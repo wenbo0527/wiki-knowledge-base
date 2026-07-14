@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EnvironmentVariables</key>
+	<dict>
+		<key>HOME</key>
+		<string>/Users/wenbo</string>
+		<key>OPENCLAW_HOME</key>
+		<string>/Users/wenbo/.openclaw</string>
+		<key>PATH</key>
+		<string>/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+		<key>UMASK</key>
+		<string>022</string>
+	</dict>
+	<key>Label</key>
+	<string>com.nickfury.etf.hegang.report</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/usr/bin/python3</string>
+		<string>/Users/wenbo/.openclaw/workspace/agents/nick_fury/skills/rss-intelligence/scripts/etf_hegang_report.py</string>
+		<string>--date</string>
+		<string>2026-06-26</string>
+		<string>--output</string>
+		<string>/Users/wenbo/.openclaw/workspace/agents/nick_fury/data/etf_hegang_report.md</string>
+	</array>
+	<key>StandardErrorPath</key>
+	<string>/tmp/etf_hegang_report_error.log</string>
+	<key>StandardOutPath</key>
+	<string>/tmp/etf_hegang_report.log</string>
+	<key>StartCalendarInterval</key>
+	<dict>
+		<key>Hour</key>
+		<integer>8</integer>
+		<key>Minute</key>
+		<integer>35</integer>
+	</dict>
+	<key>UMASK</key>
+	<integer>22</integer>
+	<key>UserName</key>
+	<string>wenbo</string>
+	<key>WorkingDirectory</key>
+	<string>/Users/wenbo/.openclaw/workspace/agents/nick_fury/skills/rss-intelligence</string>
+</dict>
+</plist>

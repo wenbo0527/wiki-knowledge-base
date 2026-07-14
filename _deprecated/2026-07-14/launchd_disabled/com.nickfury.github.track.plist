@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EnvironmentVariables</key>
+	<dict>
+		<key>HOME</key>
+		<string>/Users/wenbo</string>
+		<key>OPENCLAW_HOME</key>
+		<string>/Users/wenbo/.openclaw</string>
+		<key>PATH</key>
+		<string>/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+		<key>UMASK</key>
+		<string>022</string>
+	</dict>
+	<key>Label</key>
+	<string>com.nickfury.github.track</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/usr/bin/python3</string>
+		<string>/Users/wenbo/.openclaw/workspace/agents/nick_fury/skills/rss-intelligence/scripts/github_tracker.py</string>
+		<string>scan</string>
+	</array>
+	<key>StandardErrorPath</key>
+	<string>/tmp/github_track_error.log</string>
+	<key>StandardOutPath</key>
+	<string>/tmp/github_track.log</string>
+	<key>StartCalendarInterval</key>
+	<dict>
+		<key>Hour</key>
+		<integer>1</integer>
+		<key>Minute</key>
+		<integer>30</integer>
+	</dict>
+	<key>UMASK</key>
+	<integer>22</integer>
+	<key>UserName</key>
+	<string>wenbo</string>
+	<key>WorkingDirectory</key>
+	<string>/Users/wenbo/.openclaw/workspace/agents/nick_fury/skills/rss-intelligence</string>
+</dict>
+</plist>
