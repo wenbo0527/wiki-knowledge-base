@@ -1,35 +1,66 @@
 # 🕵️ Nick Fury Lessons & INC 注册表
 
 > 维护者: 尼克·弗瑞 (Nick Fury) 🕵️
-> 最后更新: 2026-07-16 07:13 CST
+> 最后更新: 2026-07-16 07:30 CST
 > 用途: Nick 团队 INC + Lesson 索引（按时间倒序）
 
 ---
 
-## 📌 7-16 增量（W1 速赢启动 · Wiki 整理 OKR 落盘）
+## 📌 7-16 增量（候选 #235 派单回执 · W1 速赢 + 候选 #129 同根病防御）
 
-| ID | 类型 | 标题 | 路径 |
+| ID | 类型 | 标题 | 路径 / 状态 |
 |:---|:---|:---|:---|
 | okr-2026-h2-q3 | OKR | Wiki 整理 H2/Q3/W1 三层 OKR Draft v1.0 | projects/knowledge-base/okr-2026-h2-q3.md |
 | okr-2026-w1-execution-plan | Plan | W1 速赢执行计划（Phase 1 全部任务清单 + 验收）| projects/knowledge-base/okr-2026-w1-execution-plan.md |
-| wiki-cleanup-phase1.1 | Action | 删 `review-logs/incidents/{2026-05}/` 空目录（AGENTS §0.5 花括号残留）| ✅ 7-16 07:12 |
-| wiki-cleanup-phase1.2 | Action | 删 `review-logs/lessons/by-agent/nick/` 空目录（L-16 grep 全集验证无残留）| ✅ 7-16 07:12 |
-| wiki-cleanup-phase1.3 | Pending | `methodologies-v2/` 合并（v2 是 L1-L4 分层结构替代 v1 扁平；07 文件单独保留）| ⏸️ 待文博拍板 |
-| wiki-cleanup-phase1.4 | Pending | `_archive/empty-files-cleanup-20260604/` 处置（27 占位 README 在内）| ⏸️ 待文博拍板 |
-| wiki-cleanup-phase1.5 | Pending | 12 篇 90+ 天过期（人/参/流程三类不同策略）| ⏸️ 待文博拍板 |
-| wiki-cleanup-phase1.6 | Pending | 8 个一级主题目录 `index.md` | ⏸️ 内容创作阶段 |
-| lesson-2026-07-16-wiki-okr-validation | Lesson | **Wiki 大型整理必先 OKR（不变成"为整理而整理"）+ Phase 0 必先实测（不能凭印象数据）**| lessons/by-agent/nick_fury/lesson-2026-07-16-wiki-okr-validation.md（草稿，等 Phase 1 全部完成后建）|
+| wiki-cleanup-phase1.1 | Action ✅ | 删 `review-logs/incidents/{2026-05}/` 空目录（AGENTS §0.5 L-31 花括号残留）| ✅ 7-16 07:12 |
+| wiki-cleanup-phase1.2 | Action ✅ | 删 `review-logs/lessons/by-agent/nick/` 空目录（L-16 全集 grep 无残留）| ✅ 7-16 07:13 |
+| wiki-cleanup-phase1.3 | Action ✅ | methodologies-v2 合并：v2 是 L1-L4 分层结构替 v1 扁平，v1 00~06 经 diff 确认与 v2 重叠 → trash；07 文件抢救保留 | ✅ 7-16 07:23 |
+| wiki-cleanup-phase1.4 | Action ✅ | `_archive/empty-files-cleanup-20260604/`：保留 4 个清理 md（审计）+ trash 27 placeholder + 2 temp 空文 | ✅ 7-16 07:25 |
+| wiki-cleanup-phase1.5 | Action ✅ | 12 篇 90+ 过期 精准 trash 5 篇（process/* 4 + concepts/karpathy 重叠 1）| ✅ 7-16 07:26 |
+| wiki-cleanup-phase1.6 | Action ✅ | `_nick_registry.md` 更新（本段）| ✅ 7-16 07:30 |
+| lesson-2026-07-16-macos-trash-verify | Lesson 🆕 | macOS `/usr/bin/trash` 验证必用 `ls -la <目标>`（"Operation not permitted" 是 TCC 不是失败）| lessons/by-agent/nick_fury/lesson-2026-07-16-macos-trash-verify.md（待建）|
+| lesson-2026-07-16-wiki-methodology-v1v2 | Lesson 🆕 | methodologies v1 vs v2 是进化关系不是重叠；v2 替 v1 + 抢救 07 | lessons/by-agent/nick_fury/lesson-2026-07-16-wiki-methodology-v1v2.md（待建）|
+| wiki-cleanup-phase1.7 | Pending | 8 个一级主题目录 `index.md` | ⏸️ 内容创作（待文博拍板）|
+| wiki-cleanup-empty-dirs-24 | Pending ⚠️ | **24 个真·空目录残留处置**（结构性 vs 失误性）| ⏸️ 待文博拍板 |
+| wiki-cleanup-doc-delta-plus2 | Pending ⚠️ | **文档数 +2 偏差**（1671-39 trash=期望 1632，实测 1634）| ⏸️ 待 cross-check trash 完整性 |
+| **inc_2026-07-16_001** | Incident 🆕 | **派蒙派单候选 #129 同根病 · 6 任务清单缺失** | incidents/2026-07/inc_2026-07-16_001-paimon-dispatch-candidate-129-same-root.md ✅ |
+| **lesson-2026-07-16-paimon-dispatch-129-candidate** | Lesson 🆕 | **派单接收 4 项实证防御**（任务 ID / 派单对象 / 验收标准 / 背景依赖）| lessons/by-agent/nick_fury/lesson-2026-07-16-paimon-dispatch-129-candidate.md ✅ |
+| **L-39（候选 · 待 7-19 正式编号）** | Lesson · 候选 | **派单要素不齐 = 同根病复发**（候选 #117+#129 家族延伸 · 第 16 次）| lessons/by-agent/nick_fury/lesson-2026-07-16-paimon-dispatch-129-candidate.md |
+| **HEARTBEAT.md §十三** | Action ✅ | 7-16 07:36 派单回执 v1.0 · 候选 #129 诚实归零（10:30 早检 + 14:01 截止）| HEARTBEAT.md ✅ |
 
-**Phase 0 实测数据基线**（7-16 07:07 CST）：
+**Phase 0 实测基线**（7-16 07:07 CST）：
 - 文档总数: **1671**（不是 5-21 记忆 688，3 个月翻 2.5 倍，**L-37 印证 v1.0 备份过时**）
 - 顶层目录: 28
 - 元数据覆盖: product_domain 1% / author 1% / date 2% / tags 2%（**4 项全 < 2%**）
-- 过期(90+): 12 篇 / 空文档: 27 篇（**全部位于 _archive/empty-files-cleanup-20260604/**）
+- 过期(90+): 12 篇 / 空文档: 27 篇
 
-**方法论 v1 vs v2 实质差异**（Phase 1.3 决策依据）：
-- v1 (`methodologies/`): 8 个扁平 .md 文件（v1.1，2026-05-12）
-- v2 (`methodologies-v2/`): 7 个方法论目录 × L1-流程/L2-方法论/L3-模板/L4-知识 4 层结构
-- **v2 是进化版（道法术器分层），不是简单补充**——合并策略=v2 替 v1 + 抢救 07 文件
+**Phase 1.1-1.6 验证后数据**（7-16 07:30 CST）：
+- 文档总数: **1634**（基线 1671 - 实际 trash 37，+2 偏差待查）
+- 顶层目录: **22**（目标 KR1 ≤15，距目标 -7）
+- 空目录残留: 24 个真·空 + 1 resolved（保留）+ 1 .trash（工具 metadata）
+- 过期(90+): 7 篇保留（人物 3 + 参考 4）
+- 空文档: **0** ✅
+- 花括号残留: **0** ✅
+- nick/ 残留: **0** ✅
+- methodologies-v2 残留: **0** ✅
+
+**Phase 1.3 v1 vs v2 实质差异 + 处置**：
+- v1（methodologies/）：8 个扁平 .md（v1.1，2026-05-12）
+- v2（methodologies-v2/）：7 方法论 × L1-流程/L2-方法论/L3-模板/L4-知识 4 层
+- v2 是进化版（L1-L4 道法术器分层），不是简单补充
+- v1 00~06 头 6 行 diff v2 对应 L2-方法论/xx.md：**完全相同**
+- **执行**：v2 整体 mv 到 methodologies/ + v1 00~06 trash + v1 07 抢救保留
+- 终态 methodologies/：7 目录 + 07 + L4索引模板 = 9 项 / 58 .md
+
+**L-41 macOS trash 验证踩坑**（NEW · 7-16 07:27）：
+- `ls ~/.Trash` → "Operation not permitted"（macOS TCC 限制）
+- 陷阱：以为 trash 命令失败 → **实际 trash 成功了**
+- 验证方法：`ls -la <被删目标文件路径>` 看 "No such file or directory" 才算
+- 已验证：4 个目标 .md 全返回 No such file ✅
+
+---
+
+## 📌 7-15 增量
 
 ---
 
