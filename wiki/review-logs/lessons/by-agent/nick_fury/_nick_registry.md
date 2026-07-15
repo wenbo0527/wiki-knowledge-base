@@ -1,8 +1,35 @@
 # 🕵️ Nick Fury Lessons & INC 注册表
 
 > 维护者: 尼克·弗瑞 (Nick Fury) 🕵️
-> 最后更新: 2026-07-15 09:38
+> 最后更新: 2026-07-16 07:13 CST
 > 用途: Nick 团队 INC + Lesson 索引（按时间倒序）
+
+---
+
+## 📌 7-16 增量（W1 速赢启动 · Wiki 整理 OKR 落盘）
+
+| ID | 类型 | 标题 | 路径 |
+|:---|:---|:---|:---|
+| okr-2026-h2-q3 | OKR | Wiki 整理 H2/Q3/W1 三层 OKR Draft v1.0 | projects/knowledge-base/okr-2026-h2-q3.md |
+| okr-2026-w1-execution-plan | Plan | W1 速赢执行计划（Phase 1 全部任务清单 + 验收）| projects/knowledge-base/okr-2026-w1-execution-plan.md |
+| wiki-cleanup-phase1.1 | Action | 删 `review-logs/incidents/{2026-05}/` 空目录（AGENTS §0.5 花括号残留）| ✅ 7-16 07:12 |
+| wiki-cleanup-phase1.2 | Action | 删 `review-logs/lessons/by-agent/nick/` 空目录（L-16 grep 全集验证无残留）| ✅ 7-16 07:12 |
+| wiki-cleanup-phase1.3 | Pending | `methodologies-v2/` 合并（v2 是 L1-L4 分层结构替代 v1 扁平；07 文件单独保留）| ⏸️ 待文博拍板 |
+| wiki-cleanup-phase1.4 | Pending | `_archive/empty-files-cleanup-20260604/` 处置（27 占位 README 在内）| ⏸️ 待文博拍板 |
+| wiki-cleanup-phase1.5 | Pending | 12 篇 90+ 天过期（人/参/流程三类不同策略）| ⏸️ 待文博拍板 |
+| wiki-cleanup-phase1.6 | Pending | 8 个一级主题目录 `index.md` | ⏸️ 内容创作阶段 |
+| lesson-2026-07-16-wiki-okr-validation | Lesson | **Wiki 大型整理必先 OKR（不变成"为整理而整理"）+ Phase 0 必先实测（不能凭印象数据）**| lessons/by-agent/nick_fury/lesson-2026-07-16-wiki-okr-validation.md（草稿，等 Phase 1 全部完成后建）|
+
+**Phase 0 实测数据基线**（7-16 07:07 CST）：
+- 文档总数: **1671**（不是 5-21 记忆 688，3 个月翻 2.5 倍，**L-37 印证 v1.0 备份过时**）
+- 顶层目录: 28
+- 元数据覆盖: product_domain 1% / author 1% / date 2% / tags 2%（**4 项全 < 2%**）
+- 过期(90+): 12 篇 / 空文档: 27 篇（**全部位于 _archive/empty-files-cleanup-20260604/**）
+
+**方法论 v1 vs v2 实质差异**（Phase 1.3 决策依据）：
+- v1 (`methodologies/`): 8 个扁平 .md 文件（v1.1，2026-05-12）
+- v2 (`methodologies-v2/`): 7 个方法论目录 × L1-流程/L2-方法论/L3-模板/L4-知识 4 层结构
+- **v2 是进化版（道法术器分层），不是简单补充**——合并策略=v2 替 v1 + 抢救 07 文件
 
 ---
 
