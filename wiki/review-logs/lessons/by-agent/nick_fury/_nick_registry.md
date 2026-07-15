@@ -16,6 +16,7 @@
 | inc_2026-07-15_004 | Incident | 本地文档 RAG 化第一波（行业研究 7 篇落盘）| incidents/2026-07/inc_2026-07-15_004-local-docs-rag-first-wave.md |
 | inc_2026-07-15_005 | Incident | 战略 3 KB 同步（文博 AI 转型 + 快刀青衣 + 2026 WAIC）| incidents/2026-07/inc_2026-07-15_005-strategic-3-kb-sync.md |
 | inc_2026-07-15_006 | Incident | GET 笔记入库 + QPS 429 限流 + WAIC 真实价值揭穿 | incidents/2026-07/inc_2026-07-15_006-getnote-qps-429-and-waic-reval.md |
+| inc_2026-07-15_007 | Incident | GET 笔记入库 v2.1（每日 100 篇限流）| incidents/2026-07/inc_2026-07-15_007-getnote-daily-limit-100.md |
 | lesson-2026-07-15-cron-command-sync | Lesson | cron argv 必须随 scripts 改造同步更新 | lessons/by-agent/nick_fury/lesson-2026-07-15-cron-command-sync.md |
 | lesson-2026-07-15-script-rename-cron-grep | Lesson | cron 投递必须 mode=none + channel=feishu + to=user:ou_xxx（派蒙模式）| lessons/by-agent/nick_fury/lesson-2026-07-15-script-rename-cron-grep.md |
 | lesson-2026-07-15-script-exit-code-best-effort | Lesson | 推送脚本退出码 = 0 当主通道 lark-cli 成功 | lessons/by-agent/nick_fury/lesson-2026-07-15-script-exit-code-best-effort.md |
@@ -24,6 +25,7 @@
 | lesson-2026-07-15-local-docs-rag-pipeline | Lesson | 本地文档 RAG 化 4 步 SOP（L-39 治本）| lessons/by-agent/nick_fury/lesson-2026-07-15-local-docs-rag-pipeline.md |
 | lesson-2026-07-15-getnote-kbs-sub-cli-discovery | Lesson | 订阅 KB 必用 `getnote kbs-sub` CLI（L-40 治本）| lessons/by-agent/nick_fury/lesson-2026-07-15-getnote-kbs-sub-cli-discovery.md |
 | lesson-2026-07-15-getnote-sync-qps-and-backfill | Lesson | GET 笔记入库 4 件事（QPS / 拉全量 / KB 评估 / 失败必 raise）| lessons/by-agent/nick_fury/lesson-2026-07-15-getnote-sync-qps-and-backfill.md |
+| lesson-2026-07-15-getnote-daily-limit-100 | Lesson | GET 笔记入库 4 大常量（DAILY_LIMIT 100 / REQUEST_DELAY / BATCH_DELAY / MAX_RETRY）| lessons/by-agent/nick_fury/lesson-2026-07-15-getnote-daily-limit-100.md |
 | ~~lesson-2026-07-15-cron-delivery-explicit-feishu~~ | ~~Lesson~~ | **已合并到 L-35**（保留文件作为历史记录）| lessons/by-agent/nick_fury/lesson-2026-07-15-cron-delivery-explicit-feishu.md |
 
 **7-15 根因（9:05 修正版）**：
