@@ -851,3 +851,71 @@ Get 笔记 API (gk_live_xxx)
 *报告完稿: 2026-07-15 09:35 CST · 作者: 尼克·弗瑞 🕵️*
 *6 轮写入 · L-31 治本 · C-1~C-3 严格遵循*
 *下一步: 7-19 周日 AGENTS.md v3.2 升级时引用本报告作为 §0 修正依据*
+
+---
+
+## §9 后续优化方向（v1.3 补充 · 7-15 10:55）
+
+文博 10:50 要求“基于待办规划后续优化方向”，详见完整路线图：
+
+> 📂 **完整路线图**：[wiki/reports/wiki-project-optimization-roadmap-20260715.md](wiki-project-optimization-roadmap-20260715.md)
+
+### 路线图总览（4 阶段 / 21 任务 / ~70h）
+
+| 阶段 | 任务 | 预估 | 关键产出 |
+|:---:|:---|:---:|:---|
+| 🔴 阶段 1 | 4 任务（已在 Tony 任务板创建 TASK-20260715-*）| 2h | 同步链路升级 + 报告定稿 |
+| 🟠 阶段 2 | 6 任务（AGENTS.md v3.2 / MEMORY 压缩 / 本地文档首波）| 19h | 7-19 周日硬节点 |
+| 🟡 阶段 3 | 6 任务（KB 战略 4 / 治理 / 业务深挖）| 48h | 8-15 本月节点 |
+| 🟢 阶段 4 | 5 任务（Neo4j / 飞书侧栏 / 多模态）| 季度 | 9-30 季度节点 |
+
+### 阶段 1 已创建的 4 任务（Tony 任务板）
+
+| Task ID | 标题 | 优先级 | 负责 |
+|:---|:---|:---:|:---:|
+| TASK-20260715-44E407B2 | [阶段1 A.1] Wiki 报告 v1.2 → v1.3 | 🔴 P0 | Nick（🟢 in_progress）|
+| TASK-20260715-443432EE | [阶段1 A.2] getnote_ej9_to_wiki.py 扩 KB_ROUTING 到 8 自有 | 🟠 P1 | Nick（🟡 pending）|
+| TASK-20260715-008D82CA | [阶段1 A.3] daily_note_scan.py 扩 KB 配置到 8 自有 | 🟠 P1 | Nick（🟡 pending）|
+| TASK-20260715-9FE6EC16 | [阶段1 A.4] c3_daily_check.py 加 KB 列表对账（L-32 扩展）| 🟠 P1 | Nick（🟡 pending）|
+
+### 阶段 1 执行状态（7-15 11:00）
+
+| 任务 | 状态 | 进度 |
+|:---|:---:|:---:|
+| **A.1 报告 v1.3** | 🟢 in_progress | 0% → 100% |
+| A.2 KB_ROUTING 扩展 | 🟡 pending | 0% |
+| A.3 daily_note_scan 扩展 | 🟡 pending | 0% |
+| A.4 c3_daily_check KB 对账 | 🟡 pending | 0% |
+
+**预计 11:00 前阶段 1 全部闭环**。
+
+### 阶段 1 完成后·阶段 2 计划（7-15 ~ 7-19）
+
+- **B.1 AGENTS.md v3.2** 纳入 L-13/L-34/L-35/L-36/L-37/L-38 + 报告白名单
+- **B.2 MEMORY.md 7-19 压缩**（5,000 → 4,500 字符）
+- **B.3 本地文档 RAG 化第一波**（文档仓库/ 6 项目）
+- **B.4 跨层 metadata**（source_layer + verified_at + agent_id）
+- **B.5 导出笔记 3-5 个高价值 PDF 解析**（苏银 5 篇优先）
+- **B.6 派蒙团队 launchd → OpenClaw cron 评估**（派蒙 INC-007 平行）
+
+### 给文博的 3 个框架判断
+
+1. **问题不在做什么，在不做什么**。当前 20+ 个待办，关键判断“优先级是什么”。
+2. **本周必做**：B.1 + B.2（7-19 硬节点）· B.3（本地文档 RAG 化是 §7 P0）
+3. **季度方向**：选 Neo4j + 飞书侧栏 RAG 集成（价值高 + 可行）
+
+### 监控指标（怎么 verify 优化有效）
+
+| 指标 | 当前 | 目标 | verify 工具 |
+|:---|:---:|:---:|:---|
+| KB 同步率 | 20% (3/15) | 80% (12/15) | c3_daily_check.py |
+| 本地文档 RAG 化 | 10% | 60% | RAG stats / search count |
+| MEMORY 字符 | 4,500 | < 5,000（7-19 压缩）| wc -m |
+| RAG 性能 P99 | ~200ms | < 300ms | stats API |
+| Agent 活跃度 | 17 活跃 | ≥ 15 活跃 | openclaw agents list |
+| INC 解决率 | 100% (3/3 7-15) | 100% | review-logs/_registry |
+
+---
+
+*报告 v1.3 完稿: 2026-07-15 10:55 CST · 阶段 1 已启动*
+*L-31 治本 · C-1~C-3 严格遵循 · 报告必调 API（L-37 治本）· Agent 必调 openclaw agents list（L-38 治本）*
