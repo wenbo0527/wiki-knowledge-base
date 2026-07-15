@@ -1,8 +1,29 @@
 # 🕵️ Nick Fury Lessons & INC 注册表
 
 > 维护者: 尼克·弗瑞 (Nick Fury) 🕵️
-> 最后更新: 2026-07-14 13:52
+> 最后更新: 2026-07-15 09:05
 > 用途: Nick 团队 INC + Lesson 索引（按时间倒序）
+
+---
+
+## 📌 7-15 增量
+
+| ID | 类型 | 标题 | 路径 |
+|:---|:---|:---|:---|
+| inc_2026-07-15_001 | Incident | OpenClaw cron 投递失败（25 任务全挂 + 5 脚本已删）| incidents/2026-07/inc_2026-07-15_001-openclaw-cron-fail-closed.md |
+| lesson-2026-07-15-cron-command-sync | Lesson | cron argv 必须随 scripts 改造同步更新 | lessons/by-agent/nick_fury/lesson-2026-07-15-cron-command-sync.md |
+| lesson-2026-07-15-script-rename-cron-grep | Lesson | cron 投递必须 mode=none + channel=feishu + to=user:ou_xxx（派蒙模式）| lessons/by-agent/nick_fury/lesson-2026-07-15-script-rename-cron-grep.md |
+| ~~lesson-2026-07-15-cron-delivery-explicit-feishu~~ | ~~Lesson~~ | **已合并到 L-35**（保留文件作为历史记录）| lessons/by-agent/nick_fury/lesson-2026-07-15-cron-delivery-explicit-feishu.md |
+
+**7-15 根因（9:05 修正版）**：
+- ❌ 错版（9:00 写）：假设 "Target=main vs isolated" 是根因
+- ✅ 真根因（三层）：L1 22 个 cron `mode=announce, channel=last` 投递失败（缺 feishu target） + L2 5 个 cron argv 指向已删脚本 + L3 lark-cli token needs_refresh（auto-refresh 工作正常）
+- 派蒙也用 `Target=isolated`（看 派蒙-T3prime-自查-DAY = b0be1eaa）→ isolated 不是问题
+- 派蒙投递成功靠 `delivery.mode=none, channel=feishu, to=user:ou_xxx` 三件套
+
+**7-15 应急闭环**（9:05）：手动跑 `scripts/daily_tech_report.py` → lark-cli ✅ + wiki ✅ → 文博已收到科技日报
+
+**7-15 根因修正**：LEADER 凌晨 01:10 假设"Target=main vs isolated"是错的。**真实根因**：`announce -> last` 找 main session route 失败 → fail-closed；派蒙用显式 feishu 推送，无 main session 依赖。详见 INC-001 §根因。
 
 ---
 
@@ -12,7 +33,13 @@
 |:---|:---|:---|:---|
 | inc_2026-07-14_001 | Incident | ETF 速览分位数据 18 天失真（hardcoded 预设） | incidents/2026-07/inc_2026-07-14_001-etf-18-day-mock-data.md |
 | inc_2026-07-14_002 | Incident | fetcher v1.0 算法根本错误（价格分位 ≠ 估值分位） | incidents/2026-07/inc_2026-07-14_002-fetcher-price-vs-valuation.md |
+| inc_2026-07-14_003 | Incident | 7 天 review-log 真空（写错路径） | incidents/2026-07/inc_2026-07-14_003-7-day-review-log-vacuum.md |
+| inc_2026-07-14_004 | Incident | Get 笔记 → Wiki 静默 50 天 | incidents/2026-07/inc_2026-07-14_004-getnote-wiki-sync-50d-vacuum.md |
+| inc_2026-07-14_005 | Incident | C-4 同步对账检查机制上线 | incidents/2026-07/inc_2026-07-14_005-c3-sync-check-implementation.md |
+| inc_2026-07-14_006 | Incident | launchd → OpenClaw cron 迁移（14 plist disable） | incidents/2026-07/inc_2026-07-14_006-launchd-vs-openclaw-cron-migration.md |
+| lesson-2026-07-14-inc-archive-path | Lesson | INC/lesson 必须立即归档到 review-logs 子目录 | lessons/by-agent/nick_fury/lesson-2026-07-14-inc-archive-path.md |
 | lesson-2026-07-14-mvp-data-source-validation | Lesson | 多源兜底 raise + 自检区分"输出/输入真实" | lessons/by-agent/nick_fury/lesson-2026-07-14-mvp-data-source-validation.md |
+| lesson-2026-07-14-sync-script-three-check | Lesson | 同步脚本 3 必检 — 不 hardcode / 不 swallow / 必对账 | lessons/by-agent/nick_fury/lesson-2026-07-14-sync-script-three-check.md |
 | lesson-2026-07-14-valuation-not-price | Lesson | 估值分位 ≠ 价格分位 — PE/PEG/EV/EBITDA 才是估值根本 | lessons/by-agent/nick_fury/lesson-2026-07-14-valuation-not-price.md |
 
 ## 🔗 历史 lessons (6 月 ~ 7-13)
