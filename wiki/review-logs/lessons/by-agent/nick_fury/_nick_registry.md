@@ -1,7 +1,7 @@
 # 🕵️ Nick Fury Lessons & INC 注册表
 
 > 维护者: 尼克·弗瑞 (Nick Fury) 🕵️
-> 最后更新: 2026-07-15 09:05
+> 最后更新: 2026-07-15 09:38
 > 用途: Nick 团队 INC + Lesson 索引（按时间倒序）
 
 ---
@@ -11,8 +11,13 @@
 | ID | 类型 | 标题 | 路径 |
 |:---|:---|:---|:---|
 | inc_2026-07-15_001 | Incident | OpenClaw cron 投递失败（25 任务全挂 + 5 脚本已删）| incidents/2026-07/inc_2026-07-15_001-openclaw-cron-fail-closed.md |
+| inc_2026-07-15_002 | Incident | GET 笔记 KB 真实 15 个（报告"4 个"是错的）| incidents/2026-07/inc_2026-07-15_002-getnote-kb-count-actually-15.md |
+| inc_2026-07-15_003 | Incident | Agent 真实数量 17 个（报告"30 个"是错的）| incidents/2026-07/inc_2026-07-15_003-agent-count-actually-17.md |
 | lesson-2026-07-15-cron-command-sync | Lesson | cron argv 必须随 scripts 改造同步更新 | lessons/by-agent/nick_fury/lesson-2026-07-15-cron-command-sync.md |
 | lesson-2026-07-15-script-rename-cron-grep | Lesson | cron 投递必须 mode=none + channel=feishu + to=user:ou_xxx（派蒙模式）| lessons/by-agent/nick_fury/lesson-2026-07-15-script-rename-cron-grep.md |
+| lesson-2026-07-15-script-exit-code-best-effort | Lesson | 推送脚本退出码 = 0 当主通道 lark-cli 成功 | lessons/by-agent/nick_fury/lesson-2026-07-15-script-exit-code-best-effort.md |
+| lesson-2026-07-15-report-must-verify-real-api | Lesson | 报告必须 verify 实时 API（L-37 治本）| lessons/by-agent/nick_fury/lesson-2026-07-15-report-must-verify-real-api.md |
+| lesson-2026-07-15-agent-count-must-use-openclaw-api | Lesson | Agent 数量必用 openclaw agents list API（L-38 治本）| lessons/by-agent/nick_fury/lesson-2026-07-15-agent-count-must-use-openclaw-api.md |
 | ~~lesson-2026-07-15-cron-delivery-explicit-feishu~~ | ~~Lesson~~ | **已合并到 L-35**（保留文件作为历史记录）| lessons/by-agent/nick_fury/lesson-2026-07-15-cron-delivery-explicit-feishu.md |
 
 **7-15 根因（9:05 修正版）**：
