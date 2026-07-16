@@ -1,3 +1,12 @@
+---
+title: insight 20260522 阿里云数据与AI技术融合及实践案例分享
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ARCHIVE
+doc_type: 其他
+tags: [_archive, insights, 会议纪要]
+date: 2026-05-23
+---
+
 # 阿里云数据与AI技术融合及实践案例分享
 
 > **来源**: Get笔记

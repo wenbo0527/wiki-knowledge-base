@@ -1,3 +1,12 @@
+---
+title: CHECK UAT测试
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TEMPLATE
+doc_type: 其他
+tags: [TEMPLATES, checklists]
+date: 2026-04-30
+---
+
 # UAT测试检查清单
 
 > **版本**: v1.0

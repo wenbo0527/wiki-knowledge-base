@@ -1,3 +1,12 @@
+---
+title: insight 20260522 阿里云AI搜索年度发布会全解析 技术突破 产品矩阵与行业实践
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ARCHIVE
+doc_type: 其他
+tags: [_archive, insights, 会议纪要]
+date: 2026-05-23
+---
+
 # 阿里云AI搜索年度发布会全解析：技术突破、产品矩阵与行业实践
 
 > **来源**: Get笔记

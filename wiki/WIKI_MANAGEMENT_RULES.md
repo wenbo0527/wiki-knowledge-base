@@ -1,3 +1,12 @@
+---
+title: WIKI MANAGEMENT RULES
+author: 尼克·弗瑞 🕵️
+product_domain: PD-RESEARCH
+doc_type: 其他
+tags: []
+date: 2026-04-24
+---
+
 # 📚 Wiki 知识库管理细则 v2.4
 
 > 尼克·弗瑞知识管理系统操作手册

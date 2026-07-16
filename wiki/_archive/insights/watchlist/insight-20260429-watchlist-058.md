@@ -1,3 +1,12 @@
+---
+title: insight 20260429 watchlist 058
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ARCHIVE
+doc_type: 其他
+tags: [_archive, insights, watchlist]
+date: 2026-05-23
+---
+
 # 盯人日报 #058 | 2026-04-29
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-data-driven
 

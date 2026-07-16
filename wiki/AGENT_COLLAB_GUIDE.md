@@ -1,3 +1,12 @@
+---
+title: AGENT COLLAB GUIDE
+author: 尼克·弗瑞 🕵️
+product_domain: PD-RESEARCH
+doc_type: 其他
+tags: []
+date: 2026-04-24
+---
+
 # 🤝 全Agent协作Wiki指南
 
 > 统一的Wiki协作规范 - 适用于所有Agent

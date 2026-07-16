@@ -1,3 +1,12 @@
+---
+title: BIZ 业务需求文档
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TEMPLATE
+doc_type: 其他
+tags: [TEMPLATES, products]
+date: 2026-04-30
+---
+
 # 业务需求文档模板
 
 > **版本**: v1.0

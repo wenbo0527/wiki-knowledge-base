@@ -1,3 +1,12 @@
+---
+title: insight 20260430 watchlist 059
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ARCHIVE
+doc_type: 其他
+tags: [_archive, insights, watchlist]
+date: 2026-05-23
+---
+
 # 盯人日报 #059 | 2026-04-30
 
 > 来源: Get笔记 EJ9zwkln

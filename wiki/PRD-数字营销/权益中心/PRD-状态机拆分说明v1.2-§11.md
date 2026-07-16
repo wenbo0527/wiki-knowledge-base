@@ -1,3 +1,12 @@
+---
+title: PRD 状态机拆分说明v1.2 §11
+author: 尼克·弗瑞 🕵️
+product_domain: PD-PRD-MKT
+doc_type: 其他
+tags: [PRD-数字营销, 权益中心]
+date: 2026-06-30
+---
+
 # PRD v1.2.x §11 状态机拆分说明（wiki 同步版）
 
 > **任务**: TASK-20260604-B7A76A28 [Demo-003] + TASK-20260604-CD84EFC6 [部署-004]（两份任务合并交付）

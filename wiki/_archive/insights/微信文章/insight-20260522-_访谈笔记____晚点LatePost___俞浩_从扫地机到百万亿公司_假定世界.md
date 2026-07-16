@@ -1,3 +1,12 @@
+---
+title: insight 20260522  访谈笔记    晚点LatePost   俞浩 从扫地机到百万亿公司 假定世界
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ARCHIVE
+doc_type: 其他
+tags: [_archive, insights, 微信文章]
+date: 2026-05-23
+---
+
 # [访谈笔记] | 晚点LatePost | 俞浩：从扫地机到百万亿公司，假定世界不可知的极致方法论
 
 > **来源**: Get笔记

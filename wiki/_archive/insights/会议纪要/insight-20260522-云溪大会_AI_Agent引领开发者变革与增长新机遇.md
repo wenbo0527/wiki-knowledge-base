@@ -1,3 +1,12 @@
+---
+title: insight 20260522 云溪大会 AI Agent引领开发者变革与增长新机遇
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ARCHIVE
+doc_type: 其他
+tags: [_archive, insights, 会议纪要]
+date: 2026-05-23
+---
+
 # 云溪大会：AI Agent引领开发者变革与增长新机遇
 
 > **来源**: Get笔记

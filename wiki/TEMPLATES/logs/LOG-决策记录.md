@@ -1,3 +1,12 @@
+---
+title: LOG 决策记录
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TEMPLATE
+doc_type: 其他
+tags: [TEMPLATES, logs]
+date: 2026-04-30
+---
+
 # 决策记录模板
 
 > **版本**: v1.0

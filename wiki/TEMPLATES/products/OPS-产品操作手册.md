@@ -1,3 +1,12 @@
+---
+title: OPS 产品操作手册
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TEMPLATE
+doc_type: 其他
+tags: [TEMPLATES, products]
+date: 2026-04-30
+---
+
 # 产品操作手册模板
 
 > **版本**: v1.0

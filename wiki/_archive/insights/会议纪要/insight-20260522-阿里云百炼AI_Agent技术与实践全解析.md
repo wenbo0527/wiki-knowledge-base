@@ -1,3 +1,12 @@
+---
+title: insight 20260522 阿里云百炼AI Agent技术与实践全解析
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ARCHIVE
+doc_type: 其他
+tags: [_archive, insights, 会议纪要]
+date: 2026-05-23
+---
+
 # 阿里云百炼AI Agent技术与实践全解析
 
 > **来源**: Get笔记

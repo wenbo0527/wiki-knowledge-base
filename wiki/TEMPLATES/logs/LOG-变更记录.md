@@ -1,3 +1,12 @@
+---
+title: LOG 变更记录
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TEMPLATE
+doc_type: 其他
+tags: [TEMPLATES, logs]
+date: 2026-04-30
+---
+
 # 变更记录模板
 
 > **版本**: v1.0

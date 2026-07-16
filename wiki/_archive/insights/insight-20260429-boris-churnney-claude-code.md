@@ -1,3 +1,12 @@
+---
+title: insight 20260429 boris churnney claude code
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ARCHIVE
+doc_type: 其他
+tags: [_archive, insights]
+date: 2026-05-23
+---
+
 # Insight: Boris Churnney：Claude Code技术与代码审查新范式
 能力框架: capability-tech-understanding
 

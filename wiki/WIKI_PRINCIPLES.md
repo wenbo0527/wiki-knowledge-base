@@ -1,3 +1,12 @@
+---
+title: WIKI PRINCIPLES
+author: 尼克·弗瑞 🕵️
+product_domain: PD-RESEARCH
+doc_type: 其他
+tags: []
+date: 2026-04-28
+---
+
 # Wiki知识管理原则 v4.0
 
 > Wiki知识库的构建与维护准则

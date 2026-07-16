@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TEMPLATE
+doc_type: 其他
+tags: [TEMPLATES, logs]
+date: 2026-04-30
+---
+
 # 日志类模板
 
 > 📝 记录类文档模板

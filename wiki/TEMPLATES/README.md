@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TEMPLATE
+doc_type: 其他
+tags: [TEMPLATES]
+date: 2026-04-30
+---
+
 # Templates 文档模板库
 
 > 🕵️ 尼克·弗瑞知识资产管理

@@ -1,3 +1,12 @@
+---
+title: CHECK 上线检查
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TEMPLATE
+doc_type: 其他
+tags: [TEMPLATES, checklists]
+date: 2026-04-30
+---
+
 # 上线检查清单
 
 > **版本**: v1.0

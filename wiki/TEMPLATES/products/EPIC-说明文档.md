@@ -1,3 +1,12 @@
+---
+title: EPIC 说明文档
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TEMPLATE
+doc_type: 其他
+tags: [TEMPLATES, products]
+date: 2026-04-30
+---
+
 # EPIC 说明文档模板
 
 > **版本**: v1.1

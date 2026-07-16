@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TEMPLATE
+doc_type: 其他
+tags: [TEMPLATES, checklists]
+date: 2026-04-30
+---
+
 # 检查类模板
 
 > ✔️ 检查/验证类文档模板

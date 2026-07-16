@@ -1,3 +1,12 @@
+---
+title: insight 20260522 阿里云智能集团羚羊AI Agent分论坛全记录 从效率跃迁到价值创造
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ARCHIVE
+doc_type: 其他
+tags: [_archive, insights, 会议纪要]
+date: 2026-05-23
+---
+
 # 阿里云智能集团羚羊AI Agent分论坛全记录：从效率跃迁到价值创造
 
 > **来源**: Get笔记

@@ -1,3 +1,12 @@
+---
+title: insight 20260522  访谈笔记    张小珺商业访谈录   姚顺宇 AI本质是简单的 从Anthro
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ARCHIVE
+doc_type: 其他
+tags: [_archive, insights, 微信文章]
+date: 2026-05-23
+---
+
 # [访谈笔记] | 张小珺商业访谈录 | 姚顺宇：AI本质是简单的，从Anthropic到Google
 
 > **来源**: Get笔记

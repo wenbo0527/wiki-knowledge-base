@@ -1,3 +1,12 @@
+---
+title: insight 20260522 2026阿里云峰会全栈AI战略解析 从芯片到生态的Agent化革新
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ARCHIVE
+doc_type: 其他
+tags: [_archive, insights, 会议纪要]
+date: 2026-05-23
+---
+
 # 2026阿里云峰会全栈AI战略解析：从芯片到生态的Agent化革新
 
 > **来源**: Get笔记

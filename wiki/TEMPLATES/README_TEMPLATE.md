@@ -1,3 +1,12 @@
+---
+title: README TEMPLATE
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TEMPLATE
+doc_type: 其他
+tags: [TEMPLATES]
+date: 2026-04-24
+---
+
 # {{文档标题}}
 
 > 一句话描述这个文档的主要内容

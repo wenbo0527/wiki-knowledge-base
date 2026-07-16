@@ -1,3 +1,12 @@
+---
+title: WIKI MAINTENANCE
+author: 尼克·弗瑞 🕵️
+product_domain: PD-RESEARCH
+doc_type: 其他
+tags: []
+date: 2026-04-24
+---
+
 # Wiki知识库维护手册
 
 > 规范Wiki知识库的持续运营与保鲜机制
