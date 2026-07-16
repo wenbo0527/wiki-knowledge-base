@@ -46,6 +46,10 @@ date: 2026-07-15
 | **lesson-2026-07-16-wiki-metadata-batch-99pct** | Lesson 🆕 | **L-43 不覆盖语义 + L-44 git log earliest date**（含 scripts 资产化） | lessons/by-agent/nick_fury/lesson-2026-07-16-wiki-metadata-batch-ninety-nine-pct.md ✅ |
 | **scripts/wiki_metadata_batch.py** | Asset 🆕 | **8863 字节 · L-15 端到端验证全过 · 19 种 PD-* 映射 · 1626 篇备份** | scripts/wiki_metadata_batch.py ✅ |
 | **/tmp/wiki_metadata_backup_2026-07-16/** | Backup 🆕 | **1626 篇原文件备份（30 天可恢复）** | /tmp/wiki_metadata_backup_2026-07-16/ ✅ |
+| **Phase D 三方对账** | Action ✅ | **Wiki 99% 元数据 + RAG 20949 chunks + Get笔记 8 KB HTTP 200 = KR8 完成** | ✅ 7-16 19:30 |
+| **search_api 重启** | Action ✅ | **清 stale UUID 50085a6f cache · query 工作 · chroma.sqlite3 backup 450M** | ✅ 7-16 19:24 |
+| **inc_2026-07-16_004** | Incident 🆕 | **Get笔记 API 401 真根因：认证格式错（不是 WAF / 不是 token 过期）** | incidents/2026-07/inc_2026-07-16_004-getnote-auth-format-no-bearer.md ✅ |
+| **lesson-2026-07-16-getnote-auth-no-bearer** | Lesson 🆕 | **L-46 Get笔记 API = `Authorization: <key>` 无 Bearer + 必加 `X-Client-ID`** | lessons/by-agent/nick_fury/lesson-2026-07-16-getnote-auth-no-bearer.md ✅ |
 
 **Phase 0 实测基线**（7-16 07:07 CST）：
 - 文档总数: **1671**（不是 5-21 记忆 688，3 个月翻 2.5 倍，**L-37 印证 v1.0 备份过时**）

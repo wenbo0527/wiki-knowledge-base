@@ -68,7 +68,7 @@ wiki/
 │       ├── humanizer.md
 │       ├── requirement-understanding.md
 │       └── ...
-└── _templates/
+└── TEMPLATES/
     └── skill-profile.md             # 本模板
 ```
 

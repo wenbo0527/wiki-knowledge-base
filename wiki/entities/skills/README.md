@@ -72,7 +72,7 @@ entities/skills/
 ## 🔗 相关文档
 
 - [Skill 分类体系](../concepts/skill-classification.md)
-- [Skill 档案模板](../../_templates/skill-profile.md)
+- [Skill 档案模板](../../TEMPLATES/skill-profile.md)
 - [Skill 注册表](../../../.openclaw/skills/_registry.md)
 
 ---
