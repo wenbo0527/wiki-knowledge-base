@@ -136,8 +136,8 @@ Wiki/INDEX/
 
 **步骤**：
 1. 读 `insights/agent/agent-evaluation-review.md` 的"评估框架"章节
-2. 对照 `code-examples/skills/SKILL_EVALUATION.md` 的四维模型
-3. 使用 `wiki/code-examples/skills/SKILL_SCORING_REPORT.md` 评分
+2. 对照 `skills/code-examples/skills/SKILL_EVALUATION.md` 的四维模型
+3. 使用 `wiki/skills/code-examples/skills/SKILL_SCORING_REPORT.md` 评分
 
 ### 场景：需要构建Agent Skill
 **触发条件**：用户说"Skill"、"技能"、"编写Skill"

@@ -481,17 +481,17 @@ review-logs/
 
 ---
 
-### code-examples/ (代码示例库) 🆕 2026-04-30
+### skills/code-examples/ (代码示例库) 🆕 2026-04-30
 
 > "运行代码 > 理论知识" - Simon Willison
 
 | 目录 | 内容 | 来源Insight |
 |------|------|-----------|
-| [subagent-patterns/](code-examples/subagent-patterns/) | 子智能体调度器 | insight-20260430-claude-code-subagents |
-| [multi-agent-routing/](code-examples/multi-agent-routing/) | 多智能体路由决策 | insight-20260430-multi-agent-architecture-guide |
-| [graph-memory/](code-examples/graph-memory/) | 图记忆基础实现 | insight-20260430-graph-memory-agent |
-| [context-management/](code-examples/context-management/) | 上下文分层管理 | insight-20260430-agent-harness-context-management |
-| [harness-engineering/](code-examples/harness-engineering/) | Harness核心实现 | insight-20260419-harness-engineering |
+| [subagent-patterns/](skills/code-examples/subagent-patterns/) | 子智能体调度器 | insight-20260430-claude-code-subagents |
+| [multi-agent-routing/](skills/code-examples/multi-agent-routing/) | 多智能体路由决策 | insight-20260430-multi-agent-architecture-guide |
+| [graph-memory/](skills/code-examples/graph-memory/) | 图记忆基础实现 | insight-20260430-graph-memory-agent |
+| [context-management/](skills/code-examples/context-management/) | 上下文分层管理 | insight-20260430-agent-harness-context-management |
+| [harness-engineering/](skills/code-examples/harness-engineering/) | Harness核心实现 | insight-20260419-harness-engineering |
 
 ---
 

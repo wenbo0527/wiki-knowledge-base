@@ -79,7 +79,7 @@ date: 2026-05-23
 | 来源类型 | 存储路径 |
 |:---|:---|
 | **公众号文章** | `sources/wechat/YYYY-MM-{slug}.md` |
-| **行业报告** | `sources/reports/YYYY-MM-{slug}.md` |
+| **行业报告** | `sources/review-logs/reports/YYYY-MM-{slug}.md` |
 | **学术论文** | `sources/papers/YYYY-MM-{slug}.md` |
 | **产品文档** | `sources/docs/{product}/{slug}.md` |
 

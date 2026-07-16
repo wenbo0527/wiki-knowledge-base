@@ -33,13 +33,13 @@ date: 2026-07-03
 | WIKI_MAINTENANCE.md | 57 |  needs_review |
 | AGENT_COLLAB_GUIDE.md | 43 |  needs_review |
 | WIKI_PRINCIPLES.md | 50 |  needs_review |
-| code-examples/CODE_EXAMPLES_EVALUATION.md | 57 |  needs_review |
-| code-examples/CODE_EXAMPLES_STANDARDS.md | 57 |  needs_review |
-| code-examples/skills/SKILL_SCORE_CARD.md | 57 |  needs_review |
-| code-examples/skills/SKILL_EVALUATION.md | 57 |  needs_review |
-| code-examples/skills/SKILL_BEST_PRACTICES.md | 57 |  needs_review |
-| code-examples/skills/SKILL_INTEGRATION_ANALYSIS.md | 57 |  needs_review |
-| code-examples/skills/SKILL_SCORING_REPORT.md | 57 |  needs_review |
+| skills/code-examples/CODE_EXAMPLES_EVALUATION.md | 57 |  needs_review |
+| skills/code-examples/CODE_EXAMPLES_STANDARDS.md | 57 |  needs_review |
+| skills/code-examples/skills/SKILL_SCORE_CARD.md | 57 |  needs_review |
+| skills/code-examples/skills/SKILL_EVALUATION.md | 57 |  needs_review |
+| skills/code-examples/skills/SKILL_BEST_PRACTICES.md | 57 |  needs_review |
+| skills/code-examples/skills/SKILL_INTEGRATION_ANALYSIS.md | 57 |  needs_review |
+| skills/code-examples/skills/SKILL_SCORING_REPORT.md | 57 |  needs_review |
 | ... | | |（共1319个）
 
 ## 三、过时页面 ⏰
@@ -76,7 +76,7 @@ date: 2026-07-03
 | AGENT_COLLAB_GUIDE.md | insights/ai |
 | AGENT_COLLAB_GUIDE.md | insight-YYYYMMDD-xxx |
 | AGENT_COLLAB_GUIDE.md | topics/ai-agent |
-| code-examples/CODE_EXAMPLES_STANDARDS.md | other-example |
+| skills/code-examples/CODE_EXAMPLES_STANDARDS.md | other-example |
 
 ## 五、空目录 📁
 

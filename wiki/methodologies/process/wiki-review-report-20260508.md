@@ -33,13 +33,13 @@ date: 2026-05-09
 | WIKI_MAINTENANCE.md | 1 | ✅ active |
 | AGENT_COLLAB_GUIDE.md | 1 | ✅ active |
 | WIKI_PRINCIPLES.md | 1 | ✅ active |
-| code-examples/CODE_EXAMPLES_EVALUATION.md | 1 | ✅ active |
-| code-examples/CODE_EXAMPLES_STANDARDS.md | 1 | ✅ active |
-| code-examples/skills/SKILL_SCORE_CARD.md | 1 | ✅ active |
-| code-examples/skills/SKILL_EVALUATION.md | 1 | ✅ active |
-| code-examples/skills/SKILL_BEST_PRACTICES.md | 1 | ✅ active |
-| code-examples/skills/SKILL_INTEGRATION_ANALYSIS.md | 1 | ✅ active |
-| code-examples/skills/SKILL_SCORING_REPORT.md | 1 | ✅ active |
+| skills/code-examples/CODE_EXAMPLES_EVALUATION.md | 1 | ✅ active |
+| skills/code-examples/CODE_EXAMPLES_STANDARDS.md | 1 | ✅ active |
+| skills/code-examples/skills/SKILL_SCORE_CARD.md | 1 | ✅ active |
+| skills/code-examples/skills/SKILL_EVALUATION.md | 1 | ✅ active |
+| skills/code-examples/skills/SKILL_BEST_PRACTICES.md | 1 | ✅ active |
+| skills/code-examples/skills/SKILL_INTEGRATION_ANALYSIS.md | 1 | ✅ active |
+| skills/code-examples/skills/SKILL_SCORING_REPORT.md | 1 | ✅ active |
 | ... | | |（共547个）
 
 ## 四、死链 🔗

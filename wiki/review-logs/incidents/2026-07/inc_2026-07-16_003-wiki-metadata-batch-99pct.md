@@ -18,7 +18,7 @@ Wiki 1646 篇文档的 4 项元数据覆盖率仅 1-2%，导致：
 ## 🔍 根因
 
 1. **历史遗留**：Wiki 是手动维护，元数据非新建文档强约束
-2. **存量**：5-21 前仅 21 篇有 product_domain（`local-docs/行业研究/` 子集）
+2. **存量**：5-21 前仅 21 篇有 product_domain（`topics/local-docs/行业研究/` 子集）
 3. **断崖**：后续大量文档（`insights/concepts/topics/methodologies/...`）从未补 front-matter
 4. **规模**：1631 / 1646 篇处于"无 front-matter"状态
 

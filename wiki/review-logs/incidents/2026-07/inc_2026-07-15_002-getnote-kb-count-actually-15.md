@@ -11,7 +11,7 @@ date: 2026-07-15
 
 > **揭穿**: 7-15 09:31 文博指出"GET笔记中有订阅的知识库 + 我自己的知识库 应该不止4个"  
 > **9:35 verify 后**: API `/open/api/v1/resource/knowledge/list` 返回 8 个自有 KB（3,091 笔记）+ v1.0 备份列 7 个订阅 KB = **15 个 KB**  
-> **报告错版**: `wiki/reports/wiki-project-status-report-20260715.md §5.2` 写"~1,130 笔记 / 7 个 KB 路径"（漏了 6 个自有 + 漏 1 个订阅）
+> **报告错版**: `wiki/review-logs/reports/wiki-project-status-report-20260715.md §5.2` 写"~1,130 笔记 / 7 个 KB 路径"（漏了 6 个自有 + 漏 1 个订阅）
 
 ---
 
@@ -109,7 +109,7 @@ GET 笔记 API `/open/api/v1/resource/knowledge/list` 7-15 09:33 实测返回：
 ### 短期（9:45 前）
 
 - ✅ 写 INC-002 归档本次揭穿
-- ✅ 修正 `wiki/reports/wiki-project-status-report-20260715.md §5.2`
+- ✅ 修正 `wiki/review-logs/reports/wiki-project-status-report-20260715.md §5.2`
 - 🟡 扩展 `scripts/getnote_ej9_to_wiki.py` `KB_ROUTING` 到 8 个自有 KB
 - 🟡 扩展 `scripts/daily_note_scan.py` `KB_AI/KB_FINTECH` → 包含全部 8 个自有
 

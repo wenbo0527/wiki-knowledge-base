@@ -11,7 +11,7 @@ date: 2026-07-15
 
 > **揭穿**: 7-15 09:32 文博指出"Agent 数量也不对"  
 > **9:37 verify 后**: `openclaw agents list` 返回 **17 个 agent**（main 派蒙 + 16 个其他）  
-> **报告错版**: `wiki/reports/wiki-project-status-report-20260715.md` §3.4 / §5.5 / §8.2 写"30 个 Agent"（用 `ls | wc -l` 误算，混入了 .md .json 配置文件）
+> **报告错版**: `wiki/review-logs/reports/wiki-project-status-report-20260715.md` §3.4 / §5.5 / §8.2 写"30 个 Agent"（用 `ls | wc -l` 误算，混入了 .md .json 配置文件）
 
 ---
 

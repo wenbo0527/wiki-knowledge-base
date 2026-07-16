@@ -33,13 +33,13 @@ date: 2026-06-30
 | WIKI_MAINTENANCE.md | 29 | ✅ active |
 | AGENT_COLLAB_GUIDE.md | 15 | ✅ active |
 | WIKI_PRINCIPLES.md | 22 | ✅ active |
-| code-examples/CODE_EXAMPLES_EVALUATION.md | 29 | ✅ active |
-| code-examples/CODE_EXAMPLES_STANDARDS.md | 29 | ✅ active |
-| code-examples/skills/SKILL_SCORE_CARD.md | 29 | ✅ active |
-| code-examples/skills/SKILL_EVALUATION.md | 29 | ✅ active |
-| code-examples/skills/SKILL_BEST_PRACTICES.md | 29 | ✅ active |
-| code-examples/skills/SKILL_INTEGRATION_ANALYSIS.md | 29 | ✅ active |
-| code-examples/skills/SKILL_SCORING_REPORT.md | 29 | ✅ active |
+| skills/code-examples/CODE_EXAMPLES_EVALUATION.md | 29 | ✅ active |
+| skills/code-examples/CODE_EXAMPLES_STANDARDS.md | 29 | ✅ active |
+| skills/code-examples/skills/SKILL_SCORE_CARD.md | 29 | ✅ active |
+| skills/code-examples/skills/SKILL_EVALUATION.md | 29 | ✅ active |
+| skills/code-examples/skills/SKILL_BEST_PRACTICES.md | 29 | ✅ active |
+| skills/code-examples/skills/SKILL_INTEGRATION_ANALYSIS.md | 29 | ✅ active |
+| skills/code-examples/skills/SKILL_SCORING_REPORT.md | 29 | ✅ active |
 | ... | | |（共944个）
 
 ## 三、过时页面 ⏰
@@ -76,7 +76,7 @@ date: 2026-06-30
 | AGENT_COLLAB_GUIDE.md | insight-YYYYMMDD-xxx |
 | AGENT_COLLAB_GUIDE.md | entities/companies/xxx |
 | AGENT_COLLAB_GUIDE.md | entities/companies/openai |
-| code-examples/CODE_EXAMPLES_STANDARDS.md | insight-YYYYMMDD-xxx |
+| skills/code-examples/CODE_EXAMPLES_STANDARDS.md | insight-YYYYMMDD-xxx |
 
 ## 五、空目录 📁
 

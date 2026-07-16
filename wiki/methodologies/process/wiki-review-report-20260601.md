@@ -34,12 +34,12 @@ date: 2026-06-30
 | AGENT_COLLAB_GUIDE.md | 11 | ✅ active |
 | WIKI_PRINCIPLES.md | 18 | ✅ active |
 | Skills System.md | 10 | ✅ active |
-| code-examples/CODE_EXAMPLES_EVALUATION.md | 25 | ✅ active |
-| code-examples/CODE_EXAMPLES_STANDARDS.md | 25 | ✅ active |
-| code-examples/skills/SKILL_SCORE_CARD.md | 25 | ✅ active |
-| code-examples/skills/SKILL_EVALUATION.md | 25 | ✅ active |
-| code-examples/skills/SKILL_BEST_PRACTICES.md | 25 | ✅ active |
-| code-examples/skills/SKILL_INTEGRATION_ANALYSIS.md | 25 | ✅ active |
+| skills/code-examples/CODE_EXAMPLES_EVALUATION.md | 25 | ✅ active |
+| skills/code-examples/CODE_EXAMPLES_STANDARDS.md | 25 | ✅ active |
+| skills/code-examples/skills/SKILL_SCORE_CARD.md | 25 | ✅ active |
+| skills/code-examples/skills/SKILL_EVALUATION.md | 25 | ✅ active |
+| skills/code-examples/skills/SKILL_BEST_PRACTICES.md | 25 | ✅ active |
+| skills/code-examples/skills/SKILL_INTEGRATION_ANALYSIS.md | 25 | ✅ active |
 | ... | | |（共929个）
 
 ## 三、过时页面 ⏰
@@ -76,7 +76,7 @@ date: 2026-06-30
 | AGENT_COLLAB_GUIDE.md | insight-YYYYMMDD-yyy |
 | AGENT_COLLAB_GUIDE.md | concepts/llm-agent |
 | AGENT_COLLAB_GUIDE.md | topics/ai-agent |
-| code-examples/CODE_EXAMPLES_STANDARDS.md | insight-YYYYMMDD-xxx |
+| skills/code-examples/CODE_EXAMPLES_STANDARDS.md | insight-YYYYMMDD-xxx |
 
 ## 五、空目录 📁
 

@@ -17,7 +17,7 @@ Wiki 1646 篇文档 4 项元数据（product_domain / author / date / tags）从
 
 ### 现象
 
-如果批量脚本无脑 `add_field` 会**破坏 5 月已有完整 front-matter 的文档**（如 `local-docs/行业研究/...` 6 字段齐全）。
+如果批量脚本无脑 `add_field` 会**破坏 5 月已有完整 front-matter 的文档**（如 `topics/local-docs/行业研究/...` 6 字段齐全）。
 
 ### 修复
 
@@ -38,7 +38,7 @@ merged = {**existing, **new_fields}
 
 ### 验证
 
-apply 后 sample 看 `local-docs/行业研究/2026-05-18-项目-苏银埋点治理.md`：
+apply 后 sample 看 `topics/local-docs/行业研究/2026-05-18-项目-苏银埋点治理.md`：
 - 6 字段完全保留（date 仍是 2026-05-18，不是 2026-07-16）
 - 脚本**没动任何已有字段**，只"按需补缺失"
 

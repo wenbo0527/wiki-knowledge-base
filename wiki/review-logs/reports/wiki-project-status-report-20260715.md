@@ -379,7 +379,7 @@ status: published
 | `process/` | 95 SOP | SOURCES_COLLECTION / content-quality-control / ingest / lint / log / maintenance-log / nick-rag-knowledge-search-sop / topic-monitoring-config / daily-question-bank / doc-code-review-mechanism ... | ⭐⭐⭐⭐ |
 | `review-logs/incidents/2026-07/` | 13 INC | 7-01 ~ 7-15 全部重大事件（Wiki PermissionError 44 天 / RSS 真空 7 天 / ETF 18 天失真 / Get 笔记静默 50 天 / OpenClaw cron 25 fail-closed）| ⭐⭐⭐⭐⭐ |
 | `review-logs/lessons/by-agent/nick_fury/` | 25 lessons | L-13 ~ L-36 · _nick_registry.md 索引 | ⭐⭐⭐⭐⭐ |
-| `sources/reports/` | 已有 | 报告存放点 | ⭐⭐⭐ |
+| `sources/review-logs/reports/` | 已有 | 报告存放点 | ⭐⭐⭐ |
 | `templates/` | 模板库 | 文档模板 | ⭐⭐⭐ |
 | `archives/` | 归档 | 历史归档 | ⭐⭐⭐ |
 
@@ -755,7 +755,7 @@ Get 笔记 API (gk_live_xxx)
 | 优化项 | 现状 | 风险 | 建议方案 |
 |:---|:---|:---|:---|
 | **MEMORY.md 字符限制** | 5,000 字符（7-6 放宽）· 当前 4,500 | 7-19 之前再超 5K | 周日 7-19 22:00 压缩 |
-| **本地文档未系统 RAG 化** | 2,500+ 文件散落 5+ 目录 | 决策时查不到 | 建 `wiki/local-docs/` 索引 + RAG ingest |
+| **本地文档未系统 RAG 化** | 2,500+ 文件散落 5+ 目录 | 决策时查不到 | 建 `wiki/topics/local-docs/` 索引 + RAG ingest |
 | **L1/L2/L3 衔接缺失** | 三层独立，未跨层联想 | 知识孤岛 | 加 metadata `source_layer: wiki/getnote/local` |
 
 ### 7.2 🟠 P1 · 重要但不阻塞
@@ -847,7 +847,7 @@ Get 笔记 API (gk_live_xxx)
 
 ### 8.5 报告交付清单
 
-- ✅ 报告路径：`wiki/reports/wiki-project-status-report-20260715.md`
+- ✅ 报告路径：`wiki/review-logs/reports/wiki-project-status-report-20260715.md`
 - ✅ 字数：~12,000 字（分 6 轮写 · C-2 长度控制）
 - ✅ 数据：7-15 09:15 初版 + 9:35 §5.2 修正（GET 笔记 KB 实际 15 个 · L-37 治本）+ 9:37 §3.4 修正（Agent 实际 17 个 · L-38 治本）
 - ✅ 完整知识库：Wiki + Get 笔记 + 本地文档 三层全覆盖
@@ -867,7 +867,7 @@ Get 笔记 API (gk_live_xxx)
 
 文博 10:50 要求“基于待办规划后续优化方向”，详见完整路线图：
 
-> 📂 **完整路线图**：[wiki/reports/wiki-project-optimization-roadmap-20260715.md](wiki-project-optimization-roadmap-20260715.md)
+> 📂 **完整路线图**：[wiki/review-logs/reports/wiki-project-optimization-roadmap-20260715.md](wiki-project-optimization-roadmap-20260715.md)
 
 ### 路线图总览（4 阶段 / 21 任务 / ~70h）
 

@@ -15,7 +15,7 @@ date: 2026-07-15
 # 本地文档库 · 索引
 
 > **目的**: 把 `Documents/文档仓库/` 6 个项目（976 个 .md）的过程产物系统化 RAG 化  
-> **路径规范**: `wiki/local-docs/<project>/` 镜像 `文档仓库/<project>/`  
+> **路径规范**: `wiki/topics/local-docs/<project>/` 镜像 `文档仓库/<project>/`  
 > **Status**: 🟡 第一波（行业研究 7 篇）已落盘 · 后续 5 项目待启动
 
 ---

@@ -33,13 +33,13 @@ date: 2026-07-16
 | WIKI_MAINTENANCE.md | 70 |  needs_review |
 | AGENT_COLLAB_GUIDE.md | 56 |  needs_review |
 | WIKI_PRINCIPLES.md | 63 |  needs_review |
-| local-docs/_index.md | 0 | ✅ active |
-| local-docs/行业研究/2026-05-18-项目-苏银埋点治理.md | 0 | ✅ active |
-| local-docs/行业研究/2026-05-18-项目-苏银营销套件.md | 0 | ✅ active |
-| local-docs/行业研究/2026-05-18-项目-苏银数据门户.md | 0 | ✅ active |
-| local-docs/行业研究/2026-05-18-项目-苏银BI平台.md | 0 | ✅ active |
-| local-docs/行业研究/2026-05-18-项目-苏银策略优化.md | 0 | ✅ active |
-| local-docs/行业研究/MarketAgentDemo/2026-05-19-项目-MarketAgentTask处理框架Demo.md | 0 | ✅ active |
+| topics/local-docs/_index.md | 0 | ✅ active |
+| topics/local-docs/行业研究/2026-05-18-项目-苏银埋点治理.md | 0 | ✅ active |
+| topics/local-docs/行业研究/2026-05-18-项目-苏银营销套件.md | 0 | ✅ active |
+| topics/local-docs/行业研究/2026-05-18-项目-苏银数据门户.md | 0 | ✅ active |
+| topics/local-docs/行业研究/2026-05-18-项目-苏银BI平台.md | 0 | ✅ active |
+| topics/local-docs/行业研究/2026-05-18-项目-苏银策略优化.md | 0 | ✅ active |
+| topics/local-docs/行业研究/MarketAgentDemo/2026-05-19-项目-MarketAgentTask处理框架Demo.md | 0 | ✅ active |
 | ... | | |（共1522个）
 
 ## 三、过时页面 ⏰
@@ -76,7 +76,7 @@ date: 2026-07-16
 | AGENT_COLLAB_GUIDE.md | topics/ai-agent |
 | AGENT_COLLAB_GUIDE.md | insight-YYYYMMDD-xxx |
 | AGENT_COLLAB_GUIDE.md | concepts/llm-agent |
-| code-examples/CODE_EXAMPLES_STANDARDS.md | insight-YYYYMMDD-xxx |
+| skills/code-examples/CODE_EXAMPLES_STANDARDS.md | insight-YYYYMMDD-xxx |
 
 ## 五、空目录 📁
 

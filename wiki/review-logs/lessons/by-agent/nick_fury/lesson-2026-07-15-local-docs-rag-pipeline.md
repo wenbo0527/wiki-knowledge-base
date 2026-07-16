@@ -21,7 +21,7 @@ date: 2026-07-15
 **文档仓库 6 项目 976 个 .md 几乎 0% RAG 化**：
 
 - ❌ 落盘到 `Documents/文档仓库/`（独立目录，与 Wiki 不通）
-- ❌ 无 `wiki/local-docs/` 镜像
+- ❌ 无 `wiki/topics/local-docs/` 镜像
 - ❌ 无 `_index.md` 索引
 - ❌ 无跨层 metadata（`source_layer: local` 缺失）
 - ❌ 无 RAG ingest
@@ -36,13 +36,13 @@ date: 2026-07-15
 
 **4 步 SOP**：
 
-### Step 1: 落盘到 `wiki/local-docs/<project>/`（镜像 `文档仓库/<project>/`）
+### Step 1: 落盘到 `wiki/topics/local-docs/<project>/`（镜像 `文档仓库/<project>/`）
 
 ```bash
 # 例：行业研究 7 篇
-mkdir -p /Users/wenbo/Documents/project/Wiki/wiki/local-docs/行业研究
+mkdir -p /Users/wenbo/Documents/project/Wiki/wiki/topics/local-docs/行业研究
 cp -r "/Users/wenbo/Documents/文档仓库/行业研究/"* \
-      /Users/wenbo/Documents/project/Wiki/wiki/local-docs/行业研究/
+      /Users/wenbo/Documents/project/Wiki/wiki/topics/local-docs/行业研究/
 ```
 
 ### Step 2: 写 `_index.md`（项目总览 + 跨层 metadata）
@@ -65,7 +65,7 @@ agent_id: nick_fury
 
 ```bash
 # Tony 团队的 RAG ingest 工具
-python3 scripts/ingest_wiki_docs.py --path wiki/local-docs/行业研究
+python3 scripts/ingest_wiki_docs.py --path wiki/topics/local-docs/行业研究
 ```
 
 ### Step 4: 召回率 verify（curl /search 4 个查询 ≥ 0.6 阈值）
@@ -106,7 +106,7 @@ status: published              # draft / review / published / archived
 
 ## 关联教训
 
-- **L-31** (路径铁律：本地文档落盘到 wiki/local-docs/，不进 review-logs/)
+- **L-31** (路径铁律：本地文档落盘到 wiki/topics/local-docs/，不进 review-logs/)
 - **L-32** (同步脚本 3 必检：本地文档 ingest 不 hardcode + 必对账)
 - **L-37** (报告必 verify 实时 API：召回率 4 查询 ≥ 0.6)
 - **L-39** (本地文档 RAG 化 4 步 SOP) — **本条**

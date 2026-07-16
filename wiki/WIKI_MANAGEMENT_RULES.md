@@ -472,7 +472,7 @@ Wiki/
 │   │   ├── markets/
 │   │   └── people/
 │   ├── concepts/                   # 概念定义
-│   ├── code-examples/               # 代码示例库（Simon Willison理念）
+│   ├── skills/code-examples/               # 代码示例库（Simon Willison理念）
 │   │   ├── CODE_EXAMPLES_STANDARDS.md  # 准入标准 ⭐
 │   │   └── {category}/
 │   ├── tools/                      # 工具原型
@@ -541,8 +541,8 @@ insight-{date}-query-{slug}.md
 ### A4. Code Examples 代码示例库
 
 详见: 
-- [CODE_EXAMPLES_STANDARDS.md](code-examples/CODE_EXAMPLES_STANDARDS.md) - 准入标准
-- [CODE_EXAMPLES_EVALUATION.md](code-examples/CODE_EXAMPLES_EVALUATION.md) - 质量评价体系
+- [CODE_EXAMPLES_STANDARDS.md](skills/code-examples/CODE_EXAMPLES_STANDARDS.md) - 准入标准
+- [CODE_EXAMPLES_EVALUATION.md](skills/code-examples/CODE_EXAMPLES_EVALUATION.md) - 质量评价体系
 
 **准入条件**:
 | 准入条件 | 说明 |

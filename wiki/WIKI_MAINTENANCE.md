@@ -44,7 +44,7 @@ date: 2026-04-24
 | **知识库Owner** | 整体规划、标准制定、重大决策 | 全部 |
 | **专题维护者** | 各专题的内容更新、质量把控 | topics/ |
 | **模板维护者** | Templates创建、评价、更新 | templates/ |
-| **代码样例维护者** | Code Examples创建、评价、更新 | code-examples/ |
+| **代码样例维护者** | Code Examples创建、评价、更新 | skills/code-examples/ |
 | **贡献者** | 按需添加/修改内容 | 全部 |
 
 ---
@@ -191,7 +191,7 @@ wiki/topics/ai-native/business-world-model/jd-pricing-practice/README.md
 
 ### 6.4 Code Examples质量评价（六维模型）
 
-详见: [code-examples/CODE_EXAMPLES_EVALUATION.md](code-examples/CODE_EXAMPLES_EVALUATION.md)
+详见: [skills/code-examples/CODE_EXAMPLES_EVALUATION.md](skills/code-examples/CODE_EXAMPLES_EVALUATION.md)
 
 | 维度 | 权重 | 说明 |
 |:---|:---:|:---:|
@@ -322,7 +322,7 @@ git log --oneline
 - [WIKI_MANAGEMENT_RULES.md](./WIKI_MANAGEMENT_RULES.md) - 管理细则（v2.3）
 - [WIKI_PRINCIPLES.md](./WIKI_PRINCIPLES.md) - 管理原则
 - [templates/TEMPLATE_EVALUATION.md](./templates/TEMPLATE_EVALUATION.md) - Templates评价体系
-- [code-examples/CODE_EXAMPLES_EVALUATION.md](./code-examples/CODE_EXAMPLES_EVALUATION.md) - Code Examples评价体系
+- [skills/code-examples/CODE_EXAMPLES_EVALUATION.md](./skills/code-examples/CODE_EXAMPLES_EVALUATION.md) - Code Examples评价体系
 
 ### 10.2 评价体系概览
 

@@ -34,12 +34,12 @@ date: 2026-06-30
 | AGENT_COLLAB_GUIDE.md | 4 | ✅ active |
 | WIKI_PRINCIPLES.md | 11 | ✅ active |
 | Skills System.md | 3 | ✅ active |
-| code-examples/CODE_EXAMPLES_EVALUATION.md | 18 | ✅ active |
-| code-examples/CODE_EXAMPLES_STANDARDS.md | 18 | ✅ active |
-| code-examples/skills/SKILL_SCORE_CARD.md | 18 | ✅ active |
-| code-examples/skills/SKILL_EVALUATION.md | 18 | ✅ active |
-| code-examples/skills/SKILL_BEST_PRACTICES.md | 18 | ✅ active |
-| code-examples/skills/SKILL_INTEGRATION_ANALYSIS.md | 18 | ✅ active |
+| skills/code-examples/CODE_EXAMPLES_EVALUATION.md | 18 | ✅ active |
+| skills/code-examples/CODE_EXAMPLES_STANDARDS.md | 18 | ✅ active |
+| skills/code-examples/skills/SKILL_SCORE_CARD.md | 18 | ✅ active |
+| skills/code-examples/skills/SKILL_EVALUATION.md | 18 | ✅ active |
+| skills/code-examples/skills/SKILL_BEST_PRACTICES.md | 18 | ✅ active |
+| skills/code-examples/skills/SKILL_INTEGRATION_ANALYSIS.md | 18 | ✅ active |
 | ... | | |（共898个）
 
 ## 三、过时页面 ⏰
@@ -76,7 +76,7 @@ date: 2026-06-30
 | AGENT_COLLAB_GUIDE.md | topics/ai-agent |
 | AGENT_COLLAB_GUIDE.md | entities/companies/openai |
 | AGENT_COLLAB_GUIDE.md | insights/ai |
-| code-examples/CODE_EXAMPLES_STANDARDS.md | other-example |
+| skills/code-examples/CODE_EXAMPLES_STANDARDS.md | other-example |
 
 ## 五、空目录 📁
 

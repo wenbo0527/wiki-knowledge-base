@@ -57,7 +57,7 @@ OpenClaw cron:
 - 每日 9:00 抓 OpenClaw 相关 10 篇 → wiki/topics/openclaw/
 - 每日 10:00 抓 Claude Code 相关 → wiki/topics/claude-code/
 - 每日 18:00 抓 AI Agent 趋势 → wiki/topics/ai-agent/
-- 每周日 18:00 抓 MIT/Stanford/HBS AI 报告 → wiki/reports/
+- 每周日 18:00 抓 MIT/Stanford/HBS AI 报告 → wiki/review-logs/reports/
 ```
 
 ### 借鉴 2: 信息聚合自动化的 4 个 cron
@@ -69,7 +69,7 @@ OpenClaw cron:
 0 9 * * *  openclaw-cron youtube-claude-code --out wiki/topics/claude-code/
 0 10 * * * openclaw-cron arxiv-ai-agent --out wiki/topics/ai-agent/
 0 18 * * * openclaw-cron hacker-news-ai --out wiki/topics/hn-ai/
-0 18 * * 0 openclaw-cron mit-stanford-reports --out wiki/reports/
+0 18 * * 0 openclaw-cron mit-stanford-reports --out wiki/review-logs/reports/
 ```
 
 ### 借鉴 3: "第二大脑"系统构建

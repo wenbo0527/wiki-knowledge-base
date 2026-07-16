@@ -42,11 +42,11 @@ date: 2026-07-15
 ### 第一波：行业研究 7 篇（11:06 落盘）
 
 ```bash
-# 1. 创建 wiki/local-docs/ 目录
-mkdir -p wiki/local-docs/行业研究
+# 1. 创建 wiki/topics/local-docs/ 目录
+mkdir -p wiki/topics/local-docs/行业研究
 
 # 2. 复制 7 篇（苏银 5 + MarketAgentDemo 2）
-cp -r 文档仓库/行业研究/* wiki/local-docs/行业研究/
+cp -r 文档仓库/行业研究/* wiki/topics/local-docs/行业研究/
 
 # 3. 写 _index.md（含 6 项目总览 + 跨层 metadata 规范）
 ```
@@ -85,7 +85,7 @@ status: published
 
 **本地文档 RAG 化必须经 4 步**：
 
-1. **落盘到 `wiki/local-docs/<project>/`**（镜像 `文档仓库/<project>/`）
+1. **落盘到 `wiki/topics/local-docs/<project>/`**（镜像 `文档仓库/<project>/`）
 2. **写 `_index.md`**（含 6 项目总览 + 跨层 metadata 规范）
 3. **RAG ingest**（复制完成后 trigger，让 RAG 知道）
 4. **召回率 verify**（curl /search 4 个查询，≥ 0.6 阈值）

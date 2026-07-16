@@ -299,7 +299,7 @@ date: 2026-05-23
 | [[insight-20260429-improve-code-understanding]] | 代码理解能力提升方案 |
 | [[insight-20260418-karpathy-claude-md-agent-config]] | Karpathy CLAUDE.md范式 |
 | [[insight-20260511-code-knowledge-graph-repo-doc]] | RepoDoc代码知识图谱 |
-| [[../code-examples/context-management/README.md]] | 上下文管理 |
+| [[../skills/code-examples/context-management/README.md]] | 上下文管理 |
 
 ---
 

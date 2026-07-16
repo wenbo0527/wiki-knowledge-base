@@ -168,7 +168,7 @@ if (command.includes('ssh root@118.196.79.130')) {
 0 9 * * *   openclaw-cron youtube-claude-code --out wiki/topics/claude-code/
 0 10 * * *  openclaw-cron arxiv-ai-agent --out wiki/topics/ai-agent/
 0 18 * * *  openclaw-cron hacker-news-ai --out wiki/topics/hn-ai/
-0 18 * * 0  openclaw-cron mit-stanford-reports --out wiki/reports/
+0 18 * * 0  openclaw-cron mit-stanford-reports --out wiki/review-logs/reports/
 ```
 
 **时间**：3h
