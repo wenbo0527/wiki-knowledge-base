@@ -1,3 +1,12 @@
+---
+title: insight 20260622 hermes rule pack data warehouse
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-06-30
+---
+
 # Hermes Agent 规则包 (Rule Pack)：数据仓库"从需求到资产"的方法论革命
 
 > **类型**: Insight（实战案例 + 方法论提炼）

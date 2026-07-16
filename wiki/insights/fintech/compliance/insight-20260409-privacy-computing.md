@@ -1,3 +1,12 @@
+---
+title: insight 20260409 privacy computing
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, fintech, compliance]
+date: 2026-04-24
+---
+
 # 金融科技 - 隐私计算金融应用洞察
 能力框架: capability-value-closed-loop capability-data-driven #capability-risk-control
 

@@ -1,3 +1,12 @@
+---
+title: insight 20260514 terminus 4b small model
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai]
+date: 2026-05-14
+---
+
 # Terminus-4B：小模型在代码Agent中的颠覆性潜力
 
 > Insights - 代码Agent优化

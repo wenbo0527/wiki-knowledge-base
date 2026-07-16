@@ -1,3 +1,12 @@
+---
+title: ontological engineering
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, palantir-ontology]
+date: 2026-04-24
+---
+
 # Palantir本体论与 ontological 工程
 
 > 构建物理世界与数字世界的语义映射，让AI拥有业务共识

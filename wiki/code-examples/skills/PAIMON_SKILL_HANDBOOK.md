@@ -1,3 +1,12 @@
+---
+title: PAIMON SKILL HANDBOOK
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CODE
+doc_type: 其他
+tags: [code-examples, skills]
+date: 2026-04-30
+---
+
 # 📋 派蒙Skill维护工作手册
 
 > **执行人**: 派蒙（Paimon）🤝

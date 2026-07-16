@@ -1,3 +1,12 @@
+---
+title: insight 20260508 llm agent arch
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # LLM Agent架构演进：从模型依赖到外部认知基础设施
 能力框架: capability-requirement-decision capability-tech-understanding #capability-product-design #capability-risk-control
 

@@ -1,3 +1,12 @@
+---
+title: lesson 2026 07 14 sync script three check
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-07-15
+---
+
 # Lesson L-32: 同步脚本 3 必检——不 hardcode / 不 swallow / 必对账
 
 > 7-14 14:05 沉淀 · nick_fury 🕵️ · INC-2026-07-14-004

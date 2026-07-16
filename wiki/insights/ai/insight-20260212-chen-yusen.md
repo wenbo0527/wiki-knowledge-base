@@ -1,3 +1,12 @@
+---
+title: insight 20260212 chen yusen
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai]
+date: 2026-05-23
+---
+
 # 陈宇森：软件可以"3D打印"了
 能力框架: capability-value-closed-loop capability-requirement-decision
 

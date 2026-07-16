@@ -1,3 +1,12 @@
+---
+title: source 20260419 vibe coding practice
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources]
+date: 2026-04-24
+---
+
 # Source: 实战篇：如何使用Claude和trae产出Vibe coding友好的需求文档
 
 > **Source ID**: source-20260419-vibe-coding-practice  

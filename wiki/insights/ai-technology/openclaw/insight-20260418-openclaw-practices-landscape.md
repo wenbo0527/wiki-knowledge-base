@@ -1,3 +1,12 @@
+---
+title: insight 20260418 openclaw practices landscape
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, openclaw]
+date: 2026-04-24
+---
+
 # OpenClaw Practices 热门话题分析
 能力框架: capability-product-design capability-tech-understanding #capability-risk-control
 

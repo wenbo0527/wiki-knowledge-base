@@ -1,3 +1,12 @@
+---
+title: insight 20260417 harness engineering
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, agent-engineering]
+date: 2026-04-24
+---
+
 # Harness Engineering：AI Agent的操作系统
 
 > 原始链接: https://mp.weixin.qq.com/s/sVGeofV9uTgvhgR44q8pNA

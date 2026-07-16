@@ -1,3 +1,12 @@
+---
+title: inc 2026 07 14 001 etf 18 day mock data
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, incidents, 2026-07]
+date: 2026-07-15
+---
+
 # 🔴 Incident 001: ETF 速览分位数据 18 天失真（hardcoded 预设冒充分位）
 
 | 字段 | 值 |

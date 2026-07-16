@@ -1,3 +1,12 @@
+---
+title: agile project management guide
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources]
+date: 2026-04-28
+---
+
 # 📋 敏捷项目管理知识库
 
 > **整理者**: 尼克·弗瑞

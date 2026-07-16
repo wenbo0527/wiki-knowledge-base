@@ -1,3 +1,12 @@
+---
+title: lesson 2026 07 02 data flow break mock fallback
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-07-03
+---
+
 # Lesson: 数据流断裂 + Mock Fallback 双重故障（L-24）
 
 > **触发 INC**: INC-2026-07-02-003

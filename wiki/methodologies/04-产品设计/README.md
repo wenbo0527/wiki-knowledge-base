@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-METHODOLOGY
+doc_type: 其他
+tags: [methodologies, 04-产品设计]
+date: 2026-07-16
+---
+
 # 04 产品设计
 
 > 版本: v1.1

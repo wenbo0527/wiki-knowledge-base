@@ -1,3 +1,12 @@
+---
+title: insight 20260616 Kimi K2 Thinking深度解析 开源模型如何以1 资源挑战全球SOTA
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # Kimi K2 Thinking深度解析：开源模型如何以1%资源挑战全球SOTA
 
 > **来源**: Get笔记

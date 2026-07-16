@@ -1,3 +1,12 @@
+---
+title: insight 20260512 agent architect capability framework
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # Agent时代架构师核心能力框架：从工具追逐到系统沉淀
 
 能力框架: capability-tech-understanding #capability-requirement-decision

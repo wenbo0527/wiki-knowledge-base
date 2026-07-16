@@ -1,3 +1,12 @@
+---
+title: scqa framework
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CONCEPT
+doc_type: 其他
+tags: [concepts]
+date: 2026-04-24
+---
+
 # SCQA架构
 
 > 刘润老师推荐的结构化表达工具

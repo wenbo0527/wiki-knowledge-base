@@ -1,3 +1,12 @@
+---
+title: 05 value closed loop
+author: 尼克·弗瑞 🕵️
+product_domain: PD-METHODOLOGY
+doc_type: 其他
+tags: [methodologies, 01-价值闭环, L2-方法论]
+date: 2026-07-16
+---
+
 # 价值闭环落地方法论
 
 > 方法论分类: 05

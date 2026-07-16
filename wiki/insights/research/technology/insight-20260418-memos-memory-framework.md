@@ -1,3 +1,12 @@
+---
+title: insight 20260418 memos memory framework
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, research, technology]
+date: 2026-05-23
+---
+
 # Memos企业级大模型记忆引擎：Agent时代的记忆框架实践
 能力框架: capability-tech-understanding #capability-product-design #capability-risk-control
 

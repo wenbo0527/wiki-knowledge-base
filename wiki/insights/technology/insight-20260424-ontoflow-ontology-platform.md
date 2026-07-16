@@ -1,3 +1,12 @@
+---
+title: insight 20260424 ontoflow ontology platform
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, technology]
+date: 2026-05-23
+---
+
 # Insight: OntoFlow 本体建模平台 - 从数据到决策的完整链路
 
 > 原始链接: https://mp.weixin.qq.com/s/WdZ5uk6-bBgncZNbx8iojA

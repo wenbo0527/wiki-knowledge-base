@@ -1,3 +1,12 @@
+---
+title: vibe coding for pm
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management, ai-era-pm]
+date: 2026-04-24
+---
+
 # Vibe Coding for PM
 
 > PM如何用自然语言+AI协作完成产品工作

@@ -1,3 +1,12 @@
+---
+title: insight 20260430 claude code long context治理
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-23
+---
+
 # Claude Code长任务治理机制深度解析
 能力框架: capability-value-closed-loop capability-tech-understanding #capability-risk-control
 

@@ -1,3 +1,12 @@
+---
+title: insight 20260616 社交平台装修博主乱象调查 AI生成 业主夫妻 背后的营销陷阱与法律风险
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 社交平台装修博主乱象调查：AI生成"业主夫妻"背后的营销陷阱与法律风险
 
 > **来源**: Get笔记

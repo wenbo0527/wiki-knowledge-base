@@ -1,3 +1,12 @@
+---
+title: cursor
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ENTITY
+doc_type: 其他
+tags: [entities, companies]
+date: 2026-04-24
+---
+
 # Cursor
 
 > AI代码编辑器领域的领先者，首个实现真正意义上"AI原生"编程体验的IDE

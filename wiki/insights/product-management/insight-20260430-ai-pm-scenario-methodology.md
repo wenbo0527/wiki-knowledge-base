@@ -1,3 +1,12 @@
+---
+title: insight 20260430 ai pm scenario methodology
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, product-management]
+date: 2026-05-23
+---
+
 # AI产品经理场景识别方法论
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-risk-control #capability-data-driven
 

@@ -1,3 +1,12 @@
+---
+title: source 20260419 anthropic ai pm
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources]
+date: 2026-04-24
+---
+
 # Source: AI指数增长时代的产品管理
 
 > **原文标题**: Product Management in the Age of AI  

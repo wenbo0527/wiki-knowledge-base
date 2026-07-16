@@ -1,3 +1,12 @@
+---
+title: source 20260419 crewai framework
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources]
+date: 2026-04-24
+---
+
 # Source: CrewAI框架层空心化预言
 
 > **原文标题**: CrewAI创始人：框架层正在"空心化"，AI原生基础设施才是未来  

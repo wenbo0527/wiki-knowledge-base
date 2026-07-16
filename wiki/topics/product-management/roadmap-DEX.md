@@ -1,3 +1,12 @@
+---
+title: roadmap DEX
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management]
+date: 2026-04-24
+---
+
 # 数据探索产品域规划（PD-DEX）
 
 > 数据探索分析平台 - 自助分析、智能洞察、数据驱动决策

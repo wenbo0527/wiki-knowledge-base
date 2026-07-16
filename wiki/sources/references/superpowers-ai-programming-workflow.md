@@ -1,3 +1,12 @@
+---
+title: superpowers ai programming workflow
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources, references]
+date: 2026-04-24
+---
+
 # Superpowers：141k star，AI编程代理工作流引擎
 
 ## 基本信息

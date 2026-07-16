@@ -1,3 +1,12 @@
+---
+title: skill evaluation
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native]
+date: 2026-04-24
+---
+
 # Skill 自动评分系统
 
 > AI Agent技能评估与质量控制的完整技术指南  

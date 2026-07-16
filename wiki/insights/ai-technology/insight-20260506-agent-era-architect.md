@@ -1,3 +1,12 @@
+---
+title: insight 20260506 agent era architect
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-06
+---
+
 # Agent时代架构师核心能力框架：从工具追逐到系统沉淀
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-risk-control #capability-data-driven
 

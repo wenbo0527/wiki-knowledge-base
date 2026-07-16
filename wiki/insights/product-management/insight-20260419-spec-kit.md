@@ -1,3 +1,12 @@
+---
+title: insight 20260419 spec kit
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, product-management]
+date: 2026-05-23
+---
+
 # Insight: Spec-Kit 规格驱动编程实践指南
 能力框架: capability-tech-understanding #capability-risk-control
 

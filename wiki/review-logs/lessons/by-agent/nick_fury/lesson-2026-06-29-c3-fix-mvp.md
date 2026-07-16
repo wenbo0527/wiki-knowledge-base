@@ -1,3 +1,12 @@
+---
+title: lesson 2026 06 29 c3 fix mvp
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-06-30
+---
+
 # Lesson 2026-06-29: C-3 MVP 修复闭环（Fix-1 + Fix-2）
 
 > 沉淀时间: 2026-06-29 10:35

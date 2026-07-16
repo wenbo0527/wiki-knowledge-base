@@ -1,3 +1,12 @@
+---
+title: lesson 2026 07 15 getnote sync qps and backfill
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-07-15
+---
+
 # L-41: GET 笔记入库必须 QPS 控制 + 拉全量 + KB 价值评估
 
 > **教训族**: INC-2026-07-15-006 治本  

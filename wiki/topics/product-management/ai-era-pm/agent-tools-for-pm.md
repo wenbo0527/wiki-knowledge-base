@@ -1,3 +1,12 @@
+---
+title: agent tools for pm
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management, ai-era-pm]
+date: 2026-04-24
+---
+
 # Agent工具实践
 
 > PM如何用OpenClaw/Claude Code等Agent工具提升工作效率

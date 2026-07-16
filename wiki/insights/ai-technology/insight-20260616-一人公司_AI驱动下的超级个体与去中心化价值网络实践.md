@@ -1,3 +1,12 @@
+---
+title: insight 20260616 一人公司 AI驱动下的超级个体与去中心化价值网络实践
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 一人公司：AI驱动下的超级个体与去中心化价值网络实践
 
 > **来源**: Get笔记

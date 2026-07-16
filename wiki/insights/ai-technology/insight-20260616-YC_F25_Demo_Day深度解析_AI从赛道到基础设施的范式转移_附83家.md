@@ -1,3 +1,12 @@
+---
+title: insight 20260616 YC F25 Demo Day深度解析 AI从赛道到基础设施的范式转移 附83家
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # YC F25 Demo Day深度解析：AI从赛道到基础设施的范式转移（附83家AI公司全景扫描）
 
 > **来源**: Get笔记

@@ -1,3 +1,12 @@
+---
+title: 1 core metrics
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native, model-stability]
+date: 2026-04-24
+---
+
 # 模型稳定性核心评估指标
 > PSI、CSI、KS/AUC变化、特征级稳定性，全面量化模型健康度
 ---

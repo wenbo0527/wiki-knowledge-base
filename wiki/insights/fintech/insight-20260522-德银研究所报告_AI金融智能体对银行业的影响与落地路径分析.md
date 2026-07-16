@@ -1,3 +1,12 @@
+---
+title: insight 20260522 德银研究所报告 AI金融智能体对银行业的影响与落地路径分析
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, fintech]
+date: 2026-05-23
+---
+
 # 德银研究所报告：AI金融智能体对银行业的影响与落地路径分析
 
 > **来源**: Get笔记

@@ -1,3 +1,12 @@
+---
+title: insight 20260522 AI Agent记忆机制与保险行业应用 从参数更新到知识飞轮
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-23
+---
+
 # AI Agent记忆机制与保险行业应用：从参数更新到知识飞轮
 
 > **来源**: Get笔记

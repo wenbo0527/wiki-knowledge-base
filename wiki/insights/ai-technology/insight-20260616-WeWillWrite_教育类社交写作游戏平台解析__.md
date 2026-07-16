@@ -1,3 +1,12 @@
+---
+title: insight 20260616 WeWillWrite 教育类社交写作游戏平台解析  
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # WeWillWrite：教育类社交写作游戏平台解析 📚
 
 > **来源**: Get笔记

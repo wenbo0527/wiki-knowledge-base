@@ -1,3 +1,12 @@
+---
+title: ai safety regulation
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native]
+date: 2026-04-24
+---
+
 # AI安全/监管
 
 > AI安全研究、对齐问题、地缘政治风险、监管政策

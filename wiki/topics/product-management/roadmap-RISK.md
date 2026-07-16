@@ -1,3 +1,12 @@
+---
+title: roadmap RISK
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management]
+date: 2026-04-24
+---
+
 # 数字风险产品域规划（PD-RISK）
 
 > 数字风险管理平台 - 智能风控、合规管理、风险洞察

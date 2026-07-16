@@ -1,3 +1,12 @@
+---
+title: agent task board
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ENTITY
+doc_type: 其他
+tags: [entities, skills]
+date: 2026-05-23
+---
+
 # agent-task-board
 
 > Skill 档案

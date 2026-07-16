@@ -1,3 +1,12 @@
+---
+title: insight 20260521 codex goal deep dive
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # Codex /goal 深度解析：长周期Agent目标管理与运行时架构
 
 > **版本**: v1.0

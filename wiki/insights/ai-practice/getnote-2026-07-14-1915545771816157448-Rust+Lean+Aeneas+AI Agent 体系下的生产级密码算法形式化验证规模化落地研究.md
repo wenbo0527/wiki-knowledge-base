@@ -1,3 +1,12 @@
+---
+title: getnote 2026 07 14 1915545771816157448 Rust+Lean+Aeneas+AI Agent 体系下的生产级密码算法形式化验证规模化落地研究
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-practice]
+date: 2026-07-16
+---
+
 # Rust+Lean+Aeneas+AI Agent 体系下的生产级密码算法形式化验证规模化落地研究
 
 > 来源: Get 笔记

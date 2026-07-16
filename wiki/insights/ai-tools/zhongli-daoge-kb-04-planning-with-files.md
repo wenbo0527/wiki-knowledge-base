@@ -1,3 +1,12 @@
+---
+title: zhongli daoge kb 04 planning with files
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-tools]
+date: 2026-06-30
+---
+
 # #4 planning-with-files：复刻 20 亿美元 Manus 技术的开源 Claude Skill
 
 **源**: 刀哥 KB `2eYxaj0z` | note_id `1898194470085755504` | 2026-01-08 | tags: AI Agent, Skill 设计

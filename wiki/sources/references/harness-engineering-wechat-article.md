@@ -1,3 +1,12 @@
+---
+title: harness engineering wechat article
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources, references]
+date: 2026-04-24
+---
+
 # 《模型不是关键，Harness才是》
 
 > 来源：AGI Hunt 公众号 | 发布时间：2026-03-22

@@ -1,3 +1,12 @@
+---
+title: 5 common pitfalls
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native, model-explainability]
+date: 2026-04-24
+---
+
 # 模型可解释性避坑指南
 > 常见错误、合规风险、落地误区，避免踩坑
 ---

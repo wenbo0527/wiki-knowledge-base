@@ -1,3 +1,12 @@
+---
+title: insight 20260616 Manus项目立项讨论纪要 扩展版  智能体产品的战略与架构探索
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # Manus项目立项讨论纪要（扩展版）：智能体产品的战略与架构探索
 
 > **来源**: Get笔记

@@ -1,3 +1,12 @@
+---
+title: insight 20260522 招商银行 AI First 战略深度解析 从科技赋能到科技引领的银行转型之路
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, fintech]
+date: 2026-05-23
+---
+
 # 招商银行"AI First"战略深度解析：从科技赋能到科技引领的银行转型之路
 
 > **来源**: Get笔记

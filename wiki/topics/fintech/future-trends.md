@@ -1,3 +1,12 @@
+---
+title: future trends
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech]
+date: 2026-04-24
+---
+
 # 金融科技 - AI金融的未来趋势
 
 > AGI、量子金融、Web3金融的前瞻性分析与未来展望

@@ -1,3 +1,12 @@
+---
+title: agent engineering
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native]
+date: 2026-04-24
+---
+
 # Agent工程实践
 
 > Agent系统架构、框架选型、工程落地的实战指南

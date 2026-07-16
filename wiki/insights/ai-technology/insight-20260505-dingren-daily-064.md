@@ -1,3 +1,12 @@
+---
+title: insight 20260505 dingren daily 064
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-06
+---
+
 # 盯人日报 #064 | 2026-05-05
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-data-driven #capability-risk-control
 

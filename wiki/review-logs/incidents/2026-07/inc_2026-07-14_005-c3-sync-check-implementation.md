@@ -1,3 +1,12 @@
+---
+title: inc 2026 07 14 005 c3 sync check implementation
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, incidents, 2026-07]
+date: 2026-07-15
+---
+
 # 🔴 Incident 005: C-3 自检增加 Get 笔记 → Wiki 同步对账检查
 
 | 字段 | 值 |

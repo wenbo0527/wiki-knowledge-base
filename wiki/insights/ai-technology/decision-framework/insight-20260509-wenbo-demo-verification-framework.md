@@ -1,3 +1,12 @@
+---
+title: insight 20260509 wenbo demo verification framework
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, decision-framework]
+date: 2026-05-09
+---
+
 # Demo验证框架 v1.1
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-risk-control #capability-data-driven
 

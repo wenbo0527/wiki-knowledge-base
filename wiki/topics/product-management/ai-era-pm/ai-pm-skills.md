@@ -1,3 +1,12 @@
+---
+title: ai pm skills
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management, ai-era-pm]
+date: 2026-04-24
+---
+
 # AI PM技能体系
 
 > 从"定义功能"到"定义边界"——PM的核心能力升级

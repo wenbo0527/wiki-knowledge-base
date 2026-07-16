@@ -1,3 +1,12 @@
+---
+title: insight 20260608 ai pm 101 data agent 0to1
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, product-management]
+date: 2026-06-30
+---
+
 # AI 产品经理 101：从 0 到 1 做一个 Data Agent
 
 > **类型**: Insight（专题方法论）  

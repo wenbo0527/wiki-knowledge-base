@@ -1,3 +1,12 @@
+---
+title: CODE EXAMPLES STANDARDS
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CODE
+doc_type: 其他
+tags: [code-examples]
+date: 2026-04-30
+---
+
 # 📋 Code Examples 代码示例库 准入标准
 
 > **制定时间**: 2026-04-30

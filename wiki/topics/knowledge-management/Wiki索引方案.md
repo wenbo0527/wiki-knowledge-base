@@ -5,7 +5,10 @@ category: documentation
 tags: [knowledge-base, wiki, curated, authored, index]
 author: Tony Stark
 date: 2026-05-18
+product_domain: PD-TOPIC
+doc_type: 其他
 ---
+
 
 # Wiki 知识库索引
 

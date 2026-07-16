@@ -1,3 +1,12 @@
+---
+title: 2026 05 19 项目 MarketAgentTask处理框架Demo
+author: 尼克·弗瑞 🕵️
+product_domain: PD-LOCAL-DOCS
+doc_type: 其他
+tags: [local-docs, 行业研究, MarketAgentDemo]
+date: 2026-07-15
+---
+
 # 多Agent产品流程Demo - 元数据管理完整案例
 
 **项目名称**: Multi-Agent Product Flow Demo  

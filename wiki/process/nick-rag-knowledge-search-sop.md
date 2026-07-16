@@ -1,13 +1,15 @@
 ---
 name: nick-rag-knowledge-search
-description: >
-  尼克·弗瑞知识检索SOP。在情报收集、文章处理、简报生成等场景中，
-  使用knowledge_search进行RAG检索，避免重复劳动，实现知识复用。
-  Use when: 执行情报任务前、生成分析报告前、处理用户分享的文章时。
-metadata:
-  openclaw:
-    emoji: "🕵️"
+description: ">   尼克·弗瑞知识检索SOP。在情报收集、文章处理、简报生成等场景中，   使用knowledge_search进行RAG检索，避免重复劳动，实现知识复用。   Use when: 执行情报任务前、生成分析报告前、处理用户分享的文章时。"
+metadata: "   openclaw:     emoji: "🕵️""
+title: nick rag knowledge search sop
+author: 尼克·弗瑞 🕵️
+product_domain: PD-PROCESS
+doc_type: 其他
+tags: [process]
+date: 2026-05-23
 ---
+
 
 # Nick RAG Knowledge Search SOP
 

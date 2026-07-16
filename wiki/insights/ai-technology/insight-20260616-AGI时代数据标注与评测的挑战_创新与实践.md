@@ -1,3 +1,12 @@
+---
+title: insight 20260616 AGI时代数据标注与评测的挑战 创新与实践
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # AGI时代数据标注与评测的挑战、创新与实践
 
 > **来源**: Get笔记

@@ -1,3 +1,12 @@
+---
+title: insight 20260505 anthropic mythos crisis
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-06
+---
+
 # Anthropic Mythos风暴：白宫介入与AI治理困境
 能力框架: capability-tech-understanding capability-risk-control
 

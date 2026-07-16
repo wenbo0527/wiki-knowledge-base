@@ -1,3 +1,12 @@
+---
+title:  agent usage guide
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs]
+date: 2026-05-09
+---
+
 # 📋 Agent团队 Review Logs 使用说明
 
 > 适用Agent: 派蒙、钟离、托尼·斯塔克、尼克·弗瑞

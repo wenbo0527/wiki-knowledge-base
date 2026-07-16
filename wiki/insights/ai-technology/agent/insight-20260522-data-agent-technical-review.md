@@ -1,3 +1,12 @@
+---
+title: insight 20260522 data agent technical review
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, agent]
+date: 2026-05-23
+---
+
 # Data Agent 技术综述：从基础框架到企业落地
 
 > **版本**: v1.1（增强版）

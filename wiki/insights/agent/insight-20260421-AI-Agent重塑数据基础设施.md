@@ -1,3 +1,12 @@
+---
+title: insight 20260421 AI Agent重塑数据基础设施
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # AI Agents 正在重塑下一代数据基础设施
 
 > 原始链接: https://mp.weixin.qq.com/s/XOMnWsmwBZCi_2_Ux5KblA

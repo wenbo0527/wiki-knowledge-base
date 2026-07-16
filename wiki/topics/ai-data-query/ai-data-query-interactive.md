@@ -1,3 +1,12 @@
+---
+title: ai data query interactive
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-data-query]
+date: 2026-04-24
+---
+
 # 交互式分析能力
 
 > 支持用户对查询结果进行深入分析和探索

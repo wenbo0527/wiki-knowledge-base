@@ -1,3 +1,12 @@
+---
+title: insight 20260522 Data Agent 从数据工具到数字专家的范式跃迁  火山引擎智能决策系统深度
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-23
+---
+
 # Data Agent：从数据工具到数字专家的范式跃迁——火山引擎智能决策系统深度解析
 
 > **来源**: Get笔记

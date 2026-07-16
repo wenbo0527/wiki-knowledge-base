@@ -1,3 +1,12 @@
+---
+title: insight 20260428 jensen huang dwarksesh tpu
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, research, technology]
+date: 2026-05-23
+---
+
 # Jensen Huang × Dwarkesh：TPU竞争、对华芯片与供应链护城河
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-data-driven
 

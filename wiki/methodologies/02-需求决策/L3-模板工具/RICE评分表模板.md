@@ -1,3 +1,12 @@
+---
+title: RICE评分表模板
+author: 尼克·弗瑞 🕵️
+product_domain: PD-METHODOLOGY
+doc_type: 其他
+tags: [methodologies, 02-需求决策, L3-模板工具]
+date: 2026-07-16
+---
+
 # RICE评分表模板
 
 > 版本: v1.0

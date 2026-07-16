@@ -1,3 +1,12 @@
+---
+title: insight 20260421 daily summary
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai, openclaw]
+date: 2026-05-23
+---
+
 # 2026-04-21 情报日报：AI工程化落地的五大范式转移
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-risk-control
 

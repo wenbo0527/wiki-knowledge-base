@@ -1,3 +1,12 @@
+---
+title: insight 20260411 demis hassabis
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-23
+---
+
 # Demis Hassabis：DeepMind CEO关于AGI与AI未来的判断
 能力框架: capability-value-closed-loop capability-product-design
 

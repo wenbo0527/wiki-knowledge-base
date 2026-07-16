@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, knowledge-management, personal]
+date: 2026-04-24
+---
+
 # 个人知识管理 (Personal Knowledge Management)
 
 > 构建你的第二大脑，让知识有序流动

@@ -1,3 +1,12 @@
+---
+title: TIER EVALUATION REPORT 20260505
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOOL
+doc_type: 其他
+tags: [tools, source-evaluation]
+date: 2026-05-06
+---
+
 # 信息源首次评定报告
 
 > 版本: v1.0

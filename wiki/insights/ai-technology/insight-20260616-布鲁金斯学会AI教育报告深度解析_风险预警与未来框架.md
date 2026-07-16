@@ -1,3 +1,12 @@
+---
+title: insight 20260616 布鲁金斯学会AI教育报告深度解析 风险预警与未来框架
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 布鲁金斯学会AI教育报告深度解析：风险预警与未来框架
 
 > **来源**: Get笔记

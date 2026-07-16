@@ -1,3 +1,12 @@
+---
+title: references
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management, github-portfolio]
+date: 2026-04-27
+---
+
 # 参考链接
 
 > GitHub金融AI PM作品集标杆案例

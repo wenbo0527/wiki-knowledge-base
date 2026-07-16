@@ -1,3 +1,12 @@
+---
+title: insight 20260616 Claude Code效率倍增指南 CLAUDE md全攻略 从入门到高手 
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # Claude Code效率倍增指南：CLAUDE.md全攻略（从入门到高手）
 
 > **来源**: Get笔记

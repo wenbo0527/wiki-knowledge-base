@@ -1,3 +1,12 @@
+---
+title: insight 20260522 芸汐大会 阿里巴巴coder智能编程平台深度解析
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ARCHIVE
+doc_type: 其他
+tags: [_archive, insights, 微信文章]
+date: 2026-05-23
+---
+
 # 芸汐大会：阿里巴巴coder智能编程平台深度解析
 
 > **来源**: Get笔记

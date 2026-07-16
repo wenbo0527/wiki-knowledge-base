@@ -1,3 +1,12 @@
+---
+title: hegang framework
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, analysis-frameworks]
+date: 2026-04-24
+---
+
 # 何刚分析框架
 
 > 价值投资、行业分析、公司分析的系统化方法论体系

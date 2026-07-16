@@ -1,3 +1,12 @@
+---
+title: TIER EVALUATION RULES
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOOL
+doc_type: 其他
+tags: [tools, source-evaluation]
+date: 2026-05-06
+---
+
 # 信息源质量评估体系
 
 > 版本: v1.0

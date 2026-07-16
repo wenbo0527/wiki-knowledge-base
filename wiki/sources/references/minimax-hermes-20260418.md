@@ -1,3 +1,12 @@
+---
+title: minimax hermes 20260418
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources, references]
+date: 2026-04-24
+---
+
 # MiniMax × Hermes：模型与Harness的双进化
 
 > 来源：Datawhale公众号

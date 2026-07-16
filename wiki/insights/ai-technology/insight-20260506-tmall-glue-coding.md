@@ -1,3 +1,12 @@
+---
+title: insight 20260506 tmall glue coding
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-06
+---
+
 # 天猫"胶水编程"实践深度分析
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design
 

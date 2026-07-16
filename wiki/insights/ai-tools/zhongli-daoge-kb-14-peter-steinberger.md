@@ -1,3 +1,12 @@
+---
+title: zhongli daoge kb 14 peter steinberger
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-tools]
+date: 2026-06-30
+---
+
 # #14 OpenClaw 创始人 Peter Steinberger 访谈：爆红危机与 AI Agent 未来
 
 **源**: 刀哥 KB `2eYxaj0z` | note_id `1901568400971432816` | 2026-02-13 | tags: OpenClaw, AI Agent

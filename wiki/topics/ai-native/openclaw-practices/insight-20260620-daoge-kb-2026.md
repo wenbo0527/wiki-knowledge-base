@@ -1,3 +1,12 @@
+---
+title: insight 20260620 daoge kb 2026
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native, openclaw-practices]
+date: 2026-06-30
+---
+
 # 刀哥 KB 2026 专题：Claude Code + OpenClaw 双主线之年
 
 > 来源：刀哥 AI 学习笔记（快刀青衣 KB / Get 笔记 `2eYxaj0z`）

@@ -1,3 +1,12 @@
+---
+title: insight 20260419 anthropic multi agent patterns
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # Anthropic多智能体协作模式：五种架构深度解析
 能力框架: capability-value-closed-loop capability-tech-understanding #capability-risk-control #capability-data-driven
 

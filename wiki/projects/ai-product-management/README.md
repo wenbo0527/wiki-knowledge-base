@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-PROJECT
+doc_type: 其他
+tags: [projects, ai-product-management]
+date: 2026-06-30
+---
+
 # AI辅助产品管理
 
 > 项目 README - 派蒙大总管维护

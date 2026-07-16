@@ -1,3 +1,12 @@
+---
+title: insight 20260421 openspec superpowers practice
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, product-management]
+date: 2026-05-23
+---
+
 # OpenSpec + Superpowers 新项目全流程实战指南
 
 > 原始链接: https://mp.weixin.qq.com/s/7EpVsLbFznkngJbD7tFA9A

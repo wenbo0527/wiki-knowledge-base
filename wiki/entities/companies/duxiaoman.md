@@ -1,3 +1,12 @@
+---
+title: duxiaoman
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ENTITY
+doc_type: 其他
+tags: [entities, companies]
+date: 2026-04-24
+---
+
 # 度小满金融 (Du Xiaoman)
 
 > 百度旗下金融科技平台

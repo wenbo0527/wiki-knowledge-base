@@ -1,3 +1,12 @@
+---
+title: insight 20260506 taobao test platform ai
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-06
+---
+
 # 淘宝营销会场智能测试平台AI落地实践：基于LLM与多模态Agent的测试智能化
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-risk-control #capability-data-driven
 

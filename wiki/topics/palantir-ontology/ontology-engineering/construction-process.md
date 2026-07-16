@@ -1,3 +1,12 @@
+---
+title: construction process
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, palantir-ontology, ontology-engineering]
+date: 2026-04-24
+---
+
 # 本体构建全流程方法论
 
 > 从0到1建设企业级本体的落地指南

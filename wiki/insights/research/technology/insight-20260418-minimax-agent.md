@@ -1,3 +1,12 @@
+---
+title: insight 20260418 minimax agent
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, research, technology]
+date: 2026-05-23
+---
+
 # MiniMax大模型与AI Agent产品实践
 能力框架: capability-value-closed-loop capability-requirement-decision
 

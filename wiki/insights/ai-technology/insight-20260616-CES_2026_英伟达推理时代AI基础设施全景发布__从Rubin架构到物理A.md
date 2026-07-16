@@ -1,3 +1,12 @@
+---
+title: insight 20260616 CES 2026 英伟达推理时代AI基础设施全景发布  从Rubin架构到物理A
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # CES 2026：英伟达推理时代AI基础设施全景发布——从Rubin架构到物理AI商业化落地
 
 > **来源**: Get笔记

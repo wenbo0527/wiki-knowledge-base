@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources]
+date: 2026-04-24
+---
+
 # Sources 目录索引
 
 > 版本: v1.0

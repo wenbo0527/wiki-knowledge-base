@@ -1,3 +1,12 @@
+---
+title: lesson 2026 07 16 paimon dispatch 129 candidate
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-07-16
+---
+
 # Lesson 2026-07-16 · 派蒙派单候选 #129 同根病防御
 
 > **类别**: 派单接收防御 · 诚实归零机制

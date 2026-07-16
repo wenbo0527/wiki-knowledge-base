@@ -1,3 +1,12 @@
+---
+title: EPIC RISK MODEL BACKTRACE OFFLINE 模型回溯线下化
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management, epics]
+date: 2026-04-24
+---
+
 # EPIC-RISK_MODEL_BACKTRACE_OFFLINE - 模型回溯线下化
 
 > Epic 级别需求文档 | 产品域：PD-RISK（数字风险）

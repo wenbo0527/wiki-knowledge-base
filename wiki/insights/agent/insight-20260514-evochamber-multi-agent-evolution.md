@@ -1,3 +1,12 @@
+---
+title: insight 20260514 evochamber multi agent evolution
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # EVOCHAMBER: 多智能体协同进化框架
 
 能力框架: capability-tech-understanding #capability-fusion

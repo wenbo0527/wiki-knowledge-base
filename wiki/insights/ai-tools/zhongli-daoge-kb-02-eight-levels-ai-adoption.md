@@ -1,3 +1,12 @@
+---
+title: zhongli daoge kb 02 eight levels ai adoption
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-tools]
+date: 2026-06-30
+---
+
 # #2 The Eight Levels of AI Adoption - 人工智能采用的八个层级
 
 **源**: 刀哥 KB `2eYxaj0z` | note_id `1912234232845225048` | 2026-06-08 | tags: AI Adoption, Chatbot

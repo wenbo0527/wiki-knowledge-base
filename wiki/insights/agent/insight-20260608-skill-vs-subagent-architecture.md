@@ -1,3 +1,12 @@
+---
+title: insight 20260608 skill vs subagent architecture
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-06-30
+---
+
 # Agent 架构讨论：Skill vs Sub-Agent 与知识底座选型
 
 > **类型**: Insight（架构决策）  

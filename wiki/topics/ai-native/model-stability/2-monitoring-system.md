@@ -1,3 +1,12 @@
+---
+title: 2 monitoring system
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native, model-stability]
+date: 2026-04-24
+---
+
 # 模型稳定性监控体系
 > 离线+实时双重监控，报警分级响应，7×24保障模型稳定运行
 ---

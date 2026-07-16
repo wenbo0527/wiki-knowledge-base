@@ -1,3 +1,12 @@
+---
+title: wiki health check report 20260428
+author: 尼克·弗瑞 🕵️
+product_domain: PD-PROCESS
+doc_type: 其他
+tags: [process]
+date: 2026-04-28
+---
+
 # Wiki健康走查报告
 
 > 执行时间: 2026-04-28 08:25

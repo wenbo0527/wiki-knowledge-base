@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native]
+date: 2026-04-24
+---
+
 # AI Programming（AI编程）专题
 
 > 🕵️ 尼克·弗瑞情报整理

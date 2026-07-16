@@ -1,3 +1,12 @@
+---
+title: insight 20260514 ai employment impact
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai]
+date: 2026-05-14
+---
+
 # AI就业影响：从"就业末日"到"就业狂欢"的理性探讨
 
 > Insights - AI与社会

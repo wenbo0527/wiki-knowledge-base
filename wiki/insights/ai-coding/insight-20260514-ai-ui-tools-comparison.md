@@ -1,3 +1,12 @@
+---
+title: insight 20260514 ai ui tools comparison
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-14
+---
+
 # AI设计神器大PK：主流UI/前端生成工具深度测评
 
 > Insights - AI前端工具

@@ -1,3 +1,12 @@
+---
+title: insight 20260616 ClawdBot深度解析 自主AI助手的技术架构 应用场景与实用指南
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # ClawdBot深度解析：自主AI助手的技术架构、应用场景与实用指南
 
 > **来源**: Get笔记

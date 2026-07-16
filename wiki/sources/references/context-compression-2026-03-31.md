@@ -1,3 +1,12 @@
+---
+title: context compression 2026 03 31
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources, references]
+date: 2026-04-24
+---
+
 # 聊聊各家 AI 产品的上下文压缩方法论
 
 > 来源: 微信公众号 - 三元同学 | 发布: 2026-03-31

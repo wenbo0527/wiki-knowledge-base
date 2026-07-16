@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-PROJECT
+doc_type: 其他
+tags: [projects, data-community]
+date: 2026-06-30
+---
+
 # 数字社区项目 - Wiki 索引
 
 **项目**: data-community

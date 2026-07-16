@@ -1,3 +1,12 @@
+---
+title: insight 20260408 metrics platform
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, fintech, data-platform]
+date: 2026-04-24
+---
+
 # 金融科技 - 指标中台洞察
 能力框架: capability-value-closed-loop capability-data-driven
 

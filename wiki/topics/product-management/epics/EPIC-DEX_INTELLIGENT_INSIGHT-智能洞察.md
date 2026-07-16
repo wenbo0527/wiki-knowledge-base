@@ -1,3 +1,12 @@
+---
+title: EPIC DEX INTELLIGENT INSIGHT 智能洞察
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management, epics]
+date: 2026-04-24
+---
+
 # EPIC-DEX_INTELLIGENT_INSIGHT - 智能洞察
 
 > Epic 级别需求文档 | 产品域：PD-DEX（数据探索）

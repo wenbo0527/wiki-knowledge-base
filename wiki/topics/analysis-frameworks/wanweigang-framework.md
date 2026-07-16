@@ -1,3 +1,12 @@
+---
+title: wanweigang framework
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, analysis-frameworks]
+date: 2026-04-24
+---
+
 # 万维钢思维框架
 
 > 用科学思维分析问题，跨界迁移各领域方法论

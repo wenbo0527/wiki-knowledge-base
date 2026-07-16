@@ -1,3 +1,12 @@
+---
+title: insight 20260418 karpathy ai cognition gap
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, agent-engineering]
+date: 2026-04-24
+---
+
 # Karpathy "AI认知鸿沟"：能力理解差距正在扩大
 能力框架: capability-tech-understanding
 

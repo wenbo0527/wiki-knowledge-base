@@ -1,3 +1,12 @@
+---
+title: insight 20260421 anthropic harness guide
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent, harness-engineering]
+date: 2026-05-23
+---
+
 # Anthropic Harness 指南：到期清理、别帮倒忙
 能力框架: capability-requirement-decision capability-tech-understanding #capability-risk-control
 

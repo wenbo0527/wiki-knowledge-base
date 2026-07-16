@@ -1,3 +1,12 @@
+---
+title: index
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources]
+date: 2026-07-16
+---
+
 # 📚 sources/ 索引 — 数据源汇总
 
 > 维护者：🕵️ 尼克·弗瑞

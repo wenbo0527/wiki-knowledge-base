@@ -1,3 +1,12 @@
+---
+title: lesson 2026 07 06 rss tech pipeline 4 layer bug
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-07-15
+---
+
 # Lessons Learned · 2026-07-06（INC-2026-07-06-001 闭环）
 
 > 关联: INC-2026-07-06-001（技术日报重复推送 + RSS 数据真空 7 天）

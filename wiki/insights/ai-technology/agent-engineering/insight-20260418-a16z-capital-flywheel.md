@@ -1,3 +1,12 @@
+---
+title: insight 20260418 a16z capital flywheel
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, agent-engineering]
+date: 2026-04-24
+---
+
 # a16z Martin Casado × Sarah Wang：AI资本飞轮与投资逻辑
 能力框架: capability-data-driven capability-tech-understanding #capability-risk-control
 

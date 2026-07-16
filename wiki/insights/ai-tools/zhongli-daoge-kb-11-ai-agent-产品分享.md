@@ -1,3 +1,12 @@
+---
+title: zhongli daoge kb 11 ai agent 产品分享
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-tools]
+date: 2026-06-30
+---
+
 # #11 AI Agent（龙虾）产品分享与使用体验介绍
 
 **源**: 刀哥 KB `2eYxaj0z` | note_id `1902877014156283872` | 2026-02-27 | tags: AI Agent, 录音笔记

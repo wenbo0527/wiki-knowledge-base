@@ -1,3 +1,12 @@
+---
+title: insight 20260514 ab experiment core problems
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, data-driven]
+date: 2026-05-14
+---
+
 # AB实验平台核心问题解析与实践挑战
 
 能力框架: capability-data-driven #capability-requirement-decision

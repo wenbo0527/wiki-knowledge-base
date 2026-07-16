@@ -1,3 +1,12 @@
+---
+title: quick demo sample
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SKILL
+doc_type: 其他
+tags: [skills]
+date: 2026-06-30
+---
+
 # Quick Demo Sample - 人类浏览版
 
 > **机器版**：`~/.openclaw/skills/quick-demo-sample/SKILL.md`

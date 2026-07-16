@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, analysis-frameworks]
+date: 2026-04-24
+---
+
 # 思维分析框架专题
 
 > 沉淀和整理各类分析思维框架，聚焦投资、商业、市场分析

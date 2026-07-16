@@ -1,3 +1,12 @@
+---
+title: inc 2026 07 14 002 fetcher price vs valuation
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, incidents, 2026-07]
+date: 2026-07-15
+---
+
 # 🔴 Incident 002: fetcher v1.0 算法根本错误——价格分位 ≠ 估值分位
 
 | 字段 | 值 |

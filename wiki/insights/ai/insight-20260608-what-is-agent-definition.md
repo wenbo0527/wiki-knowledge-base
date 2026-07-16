@@ -1,3 +1,12 @@
+---
+title: insight 20260608 what is agent definition
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai]
+date: 2026-06-30
+---
+
 # "什么是 Agent"：从能说到能做的范式跃迁
 
 > **类型**: Insight（概念框架）  

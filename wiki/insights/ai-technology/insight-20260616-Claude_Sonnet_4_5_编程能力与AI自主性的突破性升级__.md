@@ -1,3 +1,12 @@
+---
+title: insight 20260616 Claude Sonnet 4 5 编程能力与AI自主性的突破性升级  
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # Claude Sonnet 4.5：编程能力与AI自主性的突破性升级 🚀
 
 > **来源**: Get笔记

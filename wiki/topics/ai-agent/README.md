@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-agent]
+date: 2026-04-30
+---
+
 # AI Agent 技术 Topic 索引
 
 > 版本：v1.0

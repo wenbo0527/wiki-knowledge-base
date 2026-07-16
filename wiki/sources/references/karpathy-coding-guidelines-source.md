@@ -1,3 +1,12 @@
+---
+title: karpathy coding guidelines source
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources, references]
+date: 2026-04-24
+---
+
 # Karpathy Coding Guidelines - 原始文档
 
 ## 基本信息

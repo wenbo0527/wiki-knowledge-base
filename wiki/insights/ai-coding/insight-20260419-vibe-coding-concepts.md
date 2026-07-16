@@ -1,3 +1,12 @@
+---
+title: insight 20260419 vibe coding concepts
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-23
+---
+
 # Insight: Vibe Coding 30个核心概念全解析
 能力框架: capability-requirement-decision capability-product-design #capability-data-driven #capability-risk-control
 

@@ -1,3 +1,12 @@
+---
+title: insight 20260429 Skill insight进阶指南从多源输入到高质量领域Skill的构建方法
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-04-30
+---
+
 # Insight: Skill-insight进阶指南：从多源输入到高质量领域Skill的构建方法
 
 > 原始链接: https://mp.weixin.qq.com/s/9jSF7CpH8DO15bzX2R64sg

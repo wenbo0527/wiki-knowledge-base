@@ -1,3 +1,12 @@
+---
+title: insight 20260418 perplexity computer pivot
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, agent-engineering]
+date: 2026-04-24
+---
+
 # Perplexity $5亿验证：从搜索到Agent的平台转型
 能力框架: capability-value-closed-loop capability-data-driven
 

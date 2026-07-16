@@ -1,3 +1,12 @@
+---
+title: topic 04 multi agent
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-agent]
+date: 2026-05-23
+---
+
 # 多 Agent 协作架构
 
 > Topic: 多Agent协作 | 模块四

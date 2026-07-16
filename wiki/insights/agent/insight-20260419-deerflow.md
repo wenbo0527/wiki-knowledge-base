@@ -1,3 +1,12 @@
+---
+title: insight 20260419 deerflow
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # DeerFlow 2.0：字节跳动超级智能体运行底座深度解析
 能力框架: capability-value-closed-loop capability-product-design #capability-risk-control
 

@@ -1,3 +1,12 @@
+---
+title: 9 best practices
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech, credit-risk-feature-engineering]
+date: 2026-04-24
+---
+
 # 消费金融特征工程最佳实践与避坑指南
 
 > 工业界踩坑总结，避免80%的特征工程常见错误，少走弯路

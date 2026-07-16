@@ -1,3 +1,12 @@
+---
+title: insight 20260522 2026年中国Fintech信贷出海深度分析 市场格局与战略路径
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-23
+---
+
 # 2026年中国Fintech信贷出海深度分析：市场格局与战略路径
 
 > **来源**: Get笔记

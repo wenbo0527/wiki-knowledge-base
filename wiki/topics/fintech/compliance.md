@@ -1,3 +1,12 @@
+---
+title: compliance
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech]
+date: 2026-04-24
+---
+
 # 金融科技 - 合规科技最佳实践
 
 > 监管科技(RegTech)、反洗钱(AML)、KYC/KYB的核心方法论与技术实践

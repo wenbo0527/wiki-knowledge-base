@@ -1,3 +1,12 @@
+---
+title: 4 consumer finance practice
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native, model-explainability]
+date: 2026-04-24
+---
+
 # 消费金融场景可解释性落地实战
 > 结合消费金融业务场景的可解释性最佳实践，贴近国内监管要求
 ---

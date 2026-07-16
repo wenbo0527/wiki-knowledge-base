@@ -1,3 +1,12 @@
+---
+title: insight 2026 03 12 文科生极度匹配AI相关工作 你信吗 
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights]
+date: 2026-06-30
+---
+
 # 文科生极度匹配AI相关工作，你信吗？
 
 > **来源**: 人人都是产品经理

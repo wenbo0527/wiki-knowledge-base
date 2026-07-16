@@ -1,3 +1,12 @@
+---
+title: lesson 2026 07 15 getnote daily limit 100
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-07-15
+---
+
 # L-42: GET 笔记入库 4 大常量（DAILY_LIMIT + REQUEST_DELAY + BATCH_DELAY + MAX_RETRY）
 
 > **教训族**: INC-2026-07-15-007 治本  

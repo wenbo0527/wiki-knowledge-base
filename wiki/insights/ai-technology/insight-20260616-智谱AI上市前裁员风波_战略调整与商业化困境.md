@@ -1,3 +1,12 @@
+---
+title: insight 20260616 智谱AI上市前裁员风波 战略调整与商业化困境
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 智谱AI上市前裁员风波：战略调整与商业化困境
 
 > **来源**: Get笔记

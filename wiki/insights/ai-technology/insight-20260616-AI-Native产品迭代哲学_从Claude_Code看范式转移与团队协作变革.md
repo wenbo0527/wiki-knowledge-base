@@ -1,3 +1,12 @@
+---
+title: insight 20260616 AI Native产品迭代哲学 从Claude Code看范式转移与团队协作变革
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # AI-Native产品迭代哲学：从Claude Code看范式转移与团队协作变革 🚀
 
 > **来源**: Get笔记

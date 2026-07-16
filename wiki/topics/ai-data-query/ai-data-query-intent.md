@@ -1,3 +1,12 @@
+---
+title: ai data query intent
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-data-query]
+date: 2026-04-24
+---
+
 # 意图理解与指标映射 - 深度探索
 
 > 解析业务人员自然语言查询，映射到具体字段和指标

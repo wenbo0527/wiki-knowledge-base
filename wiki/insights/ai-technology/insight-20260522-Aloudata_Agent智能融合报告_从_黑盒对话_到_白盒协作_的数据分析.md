@@ -1,3 +1,12 @@
+---
+title: insight 20260522 Aloudata Agent智能融合报告 从 黑盒对话 到 白盒协作 的数据分析
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-23
+---
+
 # Aloudata Agent智能融合报告：从"黑盒对话"到"白盒协作"的数据分析新范式
 
 > **来源**: Get笔记

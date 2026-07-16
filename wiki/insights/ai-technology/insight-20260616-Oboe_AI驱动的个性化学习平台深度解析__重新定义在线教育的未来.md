@@ -1,3 +1,12 @@
+---
+title: insight 20260616 Oboe AI驱动的个性化学习平台深度解析  重新定义在线教育的未来
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # Oboe：AI驱动的个性化学习平台深度解析——重新定义在线教育的未来
 
 > **来源**: Get笔记

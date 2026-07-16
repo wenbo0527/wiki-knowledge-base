@@ -1,3 +1,12 @@
+---
+title: doc code review mechanism
+author: 尼克·弗瑞 🕵️
+product_domain: PD-PROCESS
+doc_type: 其他
+tags: [process]
+date: 2026-04-28
+---
+
 # 产品文档走查与项目代码走查机制
 
 > 保障产品文档质量和项目代码质量的标准化流程

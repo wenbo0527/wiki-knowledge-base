@@ -1,3 +1,12 @@
+---
+title:  nick registry
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-07-15
+---
+
 # 🕵️ Nick Fury Lessons & INC 注册表
 
 > 维护者: 尼克·弗瑞 (Nick Fury) 🕵️
@@ -32,6 +41,11 @@
 | **6 deadlock-close-59days lessons** | Action ✅ | **6 任务 lessons 文件补写实证** （1495+1577+1511+1515+1539+1660 = 9297 字节）| `Nick/memory/lessons/` ✅ |
 | **L-40（候选 · 待 7-19 正式编号）** | Lesson · 候选 | **db 信约 ≠ 文件实际 = close 字段填 ≠ lessons 文件真的写**（候选 #117+#129+#172 第 17 次）| lesson-2026-07-16-deadlock-lessons-rescue.md |
 | **候选 #235 第①项 6/6 闭环** | Action ✅ | **6 任务 7-15 15:29:41 已 closed + 6 lessons 补写完成 · 候选 #235 第①项天然闭环** | review-logs + Nick/memory/lessons/ ✅ |
+| **Phase C.2 元数据批量** | Action ✅ | **Wiki 4 项元数据 1-2% → 99%（超 Q3 目标 4 个百分点）· 1576 篇 / 25.4 秒 / 0 错误** | ✅ 7-16 17:18 |
+| **inc_2026-07-16_003** | Incident 🆕 | **Wiki 元数据批量补全 1% → 99% 突破** | incidents/2026-07/inc_2026-07-16_003-wiki-metadata-batch-99pct.md ✅ |
+| **lesson-2026-07-16-wiki-metadata-batch-99pct** | Lesson 🆕 | **L-43 不覆盖语义 + L-44 git log earliest date**（含 scripts 资产化） | lessons/by-agent/nick_fury/lesson-2026-07-16-wiki-metadata-batch-ninety-nine-pct.md ✅ |
+| **scripts/wiki_metadata_batch.py** | Asset 🆕 | **8863 字节 · L-15 端到端验证全过 · 19 种 PD-* 映射 · 1626 篇备份** | scripts/wiki_metadata_batch.py ✅ |
+| **/tmp/wiki_metadata_backup_2026-07-16/** | Backup 🆕 | **1626 篇原文件备份（30 天可恢复）** | /tmp/wiki_metadata_backup_2026-07-16/ ✅ |
 
 **Phase 0 实测基线**（7-16 07:07 CST）：
 - 文档总数: **1671**（不是 5-21 记忆 688，3 个月翻 2.5 倍，**L-37 印证 v1.0 备份过时**）

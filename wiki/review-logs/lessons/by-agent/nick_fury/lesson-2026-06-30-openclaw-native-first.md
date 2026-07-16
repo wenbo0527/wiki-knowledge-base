@@ -1,3 +1,12 @@
+---
+title: lesson 2026 06 30 openclaw native first
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-06-30
+---
+
 # Lesson-2026-06-30：OpenClaw 原生优先（最高优先级教训）
 
 > **作者**：尼克·弗瑞

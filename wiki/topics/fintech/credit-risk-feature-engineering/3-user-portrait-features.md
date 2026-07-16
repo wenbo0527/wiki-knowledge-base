@@ -1,3 +1,12 @@
+---
+title: 3 user portrait features
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech, credit-risk-feature-engineering]
+date: 2026-04-24
+---
+
 # 用户画像特征体系
 
 > 360度刻画用户的属性、能力、偏好、风险，是风控和运营的基础

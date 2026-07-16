@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech, credit-risk-feature-engineering]
+date: 2026-04-24
+---
+
 # 消费金融风控特征工程专题
 
 > 万亿级消费金融赛道的核心风控能力，从0到1构建高区分度的特征体系

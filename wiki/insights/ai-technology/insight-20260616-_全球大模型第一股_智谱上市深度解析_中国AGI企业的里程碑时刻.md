@@ -1,3 +1,12 @@
+---
+title: insight 20260616  全球大模型第一股 智谱上市深度解析 中国AGI企业的里程碑时刻
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 「全球大模型第一股」智谱上市深度解析：中国AGI企业的里程碑时刻
 
 > **来源**: Get笔记

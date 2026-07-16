@@ -1,3 +1,12 @@
+---
+title: TOOLS STANDARDS
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOOL
+doc_type: 其他
+tags: [tools]
+date: 2026-04-30
+---
+
 # 📋 Tools 工具原型 准入标准
 
 > **制定时间**: 2026-04-30

@@ -1,3 +1,12 @@
+---
+title: SKILL SCORING REPORT
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CODE
+doc_type: 其他
+tags: [code-examples, skills]
+date: 2026-04-30
+---
+
 # 📊 OpenClaw Skills 评分报告 v2.1
 
 > **评估时间**: 2026-04-30

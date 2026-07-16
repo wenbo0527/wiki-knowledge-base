@@ -1,3 +1,12 @@
+---
+title: design inspiration
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TEMPLATE
+doc_type: 其他
+tags: [_templates, personal-site-design]
+date: 2026-05-23
+---
+
 # 设计灵感库 - CSS Awards / Dribbble 风格分析
 > 版本: v1.0 | 维护者: 尼克·弗瑞
 > 用途: Personal Site 设计方向参考

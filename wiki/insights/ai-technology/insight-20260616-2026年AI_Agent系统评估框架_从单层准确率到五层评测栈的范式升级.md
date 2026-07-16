@@ -1,3 +1,12 @@
+---
+title: insight 20260616 2026年AI Agent系统评估框架 从单层准确率到五层评测栈的范式升级
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 2026年AI Agent系统评估框架：从单层准确率到五层评测栈的范式升级
 
 > **来源**: Get笔记

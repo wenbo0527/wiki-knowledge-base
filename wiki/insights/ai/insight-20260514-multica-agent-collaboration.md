@@ -1,3 +1,12 @@
+---
+title: insight 20260514 multica agent collaboration
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai]
+date: 2026-05-14
+---
+
 # Multica深度体验：AI代理协作的「分时系统」革命
 
 > Insights - AI协作工具

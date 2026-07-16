@@ -1,3 +1,12 @@
+---
+title: zhongli daoge kb 08 teresa torres
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-tools]
+date: 2026-06-30
+---
+
 # #8 Teresa Torres 的 AI 原生工作流：从 GUI 到 Claude Code + Obsidian
 
 **源**: 刀哥 KB `2eYxaj0z` | note_id `1899335874823466856` | 2026-01-20 | tags: Claude Code, Obsidian

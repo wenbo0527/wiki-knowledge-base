@@ -1,3 +1,12 @@
+---
+title: wiki quality check report 20260428
+author: 尼克·弗瑞 🕵️
+product_domain: PD-PROCESS
+doc_type: 其他
+tags: [process]
+date: 2026-04-28
+---
+
 # Wiki知识管理原则检查报告
 
 > 检查时间: 2026-04-28 09:06

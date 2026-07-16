@@ -1,3 +1,12 @@
+---
+title: insight 20260514 tianwan multi agent
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai]
+date: 2026-05-14
+---
+
 # 天工万象：蚂蚁消金Multi-Agent智能体平台
 
 > Insights - Multi-Agent

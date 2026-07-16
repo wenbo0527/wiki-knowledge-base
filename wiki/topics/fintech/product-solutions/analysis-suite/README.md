@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech, product-solutions]
+date: 2026-04-24
+---
+
 # 分析套件产品方案
 
 > 消费金融行业分析套件产品方案实践

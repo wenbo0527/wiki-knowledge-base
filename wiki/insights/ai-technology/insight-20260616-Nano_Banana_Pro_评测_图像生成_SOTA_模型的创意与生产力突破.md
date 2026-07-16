@@ -1,3 +1,12 @@
+---
+title: insight 20260616 Nano Banana Pro 评测 图像生成 SOTA 模型的创意与生产力突破
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # Nano Banana Pro 评测：图像生成 SOTA 模型的创意与生产力突破 🍌
 
 > **来源**: Get笔记

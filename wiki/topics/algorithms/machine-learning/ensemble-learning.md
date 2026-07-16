@@ -1,3 +1,12 @@
+---
+title: ensemble learning
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, algorithms, machine-learning]
+date: 2026-04-24
+---
+
 # 集成学习算法详解
 
 > 三个臭皮匠，顶个诸葛亮：结合多个弱学习器，得到更强的泛化能力

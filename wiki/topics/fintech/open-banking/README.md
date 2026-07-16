@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech, open-banking]
+date: 2026-04-24
+---
+
 # Open Banking
 
 > （待补充专题简介）

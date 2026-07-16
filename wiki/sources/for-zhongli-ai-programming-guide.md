@@ -1,3 +1,12 @@
+---
+title: for zhongli ai programming guide
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources]
+date: 2026-04-28
+---
+
 # 致钟离：AI编程实践知识体系阅读指南
 
 > 尼克·弗瑞整理 | 2026-04-28

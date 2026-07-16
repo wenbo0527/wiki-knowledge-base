@@ -1,3 +1,12 @@
+---
+title: insight 20260616 Meta数十亿美元收购蝴蝶效应 中国AI Agent产品的全球化里程碑
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # Meta数十亿美元收购蝴蝶效应：中国AI Agent产品的全球化里程碑
 
 > **来源**: Get笔记

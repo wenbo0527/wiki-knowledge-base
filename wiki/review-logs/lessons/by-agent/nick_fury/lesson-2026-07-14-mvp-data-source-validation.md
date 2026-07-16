@@ -1,3 +1,12 @@
+---
+title: lesson 2026 07 14 mvp data source validation
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-07-15
+---
+
 # Lessons L-28 & L-29 · 2026-07-14 ETF 速览失真 18 天
 
 > 两个新教训，源自 **INC-2026-07-14-001**（🔴 Critical）

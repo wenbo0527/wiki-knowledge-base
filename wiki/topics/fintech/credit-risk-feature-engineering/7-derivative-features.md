@@ -1,3 +1,12 @@
+---
+title: 7 derivative features
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech, credit-risk-feature-engineering]
+date: 2026-04-24
+---
+
 # 衍生特征开发：挖掘更深层次的业务规律
 
 > 对基础特征做统计、变换、组合，得到区分度更高、更稳定的特征，提升模型效果

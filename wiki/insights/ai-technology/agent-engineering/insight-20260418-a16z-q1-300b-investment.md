@@ -1,3 +1,12 @@
+---
+title: insight 20260418 a16z q1 300b investment
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, agent-engineering]
+date: 2026-04-24
+---
+
 # a16z Q1 3000亿创纪录：AI资本集中度的极端信号
 能力框架: capability-value-closed-loop capability-data-driven
 

@@ -1,3 +1,12 @@
+---
+title: inc 2026 07 15 004 local docs rag first wave
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, incidents, 2026-07]
+date: 2026-07-15
+---
+
 # INC-2026-07-15-004: 本地文档 RAG 化第一波（行业研究 7 篇落盘）
 
 > **揭穿**: 7-15 11:06 启动 B.3 任务，揭穿文档仓库 6 项目 **976 个 .md** 仅 ~10% RAG 化  

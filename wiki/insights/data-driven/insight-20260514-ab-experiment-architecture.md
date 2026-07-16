@@ -1,3 +1,12 @@
+---
+title: insight 20260514 ab experiment architecture
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, data-driven]
+date: 2026-05-14
+---
+
 # AB实验平台核心架构与分流机制深度解析
 
 > Insights - AB实验

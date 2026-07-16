@@ -1,3 +1,12 @@
+---
+title: huisuan sql agent wechat 20260428
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources, references]
+date: 2026-04-29
+---
+
 # 源文件存档：智能数据分析平台 - 多Agent驱动的Text2SQL企业级应用
 
 > **存档时间**：2026-04-29

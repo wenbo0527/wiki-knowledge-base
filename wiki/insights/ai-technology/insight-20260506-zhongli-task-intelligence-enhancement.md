@@ -1,3 +1,12 @@
+---
+title: insight 20260506 zhongli task intelligence enhancement
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-06
+---
+
 # 钟离任务情报增强包：架构·代码·编排最佳实践
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-data-driven #capability-risk-control
 

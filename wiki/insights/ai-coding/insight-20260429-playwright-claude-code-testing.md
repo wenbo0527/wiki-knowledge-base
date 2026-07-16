@@ -1,3 +1,12 @@
+---
+title: insight 20260429 playwright claude code testing
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-23
+---
+
 # 洞察：Playwright CLI × Claude Code 企业级自动化测试实践
 
 > 原始链接: https://mp.weixin.qq.com/s/v20wKu5m0f0ivQQimwFREw

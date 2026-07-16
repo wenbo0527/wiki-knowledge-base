@@ -1,3 +1,12 @@
+---
+title: insight 20260514 electrobun framework
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-14
+---
+
 # 桌面应用开发新选择：Electrobun框架
 
 > Insights - 桌面开发

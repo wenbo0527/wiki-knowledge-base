@@ -1,3 +1,12 @@
+---
+title: roadmap DFD
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management]
+date: 2026-04-24
+---
+
 # 数据发现产品域规划（PD-DFD）
 
 > 数据发现平台 - 让数据资产可见、可管理、可运营

@@ -1,3 +1,12 @@
+---
+title: insight 20260429 18year ai pioneer
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, research]
+date: 2026-05-23
+---
+
 # Insight: 18岁AI先锋金豪：主动式AI、记忆系统与模型人格
 能力框架: capability-value-closed-loop capability-requirement-decision
 

@@ -1,3 +1,12 @@
+---
+title: diff in diff deep dive
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, algorithms, causal-inference]
+date: 2026-04-24
+---
+
 # 双重差分法（DiD）深度指南
 
 > 从入门到实战：DiD的原理、假设、检验与最新进展

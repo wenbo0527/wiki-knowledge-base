@@ -1,3 +1,12 @@
+---
+title: core theory
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, algorithms, causal-inference]
+date: 2026-04-24
+---
+
 # 因果推断核心理论
 
 > 从潜在结果到结构因果模型的完整理论体系

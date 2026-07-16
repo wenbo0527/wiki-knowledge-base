@@ -1,3 +1,12 @@
+---
+title: insight 20260608 xiaomi data agent bird bench
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai]
+date: 2026-06-30
+---
+
 # 小米 DataAgent 全球第三：Harness 技术突破与行业启示
 
 > **类型**: Insight（行业情报 + 技术方法论）  

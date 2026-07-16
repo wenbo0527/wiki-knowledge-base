@@ -1,3 +1,12 @@
+---
+title: insight 20260328 jensen huang
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-strategy]
+date: 2026-05-23
+---
+
 # Jensen Huang：Token经济学与AI的未来
 能力框架: capability-value-closed-loop capability-requirement-decision
 

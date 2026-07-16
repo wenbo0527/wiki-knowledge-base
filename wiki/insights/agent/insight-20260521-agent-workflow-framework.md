@@ -1,3 +1,12 @@
+---
+title: insight 20260521 agent workflow framework
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # Agent Workflow：从任务自动化的四种核心环节到实践框架
 
 > **版本**: v1.0

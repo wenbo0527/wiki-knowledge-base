@@ -1,3 +1,12 @@
+---
+title:  topics mapping
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics]
+date: 2026-05-23
+---
+
 # Topics → 6大能力 映射规则
 
 > 版本: v1.0

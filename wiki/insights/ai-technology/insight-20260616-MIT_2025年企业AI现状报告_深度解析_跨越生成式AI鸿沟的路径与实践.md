@@ -1,3 +1,12 @@
+---
+title: insight 20260616 MIT 2025年企业AI现状报告 深度解析 跨越生成式AI鸿沟的路径与实践
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # MIT《2025年企业AI现状报告》深度解析：跨越生成式AI鸿沟的路径与实践
 
 > **来源**: Get笔记

@@ -1,3 +1,12 @@
+---
+title: ai infrastructure
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native]
+date: 2026-04-24
+---
+
 # AI基础设施
 
 > AI芯片、算力、数据中心、能源等底层基础设施

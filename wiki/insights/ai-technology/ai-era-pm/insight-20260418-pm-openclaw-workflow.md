@@ -1,3 +1,12 @@
+---
+title: insight 20260418 pm openclaw workflow
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, ai-era-pm]
+date: 2026-04-24
+---
+
 # PM与OpenClaw协作工作流
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design
 

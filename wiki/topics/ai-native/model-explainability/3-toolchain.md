@@ -1,3 +1,12 @@
+---
+title: 3 toolchain
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native, model-explainability]
+date: 2026-04-24
+---
+
 # 模型可解释性落地工具链
 > 开源工具、平台建设、性能优化方案，支撑生产级落地
 ---

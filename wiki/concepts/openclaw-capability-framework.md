@@ -1,3 +1,12 @@
+---
+title: openclaw capability framework
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CONCEPT
+doc_type: 其他
+tags: [concepts]
+date: 2026-04-30
+---
+
 # OpenClaw 能力框架
 
 > **维护者**: 派蒙（大总管）  

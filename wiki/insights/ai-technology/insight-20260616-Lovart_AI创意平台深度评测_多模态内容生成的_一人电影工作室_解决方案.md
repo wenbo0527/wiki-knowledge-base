@@ -1,3 +1,12 @@
+---
+title: insight 20260616 Lovart AI创意平台深度评测 多模态内容生成的 一人电影工作室 解决方案
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # Lovart AI创意平台深度评测：多模态内容生成的"一人电影工作室"解决方案
 
 > **来源**: Get笔记

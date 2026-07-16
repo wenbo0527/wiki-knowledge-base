@@ -1,3 +1,12 @@
+---
+title: insight 20260421 agent engineering
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # Insight: Agent Engineering - 从原型到生产的跨越
 能力框架: capability-product-design capability-tech-understanding #capability-risk-control
 

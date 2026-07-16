@@ -1,3 +1,12 @@
+---
+title: karpathy
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ENTITY
+doc_type: 其他
+tags: [entities, people]
+date: 2026-04-24
+---
+
 # Andrej Karpathy
 
 > AI研究员，特斯拉前Autopilot负责人，OpenAI创始成员

@@ -1,3 +1,12 @@
+---
+title: inc 2026 06 23 001 launchd 11 plists permissionerror
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, incidents, 2026-06]
+date: 2026-06-30
+---
+
 # 🟠 Incident inc_2026-06-23_001: launchd 11 个 plist PermissionError 8 天未批量修复（6-15 INC 衍生）
 
 | 字段 | 值 |

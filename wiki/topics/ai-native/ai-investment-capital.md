@@ -1,3 +1,12 @@
+---
+title: ai investment capital
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native]
+date: 2026-04-24
+---
+
 # AI投资/资本
 
 > AI领域融资、估值、资本飞轮、投资逻辑

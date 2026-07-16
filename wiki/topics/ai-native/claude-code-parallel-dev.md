@@ -1,3 +1,12 @@
+---
+title: claude code parallel dev
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native]
+date: 2026-05-23
+---
+
 # Claude Code 并行开发完全指南
 
 > Subagents + Agent Teams + Git Worktree + 工作流编排实战

@@ -1,3 +1,12 @@
+---
+title: inc 2026 06 23 002 daoge kb zhongli pidan
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, incidents, 2026-06]
+date: 2026-06-30
+---
+
 # 🟢 Incident inc_2026-06-23_002: 刀哥 KB 钟离 A 关系派单（关系确认踩坑后修正）
 
 | 字段 | 值 |

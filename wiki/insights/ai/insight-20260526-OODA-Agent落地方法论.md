@@ -1,3 +1,12 @@
+---
+title: insight 20260526 OODA Agent落地方法论
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai]
+date: 2026-06-30
+---
+
 # 数据支持决策链路中的 Agent 落地方法论
 
 > 版本: v5.0

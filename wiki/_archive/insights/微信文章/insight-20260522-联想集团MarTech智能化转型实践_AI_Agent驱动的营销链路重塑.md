@@ -1,3 +1,12 @@
+---
+title: insight 20260522 联想集团MarTech智能化转型实践 AI Agent驱动的营销链路重塑
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ARCHIVE
+doc_type: 其他
+tags: [_archive, insights, 微信文章]
+date: 2026-05-23
+---
+
 # 联想集团MarTech智能化转型实践：AI Agent驱动的营销链路重塑
 
 > **来源**: Get笔记

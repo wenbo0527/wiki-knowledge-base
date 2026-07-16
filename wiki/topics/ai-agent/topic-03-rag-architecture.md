@@ -1,3 +1,12 @@
+---
+title: topic 03 rag architecture
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-agent]
+date: 2026-05-23
+---
+
 # RAG 全链路产品体系
 
 > Topic: RAG架构 | 模块二

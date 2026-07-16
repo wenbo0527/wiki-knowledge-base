@@ -1,3 +1,12 @@
+---
+title: 06 risk control
+author: 尼克·弗瑞 🕵️
+product_domain: PD-METHODOLOGY
+doc_type: 其他
+tags: [methodologies, 06-风险防控, L2-方法论]
+date: 2026-07-16
+---
+
 # 风险防控方法论
 
 > 方法论分类: 06

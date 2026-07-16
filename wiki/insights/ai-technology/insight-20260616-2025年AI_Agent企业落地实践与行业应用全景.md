@@ -1,3 +1,12 @@
+---
+title: insight 20260616 2025年AI Agent企业落地实践与行业应用全景
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 2025年AI Agent企业落地实践与行业应用全景
 
 > **来源**: Get笔记

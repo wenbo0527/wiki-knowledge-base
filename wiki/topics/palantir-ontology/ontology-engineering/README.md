@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, palantir-ontology, ontology-engineering]
+date: 2026-04-24
+---
+
 # Ontology Engineering
 
 > （待补充专题简介）

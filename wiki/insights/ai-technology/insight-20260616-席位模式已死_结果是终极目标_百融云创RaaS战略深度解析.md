@@ -1,3 +1,12 @@
+---
+title: insight 20260616 席位模式已死 结果是终极目标 百融云创RaaS战略深度解析
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 席位模式已死，结果是终极目标：百融云创RaaS战略深度解析
 
 > **来源**: Get笔记

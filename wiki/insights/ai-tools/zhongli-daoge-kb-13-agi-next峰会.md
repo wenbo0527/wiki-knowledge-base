@@ -1,3 +1,12 @@
+---
+title: zhongli daoge kb 13 agi next峰会
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-tools]
+date: 2026-06-30
+---
+
 # #13 AGI-Next 前沿峰会全记录：中国开源力量与通用人工智能的关键路径
 
 **源**: 刀哥 KB `2eYxaj0z` | note_id `1898427016794455136` | 2026-01-10 | tags: 通用人工智能, AI

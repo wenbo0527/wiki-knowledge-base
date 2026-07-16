@@ -1,3 +1,12 @@
+---
+title: insight 20260418 ai energy challenge
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, ai-infrastructure]
+date: 2026-04-24
+---
+
 # AI能源挑战：算力的终极瓶颈
 能力框架: capability-data-driven capability-tech-understanding
 

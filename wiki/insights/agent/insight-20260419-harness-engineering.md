@@ -1,3 +1,12 @@
+---
+title: insight 20260419 harness engineering
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # Insight: Harness Engineering深度技术解析
 能力框架: capability-requirement-decision capability-product-design #capability-risk-control
 

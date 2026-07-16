@@ -1,3 +1,12 @@
+---
+title: caiyu framework
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, analysis-frameworks]
+date: 2026-04-24
+---
+
 # 蔡钰商业分析框架
 
 > 商业逻辑→用户价值→产品策略，专注商业变现分析

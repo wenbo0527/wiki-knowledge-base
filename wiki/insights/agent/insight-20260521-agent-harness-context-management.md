@@ -1,3 +1,12 @@
+---
+title: insight 20260521 agent harness context management
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # Agent Harness上下文管理：会话压缩与工作集范式转变
 
 > **版本**: v1.0

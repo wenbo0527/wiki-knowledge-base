@@ -1,3 +1,12 @@
+---
+title: uplift modeling
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, algorithms, causal-inference]
+date: 2026-04-24
+---
+
 # Uplift Modeling进阶：增量效应建模与营销优化
 
 > 从传统响应模型到因果推断驱动的Uplift Modeling，实现真正的营销增量优化

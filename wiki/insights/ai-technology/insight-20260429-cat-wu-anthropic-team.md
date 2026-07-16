@@ -1,3 +1,12 @@
+---
+title: insight 20260429 cat wu anthropic team
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # Anthropic产品团队高效运作揭秘：Claude Code产品负责人Cat Wu的经验分享
 
 > 来源: Get笔记 EJ9zwkln

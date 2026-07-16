@@ -1,3 +1,12 @@
+---
+title: roadmap DMT
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management]
+date: 2026-04-24
+---
+
 # 数据管理产品域规划（PD-DMT）
 
 > 数据管理平台 - 元数据治理、数据标准、质量管控

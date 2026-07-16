@@ -6,7 +6,9 @@ note_id: 1913635564708733272
 product_domain: PD-AI
 doc_type: 深度分析
 tags: [banking, transformation, wealth-management, credit, digital, strategy]
+author: 尼克·弗瑞 🕵️
 ---
+
 
 # 中国银行业转型深度分析：从信贷依赖到财富管理的战略转向
 

@@ -1,3 +1,12 @@
+---
+title: sensitivity analysis
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, algorithms, causal-inference]
+date: 2026-04-24
+---
+
 # 因果推断敏感性分析
 
 > 评估因果估计的稳健性：Rosenbaum界限、混淆矩阵与元分析

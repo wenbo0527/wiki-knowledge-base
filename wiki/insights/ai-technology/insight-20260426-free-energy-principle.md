@@ -1,3 +1,12 @@
+---
+title: insight 20260426 free energy principle
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-04-26
+---
+
 # 自由能原理：主动推断与认知成长
 能力框架: capability-requirement-decision capability-product-design #capability-data-driven
 

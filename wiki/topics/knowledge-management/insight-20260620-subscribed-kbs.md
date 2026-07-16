@@ -1,3 +1,12 @@
+---
+title: insight 20260620 subscribed kbs
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, knowledge-management]
+date: 2026-06-30
+---
+
 # 订阅知识库全景分析：13 个 KB 三梯队
 
 > 来源：Get 笔记订阅 KB（13 个）

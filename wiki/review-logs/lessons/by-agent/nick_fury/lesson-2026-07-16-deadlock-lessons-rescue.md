@@ -1,3 +1,12 @@
+---
+title: lesson 2026 07 16 deadlock lessons rescue
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-07-16
+---
+
 # Lesson 2026-07-16 · 6 任务 close output_path 信约 ≠ 实际补写（候选 #129 防御第 17 次）
 
 > **类别**: 任务关闭流程治理 · lessons 落档 owner 明确

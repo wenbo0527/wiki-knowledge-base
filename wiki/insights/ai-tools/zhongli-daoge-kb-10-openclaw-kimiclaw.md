@@ -1,3 +1,12 @@
+---
+title: zhongli daoge kb 10 openclaw kimiclaw
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-tools]
+date: 2026-06-30
+---
+
 # #10 OpenClaw + KimiClaw 知识管理系统深度实践
 
 **源**: 刀哥 KB `2eYxaj0z` | note_id `1902281048789181024` | 2026-02-21 | tags: OpenClaw, 第二大脑

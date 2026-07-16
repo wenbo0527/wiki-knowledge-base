@@ -1,3 +1,12 @@
+---
+title: registry
+author: 尼克·弗瑞 🕵️
+product_domain: PD-PROJECT
+doc_type: 其他
+tags: [projects, tasks]
+date: 2026-04-24
+---
+
 # 任务注册表
 
 > 版本：v1.0.0

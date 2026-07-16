@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CODE
+doc_type: 其他
+tags: [code-examples, subagent-patterns]
+date: 2026-04-30
+---
+
 # Subagent Patterns - 子智能体模式
 
 > 来源: insight-20260430-claude-code-subagents

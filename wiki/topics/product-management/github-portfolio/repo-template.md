@@ -1,3 +1,12 @@
+---
+title: repo template
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management, github-portfolio]
+date: 2026-04-27
+---
+
 # 仓库README模板
 
 > 3个核心仓库的标准README模板

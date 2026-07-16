@@ -1,3 +1,12 @@
+---
+title: insight 20260616 开源AI助理Clawdbot爆火现象深度分析 从技术特性到社会影响
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 开源AI助理Clawdbot爆火现象深度分析：从技术特性到社会影响
 
 > **来源**: Get笔记

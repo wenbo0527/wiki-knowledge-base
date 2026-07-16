@@ -1,3 +1,12 @@
+---
+title: ai knowledge base
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, knowledge-management, enterprise]
+date: 2026-04-24
+---
+
 # AI驱动的企业知识库
 
 > 让知识库具备"理解"、"推理"和"生成"能力

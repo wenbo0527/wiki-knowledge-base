@@ -1,3 +1,12 @@
+---
+title: insight 20260509 wenbo demand abstraction framework
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, decision-framework]
+date: 2026-05-09
+---
+
 # 需求抽象框架 v1.1
 能力框架: capability-requirement-decision capability-tech-understanding #capability-data-driven
 

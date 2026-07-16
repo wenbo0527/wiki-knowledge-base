@@ -1,3 +1,12 @@
+---
+title: insight 20260514 ab experiment user experience
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, data-driven]
+date: 2026-05-14
+---
+
 # AB实验平台用户体验优化：核心问题与解决方案
 
 能力框架: capability-data-driven #capability-product-design

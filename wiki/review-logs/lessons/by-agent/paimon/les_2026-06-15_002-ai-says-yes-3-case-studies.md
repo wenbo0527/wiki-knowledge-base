@@ -1,3 +1,12 @@
+---
+title: les 2026 06 15 002 ai says yes 3 case studies
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-06-30
+---
+
 # 派蒙 3 类 AI 案例收集（v1.0）
 
 **沉淀人**: 派蒙 🍳

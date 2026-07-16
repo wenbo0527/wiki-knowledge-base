@@ -1,3 +1,12 @@
+---
+title: inc 2026 06 21 001 pm patrol weekend 4 agent silent
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, incidents, 2026-06]
+date: 2026-06-30
+---
+
 # 🟡 Incident inc_2026-06-21_001: PM-task-board-patrol 18:30 巡检 — 数字社区 4 agent 周末静默延长（第 2 天）
 
 | 字段 | 值 |

@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech, data-platform]
+date: 2026-04-24
+---
+
 # Data Platform
 
 > （待补充专题简介）

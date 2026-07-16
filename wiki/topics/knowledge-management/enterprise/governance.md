@@ -1,3 +1,12 @@
+---
+title: governance
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, knowledge-management, enterprise]
+date: 2026-04-24
+---
+
 # 知识治理与权限
 
 > 让知识库安全、可控、持续保鲜

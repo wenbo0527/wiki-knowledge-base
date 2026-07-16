@@ -1,3 +1,12 @@
+---
+title: inc 2026 07 16 001 paimon dispatch candidate 129 same root
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, incidents, 2026-07]
+date: 2026-07-16
+---
+
 # INC-2026-07-16-001: 派蒙派单候选 #129 同根病 · 6 任务清单缺失
 
 ## 现象

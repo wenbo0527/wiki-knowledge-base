@@ -1,3 +1,12 @@
+---
+title: zhongli daoge kb 09 claude md效率倍增
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-tools]
+date: 2026-06-30
+---
+
 # #9 Claude Code 效率倍增指南：CLAUDE.md 全攻略（从入门到高手）
 
 **源**: 刀哥 KB `2eYxaj0z` | note_id `1899685108277926432` | 2026-01-24 | tags: Claude Code

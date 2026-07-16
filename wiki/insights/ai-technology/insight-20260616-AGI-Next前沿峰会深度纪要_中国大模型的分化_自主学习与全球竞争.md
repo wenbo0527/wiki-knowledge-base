@@ -1,3 +1,12 @@
+---
+title: insight 20260616 AGI Next前沿峰会深度纪要 中国大模型的分化 自主学习与全球竞争
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # AGI-Next前沿峰会深度纪要：中国大模型的分化、自主学习与全球竞争
 
 > **来源**: Get笔记

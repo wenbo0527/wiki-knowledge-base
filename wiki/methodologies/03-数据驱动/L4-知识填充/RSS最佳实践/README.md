@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-METHODOLOGY
+doc_type: 其他
+tags: [methodologies, 03-数据驱动, L4-知识填充]
+date: 2026-07-16
+---
+
 # L4: 03-数据驱动 - 知识索引
 
 > 版本: v2.0

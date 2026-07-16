@@ -1,10 +1,16 @@
 ---
-能力框架: #value-closed-loop #product-design
-来源: 微信公众号 | 发布时间: 2026-05-17 | 分类: AI Product / Vibe Coding
+能力框架: "#value-closed-loop #product-design"
+来源: "微信公众号 | 发布时间: 2026-05-17 | 分类: AI Product / Vibe Coding"
 Insight ID: insight-20260517-baidu-create-miaoda
-维护者: 尼克·弗瑞 | 更新: 2026-05-20
-
+维护者: "尼克·弗瑞 | 更新: 2026-05-20"
+title: insight 20260517 baidu create miaoda
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai]
+date: 2026-05-23
 ---
+
 
 ## 📌 执行摘要
 

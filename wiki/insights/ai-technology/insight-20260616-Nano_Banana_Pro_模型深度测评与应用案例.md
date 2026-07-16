@@ -1,3 +1,12 @@
+---
+title: insight 20260616 Nano Banana Pro 模型深度测评与应用案例
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # Nano Banana Pro 模型深度测评与应用案例
 
 > **来源**: Get笔记

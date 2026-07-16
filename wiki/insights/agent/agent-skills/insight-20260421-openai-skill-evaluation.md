@@ -1,3 +1,12 @@
+---
+title: insight 20260421 openai skill evaluation
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent, agent-skills]
+date: 2026-05-23
+---
+
 # OpenAI Skill 自动评分系统调研洞察
 能力框架: capability-data-driven capability-tech-understanding #capability-risk-control
 

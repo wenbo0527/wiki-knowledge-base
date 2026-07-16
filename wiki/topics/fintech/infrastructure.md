@@ -1,3 +1,12 @@
+---
+title: infrastructure
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech]
+date: 2026-04-24
+---
+
 # 金融科技 - 基础设施最佳实践
 
 > 金融云原生、Service Mesh、FinOps的核心方法论与技术实践

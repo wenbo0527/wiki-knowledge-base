@@ -1,3 +1,12 @@
+---
+title: lesson 2026 07 02 lark cli launchd context
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-07-03
+---
+
 # Lesson: Lark-CLI 在 Launchd 上下文推送失败的预防与恢复
 
 > **触发 INC**: INC-2026-07-02-001

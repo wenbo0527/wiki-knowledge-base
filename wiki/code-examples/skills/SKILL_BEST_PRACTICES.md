@@ -1,3 +1,12 @@
+---
+title: SKILL BEST PRACTICES
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CODE
+doc_type: 其他
+tags: [code-examples, skills]
+date: 2026-04-30
+---
+
 # 📚 Skill最佳实践指南
 
 > **来源**: mgechev/skills-best-practices (1,861 stars)

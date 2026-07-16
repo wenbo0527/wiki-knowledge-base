@@ -1,3 +1,12 @@
+---
+title: insight 20260418 business world model
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, business-world-model]
+date: 2026-04-24
+---
+
 # 商业世界模型：因果推断与京东定价实践
 能力框架: capability-value-closed-loop capability-requirement-decision
 

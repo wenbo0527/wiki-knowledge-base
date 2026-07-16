@@ -1,3 +1,12 @@
+---
+title: insight 20260505 dwarksesh jensen tpu
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-06
+---
+
 # Dwarkesh与黄仁勋对话深度解析：TPU竞争格局、对华芯片销售与供应链护城河
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-risk-control
 

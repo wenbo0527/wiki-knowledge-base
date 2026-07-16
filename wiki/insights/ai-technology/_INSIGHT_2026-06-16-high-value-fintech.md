@@ -1,3 +1,12 @@
+---
+title:  INSIGHT 2026 06 16 high value fintech
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 5 篇高价值金融/AI 篇综合洞察
 
 > **阅读时间**: 2026-06-16 13:50  

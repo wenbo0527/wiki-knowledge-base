@@ -1,3 +1,12 @@
+---
+title: playwright cli skills uitesting 20260420
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources, references]
+date: 2026-04-29
+---
+
 # 源文件存档：基于playwright-cli +Skills实现UI自动化测试实战案例
 
 > **存档时间**：2026-04-29

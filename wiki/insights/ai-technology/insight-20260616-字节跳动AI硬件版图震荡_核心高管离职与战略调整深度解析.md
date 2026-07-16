@@ -1,3 +1,12 @@
+---
+title: insight 20260616 字节跳动AI硬件版图震荡 核心高管离职与战略调整深度解析
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 字节跳动AI硬件版图震荡：核心高管离职与战略调整深度解析
 
 > **来源**: Get笔记

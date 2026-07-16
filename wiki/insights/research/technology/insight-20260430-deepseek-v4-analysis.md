@@ -1,3 +1,12 @@
+---
+title: insight 20260430 deepseek v4 analysis
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, research, technology]
+date: 2026-05-23
+---
+
 # DeepSeek V4深度解析：开启低成本百万上下文时代
 能力框架: capability-requirement-decision capability-data-driven
 

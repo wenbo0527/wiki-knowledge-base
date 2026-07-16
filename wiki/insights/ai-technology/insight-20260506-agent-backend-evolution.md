@@ -1,3 +1,12 @@
+---
+title: insight 20260506 agent backend evolution
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-06
+---
+
 # Agent后端架构演进：从最小Loop到运行时能力目录的工程化探索
 能力框架: capability-data-driven capability-tech-understanding #capability-risk-control
 

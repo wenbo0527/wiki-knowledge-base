@@ -1,3 +1,12 @@
+---
+title: insight 20260426 vibe analyzing asktable
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-04-26
+---
+
 # Vibe Analyzing：AI驱动的数据分析新交互范式
 能力框架: capability-product-design capability-tech-understanding
 

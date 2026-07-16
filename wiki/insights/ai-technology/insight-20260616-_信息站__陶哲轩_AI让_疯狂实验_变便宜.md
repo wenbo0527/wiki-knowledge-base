@@ -1,3 +1,12 @@
+---
+title: insight 20260616  信息站  陶哲轩 AI让 疯狂实验 变便宜
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # [信息站] 陶哲轩：AI让「疯狂实验」变便宜
 
 > **来源**: Get笔记

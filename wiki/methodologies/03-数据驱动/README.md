@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-METHODOLOGY
+doc_type: 其他
+tags: [methodologies, 03-数据驱动]
+date: 2026-07-16
+---
+
 # 03-数据驱动
 
 > 能力方向: 如何闭环？

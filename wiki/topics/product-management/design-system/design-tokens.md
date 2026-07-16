@@ -1,3 +1,12 @@
+---
+title: design tokens
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management, design-system]
+date: 2026-05-23
+---
+
 # 中后台设计系统规范
 > 版本: v1.0 | 创建: 2026-05-23 | 维护者: 尼克·弗瑞
 > 来源: Arco Design / Ant Design Vue / 企业中后台最佳实践

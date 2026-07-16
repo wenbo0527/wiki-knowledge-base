@@ -1,3 +1,12 @@
+---
+title: ai data query components oss
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-data-query]
+date: 2026-04-24
+---
+
 # 开源组件选型
 
 > AI问数系统的技术组件选型对比

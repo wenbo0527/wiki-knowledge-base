@@ -1,3 +1,12 @@
+---
+title: insight 2026 03 04 我的设计AI变丑了   不稳定的AI的信任危机
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights]
+date: 2026-06-30
+---
+
 # 我的设计AI变丑了！——不稳定的AI的信任危机
 
 > **来源**: 人人都是产品经理

@@ -1,3 +1,12 @@
+---
+title: insight 20260426 power book workplace
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-04-26
+---
+
 # 职场权力：认知误区与构建方法
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-data-driven
 

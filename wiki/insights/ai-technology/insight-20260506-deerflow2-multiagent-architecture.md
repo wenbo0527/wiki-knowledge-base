@@ -1,3 +1,12 @@
+---
+title: insight 20260506 deerflow2 multiagent architecture
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-06
+---
+
 # DeerFlow 2.0技术架构深度解析：多智能体系统的工程实现与成本优化
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-risk-control #capability-data-driven
 

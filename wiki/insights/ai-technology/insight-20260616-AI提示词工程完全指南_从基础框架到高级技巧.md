@@ -1,3 +1,12 @@
+---
+title: insight 20260616 AI提示词工程完全指南 从基础框架到高级技巧
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # AI提示词工程完全指南：从基础框架到高级技巧
 
 > **来源**: Get笔记

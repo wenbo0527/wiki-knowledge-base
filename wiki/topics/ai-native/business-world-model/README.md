@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native, business-world-model]
+date: 2026-04-24
+---
+
 # 商业世界模型
 
 > 面向商业经营决策的仿真模拟器，为经营Agent提供虚拟训练环境

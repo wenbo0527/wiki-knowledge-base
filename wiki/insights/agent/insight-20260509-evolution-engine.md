@@ -1,3 +1,12 @@
+---
+title: insight 20260509 evolution engine
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # 进化引擎v1.0.2：让AI像人一样"吃一堑长一智"
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-data-driven
 

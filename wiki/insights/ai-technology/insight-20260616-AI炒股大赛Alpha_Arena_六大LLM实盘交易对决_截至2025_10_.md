@@ -1,3 +1,12 @@
+---
+title: insight 20260616 AI炒股大赛Alpha Arena 六大LLM实盘交易对决 截至2025 10 
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # AI炒股大赛Alpha Arena：六大LLM实盘交易对决（截至2025.10.20）
 
 > **来源**: Get笔记

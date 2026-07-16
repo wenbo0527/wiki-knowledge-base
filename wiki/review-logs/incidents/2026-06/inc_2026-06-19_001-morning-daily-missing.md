@@ -1,3 +1,12 @@
+---
+title: inc 2026 06 19 001 morning daily missing
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, incidents, 2026-06]
+date: 2026-06-30
+---
+
 # 🔴 Incident inc_2026-06-19_001: 6-19 Morning 日报缺失 — C-3 治本不完整根因
 
 | 字段 | 值 |

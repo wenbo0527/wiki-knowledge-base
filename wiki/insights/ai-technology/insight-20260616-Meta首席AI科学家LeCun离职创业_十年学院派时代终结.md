@@ -1,3 +1,12 @@
+---
+title: insight 20260616 Meta首席AI科学家LeCun离职创业 十年学院派时代终结
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # Meta首席AI科学家LeCun离职创业：十年学院派时代终结
 
 > **来源**: Get笔记

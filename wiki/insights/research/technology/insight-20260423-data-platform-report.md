@@ -1,3 +1,12 @@
+---
+title: insight 20260423 data platform report
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, research, technology]
+date: 2026-05-23
+---
+
 # Insight: 数据中台研究报告【OpenClaw版】——从"大中台"狂想到智能数据基座
 
 > 原始链接: https://mp.weixin.qq.com/s/hfUOiEAw0_7qX8HZzcvkpA

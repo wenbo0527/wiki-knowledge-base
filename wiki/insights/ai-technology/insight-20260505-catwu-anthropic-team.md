@@ -1,3 +1,12 @@
+---
+title: insight 20260505 catwu anthropic team
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-06
+---
+
 # Cat Wu：Anthropic产品团队高效运作揭秘
 能力框架: capability-value-closed-loop capability-tech-understanding
 

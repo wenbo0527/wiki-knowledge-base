@@ -1,3 +1,12 @@
+---
+title: insight 20260608 holistic agent evaluation
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai]
+date: 2026-06-30
+---
+
 # Holistic Agent 评估框架：突破长 Trace 错误定位瓶颈
 
 > **类型**: Insight（方法论提炼）  

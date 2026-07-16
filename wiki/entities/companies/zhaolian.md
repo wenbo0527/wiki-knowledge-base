@@ -1,3 +1,12 @@
+---
+title: zhaolian
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ENTITY
+doc_type: 其他
+tags: [entities, companies]
+date: 2026-04-24
+---
+
 # 招联金融 (Zhaolian)
 
 > 招商银行与中国联通合资的数字金融平台

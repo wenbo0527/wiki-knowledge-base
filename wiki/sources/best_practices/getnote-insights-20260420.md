@@ -1,3 +1,12 @@
+---
+title: getnote insights 20260420
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources, best_practices]
+date: 2026-04-24
+---
+
 # Get笔记高价值内容汇总 - 2026-04-20
 
 > 来源：Get笔记订阅内容 + 个人笔记

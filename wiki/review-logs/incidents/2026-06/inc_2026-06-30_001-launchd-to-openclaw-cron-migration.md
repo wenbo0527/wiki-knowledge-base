@@ -1,3 +1,12 @@
+---
+title: inc 2026 06 30 001 launchd to openclaw cron migration
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, incidents, 2026-06]
+date: 2026-06-30
+---
+
 # INC-2026-06-30-001：Nick 推送链路断裂 + launchd 23 plist 迁 openclaw cron
 
 > **作者**：尼克·弗瑞

@@ -1,3 +1,12 @@
+---
+title: automation testing
+author: 尼克·弗瑞 🕵️
+product_domain: PD-STANDARD
+doc_type: 其他
+tags: [standards]
+date: 2026-05-09
+---
+
 # 自动化测试规范
 
 > 本规范基于 **Demo 项目 Mock API 部署实战**（2026-05-06）总结。

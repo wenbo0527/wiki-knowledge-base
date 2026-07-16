@@ -1,3 +1,12 @@
+---
+title: insight 20260505 repodoc code knowledge graph
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-06
+---
+
 # 代码知识图谱在项目文档生成：RepoDoc技术方案与竞品分析
 能力框架: capability-data-driven capability-tech-understanding #capability-risk-control
 

@@ -6,7 +6,9 @@ note_id: 1913499490384395184
 product_domain: PD-AI
 doc_type: 深度解析
 tags: [deepseek, talent, organization, ai-lab, hiring, strategy]
+author: 尼克·弗瑞 🕵️
 ---
+
 
 # DeepSeek 人才战略深度解析：反常识实践与 AI 组织启示
 

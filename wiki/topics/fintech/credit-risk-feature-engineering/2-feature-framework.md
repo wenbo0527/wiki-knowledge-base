@@ -1,3 +1,12 @@
+---
+title: 2 feature framework
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech, credit-risk-feature-engineering]
+date: 2026-04-24
+---
+
 # 特征开发框架与平台建设
 
 > 标准化特征开发流程，提升效率，降低重复开发，支撑业务快速迭代

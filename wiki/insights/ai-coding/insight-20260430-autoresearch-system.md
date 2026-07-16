@@ -1,3 +1,12 @@
+---
+title: insight 20260430 autoresearch system
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-23
+---
+
 # AutoResearch软件开发系统
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-risk-control
 

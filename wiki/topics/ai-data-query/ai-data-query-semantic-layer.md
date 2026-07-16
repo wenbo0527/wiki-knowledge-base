@@ -1,3 +1,12 @@
+---
+title: ai data query semantic layer
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-data-query]
+date: 2026-04-24
+---
+
 # 语义层设计
 
 > 定义业务指标与数据库字段的映射关系

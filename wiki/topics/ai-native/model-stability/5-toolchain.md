@@ -1,3 +1,12 @@
+---
+title: 5 toolchain
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native, model-stability]
+date: 2026-04-24
+---
+
 # 模型稳定性工具链
 > 开源工具、商业平台、自建方案选型，支撑生产级监控落地
 ---

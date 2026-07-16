@@ -1,3 +1,12 @@
+---
+title: source 20260419 claude design
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources]
+date: 2026-04-24
+---
+
 # Source: Claude Design
 
 > **原文标题**: Claude Design - AI-Native Design Tool  

@@ -1,3 +1,12 @@
+---
+title: enterprise ai implementation
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native]
+date: 2026-05-23
+---
+
 # AI企业落地实践
 
 > 团队级AI编程推广、工程治理、量化评估的实战方法论

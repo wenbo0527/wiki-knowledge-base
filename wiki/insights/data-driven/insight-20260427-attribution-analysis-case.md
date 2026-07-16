@@ -1,3 +1,12 @@
+---
+title: insight 20260427 attribution analysis case
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, data-driven]
+date: 2026-05-23
+---
+
 # 归因分析Portfolio案例深度解析
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-data-driven
 

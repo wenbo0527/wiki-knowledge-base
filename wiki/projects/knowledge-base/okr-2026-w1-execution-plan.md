@@ -1,3 +1,12 @@
+---
+title: okr 2026 w1 execution plan
+author: 尼克·弗瑞 🕵️
+product_domain: PD-PROJECT
+doc_type: 其他
+tags: [projects, knowledge-base]
+date: 2026-07-16
+---
+
 # Wiki 整理 W1 速赢执行计划（Phase 1）
 
 > 关联 OKR：`okr-2026-h2-q3.md` 的 W1 速赢（候选 4）

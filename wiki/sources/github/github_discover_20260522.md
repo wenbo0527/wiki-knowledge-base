@@ -1,3 +1,12 @@
+---
+title: github discover 20260522
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources, github]
+date: 2026-05-23
+---
+
 # GitHub AI项目发现报告 - 2026-05-22 15:22
 
 ## 🆕 近30天新发现的AI项目

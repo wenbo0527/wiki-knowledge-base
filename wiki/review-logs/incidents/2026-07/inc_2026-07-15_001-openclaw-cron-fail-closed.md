@@ -1,3 +1,12 @@
+---
+title: inc 2026 07 15 001 openclaw cron fail closed
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, incidents, 2026-07]
+date: 2026-07-15
+---
+
 # INC-2026-07-15-001: OpenClaw cron 投递失败（25 任务全挂 + 5 脚本已删）
 
 > ⚠️ **根因修正（9:05 二次 verify 后）**：本文初版（9:00 写）假设根因是"Target=main vs isolated"——**错**。  

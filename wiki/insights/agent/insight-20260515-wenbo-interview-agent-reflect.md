@@ -1,3 +1,12 @@
+---
+title: insight 20260515 wenbo interview agent reflect
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # 文博转型面试洞察 & Agent Reflect 机制
 
 > 日期：2026-05-15

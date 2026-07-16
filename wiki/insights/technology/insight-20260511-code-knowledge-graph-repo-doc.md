@@ -1,3 +1,12 @@
+---
+title: insight 20260511 code knowledge graph repo doc
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, technology]
+date: 2026-05-23
+---
+
 # 代码知识图谱在项目文档生成中的应用
 
 能力框架: capability-tech-understanding #capability-data-driven

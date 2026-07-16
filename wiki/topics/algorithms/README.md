@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, algorithms]
+date: 2026-04-24
+---
+
 # 算法专题 (Algorithms)
 
 > 从基础理论到工程实践的全栈算法知识体系

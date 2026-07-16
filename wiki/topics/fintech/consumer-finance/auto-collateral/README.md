@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech, consumer-finance]
+date: 2026-04-24
+---
+
 # 车抵贷
 
 > 以汽车作为抵押物的贷款产品

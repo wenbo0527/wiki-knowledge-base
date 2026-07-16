@@ -1,3 +1,12 @@
+---
+title: insight 20260421 model stability
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # Insight: 模型稳定性监控是消费金融风控的"第二曲线"
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-risk-control
 

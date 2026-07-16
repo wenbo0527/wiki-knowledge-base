@@ -1,3 +1,12 @@
+---
+title: arco design best practices
+author: 尼克·弗瑞 🕵️
+product_domain: PD-STANDARD
+doc_type: 其他
+tags: [standards]
+date: 2026-04-24
+---
+
 # Arco Design Pro Vue 中后台最佳实践规范
 
 *基于官方 Arco Design Pro Vue 项目总结*

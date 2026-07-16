@@ -1,3 +1,12 @@
+---
+title: insight 20260514 olivia reasoning time adaptation
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-23
+---
+
 # OLIVIA: ReAct Agent 推理时动作适配框架
 
 能力框架: capability-tech-understanding

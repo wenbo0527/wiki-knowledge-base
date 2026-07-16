@@ -1,3 +1,12 @@
+---
+title: insight 20260423 autoresearch karpathy
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, research, technology]
+date: 2026-05-23
+---
+
 # Insight: Karpathy autoresearch - AI自主研究新范式
 
 > 原始链接: https://mp.weixin.qq.com/s/mdWXaBVCWAubxOZaYV4azw

@@ -1,3 +1,12 @@
+---
+title: lesson 2026 07 15 report must verify real api
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-07-15
+---
+
 # L-37: 报告必须 verify 实时 API，不能依赖 v1.0 备份
 
 > **教训族**: INC-2026-07-15-002 治本

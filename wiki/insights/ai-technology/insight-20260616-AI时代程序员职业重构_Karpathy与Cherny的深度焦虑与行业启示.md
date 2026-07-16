@@ -1,3 +1,12 @@
+---
+title: insight 20260616 AI时代程序员职业重构 Karpathy与Cherny的深度焦虑与行业启示
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # AI时代程序员职业重构：Karpathy与Cherny的深度焦虑与行业启示
 
 > **来源**: Get笔记

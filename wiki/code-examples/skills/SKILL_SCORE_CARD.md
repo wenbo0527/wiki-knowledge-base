@@ -1,3 +1,12 @@
+---
+title: SKILL SCORE CARD
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CODE
+doc_type: 其他
+tags: [code-examples, skills]
+date: 2026-04-30
+---
+
 # 📋 Skill月度评分卡
 
 > 用于每月复审时填写

@@ -1,3 +1,12 @@
+---
+title: insight 20260616 AI秘书Howie 从工具到伙伴的办公革命
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # AI秘书Howie：从工具到伙伴的办公革命
 
 > **来源**: Get笔记

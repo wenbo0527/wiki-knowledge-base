@@ -1,3 +1,12 @@
+---
+title: insight 20260513 agent memory architecture
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # Agent Memory深度解析：从存储到治理的生产级架构设计
 
 能力框架: capability-tech-understanding #capability-data-driven

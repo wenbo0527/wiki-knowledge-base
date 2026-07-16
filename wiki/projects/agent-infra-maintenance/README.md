@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-PROJECT
+doc_type: 其他
+tags: [projects, agent-infra-maintenance]
+date: 2026-06-30
+---
+
 # Agent 底座维护
 
 > 项目 README - 派蒙大总管维护

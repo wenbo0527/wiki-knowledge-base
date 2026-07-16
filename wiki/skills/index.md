@@ -1,3 +1,12 @@
+---
+title: index
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SKILL
+doc_type: 其他
+tags: [skills]
+date: 2026-07-16
+---
+
 # 🛠 skills/ 索引 — Skill 工作流
 
 > 维护者：🕵️ 尼克·弗瑞

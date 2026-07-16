@@ -1,3 +1,12 @@
+---
+title: inc 2026 07 15 006 getnote qps 429 and waic reval
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, incidents, 2026-07]
+date: 2026-07-15
+---
+
 # INC-2026-07-15-006: GET 笔记入库 + QPS 429 限流 + WAIC 真实价值揭穿
 
 > **揭穿**: 7-15 14:40-14:45 全量入库跑通  

@@ -1,3 +1,12 @@
+---
+title: insight 20260409 ai project weekly
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, fintech, product-solutions]
+date: 2026-04-24
+---
+
 # 科技AI - AI项目周刊 Insights
 能力框架: capability-value-closed-loop capability-tech-understanding #capability-product-design
 

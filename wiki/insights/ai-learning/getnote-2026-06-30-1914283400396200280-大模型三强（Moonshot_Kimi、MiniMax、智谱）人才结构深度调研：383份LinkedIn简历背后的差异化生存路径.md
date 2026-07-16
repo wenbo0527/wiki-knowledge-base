@@ -1,3 +1,12 @@
+---
+title: getnote 2026 06 30 1914283400396200280 大模型三强（Moonshot Kimi、MiniMax、智谱）人才结构深度调研：383份LinkedIn简历背后的差异化生存路径
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-learning]
+date: 2026-07-16
+---
+
 # 大模型三强（Moonshot/Kimi、MiniMax、智谱）人才结构深度调研：383份LinkedIn简历背后的差异化生存路径
 
 > 来源: Get 笔记

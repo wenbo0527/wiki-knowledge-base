@@ -1,3 +1,12 @@
+---
+title: llm wiki pattern
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CONCEPT
+doc_type: 其他
+tags: [concepts]
+date: 2026-04-24
+---
+
 # LLM Wiki Pattern
 
 > Karpathy提出的LLM知识管理新范式：持久、增量、有机的Wiki

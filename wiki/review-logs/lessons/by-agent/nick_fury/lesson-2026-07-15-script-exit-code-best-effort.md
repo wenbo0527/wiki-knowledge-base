@@ -1,3 +1,12 @@
+---
+title: lesson 2026 07 15 script exit code best effort
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-07-15
+---
+
 # L-36: 推送脚本退出码 = 0 当主通道（lark-cli）成功
 
 > **教训族**：INC-2026-07-15-001 治本（脚本侧 + cron 侧 联动）

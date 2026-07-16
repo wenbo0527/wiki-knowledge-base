@@ -1,3 +1,12 @@
+---
+title: superpowers pm practices
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native]
+date: 2026-05-23
+---
+
 # Superpowers 产品经理实战指南
 
 > 专为产品经理定制的 Superpowers 工作流落地指南

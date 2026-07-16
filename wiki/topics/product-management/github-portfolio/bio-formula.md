@@ -1,3 +1,12 @@
+---
+title: bio formula
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management, github-portfolio]
+date: 2026-04-27
+---
+
 # Bio写作公式
 
 > 让HR/面试官3秒内判断你是否是目标候选人

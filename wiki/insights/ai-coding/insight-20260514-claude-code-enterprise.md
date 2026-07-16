@@ -1,3 +1,12 @@
+---
+title: insight 20260514 claude code enterprise
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-14
+---
+
 # AI编码工具的企业级落地：Claude Code与老项目改造实战
 
 > Insights - Claude Code实践

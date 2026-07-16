@@ -1,3 +1,12 @@
+---
+title: insight 20260418 openclaw product analysis
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, openclaw]
+date: 2026-04-24
+---
+
 # OpenClaw产品分析：从狂热到理性
 能力框架: capability-value-closed-loop capability-tech-understanding #capability-risk-control
 

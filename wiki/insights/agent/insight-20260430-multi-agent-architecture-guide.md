@@ -1,3 +1,12 @@
+---
+title: insight 20260430 multi agent architecture guide
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # Insight: 多智能体架构设计指南 - 从上下文边界到协作模式
 
 > 原始链接: https://mp.weixin.qq.com/s/LNkT_xRhdh2iCxBQcVKpUQ

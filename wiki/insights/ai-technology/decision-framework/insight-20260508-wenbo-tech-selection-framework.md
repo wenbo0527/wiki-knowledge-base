@@ -1,3 +1,12 @@
+---
+title: insight 20260508 wenbo tech selection framework
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, decision-framework]
+date: 2026-05-09
+---
+
 # 技术选型决策框架 v2.0
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-risk-control
 

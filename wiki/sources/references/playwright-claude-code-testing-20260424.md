@@ -1,3 +1,12 @@
+---
+title: playwright claude code testing 20260424
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources, references]
+date: 2026-04-29
+---
+
 # 源文件存档：Playwright CLI × Claude Code 自动化测试实战
 
 > **存档时间**：2026-04-29

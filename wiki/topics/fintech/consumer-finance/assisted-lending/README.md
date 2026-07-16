@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech, consumer-finance]
+date: 2026-04-24
+---
+
 # 助贷/联合贷款
 
 > 金融机构与平台合作，共同提供信贷服务

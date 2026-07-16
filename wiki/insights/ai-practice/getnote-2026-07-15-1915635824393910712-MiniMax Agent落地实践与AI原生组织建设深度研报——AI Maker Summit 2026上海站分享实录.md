@@ -1,3 +1,12 @@
+---
+title: getnote 2026 07 15 1915635824393910712 MiniMax Agent落地实践与AI原生组织建设深度研报——AI Maker Summit 2026上海站分享实录
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-practice]
+date: 2026-07-16
+---
+
 # MiniMax Agent落地实践与AI原生组织建设深度研报——AI Maker Summit 2026上海站分享实录
 
 > 来源: Get 笔记

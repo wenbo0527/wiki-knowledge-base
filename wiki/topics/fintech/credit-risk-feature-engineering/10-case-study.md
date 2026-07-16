@@ -1,3 +1,12 @@
+---
+title: 10 case study
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech, credit-risk-feature-engineering]
+date: 2026-04-24
+---
+
 # 行业实战案例研究：头部消费金融公司特征体系建设落地
 
 > 真实行业最佳实践，可直接复用的落地经验

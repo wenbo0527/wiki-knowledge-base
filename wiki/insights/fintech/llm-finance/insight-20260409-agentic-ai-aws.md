@@ -1,3 +1,12 @@
+---
+title: insight 20260409 agentic ai aws
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, fintech, llm-finance]
+date: 2026-04-24
+---
+
 # 科技AI - Agentic AI技术实践 Insights
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-risk-control
 

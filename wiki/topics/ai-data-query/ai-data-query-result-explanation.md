@@ -1,3 +1,12 @@
+---
+title: ai data query result explanation
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-data-query]
+date: 2026-04-24
+---
+
 # 结果解释与NLG
 
 > 将查询结果转换为业务人员易理解的自然语言

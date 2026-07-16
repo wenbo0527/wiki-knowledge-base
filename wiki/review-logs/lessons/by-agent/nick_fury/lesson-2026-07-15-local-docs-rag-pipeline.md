@@ -1,3 +1,12 @@
+---
+title: lesson 2026 07 15 local docs rag pipeline
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-07-15
+---
+
 # L-39: 本地文档 RAG 化 4 步 SOP
 
 > **教训族**: INC-2026-07-15-004 治本  

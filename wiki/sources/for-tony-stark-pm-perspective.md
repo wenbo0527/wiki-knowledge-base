@@ -1,3 +1,12 @@
+---
+title: for tony stark pm perspective
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources]
+date: 2026-04-28
+---
+
 # 🦸 托尼·斯塔克参考项目研究报告（项目管理/产品管理视角）
 
 > **整理者**: 尼克·弗瑞

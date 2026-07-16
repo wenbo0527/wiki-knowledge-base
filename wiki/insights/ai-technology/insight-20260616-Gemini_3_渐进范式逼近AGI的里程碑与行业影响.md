@@ -1,3 +1,12 @@
+---
+title: insight 20260616 Gemini 3 渐进范式逼近AGI的里程碑与行业影响
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # Gemini 3：渐进范式逼近AGI的里程碑与行业影响
 
 > **来源**: Get笔记

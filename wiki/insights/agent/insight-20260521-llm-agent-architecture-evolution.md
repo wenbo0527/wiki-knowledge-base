@@ -1,3 +1,12 @@
+---
+title: insight 20260521 llm agent architecture evolution
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # LLM Agent架构演进：从模型依赖到外部认知基础设施的权力转移
 
 > **版本**: v1.0

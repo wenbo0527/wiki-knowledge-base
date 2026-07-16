@@ -1,3 +1,12 @@
+---
+title: insight 2026 03 05 AI产品和传统产品 底层的产品设计逻辑 到底有什么本质区别 
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights]
+date: 2026-06-30
+---
+
 # AI产品和传统产品，底层的产品设计逻辑，到底有什么本质区别？
 
 > **来源**: 人人都是产品经理

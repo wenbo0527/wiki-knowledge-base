@@ -1,3 +1,12 @@
+---
+title: 8 feature governance
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech, credit-risk-feature-engineering]
+date: 2026-04-24
+---
+
 # 特征治理：保障特征体系稳定、高效、可控运行
 
 > 建立标准化的特征管理机制，提升特征质量，降低运维成本，减少业务风险

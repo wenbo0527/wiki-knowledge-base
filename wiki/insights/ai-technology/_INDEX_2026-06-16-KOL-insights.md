@@ -1,3 +1,12 @@
+---
+title:  INDEX 2026 06 16 KOL insights
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 2026-06-16 关键 KOL Insight 报告
 
 > **数据源**: 钉人日报 #086 ~ #105（20 篇，5-27 ~ 6-15）  

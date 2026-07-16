@@ -1,3 +1,12 @@
+---
+title: wiki architecture
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, knowledge-management, enterprise]
+date: 2026-04-24
+---
+
 # 企业Wiki架构设计
 
 > 如何构建可扩展、易维护的企业级Wiki系统

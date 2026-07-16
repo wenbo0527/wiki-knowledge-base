@@ -1,3 +1,12 @@
+---
+title: insight 20260418 digital employee industry
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, agent-engineering]
+date: 2026-04-24
+---
+
 # 数字员工与AI智能体产业发展分析
 能力框架: capability-requirement-decision capability-data-driven #capability-risk-control
 

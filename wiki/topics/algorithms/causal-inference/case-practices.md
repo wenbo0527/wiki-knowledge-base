@@ -1,3 +1,12 @@
+---
+title: case practices
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, algorithms, causal-inference]
+date: 2026-04-24
+---
+
 # 因果推断案例实践
 
 > 从业务场景到落地：真实行业案例详解

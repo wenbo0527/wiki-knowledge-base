@@ -1,3 +1,12 @@
+---
+title: a share
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ENTITY
+doc_type: 其他
+tags: [entities, markets]
+date: 2026-04-24
+---
+
 # A股市场
 
 > 中国境内股票市场，包括上海和深圳证券交易所

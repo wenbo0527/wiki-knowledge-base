@@ -1,3 +1,12 @@
+---
+title: insight 20260616 关于周维度 AI 学习产品的设想与功能探讨
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, _archive]
+date: 2026-06-30
+---
+
 # 关于周维度 AI 学习产品的设想与功能探讨
 
 > **来源**: Get笔记

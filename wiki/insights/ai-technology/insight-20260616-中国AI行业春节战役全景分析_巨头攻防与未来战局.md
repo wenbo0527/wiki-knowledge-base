@@ -1,3 +1,12 @@
+---
+title: insight 20260616 中国AI行业春节战役全景分析 巨头攻防与未来战局
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 中国AI行业春节战役全景分析：巨头攻防与未来战局
 
 > **来源**: Get笔记

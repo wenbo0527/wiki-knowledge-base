@@ -1,3 +1,12 @@
+---
+title: les 2026 06 19 001 morning daily c3 治本不完整
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-06-30
+---
+
 # 📚 Lesson les_2026-06-19_001: C-3 治本不完整 — "自检告警" ≠ "主动生成"
 
 | 字段 | 值 |

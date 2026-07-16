@@ -1,3 +1,12 @@
+---
+title: lesson 2026 07 02 push idempotency dedup
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-07-03
+---
+
 # Lesson: 推送去重（时间维度 + 内容维度）
 
 > **触发 INC**: INC-2026-07-02-002

@@ -1,3 +1,12 @@
+---
+title: rag
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CONCEPT
+doc_type: 其他
+tags: [concepts]
+date: 2026-04-24
+---
+
 # RAG (Retrieval-Augmented Generation)
 
 > 检索增强生成 - 将外部知识检索与LLM生成结合的技术

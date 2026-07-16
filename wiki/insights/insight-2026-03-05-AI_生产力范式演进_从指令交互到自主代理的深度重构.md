@@ -1,3 +1,12 @@
+---
+title: insight 2026 03 05 AI 生产力范式演进 从指令交互到自主代理的深度重构
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights]
+date: 2026-06-30
+---
+
 # AI 生产力范式演进：从指令交互到自主代理的深度重构
 
 > **来源**: 人人都是产品经理

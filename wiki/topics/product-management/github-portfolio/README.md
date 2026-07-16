@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management, github-portfolio]
+date: 2026-04-27
+---
+
 # GitHub PM作品集最佳实践
 
 > 金融数据中台PM的GitHub定位与展示策略

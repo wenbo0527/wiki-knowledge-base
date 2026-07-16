@@ -1,3 +1,12 @@
+---
+title: 1 feature system
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech, credit-risk-feature-engineering]
+date: 2026-04-24
+---
+
 # 消费金融全生命周期特征体系
 
 > 贷前/贷中/贷后全场景特征分类框架，风控特征建设的总纲领

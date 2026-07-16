@@ -1,3 +1,12 @@
+---
+title: deep learning basics
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, algorithms, machine-learning]
+date: 2026-04-24
+---
+
 # 深度学习基础
 
 > 神经网络从入门到工业界应用指南

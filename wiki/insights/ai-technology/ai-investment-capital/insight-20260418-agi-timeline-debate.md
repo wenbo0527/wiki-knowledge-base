@@ -1,3 +1,12 @@
+---
+title: insight 20260418 agi timeline debate
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, ai-investment-capital]
+date: 2026-04-24
+---
+
 # AGI时间线争论：从2030到永生
 能力框架: capability-value-closed-loop capability-tech-understanding
 

@@ -1,3 +1,12 @@
+---
+title: insight 20260429 mulerun vibe coding
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-23
+---
+
 # Insight: MuleRun陈宇森：Vibe Coding与Agent创作新范式
 能力框架: capability-requirement-decision capability-tech-understanding #capability-product-design
 

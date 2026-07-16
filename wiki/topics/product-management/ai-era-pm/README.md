@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management, ai-era-pm]
+date: 2026-04-24
+---
+
 # AI时代的PM
 
 > AI如何重塑产品经理的工作方式、技能要求和价值创造

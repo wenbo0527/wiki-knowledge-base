@@ -1,3 +1,12 @@
+---
+title: insight 20260616 Terresa Torres的Claude Code全流程应用 从任务管理到知识
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # Terresa Torres的Claude Code全流程应用：从任务管理到知识自动化
 
 > **来源**: Get笔记

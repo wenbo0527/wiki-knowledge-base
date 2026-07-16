@@ -1,3 +1,12 @@
+---
+title: insight 20260522 基于Gravitino构建统一元数据管理平台的实践分享
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-23
+---
+
 # 基于Gravitino构建统一元数据管理平台的实践分享
 
 > **来源**: Get笔记

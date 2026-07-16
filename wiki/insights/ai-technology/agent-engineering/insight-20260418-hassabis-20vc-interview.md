@@ -1,3 +1,12 @@
+---
+title: insight 20260418 hassabis 20vc interview
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, agent-engineering]
+date: 2026-04-24
+---
+
 # Demis Hassabis × 20VC：AGI时间线、自举效应与第二工作日
 能力框架: capability-tech-understanding #capability-product-design
 

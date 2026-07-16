@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-METHODOLOGY
+doc_type: 其他
+tags: [methodologies, 03-数据驱动, L3-模板工具]
+date: 2026-07-16
+---
+
 # L3: 数据驱动模板工具
 
 > 版本: v1.0

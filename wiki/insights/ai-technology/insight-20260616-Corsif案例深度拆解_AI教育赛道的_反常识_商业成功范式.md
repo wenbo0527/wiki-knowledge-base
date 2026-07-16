@@ -1,3 +1,12 @@
+---
+title: insight 20260616 Corsif案例深度拆解 AI教育赛道的 反常识 商业成功范式
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # Corsif案例深度拆解：AI教育赛道的"反常识"商业成功范式
 
 > **来源**: Get笔记

@@ -1,3 +1,12 @@
+---
+title: component spec
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TEMPLATE
+doc_type: 其他
+tags: [_templates, personal-site-design]
+date: 2026-05-23
+---
+
 # Personal Site 组件设计规范
 > 版本: v1.0 | 创建: 2026-05-23 | 维护者: 尼克·弗瑞
 > 参考: Apple HIG / Material Design 3 / Vercel / Linear / Stripe

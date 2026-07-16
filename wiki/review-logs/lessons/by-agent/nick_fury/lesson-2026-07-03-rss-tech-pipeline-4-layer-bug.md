@@ -1,3 +1,12 @@
+---
+title: lesson 2026 07 03 rss tech pipeline 4 layer bug
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-07-04
+---
+
 # Lesson L-24 / L-25 / L-26 / L-27 · 2026-07-03
 
 > 沉淀自 INC-2026-07-03-002（科技日报 RSS 5 篇精选 9 天真空）

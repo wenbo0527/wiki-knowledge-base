@@ -1,3 +1,12 @@
+---
+title: insight 20260428 deerflow 2 super agent harness
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # 💡 Insight: DeerFlow 2.0 - ByteDance开源Super Agent Harness
 能力框架: capability-tech-understanding
 

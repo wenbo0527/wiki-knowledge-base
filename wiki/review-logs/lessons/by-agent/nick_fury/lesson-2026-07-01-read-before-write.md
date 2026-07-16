@@ -1,3 +1,12 @@
+---
+title: lesson 2026 07 01 read before write
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-07-02
+---
+
 # Lesson 2026-07-01: 写脚本前 read 3 行 + 修一类必 grep（L-16 / L-17）
 
 > **作者**: 尼克·弗瑞 🕵️

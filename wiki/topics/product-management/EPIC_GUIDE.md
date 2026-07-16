@@ -1,3 +1,12 @@
+---
+title: EPIC GUIDE
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management]
+date: 2026-04-24
+---
+
 # 产品管理方案团队 - Epic 全景指南
 
 > 一句话：基于 Neo4j + 飞书 + AI 的四层需求管理体系，实现业务需求的智能拆解与全链路追踪

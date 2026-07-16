@@ -1,3 +1,12 @@
+---
+title: superpowers framework
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native]
+date: 2026-05-23
+---
+
 # Superpowers 工作流框架
 
 > 来源：Andrej Karpathy 推崇的 AI 辅助开发工程纪律框架

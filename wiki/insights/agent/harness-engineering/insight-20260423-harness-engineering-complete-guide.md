@@ -1,3 +1,12 @@
+---
+title: insight 20260423 harness engineering complete guide
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent, harness-engineering]
+date: 2026-05-23
+---
+
 # Insight: Harness Engineering完整指南（2026年必修课）
 
 > 原始链接: https://mp.weixin.qq.com/s/8JewG1UMM5lIowLBGIpYjw

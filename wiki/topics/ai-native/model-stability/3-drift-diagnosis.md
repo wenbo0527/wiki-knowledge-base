@@ -1,3 +1,12 @@
+---
+title: 3 drift diagnosis
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native, model-stability]
+date: 2026-04-24
+---
+
 # 模型漂移诊断与应急预案
 > 根因分析、特征级诊断、应急处置流程，稳住模型生命线
 ---

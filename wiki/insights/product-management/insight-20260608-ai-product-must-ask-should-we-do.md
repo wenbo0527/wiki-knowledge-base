@@ -1,3 +1,12 @@
+---
+title: insight 20260608 ai product must ask should we do
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, product-management]
+date: 2026-06-30
+---
+
 # 场景识别——为什么 AI 产品必须先问"该不该做"
 
 > **类型**: Insight（需求决策方法论）  

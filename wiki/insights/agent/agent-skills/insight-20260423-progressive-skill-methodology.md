@@ -1,3 +1,12 @@
+---
+title: insight 20260423 progressive skill methodology
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent, agent-skills]
+date: 2026-05-23
+---
+
 # Insight: 渐进式Skill方法论——AI大规模数据处理的工程实践
 
 > 原始链接: https://mp.weixin.qq.com/s/9e84FGMa3ok1GTaLW07iOw

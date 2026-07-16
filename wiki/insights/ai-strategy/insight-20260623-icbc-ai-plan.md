@@ -6,7 +6,9 @@ note_id: 1913635594067483764
 product_domain: PD-AI
 doc_type: 深度解析
 tags: [banking, ai, transformation, icbc, enterprise-ai, implementation]
+author: 尼克·弗瑞 🕵️
 ---
+
 
 # 工商银行"领航 AI+"行动计划深度解析：技术底座与场景落地实践
 

@@ -1,3 +1,12 @@
+---
+title: insight 20260616 DeepScientist 首个具备完整科研能力的AI科学家系统
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # DeepScientist：首个具备完整科研能力的AI科学家系统
 
 > **来源**: Get笔记

@@ -1,3 +1,12 @@
+---
+title: architecture
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, palantir-ontology, platform]
+date: 2026-04-24
+---
+
 # Palantir平台技术架构
 
 > 分层解耦，本体为核心的云原生分布式架构

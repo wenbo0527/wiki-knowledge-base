@@ -1,3 +1,12 @@
+---
+title: insight 20260428 simon willison anti patterns
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, technology]
+date: 2026-05-23
+---
+
 # Insight: Simon Willison - Anti-patterns 反模式警示
 能力框架: capability-tech-understanding
 

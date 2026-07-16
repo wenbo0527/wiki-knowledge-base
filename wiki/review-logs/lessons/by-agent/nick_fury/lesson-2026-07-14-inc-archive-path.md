@@ -1,3 +1,12 @@
+---
+title: lesson 2026 07 14 inc archive path
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-07-15
+---
+
 # Lesson L-31: INC/lesson 必须立即归档到 review-logs 子目录
 
 > 7-14 14:00 沉淀 · nick_fury 🕵️ · INC-2026-07-14-003

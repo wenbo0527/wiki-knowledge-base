@@ -1,3 +1,12 @@
+---
+title: product management cases
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management]
+date: 2026-04-24
+---
+
 # 实践案例
 
 > 产品管理方案团队的 Epic 拆解实战经验

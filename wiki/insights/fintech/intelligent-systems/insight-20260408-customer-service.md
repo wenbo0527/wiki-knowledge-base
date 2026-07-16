@@ -1,3 +1,12 @@
+---
+title: insight 20260408 customer service
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, fintech, intelligent-systems]
+date: 2026-04-24
+---
+
 # 互联网金融 - 智能客服行业洞察
 能力框架: capability-requirement-decision capability-tech-understanding
 

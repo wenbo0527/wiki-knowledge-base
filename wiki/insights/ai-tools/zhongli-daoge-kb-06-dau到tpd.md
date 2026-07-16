@@ -1,3 +1,12 @@
+---
+title: zhongli daoge kb 06 dau到tpd
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-tools]
+date: 2026-06-30
+---
+
 # #6 从 DAU 到 TPD：AI 时代产品价值度量体系的革命性转变
 
 **源**: 刀哥 KB `2eYxaj0z` | note_id `1902751132961374752` | 2026-02-26 | tags: AI 时代, 度量

@@ -1,3 +1,12 @@
+---
+title: insight 20260616 在惊奇AI探索空间 AI时代学习方式的探索与实践
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 在惊奇AI探索空间：AI时代学习方式的探索与实践
 
 > **来源**: Get笔记

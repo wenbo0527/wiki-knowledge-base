@@ -1,3 +1,12 @@
+---
+title: insight 20260430 agent product design
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, product-management]
+date: 2026-05-23
+---
+
 # Insight: 为Agent设计产品 - 从"界面工具"到"运行底座"的范式转变
 
 > 原始链接: https://mp.weixin.qq.com/s/mlajGBnYpugyxjTDc7JGNA

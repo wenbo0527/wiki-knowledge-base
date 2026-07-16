@@ -1,3 +1,12 @@
+---
+title: ai llm
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CONCEPT
+doc_type: 其他
+tags: [concepts]
+date: 2026-04-24
+---
+
 # AI/LLM
 
 > 人工智能与大语言模型

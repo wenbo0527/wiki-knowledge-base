@@ -1,3 +1,12 @@
+---
+title: insight 20260505 david silver superintelligence
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-06
+---
+
 # David Silver $11亿创立Ineffable Intelligence：超智能新物种
 能力框架: capability-tech-understanding
 

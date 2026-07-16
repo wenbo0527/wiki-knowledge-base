@@ -1,3 +1,12 @@
+---
+title: insight 20260616 OpenClaw创始人Peter Steinberger深度访谈 从爆红危机到A
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # OpenClaw创始人Peter Steinberger深度访谈：从爆红危机到AI Agent未来展望
 
 > **来源**: Get笔记

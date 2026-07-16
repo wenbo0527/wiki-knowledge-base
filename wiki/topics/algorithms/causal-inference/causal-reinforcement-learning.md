@@ -1,3 +1,12 @@
+---
+title: causal reinforcement learning
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, algorithms, causal-inference]
+date: 2026-04-24
+---
+
 # 因果强化学习（Causal Reinforcement Learning）
 
 > 将因果推断融入强化学习：因果策略、状态抽象与反事实决策

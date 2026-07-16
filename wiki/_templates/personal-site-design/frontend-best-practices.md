@@ -1,3 +1,12 @@
+---
+title: frontend best practices
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TEMPLATE
+doc_type: 其他
+tags: [_templates, personal-site-design]
+date: 2026-05-23
+---
+
 # GitHub 前端设计最佳实践
 > 版本: v1.0 | 维护者: 尼克·弗瑞
 > 来源: GitHub / mmx search | 用途: Personal Site 设计 / 数字社区前端参考

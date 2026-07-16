@@ -1,3 +1,12 @@
+---
+title: les 2026 06 10 zhongli jun 9 10 summary
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-06-30
+---
+
 # 📝 Lesson #066: 钟离 6/9-6/10 教训索引 (教训 31-65)
 
 | 字段 | 值 |

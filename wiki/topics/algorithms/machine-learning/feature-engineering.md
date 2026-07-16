@@ -1,3 +1,12 @@
+---
+title: feature engineering
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, algorithms, machine-learning]
+date: 2026-04-24
+---
+
 # 特征工程最佳实践
 
 > 数据和特征决定了机器学习的上限，模型和算法只是逼近这个上限

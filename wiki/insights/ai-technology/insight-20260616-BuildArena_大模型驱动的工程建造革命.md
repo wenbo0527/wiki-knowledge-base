@@ -1,3 +1,12 @@
+---
+title: insight 20260616 BuildArena 大模型驱动的工程建造革命
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # BuildArena：大模型驱动的工程建造革命
 
 > **来源**: Get笔记

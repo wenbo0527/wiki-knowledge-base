@@ -1,3 +1,12 @@
+---
+title: inc 2026 07 15 003 agent count actually 17
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, incidents, 2026-07]
+date: 2026-07-15
+---
+
 # INC-2026-07-15-003: Agent 真实数量 17 个（报告"30 个"是错的）
 
 > **揭穿**: 7-15 09:32 文博指出"Agent 数量也不对"  

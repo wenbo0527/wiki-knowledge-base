@@ -1,3 +1,12 @@
+---
+title: insight 20260616 金融AI智能体产品经理面试准备 完整合并版 
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 金融AI智能体产品经理面试准备（完整合并版）
 
 > **来源**: Get笔记

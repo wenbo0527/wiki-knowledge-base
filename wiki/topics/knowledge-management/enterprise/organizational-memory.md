@@ -1,3 +1,12 @@
+---
+title: organizational memory
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, knowledge-management, enterprise]
+date: 2026-04-24
+---
+
 # 组织记忆机制
 
 > 让组织"记住"每一次决策、每一次经验

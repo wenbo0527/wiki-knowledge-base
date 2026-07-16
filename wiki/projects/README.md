@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-PROJECT
+doc_type: 其他
+tags: [projects]
+date: 2026-04-24
+---
+
 # 📋 项目总览
 
 > 派蒙（Paimon）大总管维护的项目文档库

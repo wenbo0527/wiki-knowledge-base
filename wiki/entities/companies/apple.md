@@ -1,3 +1,12 @@
+---
+title: apple
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ENTITY
+doc_type: 其他
+tags: [entities, companies]
+date: 2026-04-24
+---
+
 # Apple
 
 > 全球市值最高的消费电子和软件服务公司

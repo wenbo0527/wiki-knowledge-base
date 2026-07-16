@@ -1,3 +1,12 @@
+---
+title: source 20260419 deerflow
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources]
+date: 2026-04-24
+---
+
 # Source: 字节跳动开源项目 DeerFlow 2.0 到底有多强
 
 > **Source ID**: source-20260419-deerflow  

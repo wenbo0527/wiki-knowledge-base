@@ -1,3 +1,12 @@
+---
+title: insight 20260429 cat wu interview
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-06
+---
+
 # [访谈笔记] Cat Wu：Anthropic产品团队如何比所有人都快
 
 > 来源: Get笔记 EJ9zwkln

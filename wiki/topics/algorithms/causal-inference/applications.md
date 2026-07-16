@@ -1,3 +1,12 @@
+---
+title: applications
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, algorithms, causal-inference]
+date: 2026-04-24
+---
+
 # 因果推断应用案例：金融风控与营销
 
 > 从理论到实践：因果推断在金融科技中的落地应用

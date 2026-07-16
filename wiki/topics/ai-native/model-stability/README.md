@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native, model-stability]
+date: 2026-04-24
+---
+
 # 模型稳定性评估专题
 > 识别、监控、诊断模型漂移，保障模型长期稳定运行，是消费金融风控模型的生命线
 ---

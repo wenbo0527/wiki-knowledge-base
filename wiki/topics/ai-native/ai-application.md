@@ -1,3 +1,12 @@
+---
+title: ai application
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native]
+date: 2026-04-24
+---
+
 # AI行业应用
 
 > AI在各行业的落地案例、成熟度评估、选型建议

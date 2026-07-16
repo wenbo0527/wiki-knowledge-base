@@ -1,3 +1,12 @@
+---
+title: framework evolution master
+author: 尼克·弗瑞 🕵️
+product_domain: PD-PROJECT
+doc_type: 其他
+tags: [projects]
+date: 2026-04-24
+---
+
 # 🏗️ 框架进化路线图
 
 > 版本：v1.0.0

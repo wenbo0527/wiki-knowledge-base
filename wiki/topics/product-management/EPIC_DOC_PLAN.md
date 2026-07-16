@@ -1,3 +1,12 @@
+---
+title: EPIC DOC PLAN
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management]
+date: 2026-04-24
+---
+
 # Epic 文档化执行计划
 
 > 目标：为每个独立的 Epic 创建完整的 9 章节文档

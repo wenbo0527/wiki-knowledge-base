@@ -1,3 +1,12 @@
+---
+title: source 20260419 harness engineering
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources]
+date: 2026-04-24
+---
+
 # Source: Harness Engineering
 
 > **原文标题**: Harness Engineering - The AI-Native Infrastructure Revolution  

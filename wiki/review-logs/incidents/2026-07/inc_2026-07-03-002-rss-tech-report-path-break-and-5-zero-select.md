@@ -1,3 +1,12 @@
+---
+title: inc 2026 07 03 002 rss tech report path break and 5 zero select
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, incidents, 2026-07]
+date: 2026-07-04
+---
+
 # INC-2026-07-03-002: 科技日报 RSS 5 篇精选 9 天真空 + 8 个死 plist
 
 ## 现象

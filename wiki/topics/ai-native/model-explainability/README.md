@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native, model-explainability]
+date: 2026-04-24
+---
+
 # 金融场景模型可解释性专题
 > 满足金融监管要求，实现模型透明、可解释、合规，解决"黑盒模型"落地痛点
 ---

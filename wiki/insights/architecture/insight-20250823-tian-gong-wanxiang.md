@@ -1,3 +1,12 @@
+---
+title: insight 20250823 tian gong wanxiang
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, architecture]
+date: 2026-05-23
+---
+
 # 天工万象：蚂蚁消金Multi-Agent智能体平台
 能力框架: capability-requirement-decision capability-tech-understanding
 

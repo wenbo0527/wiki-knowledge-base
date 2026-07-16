@@ -1,3 +1,12 @@
+---
+title: insight 20260522 Data AI时代的数据治理转型 Apache Gravitino统一元数据架构
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-23
+---
+
 # Data+AI时代的数据治理转型：Apache Gravitino统一元数据架构与实践
 
 > **来源**: Get笔记

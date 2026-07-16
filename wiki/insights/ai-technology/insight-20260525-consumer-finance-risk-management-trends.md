@@ -3,7 +3,11 @@ title: 消费金融风控系统行业洞察
 date: 2026-05-20
 tags: [AI, 风控, 联邦学习, 隐私计算, 消费金融, 可解释AI]
 source: 最佳实践收集/Day05_消费金融_风控系统最佳实践
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
 ---
+
 
 # 消费金融风控系统 - 行业洞察
 

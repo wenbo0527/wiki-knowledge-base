@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-METHODOLOGY
+doc_type: 其他
+tags: [methodologies, 05-技术理解]
+date: 2026-07-16
+---
+
 # 05 技术理解
 
 > 版本: v1.1

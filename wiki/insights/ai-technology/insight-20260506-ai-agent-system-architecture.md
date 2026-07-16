@@ -1,3 +1,12 @@
+---
+title: insight 20260506 ai agent system architecture
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-06
+---
+
 # AI智能体系统架构深度解析：从模型到Harness的协同框架
 能力框架: capability-data-driven capability-product-design #capability-risk-control
 

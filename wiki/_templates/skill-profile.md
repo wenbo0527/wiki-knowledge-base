@@ -1,3 +1,12 @@
+---
+title: skill profile
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TEMPLATE
+doc_type: 其他
+tags: [_templates]
+date: 2026-05-23
+---
+
 # Skill 档案模板
 
 > **版本**: v1.0

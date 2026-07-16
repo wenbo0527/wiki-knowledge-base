@@ -1,3 +1,12 @@
+---
+title: insight 20260616 AI攻防新纪元 从Mythos威胁到智能体防御体系重构
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # AI攻防新纪元：从Mythos威胁到智能体防御体系重构
 
 > **来源**: Get笔记

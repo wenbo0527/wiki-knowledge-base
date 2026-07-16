@@ -1,3 +1,12 @@
+---
+title: insight 20260512 deerflow 2 architecture
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, technology]
+date: 2026-05-23
+---
+
 # DeerFlow 2.0：字节跳动多智能体系统架构深度解析
 
 能力框架: capability-tech-understanding #capability-fusion

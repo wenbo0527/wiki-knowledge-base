@@ -1,3 +1,12 @@
+---
+title: insight 20260430 openclaw config best practices zhongli
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai, openclaw]
+date: 2026-05-23
+---
+
 # OpenClaw 代码Agent配置文件最佳实践
 能力框架: capability-requirement-decision capability-tech-understanding #capability-data-driven #capability-risk-control
 

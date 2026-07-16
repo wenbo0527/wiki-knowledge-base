@@ -1,3 +1,12 @@
+---
+title: insight 20260408 collaboration
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, fintech, product-solutions]
+date: 2026-04-24
+---
+
 # 金融科技 - 组织效能洞察
 能力框架: capability-requirement-decision capability-tech-understanding
 

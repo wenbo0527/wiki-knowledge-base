@@ -1,3 +1,12 @@
+---
+title: nvidia
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ENTITY
+doc_type: 其他
+tags: [entities, companies]
+date: 2026-04-24
+---
+
 # NVIDIA
 
 > 全球领先的GPU和AI芯片公司

@@ -1,3 +1,12 @@
+---
+title: roadmap MKT
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management]
+date: 2026-04-24
+---
+
 # 数字营销产品域规划（PD-MKT）
 
 > 数字营销平台 - 精准触达、智能运营、数据驱动增长

@@ -1,3 +1,12 @@
+---
+title: insight 20260616 云器科技cz cli 数据工程专业Agent工具深度解析  从 杂活驱动 到 注
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 云器科技cz-cli：数据工程专业Agent工具深度解析——从"杂活驱动"到"注意力驱动"的转型实践
 
 > **来源**: Get笔记

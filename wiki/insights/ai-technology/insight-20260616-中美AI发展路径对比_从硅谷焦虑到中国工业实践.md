@@ -1,3 +1,12 @@
+---
+title: insight 20260616 中美AI发展路径对比 从硅谷焦虑到中国工业实践
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 中美AI发展路径对比：从硅谷焦虑到中国工业实践
 
 > **来源**: Get笔记

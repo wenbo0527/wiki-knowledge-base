@@ -1,3 +1,12 @@
+---
+title:  index
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SKILL
+doc_type: 其他
+tags: [skills]
+date: 2026-06-30
+---
+
 # Skills 索引 - 方案 B 落地
 
 > **创建日期**：2026-06-11

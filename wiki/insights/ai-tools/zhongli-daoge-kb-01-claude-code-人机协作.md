@@ -1,3 +1,12 @@
+---
+title: zhongli daoge kb 01 claude code 人机协作
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-tools]
+date: 2026-06-30
+---
+
 # #1 Claude Code 深度分析报告：人机协作模式与专业知识价值研究
 
 **源**: 刀哥 KB `2eYxaj0z` | note_id `1913139120176181024` | 2026-06-18 | tags: Claude Code, 人机协作

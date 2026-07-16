@@ -1,3 +1,12 @@
+---
+title: insight 20260408 digital currency
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, fintech, digital-currency]
+date: 2026-04-24
+---
+
 # 金融科技 - 数字人民币生态洞察
 能力框架: capability-value-closed-loop capability-tech-understanding #capability-risk-control
 

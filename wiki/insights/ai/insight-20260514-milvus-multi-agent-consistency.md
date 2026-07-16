@@ -1,3 +1,12 @@
+---
+title: insight 20260514 milvus multi agent consistency
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai]
+date: 2026-05-14
+---
+
 # Milvus向量数据库在多Agent系统中的一致性控制
 
 > Insights - 向量数据库

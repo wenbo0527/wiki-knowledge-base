@@ -1,3 +1,12 @@
+---
+title: alipay
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ENTITY
+doc_type: 其他
+tags: [entities, companies]
+date: 2026-04-24
+---
+
 # 支付宝 (Alipay)
 
 > 全球领先的第三方支付平台

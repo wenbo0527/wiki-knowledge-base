@@ -1,3 +1,12 @@
+---
+title: insight 20260422 context compression methodology
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # 洞察：上下文压缩方法论 - 五家AI产品对比
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-risk-control
 

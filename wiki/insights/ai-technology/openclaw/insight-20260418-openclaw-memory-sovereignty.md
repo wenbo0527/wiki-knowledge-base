@@ -1,3 +1,12 @@
+---
+title: insight 20260418 openclaw memory sovereignty
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, openclaw]
+date: 2026-04-24
+---
+
 # OpenClaw vs Deep Agents：开源Agent平台的价值
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-risk-control
 

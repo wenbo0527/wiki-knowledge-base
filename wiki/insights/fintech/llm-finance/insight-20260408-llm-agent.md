@@ -1,3 +1,12 @@
+---
+title: insight 20260408 llm agent
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, fintech, llm-finance]
+date: 2026-04-24
+---
+
 # 洞察: LLM Agent技术演进与投资机会
 能力框架: capability-value-closed-loop capability-requirement-decision
 

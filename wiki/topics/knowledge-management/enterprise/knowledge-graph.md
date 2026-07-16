@@ -1,3 +1,12 @@
+---
+title: knowledge graph
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, knowledge-management, enterprise]
+date: 2026-04-24
+---
+
 # 知识图谱与企业智能
 
 > 将隐性知识显性化、关系化、智能化

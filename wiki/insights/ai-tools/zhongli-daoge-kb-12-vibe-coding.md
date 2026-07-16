@@ -1,3 +1,12 @@
+---
+title: zhongli daoge kb 12 vibe coding
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-tools]
+date: 2026-06-30
+---
+
 # #12 AI 时代的自我颠覆：从 Vibe Coding 到人类价值重构
 
 **源**: 刀哥 KB `2eYxaj0z` | note_id `1902086921635586656` | 2026-02-19 | tags: AI 辅助编程, Claude Code

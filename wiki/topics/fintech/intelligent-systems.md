@@ -1,3 +1,12 @@
+---
+title: intelligent systems
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech]
+date: 2026-04-24
+---
+
 # 金融科技 - 智能系统最佳实践
 
 > 整合智能客服、智能信贷、支付系统的金融科技智能系统实践

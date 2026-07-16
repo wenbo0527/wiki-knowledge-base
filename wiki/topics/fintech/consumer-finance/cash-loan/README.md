@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech, consumer-finance]
+date: 2026-04-24
+---
+
 # 现金贷
 
 > 直接发放现金的信用贷款，有明确还款周期

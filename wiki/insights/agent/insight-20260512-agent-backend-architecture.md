@@ -1,3 +1,12 @@
+---
+title: insight 20260512 agent backend architecture
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # Agent后端架构演进：从最小Loop到运行时能力目录
 
 能力框架: capability-tech-understanding #capability-fusion

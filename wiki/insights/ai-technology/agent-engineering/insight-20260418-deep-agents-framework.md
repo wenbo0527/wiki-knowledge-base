@@ -1,3 +1,12 @@
+---
+title: insight 20260418 deep agents framework
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, agent-engineering]
+date: 2026-04-24
+---
+
 # LangChain Deep Agents：AI Agent从框架期进入产品期
 能力框架: capability-value-closed-loop capability-requirement-decision
 

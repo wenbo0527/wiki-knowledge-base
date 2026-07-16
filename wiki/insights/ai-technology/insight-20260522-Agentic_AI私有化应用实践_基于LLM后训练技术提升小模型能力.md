@@ -1,3 +1,12 @@
+---
+title: insight 20260522 Agentic AI私有化应用实践 基于LLM后训练技术提升小模型能力
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-23
+---
+
 # Agentic AI私有化应用实践：基于LLM后训练技术提升小模型能力
 
 > **来源**: Get笔记

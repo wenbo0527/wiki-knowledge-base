@@ -1,3 +1,12 @@
+---
+title: insight 20260616 Teresa Torres的AI原生工作流 从GUI到Claude Code O
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # Teresa Torres的AI原生工作流：从GUI到Claude Code+Obsidian的转型实践
 
 > **来源**: Get笔记

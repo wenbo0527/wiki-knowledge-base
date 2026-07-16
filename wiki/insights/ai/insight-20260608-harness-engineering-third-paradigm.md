@@ -1,3 +1,12 @@
+---
+title: insight 20260608 harness engineering third paradigm
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai]
+date: 2026-06-30
+---
+
 # Harness Engineering：AI Coding 第三次范式跃迁
 
 > **类型**: Insight（架构范式）  

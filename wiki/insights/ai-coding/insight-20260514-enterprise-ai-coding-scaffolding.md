@@ -1,3 +1,12 @@
+---
+title: insight 20260514 enterprise ai coding scaffolding
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-14
+---
+
 # 企业级AI Coding脚手架：从Landing Zone共识到工程化落地
 
 > Insights - AI Coding工程化

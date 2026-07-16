@@ -8,7 +8,10 @@ product_domain: PD-DFD + PD-DMT
 tags: [ai-agent, data-platform, human-in-the-loop]
 status: 正式版
 维护者: Tony Stark
+doc_type: 其他
+date: 2026-05-23
 ---
+
 
 # 数据资产平台 + AI Agent 综述
 ## 数字社区产品域 (PD-DFD + PD-DMT) 综合介绍

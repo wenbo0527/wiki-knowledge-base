@@ -1,3 +1,12 @@
+---
+title: insight 2026 03 04 一人天   MiniMax M2 5 三种语言 三个产品
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights]
+date: 2026-06-30
+---
+
 # 一人天 + MiniMax M2.5，三种语言，三个产品
 
 > **来源**: 人人都是产品经理

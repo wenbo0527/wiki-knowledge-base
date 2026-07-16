@@ -1,3 +1,12 @@
+---
+title: insight 20260616 2026年AI Agent企业级实时风控方案 基于Fluss Flink 大模型
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 2026年AI Agent企业级实时风控方案：基于Fluss+Flink+大模型的全链路安全架构
 
 > **来源**: Get笔记

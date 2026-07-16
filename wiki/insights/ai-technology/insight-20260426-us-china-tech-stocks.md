@@ -1,3 +1,12 @@
+---
+title: insight 20260426 us china tech stocks
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-04-26
+---
+
 # 中美科技股估值上涨分析：2026年4月
 能力框架: capability-value-closed-loop capability-requirement-decision
 

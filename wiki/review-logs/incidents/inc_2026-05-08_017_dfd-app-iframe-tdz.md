@@ -1,3 +1,12 @@
+---
+title: inc 2026 05 08 017 dfd app iframe tdz
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, incidents]
+date: 2026-05-09
+---
+
 # 🔴 Incident #017: dfd-app iframe 空白 + rsync 权限覆盖 + 8081 后端离线
 
 | 字段 | 值 |

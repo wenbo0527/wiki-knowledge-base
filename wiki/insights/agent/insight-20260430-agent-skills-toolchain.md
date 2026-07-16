@@ -1,3 +1,12 @@
+---
+title: insight 20260430 agent skills toolchain
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # 13个让AI Agent能力翻倍的核心Skills
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design
 

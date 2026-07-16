@@ -1,3 +1,12 @@
+---
+title: PROJECT HAND
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management]
+date: 2026-04-24
+---
+
 # 产品管理方案团队 - 项目手册（PROJECT HAND）
 
 > 一句话：基于 Neo4j + 飞书 + AI 的四层需求管理体系，实现从业务需求到技术实现的完整链路

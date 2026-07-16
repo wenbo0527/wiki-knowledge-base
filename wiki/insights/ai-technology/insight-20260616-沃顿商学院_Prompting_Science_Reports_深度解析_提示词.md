@@ -1,3 +1,12 @@
+---
+title: insight 20260616 沃顿商学院 Prompting Science Reports 深度解析 提示词
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 沃顿商学院《Prompting Science Reports》深度解析：提示词工程的祛魅与理性回归
 
 > **来源**: Get笔记

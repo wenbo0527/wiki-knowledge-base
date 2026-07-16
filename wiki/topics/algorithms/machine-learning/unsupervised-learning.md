@@ -1,3 +1,12 @@
+---
+title: unsupervised learning
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, algorithms, machine-learning]
+date: 2026-04-24
+---
+
 # 无监督学习算法详解
 
 > 从聚类到降维：挖掘无标签数据中的隐藏模式

@@ -1,3 +1,12 @@
+---
+title: insight 20260616 OpenClaw KimiClaw知识管理系统深度实践指南 从信息自动化到第二大
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # OpenClaw+KimiClaw知识管理系统深度实践指南：从信息自动化到第二大脑构建
 
 > **来源**: Get笔记

@@ -1,3 +1,12 @@
+---
+title: insight 20260426 nextie harness multiagent
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-04-26
+---
+
 # 明日新程与Harness群体多智能体赛道洞察
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-risk-control
 

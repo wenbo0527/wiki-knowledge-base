@@ -1,3 +1,12 @@
+---
+title: insight 20260429 huisuan sql agent
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, technology]
+date: 2026-05-23
+---
+
 # 洞察：多Agent Text2SQL 架构 — 企业级 ChatBI 的实现路径
 
 > 原始链接: https://mp.weixin.qq.com/s/Jjtl4bBN61W6ISzpw3q1XQ

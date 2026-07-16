@@ -1,3 +1,12 @@
+---
+title: insight 20260419 harness agent
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # Insight: Harness Agent 工程行业最佳实践
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-data-driven #capability-risk-control
 

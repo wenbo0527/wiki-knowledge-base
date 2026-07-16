@@ -1,3 +1,12 @@
+---
+title: insight 20260419 claude design
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # Insight: Claude Design - AI驱动设计工具深度评测
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-data-driven
 

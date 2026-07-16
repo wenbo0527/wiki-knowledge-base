@@ -1,3 +1,12 @@
+---
+title:  template incident
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs]
+date: 2026-05-09
+---
+
 # 🔴 Incident #NNN: [简短标题]
 
 | 字段 | 值 |

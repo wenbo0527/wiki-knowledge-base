@@ -1,10 +1,16 @@
 ---
-能力框架: #tech-understanding #data-driven
-来源: 录音笔记-技术分享会 | 发布时间: 2026-05-19 | 分类: Data Infrastructure / Metadata Management
+能力框架: "#tech-understanding #data-driven"
+来源: "录音笔记-技术分享会 | 发布时间: 2026-05-19 | 分类: Data Infrastructure / Metadata Management"
 Insight ID: insight-20260519-gravitino-lixiang
-维护者: 尼克·弗瑞 | 更新: 2026-05-20
-
+维护者: "尼克·弗瑞 | 更新: 2026-05-20"
+title: insight 20260519 gravitino lixiang
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai]
+date: 2026-05-23
 ---
+
 
 ## 📌 执行摘要
 

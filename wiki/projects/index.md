@@ -1,3 +1,12 @@
+---
+title: index
+author: 尼克·弗瑞 🕵️
+product_domain: PD-PROJECT
+doc_type: 其他
+tags: [projects]
+date: 2026-07-16
+---
+
 # 📁 projects/ 索引 — 项目追踪
 
 > 维护者：🕵️ 尼克·弗瑞

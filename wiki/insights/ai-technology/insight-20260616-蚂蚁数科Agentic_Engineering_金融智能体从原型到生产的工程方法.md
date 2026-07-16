@@ -1,3 +1,12 @@
+---
+title: insight 20260616 蚂蚁数科Agentic Engineering 金融智能体从原型到生产的工程方法
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 蚂蚁数科Agentic Engineering：金融智能体从原型到生产的工程方法论
 
 > **来源**: Get笔记

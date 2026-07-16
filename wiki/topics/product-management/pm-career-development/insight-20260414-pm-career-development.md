@@ -1,3 +1,12 @@
+---
+title: insight 20260414 pm career development
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management, pm-career-development]
+date: 2026-04-24
+---
+
 # PM晋升洞察：AI时代的Data+AI平台PM能力模型
 
 > 来源：文博个人职业规划

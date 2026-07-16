@@ -1,3 +1,12 @@
+---
+title: insight 20260408 open banking
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, fintech, open-banking]
+date: 2026-04-24
+---
+
 # 传统银行 - 开放银行行业洞察
 能力框架: capability-value-closed-loop capability-risk-control
 

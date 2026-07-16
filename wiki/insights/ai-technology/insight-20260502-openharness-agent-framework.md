@@ -1,3 +1,12 @@
+---
+title: insight 20260502 openharness agent framework
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-06
+---
+
 # OpenHarness深度解析：AI Agent轻量化安全架构的革命性突破
 
 > 来源: Get笔记

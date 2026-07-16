@@ -1,3 +1,12 @@
+---
+title: insight 20260418 skill development
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, agent-engineering]
+date: 2026-04-24
+---
+
 # 大模型AI Skill编写、评测迭代与长链路任务实践经验
 能力框架: capability-value-closed-loop capability-tech-understanding #capability-data-driven #capability-risk-control
 

@@ -1,3 +1,12 @@
+---
+title: insight 20260430 claude code deep analysis
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-23
+---
+
 # Claude Code深度解析：从AI助手到可编排开发环境的进化路径
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-risk-control
 

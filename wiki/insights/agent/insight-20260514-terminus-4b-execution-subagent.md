@@ -1,3 +1,12 @@
+---
+title: insight 20260514 terminus 4b execution subagent
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # Terminus-4B：小模型在代码Agent执行任务中的颠覆性潜力研究
 
 能力框架: capability-tech-understanding #capability-value-closed-loop

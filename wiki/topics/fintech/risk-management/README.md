@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech, risk-management]
+date: 2026-04-24
+---
+
 # Risk Management
 
 > （待补充专题简介）

@@ -1,3 +1,12 @@
+---
+title: product management methodology
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management]
+date: 2026-04-24
+---
+
 # 产品管理方法论
 
 > 基于四层架构的产品需求管理体系

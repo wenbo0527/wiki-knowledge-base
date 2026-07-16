@@ -1,3 +1,12 @@
+---
+title: insight 20260616 麦肯锡报告 Agents  Robots  and Us 第三章深度解析 AI驱
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 麦肯锡报告《Agents, Robots, and Us》第三章深度解析：AI驱动的工作流程重塑与组织生产力革命
 
 > **来源**: Get笔记

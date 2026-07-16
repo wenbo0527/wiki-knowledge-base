@@ -1,3 +1,12 @@
+---
+title: insight 20260505 deepseek nyt analysis
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-06
+---
+
 # NYT专题定性DeepSeek：改变全球AI竞赛规则的开源力量
 能力框架: capability-tech-understanding
 

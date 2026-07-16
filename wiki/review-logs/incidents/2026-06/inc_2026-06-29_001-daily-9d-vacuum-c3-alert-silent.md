@@ -1,3 +1,12 @@
+---
+title: inc 2026 06 29 001 daily 9d vacuum c3 alert silent
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, incidents, 2026-06]
+date: 2026-06-30
+---
+
 # INC-2026-06-29-001: 日报 9 天真空 + C-3 告警链路缺失
 
 > 报告时间: 2026-06-29 09:30 (Asia/Shanghai)

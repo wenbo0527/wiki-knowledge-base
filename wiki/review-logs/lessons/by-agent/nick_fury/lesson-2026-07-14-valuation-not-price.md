@@ -1,3 +1,12 @@
+---
+title: lesson 2026 07 14 valuation not price
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-07-15
+---
+
 # Lesson L-30: 估值分位 ≠ 价格分位 —— PE/PEG/EV/EBITDA 才是估值根本
 
 > 7-14 14:00 沉淀 · nick_fury 🕵️ · INC-2026-07-14-002

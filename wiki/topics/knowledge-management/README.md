@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, knowledge-management]
+date: 2026-04-24
+---
+
 # 信息收集最佳实践
 
 > 构建你的情报收集体系，从信息到洞察到壁垒

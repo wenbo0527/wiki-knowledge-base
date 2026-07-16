@@ -1,3 +1,12 @@
+---
+title: lesson 2026 07 15 cron command sync
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-07-15
+---
+
 # L-34: OpenClaw cron `command` 字段（payload.argv）必须随 scripts 改造同步更新
 
 > **教训族**：INC-2026-07-15-001 治本

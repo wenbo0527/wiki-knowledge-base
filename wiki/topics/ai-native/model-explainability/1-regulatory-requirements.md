@@ -1,3 +1,12 @@
+---
+title: 1 regulatory requirements
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native, model-explainability]
+date: 2026-04-24
+---
+
 # 金融行业模型可解释性监管要求
 > 满足国内外监管规定，避免合规风险
 ---

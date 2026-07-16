@@ -1,3 +1,12 @@
+---
+title: insight 20260616 英伟达NitroGen 游戏AI的 FSD时刻   从虚拟世界训练通用物理智能体
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 英伟达NitroGen：游戏AI的"FSD时刻"——从虚拟世界训练通用物理智能体
 
 > **来源**: Get笔记

@@ -1,3 +1,12 @@
+---
+title: insight 20260508 meituan ai coding
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-23
+---
+
 # 美团AI Coding实践：31万行代码零排期
 能力框架: capability-requirement-decision capability-tech-understanding #capability-product-design
 

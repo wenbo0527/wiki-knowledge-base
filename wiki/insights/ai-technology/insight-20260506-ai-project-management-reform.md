@@ -1,3 +1,12 @@
+---
+title: insight 20260506 ai project management reform
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-06
+---
+
 # AI时代的项目管理重构：从去流程化到Jira控制系统的升级路径
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-risk-control #capability-data-driven
 

@@ -1,3 +1,12 @@
+---
+title: insight 20260429 playwright cli skills uitesting
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-23
+---
+
 # 洞察：Playwright CLI + Skills UI自动化测试 — 无障碍树方案
 
 > 原始链接: https://mp.weixin.qq.com/s/CCLV_CU1AgSNOjCHkyafAA

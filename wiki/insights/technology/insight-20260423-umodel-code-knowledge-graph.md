@@ -1,3 +1,12 @@
+---
+title: insight 20260423 umodel code knowledge graph
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, technology]
+date: 2026-05-23
+---
+
 # Insight: UModel - 用知识图谱构建 Agent 原生的代码理解能力
 
 > 原始链接: https://mp.weixin.qq.com/s/VE8CKfUUj-548DF81ZuLLg

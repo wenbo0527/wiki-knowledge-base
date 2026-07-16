@@ -1,3 +1,12 @@
+---
+title: openai
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ENTITY
+doc_type: 其他
+tags: [entities, companies]
+date: 2026-04-24
+---
+
 # OpenAI
 
 > AI研究和安全的领先机构，ChatGPT的创造者

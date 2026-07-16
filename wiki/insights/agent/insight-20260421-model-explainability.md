@@ -1,3 +1,12 @@
+---
+title: insight 20260421 model explainability
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # Insight: 消费金融风控模型可解释性 — 不是合规成本，是竞争壁垒
 能力框架: capability-value-closed-loop capability-product-design #capability-risk-control
 

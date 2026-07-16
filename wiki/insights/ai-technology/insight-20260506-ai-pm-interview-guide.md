@@ -1,3 +1,12 @@
+---
+title: insight 20260506 ai pm interview guide
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-06
+---
+
 # AI产品经理面试指南：从0到1落地AI产品的核心方法论
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-risk-control #capability-data-driven
 

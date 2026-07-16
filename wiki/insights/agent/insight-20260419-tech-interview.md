@@ -1,3 +1,12 @@
+---
+title: insight 20260419 tech interview
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # Insight: Tech Interview Handbook - 技术面试完全指南
 能力框架: capability-value-closed-loop capability-requirement-decision
 

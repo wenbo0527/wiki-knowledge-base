@@ -1,3 +1,12 @@
+---
+title: zhongli daoge kb 03 openclaw 范式转移
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-tools]
+date: 2026-06-30
+---
+
 # #3 OpenClaw（龙虾）深度分析：从 AI 工具到操作系统的范式转移
 
 **源**: 刀哥 KB `2eYxaj0z` | note_id `1904523541408312768` | 2026-03-17 | tags: OpenClaw

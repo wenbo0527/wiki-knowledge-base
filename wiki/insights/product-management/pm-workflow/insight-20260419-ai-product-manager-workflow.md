@@ -1,3 +1,12 @@
+---
+title: insight 20260419 ai product manager workflow
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, product-management, pm-workflow]
+date: 2026-05-23
+---
+
 # AI产品经理工作流完整拆解：三层架构实战指南
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-data-driven #capability-risk-control
 

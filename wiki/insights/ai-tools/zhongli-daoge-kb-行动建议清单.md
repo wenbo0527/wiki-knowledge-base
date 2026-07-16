@@ -1,3 +1,12 @@
+---
+title: zhongli daoge kb 行动建议清单
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-tools]
+date: 2026-06-30
+---
+
 # 刀哥 KB TOP 15 学习 · 行动建议清单（钟离）
 
 > **消化日期**: 2026-06-23

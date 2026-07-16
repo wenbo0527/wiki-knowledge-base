@@ -1,3 +1,12 @@
+---
+title: llm finance
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech]
+date: 2026-04-24
+---
+
 # 金融科技 - 大模型金融应用
 
 > LLM大模型在金融领域的落地实践、技术架构与最佳案例

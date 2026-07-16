@@ -1,3 +1,12 @@
+---
+title: 07 knowledge base construction
+author: 尼克·弗瑞 🕵️
+product_domain: PD-METHODOLOGY
+doc_type: 其他
+tags: [methodologies]
+date: 2026-06-30
+---
+
 # 知识库搭建最佳实践 - 2026-06-03
 
 > **方法论沉淀**: 从1年实操中反向倒推

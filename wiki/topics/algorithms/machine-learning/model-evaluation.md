@@ -1,3 +1,12 @@
+---
+title: model evaluation
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, algorithms, machine-learning]
+date: 2026-04-24
+---
+
 # 模型评估与调参最佳实践
 
 > 科学评估模型效果，合理调参，最大化模型价值

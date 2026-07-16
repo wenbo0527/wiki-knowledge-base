@@ -1,3 +1,12 @@
+---
+title: demo generation
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SKILL
+doc_type: 其他
+tags: [skills]
+date: 2026-06-30
+---
+
 # Demo Generation - 人类浏览版
 
 > **机器版**：`~/.openclaw/skills/demo-generation/SKILL.md`

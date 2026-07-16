@@ -1,3 +1,12 @@
+---
+title: insight 20260516 financial ai product system
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai]
+date: 2026-05-23
+---
+
 # 金融AI产品知识体系 - 转型专项
 
 > 版本: v1.0

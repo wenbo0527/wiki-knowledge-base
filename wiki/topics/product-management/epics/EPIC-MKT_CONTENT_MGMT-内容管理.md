@@ -1,3 +1,12 @@
+---
+title: EPIC MKT CONTENT MGMT 内容管理
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management, epics]
+date: 2026-04-24
+---
+
 # EPIC-MKT_CONTENT_MGMT - 内容管理中心
 
 > Epic 级别需求文档 | 产品域：PD-MKT（数字营销）

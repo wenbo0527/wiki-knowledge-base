@@ -1,3 +1,12 @@
+---
+title: data platform
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech]
+date: 2026-04-24
+---
+
 # 金融科技 - 数据中台最佳实践
 
 > 金融行业数据中台建设的核心方法论、技术架构与行业案例

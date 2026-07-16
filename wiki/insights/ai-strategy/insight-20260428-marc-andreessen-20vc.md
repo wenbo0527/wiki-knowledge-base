@@ -1,3 +1,12 @@
+---
+title: insight 20260428 marc andreessen 20vc
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-strategy]
+date: 2026-05-23
+---
+
 > ⚠️ 本文档内容已过时（32天未更新），建议review后更新
 
 # Marc Andreessen：AI劳动力替代论100%错误、公司超编75%

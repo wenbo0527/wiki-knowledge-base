@@ -1,3 +1,12 @@
+---
+title: insight 20260502 semantic os enterprise ai
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-06
+---
+
 # 大模型时代的企业AI落地：语义操作系统的重构与开源路径
 
 > 来源: Get笔记

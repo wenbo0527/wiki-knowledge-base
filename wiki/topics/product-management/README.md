@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management]
+date: 2026-04-24
+---
+
 # 产品管理方案团队
 
 > 基于 Neo4j + 飞书多维表格 + AI 的产品管理方法论与实践

@@ -1,3 +1,12 @@
+---
+title: skill baseline report
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CONCEPT
+doc_type: 其他
+tags: [concepts]
+date: 2026-05-23
+---
+
 # Skill 基线报告 v1.0
 
 > **版本**: v1.0

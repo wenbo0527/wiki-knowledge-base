@@ -7,7 +7,14 @@ owner: tony_stark
 status: pending
 priority: P1
 task_type: document
+title: document task
+author: 尼克·弗瑞 🕵️
+product_domain: PD-PROJECT
+doc_type: 其他
+tags: [projects, tasks]
+date: 2026-04-24
 ---
+
 
 # 文档类任务卡片
 

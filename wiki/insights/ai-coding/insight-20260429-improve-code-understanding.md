@@ -1,3 +1,12 @@
+---
+title: insight 20260429 improve code understanding
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-23
+---
+
 # 研究报告：提升代码Agent现有项目理解能力
 能力框架: capability-tech-understanding
 

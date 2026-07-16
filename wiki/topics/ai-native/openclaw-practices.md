@@ -1,3 +1,12 @@
+---
+title: openclaw practices
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native]
+date: 2026-04-24
+---
+
 # OpenClaw实践
 
 > OpenClaw Agent平台运维、多Agent协作、团队管理的实战经验

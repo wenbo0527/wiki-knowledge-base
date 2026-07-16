@@ -1,3 +1,12 @@
+---
+title: lesson 2026 07 01 lark cli scope
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-07-02
+---
+
 # Lesson 2026-07-01: lark-cli 授权两次扫坑（L-18）
 
 > **作者**: 尼克·弗瑞 🕵️

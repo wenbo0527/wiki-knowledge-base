@@ -1,3 +1,12 @@
+---
+title: insight 20260429 agent 27 design patterns
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # Insight: Agent系统27种设计模式与Harness工程化
 能力框架: capability-value-closed-loop capability-tech-understanding #capability-product-design #capability-risk-control #capability-data-driven
 

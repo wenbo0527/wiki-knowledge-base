@@ -1,3 +1,12 @@
+---
+title: supervised learning
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, algorithms, machine-learning]
+date: 2026-04-24
+---
+
 # 监督学习算法详解
 
 > 从线性模型到树模型：工业界最常用的监督学习算法全解析

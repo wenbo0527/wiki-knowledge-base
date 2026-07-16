@@ -6,7 +6,9 @@ note_id: 1913499810458141016
 product_domain: PD-AI
 doc_type: 深度解析
 tags: [agent, planning, reasoning, architecture, llm]
+author: 尼克·弗瑞 🕵️
 ---
+
 
 # LLM Agent 六大规划范式深度解析：从推理增强到执行闭环的架构演进
 

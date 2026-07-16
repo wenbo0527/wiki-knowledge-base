@@ -1,3 +1,12 @@
+---
+title: insight 20260408 regtech
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, fintech, compliance]
+date: 2026-04-24
+---
+
 # 合规科技 - 金融安全行业洞察
 能力框架: capability-requirement-decision capability-tech-understanding #capability-risk-control
 

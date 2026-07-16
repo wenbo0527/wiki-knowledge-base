@@ -8,7 +8,10 @@ product_domain: PD-DEMO-MANAGEMENT
 tags: [SOP, 架构, coding, 测试, 部署, 最佳实践, Portal-Shell, Vibe-Coding, BUG修复]
 status: 活跃维护
 capability: [tech-understanding, product-design, data-driven]
+doc_type: 其他
+date: 2026-05-23
 ---
+
 
 # 产品Demo管理 - 架构、Coding、测试、上线最佳实践
 

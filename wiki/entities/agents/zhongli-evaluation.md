@@ -1,3 +1,12 @@
+---
+title: zhongli evaluation
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ENTITY
+doc_type: 其他
+tags: [entities, agents]
+date: 2026-04-29
+---
+
 # Agent评估：钟离（Zhongli）- 架构与代码Agent
 
 > **框架来源**：基于文博分享的代码Agent八角能力评估方法论

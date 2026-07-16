@@ -1,3 +1,12 @@
+---
+title: inc 2026 06 29 001 addendum 1 fact correction
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, incidents, 2026-06]
+date: 2026-06-30
+---
+
 # INC-2026-06-29-001 Addendum 1: 事实修正（L-16 触发）
 
 > 撰写: 尼克·弗瑞 🕵️

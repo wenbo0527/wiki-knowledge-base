@@ -1,3 +1,12 @@
+---
+title: finance
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, palantir-ontology, industry-cases]
+date: 2026-04-24
+---
+
 # Palantir金融行业落地实践
 
 > 本体驱动的金融风险管控与合规智能化

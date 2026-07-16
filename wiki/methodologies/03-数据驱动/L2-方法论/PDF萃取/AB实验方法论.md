@@ -1,3 +1,12 @@
+---
+title: AB实验方法论
+author: 尼克·弗瑞 🕵️
+product_domain: PD-METHODOLOGY
+doc_type: 其他
+tags: [methodologies, 03-数据驱动, L2-方法论]
+date: 2026-07-16
+---
+
 # AB实验方法论
 
 > 版本: v1.0

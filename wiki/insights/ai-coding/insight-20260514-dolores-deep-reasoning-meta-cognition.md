@@ -1,3 +1,12 @@
+---
+title: insight 20260514 dolores deep reasoning meta cognition
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-23
+---
+
 # DOLORES: 通过结构化元认知实现通用 Agent 深度推理
 
 能力框架: capability-tech-understanding

@@ -1,10 +1,16 @@
 ---
-能力框架: #tech-understanding
-来源: 微信公众号-42章经 | 发布时间: 2026-05-19 | 分类: AI Coding / Tools
+能力框架: "#tech-understanding"
+来源: "微信公众号-42章经 | 发布时间: 2026-05-19 | 分类: AI Coding / Tools"
 Insight ID: insight-20260519-codex-revival
-维护者: 尼克·弗瑞 | 更新: 2026-05-20
-
+维护者: "尼克·弗瑞 | 更新: 2026-05-20"
+title: insight 20260519 codex revival
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-23
 ---
+
 
 ## 📌 执行摘要
 

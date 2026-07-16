@@ -1,3 +1,12 @@
+---
+title: insight 20260426 financial product marketing regulations
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, fintech]
+date: 2026-05-23
+---
+
 # Insight: 《金融产品网络营销管理办法》深度解读
 
 > 原始链接: https://mp.weixin.qq.com/s/85PPi55pMRHtt80oothUWA

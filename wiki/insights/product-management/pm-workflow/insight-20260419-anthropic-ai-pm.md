@@ -1,3 +1,12 @@
+---
+title: insight 20260419 anthropic ai pm
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, product-management, pm-workflow]
+date: 2026-05-23
+---
+
 # Insight: AI指数增长时代的产品管理 - Anthropic官方实践
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-data-driven
 

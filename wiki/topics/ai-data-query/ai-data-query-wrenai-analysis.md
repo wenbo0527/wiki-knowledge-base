@@ -1,3 +1,12 @@
+---
+title: ai data query wrenai analysis
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-data-query]
+date: 2026-04-24
+---
+
 # WrenAI 架构分析
 
 > 最完整的开源GenBI Agent架构参考

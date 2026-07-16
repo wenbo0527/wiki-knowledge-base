@@ -1,3 +1,12 @@
+---
+title: insight 20260422 minimax hermes dual evolution
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, research, technology]
+date: 2026-05-23
+---
+
 # Insight: MiniMax × Hermes - 模型与Harness的双进化飞轮
 
 > 原始链接: https://mp.weixin.qq.com/s/Nvq1umaa85vW-wwtfH95bA

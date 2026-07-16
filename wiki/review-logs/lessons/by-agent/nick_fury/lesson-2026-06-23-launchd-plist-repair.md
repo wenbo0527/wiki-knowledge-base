@@ -1,3 +1,12 @@
+---
+title: lesson 2026 06 23 launchd plist repair
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-06-30
+---
+
 # Lesson: launchd plist 重复 EnvironmentVariables 修复模式
 
 > 来源: INC-2026-06-23-001

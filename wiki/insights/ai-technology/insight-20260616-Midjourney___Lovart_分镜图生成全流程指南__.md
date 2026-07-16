@@ -1,3 +1,12 @@
+---
+title: insight 20260616 Midjourney   Lovart 分镜图生成全流程指南  
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # Midjourney + Lovart 分镜图生成全流程指南 🎨
 
 > **来源**: Get笔记

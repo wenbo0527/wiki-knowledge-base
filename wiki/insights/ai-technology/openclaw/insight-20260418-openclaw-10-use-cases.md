@@ -1,3 +1,12 @@
+---
+title: insight 20260418 openclaw 10 use cases
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, openclaw]
+date: 2026-04-24
+---
+
 # OpenClaw龙虾实战：11人阵容与10个使用场景
 能力框架: capability-value-closed-loop capability-requirement-decision
 

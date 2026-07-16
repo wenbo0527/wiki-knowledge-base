@@ -1,3 +1,12 @@
+---
+title: insight 20260521 agent design pattern review
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent, agent-design-patterns]
+date: 2026-05-23
+---
+
 # Agent设计模式综述：从框架理论到我们自己的实践
 
 > **版本**: v2.8

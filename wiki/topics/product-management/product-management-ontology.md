@@ -1,3 +1,12 @@
+---
+title: product management ontology
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management]
+date: 2026-04-24
+---
+
 # 本体论设计
 
 > 产品管理方案的知识图谱 Schema 与术语体系

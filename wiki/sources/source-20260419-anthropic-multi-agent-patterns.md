@@ -1,3 +1,12 @@
+---
+title: source 20260419 anthropic multi agent patterns
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources]
+date: 2026-04-24
+---
+
 # Source: Anthropic长文：多智能体协作模式，五种方法及其适用场景
 
 > **Source ID**: source-20260419-anthropic-multi-agent-patterns  

@@ -1,3 +1,12 @@
+---
+title: CODE EXAMPLES EVALUATION
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CODE
+doc_type: 其他
+tags: [code-examples]
+date: 2026-04-30
+---
+
 # 📊 Code Examples 质量评价体系
 
 > **制定时间**: 2026-04-30

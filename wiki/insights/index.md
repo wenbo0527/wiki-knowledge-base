@@ -1,3 +1,12 @@
+---
+title: index
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights]
+date: 2026-07-16
+---
+
 # 📚 insights/ 索引 — 情报洞察库
 
 > 维护者：🕵️ 尼克·弗瑞（Nick Fury）

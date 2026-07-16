@@ -1,3 +1,12 @@
+---
+title: source 20260419 harness agent
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources]
+date: 2026-04-24
+---
+
 # Source: Harness Agent工程行业最佳实践
 
 > **原文标题**: Harness Agent工程行业最佳实践  

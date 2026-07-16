@@ -1,3 +1,12 @@
+---
+title: topic 02 agent architecture
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-agent]
+date: 2026-05-23
+---
+
 # Agent 核心架构与产品设计
 
 > Topic: Agent架构设计 | 模块三

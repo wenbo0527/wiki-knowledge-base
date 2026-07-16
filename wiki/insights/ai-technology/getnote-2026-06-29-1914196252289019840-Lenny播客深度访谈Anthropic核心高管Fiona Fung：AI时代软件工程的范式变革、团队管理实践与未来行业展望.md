@@ -1,3 +1,12 @@
+---
+title: getnote 2026 06 29 1914196252289019840 Lenny播客深度访谈Anthropic核心高管Fiona Fung：AI时代软件工程的范式变革、团队管理实践与未来行业展望
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-07-15
+---
+
 # Lenny播客深度访谈Anthropic核心高管Fiona Fung：AI时代软件工程的范式变革、团队管理实践与未来行业展望
 
 > 来源: Get 笔记

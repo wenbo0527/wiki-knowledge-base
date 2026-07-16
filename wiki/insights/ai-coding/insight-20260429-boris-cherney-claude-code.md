@@ -1,3 +1,12 @@
+---
+title: insight 20260429 boris cherney claude code
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-23
+---
+
 # Insight: Claude Code创建者亲述"后编程时代"工作方式
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-risk-control
 

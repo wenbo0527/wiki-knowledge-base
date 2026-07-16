@@ -1,3 +1,12 @@
+---
+title: inc 2026 07 02 002 rss push duplicate
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, incidents, 2026-07]
+date: 2026-07-03
+---
+
 # INC-2026-07-02-002: 技术日报重复推送（时间维度 + 内容维度）
 
 ## 现象

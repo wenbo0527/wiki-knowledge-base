@@ -1,3 +1,12 @@
+---
+title: SKILL OPTIMIZATION GUIDE
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CODE
+doc_type: 其他
+tags: [code-examples, skills]
+date: 2026-04-30
+---
+
 # 📚 Skill优化最佳实践手册
 
 > **目标读者**: 需要优化Skill的Agent（托尼、钟离、尼克）

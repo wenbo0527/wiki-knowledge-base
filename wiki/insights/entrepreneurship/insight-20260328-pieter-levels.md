@@ -1,3 +1,12 @@
+---
+title: insight 20260328 pieter levels
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, entrepreneurship]
+date: 2026-05-23
+---
+
 # Pieter Levels：独立开发者的产品哲学与AI实践
 能力框架: capability-requirement-decision capability-tech-understanding
 

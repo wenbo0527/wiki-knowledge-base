@@ -1,3 +1,12 @@
+---
+title: insight 20260616 AI Agent 龙虾 产品分享与使用体验介绍
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # AI Agent（龙虾）产品分享与使用体验介绍
 
 > **来源**: Get笔记

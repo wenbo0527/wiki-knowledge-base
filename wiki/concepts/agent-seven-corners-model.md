@@ -1,3 +1,12 @@
+---
+title: agent seven corners model
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CONCEPT
+doc_type: 其他
+tags: [concepts]
+date: 2026-04-29
+---
+
 # Agent能力评估框架：七角模型
 
 > **框架来源**：基于文博分享的Agent能力评估方法论

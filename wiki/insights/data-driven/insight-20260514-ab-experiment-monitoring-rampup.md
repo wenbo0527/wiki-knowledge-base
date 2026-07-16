@@ -1,3 +1,12 @@
+---
+title: insight 20260514 ab experiment monitoring rampup
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, data-driven]
+date: 2026-05-23
+---
+
 # AB实验平台进阶指南：监控体系构建、科学复盘与梯度放量策略
 
 能力框架: capability-data-driven #capability-requirement-decision

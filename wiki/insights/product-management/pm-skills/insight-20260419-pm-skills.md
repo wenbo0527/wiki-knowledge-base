@@ -1,3 +1,12 @@
+---
+title: insight 20260419 pm skills
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, product-management, pm-skills]
+date: 2026-05-23
+---
+
 # PM Skills完整教程：65个产品经理核心技能深度解析
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-data-driven #capability-risk-control
 

@@ -1,3 +1,12 @@
+---
+title: source 20260419 vibe coding concepts
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources]
+date: 2026-04-24
+---
+
 # Source: Vibe Coding 30个核心概念
 
 > **原文标题**: 一文讲透产品经理必懂的30个VibeCoding核心概念  

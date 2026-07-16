@@ -1,3 +1,12 @@
+---
+title: reading pipeline
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, knowledge-management, personal]
+date: 2026-04-24
+---
+
 # 阅读→笔记→洞察工作流
 
 > 把阅读变成可积累的知识

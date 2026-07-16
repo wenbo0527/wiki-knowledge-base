@@ -1,3 +1,12 @@
+---
+title: inc 2026 07 15 002 getnote kb count actually 15
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, incidents, 2026-07]
+date: 2026-07-15
+---
+
 # INC-2026-07-15-002: GET 笔记 KB 真实数量 15 个（报告"4 个"是错的）
 
 > **揭穿**: 7-15 09:31 文博指出"GET笔记中有订阅的知识库 + 我自己的知识库 应该不止4个"  

@@ -1,3 +1,12 @@
+---
+title: insight 20260418 bengio ai self preservation
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, agent-engineering]
+date: 2026-04-24
+---
+
 # Bengio获OBE后警告：AI出现"自我保存"行为
 能力框架: capability-value-closed-loop capability-tech-understanding #capability-risk-control
 

@@ -1,3 +1,12 @@
+---
+title: tony zhongli collaboration SKILL
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CODE
+doc_type: 其他
+tags: [code-examples, skills, archived]
+date: 2026-04-30
+---
+
 # Tony-Zhongli Collaboration Skill
 
 ## 能做什么

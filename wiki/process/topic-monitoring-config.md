@@ -1,3 +1,12 @@
+---
+title: topic monitoring config
+author: 尼克·弗瑞 🕵️
+product_domain: PD-PROCESS
+doc_type: 其他
+tags: [process]
+date: 2026-04-24
+---
+
 # Topic监控清单
 
 > 自动化收集配置 - 尼克·弗瑞维护  

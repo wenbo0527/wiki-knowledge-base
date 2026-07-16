@@ -1,3 +1,12 @@
+---
+title: meituan
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ENTITY
+doc_type: 其他
+tags: [entities, companies]
+date: 2026-04-24
+---
+
 # 美团 (Meituan)
 
 > 中国领先的生活服务平台

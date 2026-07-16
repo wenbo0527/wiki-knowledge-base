@@ -1,3 +1,12 @@
+---
+title: tdd superpowers
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native]
+date: 2026-05-23
+---
+
 # Karpathy Superpowers: 自动化测试驱动开发实战
 
 > 来源：Andrej Karpathy 的 Superpowers 工作流

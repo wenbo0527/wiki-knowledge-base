@@ -1,3 +1,12 @@
+---
+title: insight 20260616 AI赋能地摊经济 从 土味创新 到智能体基建的民间实践
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # AI赋能地摊经济：从"土味创新"到智能体基建的民间实践
 
 > **来源**: Get笔记

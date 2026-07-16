@@ -1,3 +1,12 @@
+---
+title: insight 20260522 对话姚顺宇 从理论物理到AI前沿的跨界探索与行业洞察
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-23
+---
+
 # 对话姚顺宇：从理论物理到AI前沿的跨界探索与行业洞察
 
 > **来源**: Get笔记

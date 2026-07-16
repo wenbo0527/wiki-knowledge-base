@@ -1,3 +1,12 @@
+---
+title: 10 analysis models
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, analysis-frameworks]
+date: 2026-04-24
+---
+
 # 十大分析模型
 
 > 经典分析框架汇总，适用综合分析与决策支持

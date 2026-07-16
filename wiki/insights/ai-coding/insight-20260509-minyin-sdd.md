@@ -1,3 +1,12 @@
+---
+title: insight 20260509 minyin sdd
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-23
+---
+
 # 民生银行规格驱动开发(SDD)实践：AI赋能银行私域研发
 能力框架: capability-requirement-decision capability-product-design #capability-risk-control
 

@@ -1,3 +1,12 @@
+---
+title: for tony stark reference projects
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources]
+date: 2026-04-28
+---
+
 # 🦸 托尼·斯塔克参考项目研究报告
 
 > **整理者**: 尼克·弗瑞

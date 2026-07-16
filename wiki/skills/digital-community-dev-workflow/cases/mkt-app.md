@@ -1,3 +1,12 @@
+---
+title: mkt app
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SKILL
+doc_type: 其他
+tags: [skills, digital-community-dev-workflow, cases]
+date: 2026-06-30
+---
+
 # mkt-app 案例数据
 
 > **A 路径**：`~/.openclaw/skills/digital-community-dev-workflow/_registry/mkt-app.json`

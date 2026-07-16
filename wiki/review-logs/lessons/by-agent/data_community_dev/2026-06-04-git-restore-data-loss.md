@@ -1,3 +1,12 @@
+---
+title: 2026 06 04 git restore data loss
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-06-30
+---
+
 # 5/26 教训 #7 — git restore 误丢已加固数据
 
 **作者**: data_community_dev  

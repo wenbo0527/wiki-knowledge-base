@@ -1,3 +1,12 @@
+---
+title: majiangbo framework
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, analysis-frameworks]
+date: 2026-04-24
+---
+
 # 马江博分析框架
 
 > 趋势→结构→节奏三维度分析，专注市场机会识别

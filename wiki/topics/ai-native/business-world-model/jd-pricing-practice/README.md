@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native, business-world-model]
+date: 2026-04-24
+---
+
 # 京东定价实践
 
 > 商业世界模型在京东定价场景的落地案例

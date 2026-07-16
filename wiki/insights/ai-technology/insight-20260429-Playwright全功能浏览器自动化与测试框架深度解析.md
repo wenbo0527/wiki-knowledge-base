@@ -1,3 +1,12 @@
+---
+title: insight 20260429 Playwright全功能浏览器自动化与测试框架深度解析
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-04-30
+---
+
 # Insight: Playwright：全功能浏览器自动化与测试框架深度解析
 能力框架: capability-tech-understanding
 

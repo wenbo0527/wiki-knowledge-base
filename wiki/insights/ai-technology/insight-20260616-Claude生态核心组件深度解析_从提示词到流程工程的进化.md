@@ -1,3 +1,12 @@
+---
+title: insight 20260616 Claude生态核心组件深度解析 从提示词到流程工程的进化
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # Claude生态核心组件深度解析：从提示词到流程工程的进化
 
 > **来源**: Get笔记

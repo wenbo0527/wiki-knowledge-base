@@ -1,3 +1,12 @@
+---
+title: insight 20260616 借助AI助手运营公众号和推特的数据成果分享
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 借助AI助手运营公众号和推特的数据成果分享
 
 > **来源**: Get笔记

@@ -1,3 +1,12 @@
+---
+title: insight 20260502 luo fuli openclaw
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-23
+---
+
 # 罗福莉×张小珺：AI范式已然巨变
 能力框架: capability-value-closed-loop capability-product-design
 

@@ -1,3 +1,12 @@
+---
+title: insight 20260616  信息站  方汉 每月至少花100元买AI Token
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # [信息站] 方汉：每月至少花100元买AI Token
 
 > **来源**: Get笔记

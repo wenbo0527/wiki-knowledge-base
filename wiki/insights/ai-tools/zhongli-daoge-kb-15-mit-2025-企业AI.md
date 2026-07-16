@@ -1,3 +1,12 @@
+---
+title: zhongli daoge kb 15 mit 2025 企业AI
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-tools]
+date: 2026-06-30
+---
+
 # #15 MIT《2025 年企业 AI 现状报告》深度解析
 
 **源**: 刀哥 KB `2eYxaj0z` | note_id `1898658355544166048` | 2026-01-13 | tags: Agentic AI, 生成式 AI

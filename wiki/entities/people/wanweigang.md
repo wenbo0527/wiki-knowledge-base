@@ -1,3 +1,12 @@
+---
+title: wanweigang
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ENTITY
+doc_type: 其他
+tags: [entities, people]
+date: 2026-04-24
+---
+
 # 万维钢
 
 > 前物理学家，现《得到》专栏作家，擅长用科学思维分析世界

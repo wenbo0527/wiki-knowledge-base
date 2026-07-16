@@ -1,3 +1,12 @@
+---
+title:  registry
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs]
+date: 2026-05-09
+---
+
 # 派蒙 lessons 注册表（追加 6/15）
 
 | Lesson ID | 标题 | 沉淀人 | 日期 |

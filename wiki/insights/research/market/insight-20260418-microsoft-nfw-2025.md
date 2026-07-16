@@ -1,3 +1,12 @@
+---
+title: insight 20260418 microsoft nfw 2025
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, research, market]
+date: 2026-05-23
+---
+
 # Microsoft 2025年新工作未来报告：AI驱动的集体生产力革命
 能力框架: capability-data-driven capability-tech-understanding
 

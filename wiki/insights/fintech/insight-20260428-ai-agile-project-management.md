@@ -1,3 +1,12 @@
+---
+title: insight 20260428 ai agile project management
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, fintech]
+date: 2026-05-23
+---
+
 # 💡 Insight: AI驱动的敏捷项目管理趋势
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-data-driven
 

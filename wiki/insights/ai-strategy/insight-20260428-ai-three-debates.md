@@ -1,3 +1,12 @@
+---
+title: insight 20260428 ai three debates
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-strategy]
+date: 2026-05-23
+---
+
 # AI大神三大根本性分歧：136条访谈精华提炼
 能力框架: capability-product-design capability-tech-understanding
 

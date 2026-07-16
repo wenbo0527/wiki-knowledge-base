@@ -1,3 +1,12 @@
+---
+title: anthropic skills guide
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources, references]
+date: 2026-04-24
+---
+
 # Anthropic Skills指南：让AI稳定干活的方法论
 
 ## 基本信息

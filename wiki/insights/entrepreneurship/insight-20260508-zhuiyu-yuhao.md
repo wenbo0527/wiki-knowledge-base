@@ -1,3 +1,12 @@
+---
+title: insight 20260508 zhuiyu yuhao
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, entrepreneurship]
+date: 2026-05-23
+---
+
 # 追觅创始人俞浩：假定世界不可知的极致方法论
 能力框架: capability-value-closed-loop capability-tech-understanding
 

@@ -1,3 +1,12 @@
+---
+title: tony stark evaluation
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ENTITY
+doc_type: 其他
+tags: [entities, agents]
+date: 2026-04-29
+---
+
 # Agent评估：托尼·斯塔克（Tony Stark）- 产品管理Agent
 
 > **框架来源**：基于文博分享的产品管理Agent七角能力评估方法论

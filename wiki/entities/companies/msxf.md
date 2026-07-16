@@ -1,3 +1,12 @@
+---
+title: msxf
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ENTITY
+doc_type: 其他
+tags: [entities, companies]
+date: 2026-04-24
+---
+
 # 马上消费金融 (MSXF)
 
 > 国内头部消费金融公司，自主科技驱动

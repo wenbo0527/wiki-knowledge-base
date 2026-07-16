@@ -1,3 +1,12 @@
+---
+title: EPIC MECE评估报告
+author: 尼克·弗瑞 🕵️
+product_domain: PD-PROJECT
+doc_type: 其他
+tags: [projects]
+date: 2026-04-24
+---
+
 # EPIC 文件 MECE 评估报告
 
 > 基于最佳实践收集内容的 EPIC 结构分析

@@ -1,3 +1,12 @@
+---
+title: insight 20260522 AI工具公众号数据分析对比研究 从数据洞察到内容优化策略
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-23
+---
+
 # AI工具公众号数据分析对比研究：从数据洞察到内容优化策略
 
 > **来源**: Get笔记

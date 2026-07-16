@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech, consumer-finance]
+date: 2026-04-24
+---
+
 # 消费金融
 
 > 面向个人消费者的信贷、分期、支付等金融服务

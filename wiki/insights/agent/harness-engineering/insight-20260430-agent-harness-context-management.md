@@ -1,3 +1,12 @@
+---
+title: insight 20260430 agent harness context management
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent, harness-engineering]
+date: 2026-05-23
+---
+
 # Insight: Agent Harness上下文管理 - 从聊天记录到工作集的范式转变
 
 > 原始链接: https://mp.weixin.qq.com/s/JEjyY1x-Gx3_tvH0intQ1w

@@ -1,3 +1,12 @@
+---
+title: insight 20260514 ai agent enterprise practice
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai]
+date: 2026-05-14
+---
+
 # AI Agent企业落地实践与行业应用 - 云栖大会2025
 
 > Insights - AI Agent落地

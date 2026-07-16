@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CODE
+doc_type: 其他
+tags: [code-examples, context-management]
+date: 2026-04-30
+---
+
 # Context Management - 上下文管理
 
 > 来源: insight-20260430-agent-harness-context-management

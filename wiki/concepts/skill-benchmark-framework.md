@@ -1,3 +1,12 @@
+---
+title: skill benchmark framework
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CONCEPT
+doc_type: 其他
+tags: [concepts]
+date: 2026-05-23
+---
+
 # Skill Benchmark 评估系统
 
 > **版本**: v1.0

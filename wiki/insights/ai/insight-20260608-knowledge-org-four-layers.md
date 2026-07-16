@@ -1,3 +1,12 @@
+---
+title: insight 20260608 knowledge org four layers
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai]
+date: 2026-06-30
+---
+
 # 企业知识组织四层进化：从标签到知识图谱
 
 > **类型**: Insight（知识管理方法论）  

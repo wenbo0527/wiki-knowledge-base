@@ -1,3 +1,12 @@
+---
+title: collaboration patterns
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, knowledge-management, enterprise]
+date: 2026-04-24
+---
+
 # 团队协同模式
 
 > 如何让团队高效地共同生产和维护知识

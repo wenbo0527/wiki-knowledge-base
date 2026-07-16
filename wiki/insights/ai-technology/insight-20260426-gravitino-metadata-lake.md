@@ -1,3 +1,12 @@
+---
+title: insight 20260426 gravitino metadata lake
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-04-26
+---
+
 # Apache Gravitino：AI时代统一元数据湖技术架构
 能力框架: capability-value-closed-loop capability-tech-understanding #capability-risk-control
 

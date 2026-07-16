@@ -1,3 +1,12 @@
+---
+title: requirement decision
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CONCEPT
+doc_type: 其他
+tags: [concepts]
+date: 2026-05-23
+---
+
 # 需求决策方法论
 
 > 版本: v1.0

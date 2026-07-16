@@ -1,3 +1,12 @@
+---
+title: insight 20260418 karpathy claude md agent config
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, agent-engineering]
+date: 2026-04-24
+---
+
 # Karpathy CLAUDE.md：Agent配置范式革命
 能力框架: capability-requirement-decision capability-data-driven
 

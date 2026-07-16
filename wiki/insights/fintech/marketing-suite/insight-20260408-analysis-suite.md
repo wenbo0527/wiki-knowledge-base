@@ -1,3 +1,12 @@
+---
+title: insight 20260408 analysis suite
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, fintech, marketing-suite]
+date: 2026-04-24
+---
+
 # 互联网金融 - 分析套件行业洞察
 能力框架: capability-requirement-decision capability-data-driven #capability-risk-control
 

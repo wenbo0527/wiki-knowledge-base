@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech, llm-finance]
+date: 2026-04-24
+---
+
 # LLM金融应用专题
 
 > 大语言模型在金融领域的应用与实践

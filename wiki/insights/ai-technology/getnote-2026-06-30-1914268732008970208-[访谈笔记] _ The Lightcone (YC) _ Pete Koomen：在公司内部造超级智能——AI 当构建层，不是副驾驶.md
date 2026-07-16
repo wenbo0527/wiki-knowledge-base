@@ -1,3 +1,12 @@
+---
+title: getnote 2026 06 30 1914268732008970208 [访谈笔记]   The Lightcone (YC)   Pete Koomen：在公司内部造超级智能——AI 当构建层，不是副驾驶
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-07-15
+---
+
 # [访谈笔记] | The Lightcone (YC) | Pete Koomen：在公司内部造超级智能——AI 当构建层，不是副驾驶
 
 > 来源: Get 笔记

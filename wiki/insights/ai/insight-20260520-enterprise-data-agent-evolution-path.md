@@ -1,10 +1,16 @@
 ---
-能力框架: #tech-understanding #product-design #value-closed-loop
-来源: 深度分析 | 研究时间: 2026-05-20 | 分类: Data Infrastructure / Data Agent
+能力框架: "#tech-understanding #product-design #value-closed-loop"
+来源: "深度分析 | 研究时间: 2026-05-20 | 分类: Data Infrastructure / Data Agent"
 Insight ID: insight-20260520-enterprise-data-agent-evolution-path
-维护者: 尼克·弗瑞 | 更新: 2026-05-20
-
+维护者: "尼克·弗瑞 | 更新: 2026-05-20"
+title: insight 20260520 enterprise data agent evolution path
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai]
+date: 2026-05-23
 ---
+
 
 ## 📌 执行摘要
 

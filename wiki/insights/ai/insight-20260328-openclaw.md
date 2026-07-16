@@ -1,3 +1,12 @@
+---
+title: insight 20260328 openclaw
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai]
+date: 2026-05-23
+---
+
 # OpenClaw：开源AI代理的崛起与争议
 能力框架: capability-requirement-decision capability-product-design
 

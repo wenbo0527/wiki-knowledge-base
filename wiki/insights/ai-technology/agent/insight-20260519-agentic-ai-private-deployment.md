@@ -1,10 +1,16 @@
 ---
-能力框架: #tech-understanding #product-design
-来源: 微信公众号 | 发布时间: 2026-05-19 | 分类: AI Technology / Agent Engineering
+能力框架: "#tech-understanding #product-design"
+来源: "微信公众号 | 发布时间: 2026-05-19 | 分类: AI Technology / Agent Engineering"
 Insight ID: insight-20260519-agentic-ai-private-deployment
-维护者: 尼克·弗瑞 | 更新: 2026-05-20
-
+维护者: "尼克·弗瑞 | 更新: 2026-05-20"
+title: insight 20260519 agentic ai private deployment
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, agent]
+date: 2026-05-23
 ---
+
 
 ## 📌 执行摘要
 

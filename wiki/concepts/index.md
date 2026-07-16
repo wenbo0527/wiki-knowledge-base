@@ -1,3 +1,12 @@
+---
+title: index
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CONCEPT
+doc_type: 其他
+tags: [concepts]
+date: 2026-07-16
+---
+
 # 🧠 concepts/ 索引 — 概念库
 
 > 维护者：🕵️ 尼克·弗瑞

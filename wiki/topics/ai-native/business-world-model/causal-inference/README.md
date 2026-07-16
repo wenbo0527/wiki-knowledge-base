@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native, business-world-model]
+date: 2026-04-24
+---
+
 # 因果推断理论
 
 > Judea Pearl的因果推断框架与商业建模方法

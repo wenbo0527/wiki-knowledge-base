@@ -1,3 +1,12 @@
+---
+title: insight 20260506 ai first strategy
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-06
+---
+
 # AI-First战略深度解析：从工程底座重构到组织能力转型
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-risk-control
 

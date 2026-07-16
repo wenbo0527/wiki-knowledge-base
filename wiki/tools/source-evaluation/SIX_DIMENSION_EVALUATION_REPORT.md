@@ -1,3 +1,12 @@
+---
+title: SIX DIMENSION EVALUATION REPORT
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOOL
+doc_type: 其他
+tags: [tools, source-evaluation]
+date: 2026-05-06
+---
+
 # RSS源六维评估报告
 
 > 版本: v1.0

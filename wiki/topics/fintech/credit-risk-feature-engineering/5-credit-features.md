@@ -1,3 +1,12 @@
+---
+title: 5 credit features
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech, credit-risk-feature-engineering]
+date: 2026-04-24
+---
+
 # 征信特征详解：消费金融风控最强特征体系
 
 > 人行征信、百行征信、多头借贷、黑名单全解析，风控效果的核心支柱

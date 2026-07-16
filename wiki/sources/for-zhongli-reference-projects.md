@@ -1,3 +1,12 @@
+---
+title: for zhongli reference projects
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources]
+date: 2026-04-28
+---
+
 # 🏛️ 钟离参考项目研究报告
 
 > **整理者**: 尼克·弗瑞

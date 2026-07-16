@@ -1,3 +1,12 @@
+---
+title: inc 2026 06 18 001 daily silent c3 cron missing
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, incidents, 2026-06]
+date: 2026-06-30
+---
+
 # 🔴 Incident #001: 6-17 24h 日报静默（C-3 cron 未上线导致 32h+ 无人察觉）
 
 | 字段 | 值 |

@@ -1,3 +1,12 @@
+---
+title: product management toolchain
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management]
+date: 2026-04-24
+---
+
 # 工具链与集成
 
 > 产品管理方案的技术实现与工具集成

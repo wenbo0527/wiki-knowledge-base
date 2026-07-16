@@ -1,3 +1,12 @@
+---
+title: insight 2026 03 12 收好这套 DRAG 框架 把 80  的机械琐事甩给 AI
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights]
+date: 2026-06-30
+---
+
 # 收好这套 DRAG 框架：把 80% 的机械琐事甩给 AI
 
 > **来源**: 人人都是产品经理

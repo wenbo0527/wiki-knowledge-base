@@ -1,3 +1,12 @@
+---
+title: 03 product design
+author: 尼克·弗瑞 🕵️
+product_domain: PD-METHODOLOGY
+doc_type: 其他
+tags: [methodologies, 04-产品设计, L2-方法论]
+date: 2026-07-16
+---
+
 # 产品设计方法论
 
 > 方法论分类: 03

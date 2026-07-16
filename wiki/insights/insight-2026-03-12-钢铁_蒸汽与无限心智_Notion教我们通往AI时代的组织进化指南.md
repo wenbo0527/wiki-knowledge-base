@@ -1,3 +1,12 @@
+---
+title: insight 2026 03 12 钢铁 蒸汽与无限心智 Notion教我们通往AI时代的组织进化指南
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights]
+date: 2026-06-30
+---
+
 # 钢铁、蒸汽与无限心智：Notion教我们通往AI时代的组织进化指南
 
 > **来源**: 人人都是产品经理

@@ -1,3 +1,12 @@
+---
+title: insight 20260408 p8 capability
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, fintech, future-trends]
+date: 2026-04-24
+---
+
 # 金融科技 - P8+能力全景洞察
 能力框架: capability-value-closed-loop capability-data-driven #capability-risk-control
 

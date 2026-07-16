@@ -1,3 +1,12 @@
+---
+title: design language
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TEMPLATE
+doc_type: 其他
+tags: [_templates, personal-site-design]
+date: 2026-05-23
+---
+
 # Personal Site 设计语言规范
 > 版本: v1.0 | 创建: 2026-05-23 | 维护者: 尼克·弗瑞
 

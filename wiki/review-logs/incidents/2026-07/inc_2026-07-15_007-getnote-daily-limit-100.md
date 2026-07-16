@@ -1,3 +1,12 @@
+---
+title: inc 2026 07 15 007 getnote daily limit 100
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, incidents, 2026-07]
+date: 2026-07-15
+---
+
 # INC-2026-07-15-007: GET 笔记入库 v2.1（每日 100 篇限流）
 
 > **触发**: 7-15 15:01 文博拍 A："可以每天 100 篇这样"

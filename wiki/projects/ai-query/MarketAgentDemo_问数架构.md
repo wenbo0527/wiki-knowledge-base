@@ -1,3 +1,12 @@
+---
+title: MarketAgentDemo 问数架构
+author: 尼克·弗瑞 🕵️
+product_domain: PD-PROJECT
+doc_type: 其他
+tags: [projects, ai-query]
+date: 2026-05-23
+---
+
 # MarketAgentDemo 问数架构设计文档
 
 > 问小数 Agent 核心技术方案 | AI-Query 通用问数引擎

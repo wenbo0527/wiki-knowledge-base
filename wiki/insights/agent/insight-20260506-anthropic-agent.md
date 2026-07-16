@@ -1,3 +1,12 @@
+---
+title: insight 20260506 anthropic agent
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # Anthropic《Building Effective AI Agents》深度解读
 能力框架: capability-requirement-decision capability-tech-understanding #capability-product-design
 

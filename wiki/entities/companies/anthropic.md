@@ -1,3 +1,12 @@
+---
+title: anthropic
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ENTITY
+doc_type: 其他
+tags: [entities, companies]
+date: 2026-04-24
+---
+
 # Anthropic
 
 > AI安全与可解释性领域的领先公司，专注于构建可靠的AI系统

@@ -1,3 +1,12 @@
+---
+title: insight 20260514 mineshine bank sdd practice
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, fintech]
+date: 2026-05-14
+---
+
 # 民生银行SDD实践：AI赋能银行私域研发的探索
 
 > Insights - 银行AI研发

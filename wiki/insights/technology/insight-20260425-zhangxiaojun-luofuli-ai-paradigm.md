@@ -1,3 +1,12 @@
+---
+title: insight 20260425 zhangxiaojun luofuli ai paradigm
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, technology]
+date: 2026-05-23
+---
+
 # 张小珺 × 罗福莉——AI范式已然巨变（商业访谈录 #138）
 能力框架: capability-value-closed-loop capability-requirement-decision
 

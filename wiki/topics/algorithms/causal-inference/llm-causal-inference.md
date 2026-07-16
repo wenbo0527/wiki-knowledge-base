@@ -1,3 +1,12 @@
+---
+title: llm causal inference
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, algorithms, causal-inference]
+date: 2026-04-24
+---
+
 # LLM与因果推断：大模型时代的因果AI
 
 > 探索大语言模型如何增强因果推断能力，以及因果思维如何改进LLM

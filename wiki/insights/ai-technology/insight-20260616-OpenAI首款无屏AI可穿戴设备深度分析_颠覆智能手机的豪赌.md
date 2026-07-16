@@ -1,3 +1,12 @@
+---
+title: insight 20260616 OpenAI首款无屏AI可穿戴设备深度分析 颠覆智能手机的豪赌
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # OpenAI首款无屏AI可穿戴设备深度分析：颠覆智能手机的豪赌
 
 > **来源**: Get笔记

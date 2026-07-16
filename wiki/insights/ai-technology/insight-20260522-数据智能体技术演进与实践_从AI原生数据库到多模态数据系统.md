@@ -1,3 +1,12 @@
+---
+title: insight 20260522 数据智能体技术演进与实践 从AI原生数据库到多模态数据系统
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-23
+---
+
 # 数据智能体技术演进与实践：从AI原生数据库到多模态数据系统
 
 > **来源**: Get笔记

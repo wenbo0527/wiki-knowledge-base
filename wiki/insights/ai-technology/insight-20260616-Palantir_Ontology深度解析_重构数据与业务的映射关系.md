@@ -1,3 +1,12 @@
+---
+title: insight 20260616 Palantir Ontology深度解析 重构数据与业务的映射关系
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # Palantir Ontology深度解析：重构数据与业务的映射关系
 
 > **来源**: Get笔记

@@ -1,3 +1,12 @@
+---
+title: insight 20260418 microsoft nfow 2026
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, agent-engineering]
+date: 2026-04-24
+---
+
 # Microsoft New Future of Work 2026：AI驱动的职场变革
 能力框架: capability-requirement-decision capability-data-driven
 

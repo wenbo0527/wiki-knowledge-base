@@ -1,3 +1,12 @@
+---
+title: insight 20260418 anthropic capability stratification
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, agent-engineering]
+date: 2026-04-24
+---
+
 # Anthropic Opus 4.7：模型能力"武器化"分级新时代
 能力框架: capability-value-closed-loop capability-requirement-decision
 

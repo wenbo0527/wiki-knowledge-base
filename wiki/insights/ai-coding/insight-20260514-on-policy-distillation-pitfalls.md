@@ -1,3 +1,12 @@
+---
+title: insight 20260514 on policy distillation pitfalls
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-23
+---
+
 # On-Policy Distillation 全面研究：陷阱、机制与修复
 
 能力框架: capability-tech-understanding #capability-risk-control

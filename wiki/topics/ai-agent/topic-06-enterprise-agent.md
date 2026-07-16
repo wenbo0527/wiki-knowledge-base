@@ -1,3 +1,12 @@
+---
+title: topic 06 enterprise agent
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-agent]
+date: 2026-05-23
+---
+
 # 企业 Agent 平台业务架构
 
 > Topic: 企业Agent平台 | 模块六

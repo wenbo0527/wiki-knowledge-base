@@ -1,3 +1,12 @@
+---
+title: insight 20260426 lsdm dataset methodology
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-04-26
+---
+
 # 精益场景驱动高质量数据集方法论（LSDM）
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-data-driven
 

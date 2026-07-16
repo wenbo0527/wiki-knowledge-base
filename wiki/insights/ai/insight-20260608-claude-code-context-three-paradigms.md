@@ -1,3 +1,12 @@
+---
+title: insight 20260608 claude code context three paradigms
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai]
+date: 2026-06-30
+---
+
 # Claude Code Agent 架构：上下文管理三种范式
 
 > **类型**: Insight（架构方法论）  

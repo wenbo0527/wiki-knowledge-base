@@ -1,3 +1,12 @@
+---
+title: insight 20260418 vibe coding landscape
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, vibe-coding]
+date: 2026-04-24
+---
+
 # Vibe Coding / AI Programming 热门话题分析
 能力框架: capability-product-design capability-tech-understanding #capability-data-driven #capability-risk-control
 

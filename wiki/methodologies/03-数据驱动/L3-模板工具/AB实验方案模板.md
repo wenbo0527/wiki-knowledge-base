@@ -1,3 +1,12 @@
+---
+title: AB实验方案模板
+author: 尼克·弗瑞 🕵️
+product_domain: PD-METHODOLOGY
+doc_type: 其他
+tags: [methodologies, 03-数据驱动, L3-模板工具]
+date: 2026-07-16
+---
+
 # AB实验方案模板
 
 > 版本: v1.0

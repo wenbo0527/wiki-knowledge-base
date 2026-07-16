@@ -1,3 +1,12 @@
+---
+title: topic 01 ai fundamentals
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-agent]
+date: 2026-05-23
+---
+
 # AI 产品基础核心概念
 
 > Topic: AI基础概念 | 模块一

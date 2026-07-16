@@ -1,3 +1,12 @@
+---
+title: insight 20260514 ai cognitive risk
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai]
+date: 2026-05-14
+---
+
 # 如何用AI提效又不把脑子用废：4个具体建议与认知风险解析
 
 > Insights - AI认知科学

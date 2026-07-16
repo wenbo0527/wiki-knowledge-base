@@ -1,3 +1,12 @@
+---
+title: insight 20260522 老板IP打造 从选题到团队协作及减负策略
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ARCHIVE
+doc_type: 其他
+tags: [_archive, insights, 微信文章]
+date: 2026-05-23
+---
+
 # 老板IP打造：从选题到团队协作及减负策略
 
 > **来源**: Get笔记

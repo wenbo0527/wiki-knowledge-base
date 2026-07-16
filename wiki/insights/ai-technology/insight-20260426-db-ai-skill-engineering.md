@@ -1,3 +1,12 @@
+---
+title: insight 20260426 db ai skill engineering
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-04-26
+---
+
 # 数据库AI Skill工程化：从Demo到可用的距离
 能力框架: capability-requirement-decision capability-tech-understanding #capability-product-design #capability-risk-control
 

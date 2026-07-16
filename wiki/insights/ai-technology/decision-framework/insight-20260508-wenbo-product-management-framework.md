@@ -1,3 +1,12 @@
+---
+title: insight 20260508 wenbo product management framework
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, decision-framework]
+date: 2026-05-09
+---
+
 # 产品管理体系 v2.0
 能力框架: capability-requirement-decision capability-data-driven #capability-risk-control
 

@@ -1,3 +1,12 @@
+---
+title: insight 20260616 GET笔记 学习辅导 功能深度体验 以RLHF概念学习为例
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # GET笔记「学习辅导」功能深度体验：以RLHF概念学习为例
 
 > **来源**: Get笔记

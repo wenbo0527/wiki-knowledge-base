@@ -1,3 +1,12 @@
+---
+title: lesson 2026 07 01 script whitelist
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-07-02
+---
+
 # Lesson 2026-07-01: 脚本白名单 + 端到端铁律（L-14 / L-15）
 
 > **作者**: 尼克·弗瑞 🕵️

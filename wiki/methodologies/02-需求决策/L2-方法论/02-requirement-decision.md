@@ -1,3 +1,12 @@
+---
+title: 02 requirement decision
+author: 尼克·弗瑞 🕵️
+product_domain: PD-METHODOLOGY
+doc_type: 其他
+tags: [methodologies, 02-需求决策, L2-方法论]
+date: 2026-07-16
+---
+
 # 需求决策方法论
 
 > 方法论分类: 02

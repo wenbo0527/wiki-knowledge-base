@@ -1,3 +1,12 @@
+---
+title: insight 20260521 multi agent context boundary design
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # 多智能体架构设计指南：从上下文边界到协作模式
 
 > **版本**: v1.0

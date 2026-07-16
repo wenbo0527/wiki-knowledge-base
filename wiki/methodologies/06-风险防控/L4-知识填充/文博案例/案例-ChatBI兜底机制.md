@@ -1,3 +1,12 @@
+---
+title: 案例 ChatBI兜底机制
+author: 尼克·弗瑞 🕵️
+product_domain: PD-METHODOLOGY
+doc_type: 其他
+tags: [methodologies, 06-风险防控, L4-知识填充]
+date: 2026-07-16
+---
+
 # 案例-ChatBI兜底机制
 
 > 版本: v1.0

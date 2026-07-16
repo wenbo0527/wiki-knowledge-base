@@ -1,3 +1,12 @@
+---
+title: getnote 2026 06 30 1914251732528584952 Anthropic Knowledge Work Plugins 深度解析：面向企业知识工作的AI插件生态战略
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-learning]
+date: 2026-07-15
+---
+
 # Anthropic Knowledge Work Plugins 深度解析：面向企业知识工作的AI插件生态战略
 
 > 来源: Get 笔记

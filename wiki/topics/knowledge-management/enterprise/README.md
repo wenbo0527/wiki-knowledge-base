@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, knowledge-management, enterprise]
+date: 2026-04-24
+---
+
 # 企业级知识管理 (Enterprise Knowledge Management)
 
 > 从Wiki治理到AI驱动的智能知识库：构建组织记忆系统

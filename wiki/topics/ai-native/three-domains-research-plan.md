@@ -1,3 +1,12 @@
+---
+title: three domains research plan
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native]
+date: 2026-04-24
+---
+
 # 三领域深度研究计划
 
 > 创建时间: 2026-04-18

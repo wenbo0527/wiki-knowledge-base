@@ -1,3 +1,12 @@
+---
+title: insight 2026 03 04 SaaS 末日还是 AI 涅槃 硅谷正在疯传的真相
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights]
+date: 2026-06-30
+---
+
 # SaaS 末日还是 AI 涅槃？硅谷正在疯传的真相
 
 > **来源**: 人人都是产品经理

@@ -1,3 +1,12 @@
+---
+title: insight 20260428 xiaohongshu data architecture
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, fintech]
+date: 2026-05-23
+---
+
 # Insight: 小红书数据架构演进 - Big AI Data时代的新一代增量计算
 
 > 原始链接: https://mp.weixin.qq.com/s/5BNCt3zmm9ITYx52N98gtg

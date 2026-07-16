@@ -1,3 +1,12 @@
+---
+title: index
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOOL
+doc_type: 其他
+tags: [tools]
+date: 2026-07-16
+---
+
 # 🔧 tools/ 索引 — 工具使用手册
 
 > 维护者：🕵️ 尼克·弗瑞

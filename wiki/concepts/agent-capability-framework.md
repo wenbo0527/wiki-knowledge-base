@@ -1,3 +1,12 @@
+---
+title: agent capability framework
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CONCEPT
+doc_type: 其他
+tags: [concepts]
+date: 2026-05-23
+---
+
 # Agent 能力框架 - 公共 vs 专属能力划分
 
 > **版本**: v1.1

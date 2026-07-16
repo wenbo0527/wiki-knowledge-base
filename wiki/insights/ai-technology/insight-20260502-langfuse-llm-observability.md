@@ -1,3 +1,12 @@
+---
+title: insight 20260502 langfuse llm observability
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-06
+---
+
 # Langfuse深度解析：开源LLM可观测性平台的技术架构与生态优势
 
 > 来源: Get笔记

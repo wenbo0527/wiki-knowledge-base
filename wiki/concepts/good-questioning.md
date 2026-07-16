@@ -1,3 +1,12 @@
+---
+title: good questioning
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CONCEPT
+doc_type: 其他
+tags: [concepts]
+date: 2026-04-24
+---
+
 # 如何提出好问题
 
 > 向AI、向上级、向同事提问的实用框架

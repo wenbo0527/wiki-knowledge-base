@@ -1,3 +1,12 @@
+---
+title: index
+author: 尼克·弗瑞 🕵️
+product_domain: PD-STANDARD
+doc_type: 其他
+tags: [standards]
+date: 2026-07-16
+---
+
 # 📐 standards/ 索引 — 规范/模板库
 
 > 维护者：🕵️ 尼克·弗瑞

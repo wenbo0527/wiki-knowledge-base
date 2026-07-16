@@ -1,3 +1,12 @@
+---
+title: jd pricing practice
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, algorithms, causal-inference]
+date: 2026-04-24
+---
+
 # 京东定价实践：商业世界模型的因果推断应用
 
 > 来源：Get笔记 - AI电商与商业世界模型（因果推断+京东定价实践）

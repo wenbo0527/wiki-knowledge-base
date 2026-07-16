@@ -1,3 +1,12 @@
+---
+title: insight 20260521 wiki triple scenario optimization
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai]
+date: 2026-05-23
+---
+
 # Wiki知识库三场景优化方案
 
 > **版本**: v1.0

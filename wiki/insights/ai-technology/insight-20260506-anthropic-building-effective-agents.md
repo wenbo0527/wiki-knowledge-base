@@ -1,3 +1,12 @@
+---
+title: insight 20260506 anthropic building effective agents
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-06
+---
+
 # Anthropic《Building Effective AI Agents》深度解读：从诊断到架构的极简主义实践
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-data-driven #capability-risk-control
 

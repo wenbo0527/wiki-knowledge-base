@@ -1,3 +1,12 @@
+---
+title: insight 20260506 autoresearch
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-23
+---
+
 # Autoresearch：AI编程助手的自主改进引擎
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-risk-control
 

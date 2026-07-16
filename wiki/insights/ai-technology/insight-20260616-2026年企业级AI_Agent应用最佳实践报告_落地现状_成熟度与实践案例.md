@@ -1,3 +1,12 @@
+---
+title: insight 20260616 2026年企业级AI Agent应用最佳实践报告 落地现状 成熟度与实践案例
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 2026年企业级AI Agent应用最佳实践报告：落地现状、成熟度与实践案例
 
 > **来源**: Get笔记

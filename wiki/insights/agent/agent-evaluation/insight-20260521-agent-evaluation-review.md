@@ -1,3 +1,12 @@
+---
+title: insight 20260521 agent evaluation review
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent, agent-evaluation]
+date: 2026-05-23
+---
+
 # Agent测评体系综述：从框架到我们的实践
 
 > **版本**: v2.5

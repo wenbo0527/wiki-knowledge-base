@@ -1,3 +1,12 @@
+---
+title: getnote 2026 07 14 1915544342664241080 阿里数据研发AI Coding实践：基于知识工程与Loop Engineering搭建数研超级组织
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-practice]
+date: 2026-07-16
+---
+
 # 阿里数据研发AI Coding实践：基于知识工程与Loop Engineering搭建数研超级组织
 
 > 来源: Get 笔记

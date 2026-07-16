@@ -1,3 +1,12 @@
+---
+title: getnote 2026 07 10 1915198768522811992 Anthropic Claude 落地ChatBI（自助数据分析）技术方案全解析
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-practice]
+date: 2026-07-15
+---
+
 # Anthropic Claude 落地ChatBI（自助数据分析）技术方案全解析
 
 > 来源: Get 笔记

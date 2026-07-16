@@ -1,3 +1,12 @@
+---
+title: insight 20260514 canghe ai video team
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai]
+date: 2026-05-14
+---
+
 # 苍何AI视频团队入驻腾讯WorkBuddy：Multi-Agent协作重构短视频生产
 
 > Insights - Multi-Agent实践

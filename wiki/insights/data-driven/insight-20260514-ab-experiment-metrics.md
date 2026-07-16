@@ -1,3 +1,12 @@
+---
+title: insight 20260514 ab experiment metrics
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, data-driven]
+date: 2026-05-14
+---
+
 # AB实验指标选择指南：从基础要求到业务决策
 
 > Insights - AB实验

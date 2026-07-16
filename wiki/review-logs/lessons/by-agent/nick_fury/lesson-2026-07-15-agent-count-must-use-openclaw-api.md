@@ -1,3 +1,12 @@
+---
+title: lesson 2026 07 15 agent count must use openclaw api
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-07-15
+---
+
 # L-38: Agent 数量必用 `openclaw agents list` API 实测
 
 > **教训族**: INC-2026-07-15-003 治本

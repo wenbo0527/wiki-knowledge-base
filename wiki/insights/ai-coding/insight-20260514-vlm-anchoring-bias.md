@@ -1,3 +1,12 @@
+---
+title: insight 20260514 vlm anchoring bias
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-23
+---
+
 # 视觉锚定偏差：VLM 评估的系统性风险
 
 能力框架: capability-risk-control

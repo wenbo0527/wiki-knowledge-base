@@ -1,3 +1,12 @@
+---
+title: insight 20260616 Karpathy与Musk关于LLM输入形式的争议 像素vs文本vs光子
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # Karpathy与Musk关于LLM输入形式的争议：像素vs文本vs光子
 
 > **来源**: Get笔记

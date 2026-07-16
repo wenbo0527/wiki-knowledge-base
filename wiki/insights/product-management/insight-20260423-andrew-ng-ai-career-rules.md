@@ -1,3 +1,12 @@
+---
+title: insight 20260423 andrew ng ai career rules
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, product-management]
+date: 2026-05-23
+---
+
 # Insight: Andrew Ng斯坦福演讲——AI职业生存7条铁律
 
 > 原始链接: https://mp.weixin.qq.com/s/bSuMQwmvWFsonrDQTjnmAw

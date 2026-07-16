@@ -1,3 +1,12 @@
+---
+title: wiki health check
+author: 尼克·弗瑞 🕵️
+product_domain: PD-PROCESS
+doc_type: 其他
+tags: [process]
+date: 2026-04-28
+---
+
 # Wiki健康走查方案 v2.0
 
 > 保障Wiki结构满足MECE原则且合理归类

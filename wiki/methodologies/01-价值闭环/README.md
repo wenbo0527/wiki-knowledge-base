@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-METHODOLOGY
+doc_type: 其他
+tags: [methodologies, 01-价值闭环]
+date: 2026-07-16
+---
+
 # 01 价值闭环
 
 > 版本: v1.1

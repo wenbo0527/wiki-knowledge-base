@@ -1,3 +1,12 @@
+---
+title: li feifei
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ENTITY
+doc_type: 其他
+tags: [entities, people]
+date: 2026-04-24
+---
+
 # Li Feifei 李飞
 
 > 计算机视觉与AI伦理的先驱

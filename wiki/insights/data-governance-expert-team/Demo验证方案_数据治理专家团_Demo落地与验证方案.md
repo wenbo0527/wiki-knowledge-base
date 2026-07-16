@@ -1,3 +1,12 @@
+---
+title: Demo验证方案 数据治理专家团 Demo落地与验证方案
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, data-governance-expert-team]
+date: 2026-06-30
+---
+
 # 数据治理专家团：Demo落地与验证方案
 
 > **来源**: Get笔记

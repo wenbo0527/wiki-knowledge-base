@@ -1,3 +1,12 @@
+---
+title: profile guide
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management, github-portfolio]
+date: 2026-04-27
+---
+
 # GitHub Profile改造指南
 
 > 目标: 让GitHub成为金融数据PM的专业名片

@@ -1,3 +1,12 @@
+---
+title: ai pkm workflow
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, knowledge-management, personal]
+date: 2026-04-24
+---
+
 # AI增强个人知识管理
 
 > 用AI提升知识管理效率

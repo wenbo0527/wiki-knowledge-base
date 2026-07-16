@@ -1,3 +1,12 @@
+---
+title: insight 20260511 milvus consistency
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, technical]
+date: 2026-05-23
+---
+
 # Milvus向量数据库在多Agent系统中的致性控制
 能力框架: capability-requirement-decision capability-tech-understanding #capability-product-design
 

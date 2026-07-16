@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-data-query]
+date: 2026-04-24
+---
+
 # AI问数系统 - 业务自助数据分析
 
 > 业务人员通过自然语言自助查询数据，支持交互式分析

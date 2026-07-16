@@ -1,3 +1,12 @@
+---
+title: SOURCES COLLECTION SOP
+author: 尼克·弗瑞 🕵️
+product_domain: PD-PROCESS
+doc_type: 其他
+tags: [process]
+date: 2026-05-23
+---
+
 # Sources 收集 SOP v1.0
 
 > 版本: v1.0

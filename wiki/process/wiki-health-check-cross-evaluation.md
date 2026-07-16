@@ -1,3 +1,12 @@
+---
+title: wiki health check cross evaluation
+author: 尼克·弗瑞 🕵️
+product_domain: PD-PROCESS
+doc_type: 其他
+tags: [process]
+date: 2026-04-28
+---
+
 # Wiki健康走查方案 × Karpathy LLM Wiki 交叉评估
 
 > 评估时间: 2026-04-28

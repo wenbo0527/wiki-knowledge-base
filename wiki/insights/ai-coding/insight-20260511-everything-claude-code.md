@@ -1,3 +1,12 @@
+---
+title: insight 20260511 everything claude code
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-23
+---
+
 # everything-claude-code：AI编程工具的操作系统级解决方案
 能力框架: capability-requirement-decision capability-tech-understanding #capability-data-driven #capability-risk-control
 

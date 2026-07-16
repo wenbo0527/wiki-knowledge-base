@@ -1,3 +1,12 @@
+---
+title: insight 20260428 simon willison linear walkthroughs
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, technology]
+date: 2026-05-23
+---
+
 # Insight: Simon Willison - Linear Walkthroughs 代码理解模式
 能力框架: capability-tech-understanding
 

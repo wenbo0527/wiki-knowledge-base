@@ -1,3 +1,12 @@
+---
+title: attribution cases
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management, github-portfolio]
+date: 2026-04-27
+---
+
 # 归因分析SQL实现
 
 > 4种归因模型的SQL实现模板

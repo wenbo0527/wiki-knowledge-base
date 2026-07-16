@@ -1,3 +1,12 @@
+---
+title: getnote 2026 06 30 1914268378748606744 [访谈笔记]   No Priors   Noam Brown：模型能力是预算的函数，benchmark 网格已死
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-07-15
+---
+
 # [访谈笔记] | No Priors | Noam Brown：模型能力是预算的函数，benchmark 网格已死
 
 > 来源: Get 笔记

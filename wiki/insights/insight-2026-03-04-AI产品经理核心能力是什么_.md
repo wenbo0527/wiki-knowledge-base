@@ -1,3 +1,12 @@
+---
+title: insight 2026 03 04 AI产品经理核心能力是什么 
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights]
+date: 2026-06-30
+---
+
 # AI产品经理核心能力是什么？
 
 > **来源**: 人人都是产品经理

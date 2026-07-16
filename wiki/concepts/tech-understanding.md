@@ -1,3 +1,12 @@
+---
+title: tech understanding
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CONCEPT
+doc_type: 其他
+tags: [concepts]
+date: 2026-05-23
+---
+
 # 技术理解方法论
 
 > 版本: v1.0

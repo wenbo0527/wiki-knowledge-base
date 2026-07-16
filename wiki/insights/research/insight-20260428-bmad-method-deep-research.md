@@ -1,3 +1,12 @@
+---
+title: insight 20260428 bmad method deep research
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, research]
+date: 2026-05-23
+---
+
 # 💡 Insight: BMAD方法论 - AI驱动的敏捷开发框架
 能力框架: capability-requirement-decision capability-product-design #capability-risk-control
 

@@ -1,3 +1,12 @@
+---
+title: insight 20260522 Revolut 2025年度报告深度解析 从挑战者银行到全球金融巨头的崛起路径
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, fintech]
+date: 2026-05-23
+---
+
 # Revolut 2025年度报告深度解析：从挑战者银行到全球金融巨头的崛起路径
 
 > **来源**: Get笔记

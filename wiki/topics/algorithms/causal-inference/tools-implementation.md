@@ -1,3 +1,12 @@
+---
+title: tools implementation
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, algorithms, causal-inference]
+date: 2026-04-24
+---
+
 # 因果推断工具与实现
 
 > 从理论到代码：常用工具、库与最佳实践

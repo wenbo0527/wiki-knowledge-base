@@ -1,3 +1,12 @@
+---
+title: insight 20260616 Cursor设计负责人Ryo Lu深度访谈 AI时代的软件构建新范式
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # Cursor设计负责人Ryo Lu深度访谈：AI时代的软件构建新范式
 
 > **来源**: Get笔记

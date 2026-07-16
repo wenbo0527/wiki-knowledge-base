@@ -1,3 +1,12 @@
+---
+title: tools personal
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, knowledge-management, personal]
+date: 2026-04-24
+---
+
 # 个人工具全景
 
 > 构建你的个人知识管理工具栈

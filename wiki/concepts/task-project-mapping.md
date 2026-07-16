@@ -1,3 +1,12 @@
+---
+title: task project mapping
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CONCEPT
+doc_type: 其他
+tags: [concepts]
+date: 2026-06-30
+---
+
 # 任务项目标记规范 v1.1
 
 > **制定日期**: 2026-05-27

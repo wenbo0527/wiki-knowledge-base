@@ -1,3 +1,12 @@
+---
+title: karpathy llm wiki
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources, references]
+date: 2026-04-24
+---
+
 # Karpathy LLM Wiki
 
 > A pattern for building personal knowledge bases using LLMs.

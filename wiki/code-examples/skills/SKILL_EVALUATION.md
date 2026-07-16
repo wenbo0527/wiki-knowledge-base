@@ -1,3 +1,12 @@
+---
+title: SKILL EVALUATION
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CODE
+doc_type: 其他
+tags: [code-examples, skills]
+date: 2026-04-30
+---
+
 # 📊 OpenClaw Skill 质量评价体系 v2.0
 
 > **制定时间**: 2026-04-30

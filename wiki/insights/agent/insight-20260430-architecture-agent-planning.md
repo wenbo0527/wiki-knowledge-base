@@ -1,3 +1,12 @@
+---
+title: insight 20260430 architecture agent planning
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # 大型项目架构Agent与Claude Code五层架构深度解析
 能力框架: capability-requirement-decision capability-product-design #capability-data-driven #capability-risk-control
 

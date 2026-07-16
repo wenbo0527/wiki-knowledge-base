@@ -1,3 +1,12 @@
+---
+title: insight 20260417 harness engineering deep research
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, agent-engineering]
+date: 2026-04-24
+---
+
 # Harness Engineering 落地实践：多源情报汇总
 能力框架: capability-tech-understanding #capability-risk-control
 

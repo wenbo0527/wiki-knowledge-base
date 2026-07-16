@@ -1,3 +1,12 @@
+---
+title: insight 20260521 claude md best practices
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent, agent-skills]
+date: 2026-05-23
+---
+
 # CLAUDE.md 最佳实践 + 代码索引系统综述
 
 能力框架: capability-tech-understanding #capability-data-driven

@@ -1,3 +1,12 @@
+---
+title: insight 20260616 OpenClaw 龙虾 深度分析 从AI工具到操作系统的范式转移
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # OpenClaw（龙虾）深度分析：从AI工具到操作系统的范式转移
 
 > **来源**: Get笔记

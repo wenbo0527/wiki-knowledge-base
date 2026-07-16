@@ -1,3 +1,12 @@
+---
+title: insight 20260409 openclaw 11 person team
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, openclaw]
+date: 2026-04-24
+---
+
 # 科技AI - OpenClaw实践分享 Insights
 
 > 原始链接: https://mp.weixin.qq.com/s/hSpn4CJD_CRc8fMYFudE0A

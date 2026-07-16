@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-METHODOLOGY
+doc_type: 其他
+tags: [methodologies, 06-风险防控]
+date: 2026-07-16
+---
+
 # 06-风险防控
 
 > 能力方向: 如何控制？

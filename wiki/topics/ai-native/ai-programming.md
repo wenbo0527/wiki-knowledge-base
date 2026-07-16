@@ -1,3 +1,12 @@
+---
+title: ai programming
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native]
+date: 2026-04-24
+---
+
 # AI编程实践
 
 > Vibe Coding、AI辅助编程、Prompt Engineering的实战方法论

@@ -1,3 +1,12 @@
+---
+title: knowledge management
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics]
+date: 2026-04-24
+---
+
 # 知识管理 (Knowledge Management)
 
 > 系统的知识获取、组织、存储、检索和应用的科学与实践

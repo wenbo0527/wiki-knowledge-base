@@ -1,3 +1,12 @@
+---
+title: getnote 2026 06 29 1914192654179066496 [访谈笔记]   Lenny's Podcast   Fiona Fung：编码解决之后，瓶颈变成了人的野心和判断力
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-07-15
+---
+
 # [访谈笔记] | Lenny's Podcast | Fiona Fung：编码解决之后，瓶颈变成了人的野心和判断力
 
 > 来源: Get 笔记

@@ -1,3 +1,12 @@
+---
+title: insight 20260616 刘夜 从作业盒子到Talkit的AI 教育创业重启之路
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 刘夜：从作业盒子到Talkit的AI+教育创业重启之路
 
 > **来源**: Get笔记

@@ -1,3 +1,12 @@
+---
+title: insight 20260616 调研报告 多Agent交互的核心机制  上下文格式与明确定义
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 调研报告：多Agent交互的核心机制——上下文格式与明确定义
 
 > **来源**: Get笔记

@@ -7,7 +7,10 @@ owner: Tony Stark
 product_domain: PD-PRODUCT-MANAGEMENT
 tags: [multi-agent, SOP, 任务管理, 记忆架构]
 status: 活跃维护
+doc_type: 其他
+date: 2026-05-23
 ---
+
 
 # 多Agent协作完整案例 - 数字社区产品管理
 

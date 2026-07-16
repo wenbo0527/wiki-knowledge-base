@@ -1,3 +1,12 @@
+---
+title: product suite
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, palantir-ontology, platform]
+date: 2026-04-24
+---
+
 # Palantir产品矩阵详解
 
 > 从国防情报到企业AI，全栈式数据智能产品体系

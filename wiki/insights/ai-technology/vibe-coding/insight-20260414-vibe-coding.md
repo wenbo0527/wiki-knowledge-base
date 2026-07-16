@@ -1,3 +1,12 @@
+---
+title: insight 20260414 vibe coding
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, vibe-coding]
+date: 2026-04-24
+---
+
 # Vibe Coding最佳实践 - 情报洞察
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design #capability-risk-control
 

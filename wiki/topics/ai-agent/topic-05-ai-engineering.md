@@ -1,3 +1,12 @@
+---
+title: topic 05 ai engineering
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-agent]
+date: 2026-05-23
+---
+
 # AI 产品工程化与稳定性治理
 
 > Topic: AI工程化治理 | 模块五

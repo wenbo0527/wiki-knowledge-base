@@ -1,3 +1,12 @@
+---
+title: insight 20260421 palantir ontology enterprise ai
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, data-driven]
+date: 2026-05-23
+---
+
 # Palantir本体论：企业AI落地的认知地图
 能力框架: capability-requirement-decision capability-data-driven #capability-risk-control
 

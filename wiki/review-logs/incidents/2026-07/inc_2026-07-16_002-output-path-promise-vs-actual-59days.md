@@ -1,3 +1,12 @@
+---
+title: inc 2026 07 16 002 output path promise vs actual 59days
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, incidents, 2026-07]
+date: 2026-07-16
+---
+
 # INC-2026-07-16-002: 6 任务 close output_path 信约 ≠ 实际 · 候选 #117+#129+#172 第 17 次复发
 
 ## 现象

@@ -1,3 +1,12 @@
+---
+title: insight 20260616 GLM 5技术报告深度解析 开源大模型的里程碑突破
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # GLM-5技术报告深度解析：开源大模型的里程碑突破
 
 > **来源**: Get笔记

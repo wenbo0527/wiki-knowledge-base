@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech, product-solutions]
+date: 2026-04-24
+---
+
 # 金融科技 - 产品方案专题
 
 > 文博在消费金融行业的产品方案实践沉淀

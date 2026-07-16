@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOOL
+doc_type: 其他
+tags: [tools]
+date: 2026-04-30
+---
+
 # Tools - 尼克·弗瑞工具原型集合
 
 > 🕵️ 尼克·弗瑞情报工具集

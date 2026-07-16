@@ -1,3 +1,12 @@
+---
+title: insight 20260616 从DAU到TPD AI时代产品价值度量体系的革命性转变
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 从DAU到TPD：AI时代产品价值度量体系的革命性转变
 
 > **来源**: Get笔记

@@ -1,3 +1,12 @@
+---
+title: insight 20260522 Agent Ready 大数据 AI 基础设施 智能体时代的数据架构升级方案
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-23
+---
+
 # Agent-Ready 大数据 AI 基础设施：智能体时代的数据架构升级方案
 
 > **来源**: Get笔记

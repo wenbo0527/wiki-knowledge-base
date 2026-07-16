@@ -1,3 +1,12 @@
+---
+title: insight 20260414 ai persona training
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native, ai-persona-training]
+date: 2026-04-24
+---
+
 # AI人设训练方法论：刀哥的七步训练法
 
 > 来源：刀哥（快刀青衣/得到联合创始人）

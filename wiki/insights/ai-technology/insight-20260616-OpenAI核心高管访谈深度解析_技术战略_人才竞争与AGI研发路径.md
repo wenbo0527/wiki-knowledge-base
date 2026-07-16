@@ -1,3 +1,12 @@
+---
+title: insight 20260616 OpenAI核心高管访谈深度解析 技术战略 人才竞争与AGI研发路径
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # OpenAI核心高管访谈深度解析：技术战略、人才竞争与AGI研发路径
 
 > **来源**: Get笔记

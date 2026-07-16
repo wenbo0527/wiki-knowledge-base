@@ -1,3 +1,12 @@
+---
+title: insight 20260429 skill design evaluation
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent, agent-skills]
+date: 2026-05-23
+---
+
 # Insight: 大模型AI Skill编写、评测迭代与长链路任务实践
 能力框架: capability-value-closed-loop capability-tech-understanding #capability-data-driven
 

@@ -1,3 +1,12 @@
+---
+title: 4 fintech practice
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native, model-stability]
+date: 2026-04-24
+---
+
 # 消费金融场景稳定性落地实践
 > 结合国内消费金融业务的实战监控方案、阈值设置、ROI分析
 ---

@@ -6,7 +6,11 @@ updated: 2026-07-15
 tags: [local-docs, RAG, L-37, L-32, L-31]
 source_layer: local
 status: published
+product_domain: PD-LOCAL-DOCS
+doc_type: 其他
+date: 2026-07-15
 ---
+
 
 # 本地文档库 · 索引
 

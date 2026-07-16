@@ -1,3 +1,12 @@
+---
+title: EXECUTION PLAN
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management, epics]
+date: 2026-04-24
+---
+
 # Epic 文档并行执行计划
 
 > 使用 Subagent 并行创建 Epic 文档

@@ -1,3 +1,12 @@
+---
+title: ai talent organization
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native]
+date: 2026-04-24
+---
+
 # AI人才/组织
 
 > AI时代的人才战争、组织变革、CEO AI克隆、企业转型

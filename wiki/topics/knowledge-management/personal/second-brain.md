@@ -1,3 +1,12 @@
+---
+title: second brain
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, knowledge-management, personal]
+date: 2026-04-24
+---
+
 # 第二大脑方法论 (Second Brain)
 
 > 构建你的外化思维系统，让大脑专注思考而非记忆

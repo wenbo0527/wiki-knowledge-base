@@ -1,3 +1,12 @@
+---
+title: insight 20260506 harness engineering agent
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-06
+---
+
 # Harness工程：AI Agent可靠开发的系统方法论与实践指南
 能力框架: capability-requirement-decision capability-tech-understanding #capability-risk-control
 

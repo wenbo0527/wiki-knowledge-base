@@ -1,3 +1,12 @@
+---
+title: insight 20260616  自然 深度报道 全球高校拥抱AI的教育变革与挑战
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 《自然》深度报道：全球高校拥抱AI的教育变革与挑战
 
 > **来源**: Get笔记

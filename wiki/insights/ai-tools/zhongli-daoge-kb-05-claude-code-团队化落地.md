@@ -1,3 +1,12 @@
+---
+title: zhongli daoge kb 05 claude code 团队化落地
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-tools]
+date: 2026-06-30
+---
+
 # #5 Claude Code 团队化落地指南：从个人技巧到可复制工程体系
 
 **源**: 刀哥 KB `2eYxaj0z` | note_id `1902180448843424352` | 2026-02-20 | tags: Claude Code, 团队化

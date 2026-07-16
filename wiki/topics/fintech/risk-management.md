@@ -1,3 +1,12 @@
+---
+title: risk management
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech]
+date: 2026-04-24
+---
+
 # 金融科技 - 风控系统最佳实践
 
 > 消费金融、互联网金融风控系统建设的核心方法论、技术架构与行业案例

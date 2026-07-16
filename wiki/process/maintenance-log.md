@@ -1,3 +1,12 @@
+---
+title: maintenance log
+author: 尼克·弗瑞 🕵️
+product_domain: PD-PROCESS
+doc_type: 其他
+tags: [process]
+date: 2026-04-28
+---
+
 # Wiki维护日志
 
 > Wiki健康走查和问题修复的操作记录

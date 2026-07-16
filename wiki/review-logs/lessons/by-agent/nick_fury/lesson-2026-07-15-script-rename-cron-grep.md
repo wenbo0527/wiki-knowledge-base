@@ -1,3 +1,12 @@
+---
+title: lesson 2026 07 15 script rename cron grep
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-07-15
+---
+
 # L-35: OpenClaw cron 投递必须 mode=none + channel=feishu + to=user:ou_xxx
 
 > **教训族**：INC-2026-07-15-001 治本（L-33 详细版）

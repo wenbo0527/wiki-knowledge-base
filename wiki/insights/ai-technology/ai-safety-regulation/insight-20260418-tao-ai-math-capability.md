@@ -1,3 +1,12 @@
+---
+title: insight 20260418 tao ai math capability
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, ai-safety-regulation]
+date: 2026-04-24
+---
+
 # 陶哲轩AI数学能力评估：1%成功率真相
 能力框架: capability-value-closed-loop capability-data-driven
 

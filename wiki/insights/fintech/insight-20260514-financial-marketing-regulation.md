@@ -1,3 +1,12 @@
+---
+title: insight 20260514 financial marketing regulation
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, fintech]
+date: 2026-05-14
+---
+
 # 八部门联合印发《金融产品网络营销管理办法》深度解读
 
 > Insights - 金融监管

@@ -1,10 +1,16 @@
 ---
-能力框架: #tech-understanding #data-driven
-来源: 微信公众号 | 发布时间: 2026-05-19 | 分类: Data Infrastructure / Data Agent
+能力框架: "#tech-understanding #data-driven"
+来源: "微信公众号 | 发布时间: 2026-05-19 | 分类: Data Infrastructure / Data Agent"
 Insight ID: insight-20260519-data-agent-evolution
-维护者: 尼克·弗瑞 | 更新: 2026-05-20
-
+维护者: "尼克·弗瑞 | 更新: 2026-05-20"
+title: insight 20260519 data agent evolution
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai]
+date: 2026-05-23
 ---
+
 
 ## 📌 执行摘要
 

@@ -1,3 +1,12 @@
+---
+title: insight 20260422 card protocol
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, agent-engineering]
+date: 2026-04-24
+---
+
 # Insight: 卡片式对话协议方案 - 淘宝实践
 能力框架: capability-product-design capability-tech-understanding
 

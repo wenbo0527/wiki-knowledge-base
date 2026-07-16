@@ -1,3 +1,12 @@
+---
+title: value closed loop
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CONCEPT
+doc_type: 其他
+tags: [concepts]
+date: 2026-05-23
+---
+
 # 价值闭环方法论
 
 > 版本: v1.0

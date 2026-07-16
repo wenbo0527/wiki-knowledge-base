@@ -1,3 +1,12 @@
+---
+title: insight 20260616 DAComp 数据智能全生命周期评测基准  揭示大模型在企业级数据任务中的真实能
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # DAComp：数据智能全生命周期评测基准——揭示大模型在企业级数据任务中的真实能力边界
 
 > **来源**: Get笔记

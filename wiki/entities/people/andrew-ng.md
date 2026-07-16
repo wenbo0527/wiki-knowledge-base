@@ -1,3 +1,12 @@
+---
+title: andrew ng
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ENTITY
+doc_type: 其他
+tags: [entities, people]
+date: 2026-04-24
+---
+
 # Andrew Ng 吴恩达
 
 > AI领域的思想领袖与教育家

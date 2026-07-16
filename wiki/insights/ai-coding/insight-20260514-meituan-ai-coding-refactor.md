@@ -1,3 +1,12 @@
+---
+title: insight 20260514 meituan ai coding refactor
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-14
+---
+
 # 美团31万行代码AI重构：反直觉洞察
 
 > Insights - AI Coding实践

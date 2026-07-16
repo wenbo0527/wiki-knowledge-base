@@ -1,3 +1,12 @@
+---
+title: EPIC RISK REALTIME DECISION 实时决策引擎
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management, epics]
+date: 2026-04-24
+---
+
 # EPIC-RISK_REALTIME_DECISION - 实时决策引擎
 
 > Epic 级别需求文档 | 产品域：PD-RISK（数字风险）

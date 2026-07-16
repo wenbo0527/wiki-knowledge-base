@@ -1,3 +1,12 @@
+---
+title: causal discovery
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, algorithms, causal-inference]
+date: 2026-04-24
+---
+
 # 因果发现（Causal Discovery）
 
 > 从数据中学习因果结构：从PC算法到深度学习时代

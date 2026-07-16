@@ -6,7 +6,14 @@ updated: 2026-04-19
 owner: paimon
 status: pending
 priority: P1
+title: standard task
+author: 尼克·弗瑞 🕵️
+product_domain: PD-PROJECT
+doc_type: 其他
+tags: [projects, tasks, task-templates]
+date: 2026-04-24
 ---
+
 
 # 任务卡片模板
 

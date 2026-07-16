@@ -1,3 +1,12 @@
+---
+title: insight 20260421 banking ai skill transformation
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, fintech]
+date: 2026-05-23
+---
+
 # 银行AI落地新思路：从"工具思维"到"岗位能力数字化"
 
 > 原始链接: https://mp.weixin.qq.com/s/ZJz1puYZXSZLc7kOdZzHgw

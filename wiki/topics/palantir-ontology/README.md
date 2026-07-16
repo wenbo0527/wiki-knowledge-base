@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, palantir-ontology]
+date: 2026-04-24
+---
+
 # Palantir本体论工程 (Palantir Ontology Engineering)
 
 > 本体论驱动的企业级数据分析平台与决策智能

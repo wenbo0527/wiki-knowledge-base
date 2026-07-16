@@ -1,3 +1,12 @@
+---
+title: tech ai
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics]
+date: 2026-04-24
+---
+
 # 科技AI
 
 > AI领域的实践追踪主题页，聚焦**AI Native开发**与**Agent工程化**落地实践

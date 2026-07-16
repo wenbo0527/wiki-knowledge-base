@@ -1,3 +1,12 @@
+---
+title: insight 20260408 risk management
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, fintech, risk-management]
+date: 2026-04-24
+---
+
 # 消费金融 - 风控系统行业洞察
 能力框架: capability-requirement-decision capability-tech-understanding #capability-risk-control
 

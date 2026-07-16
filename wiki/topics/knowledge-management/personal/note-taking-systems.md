@@ -1,3 +1,12 @@
+---
+title: note taking systems
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, knowledge-management, personal]
+date: 2026-04-24
+---
+
 # 笔记系统对比
 
 > Zettelkasten vs PARA vs LYT：找到适合你的系统

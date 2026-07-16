@@ -1,3 +1,12 @@
+---
+title: palantir ontology wechat article 20260421
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources, references]
+date: 2026-04-24
+---
+
 # Palantir市值狂飙的秘密：大模型是"大脑"，而"本体论"才是骨架与记忆
 
 > **来源**: DataFunTalk 微信公众号  

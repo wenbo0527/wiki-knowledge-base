@@ -1,3 +1,12 @@
+---
+title: insight 20260514 fresh framework
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-14
+---
+
 # Fresh 2 Beta：Deno官方全栈框架
 
 > Insights - 前端框架

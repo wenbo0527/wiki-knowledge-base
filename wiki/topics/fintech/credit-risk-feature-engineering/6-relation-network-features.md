@@ -1,3 +1,12 @@
+---
+title: 6 relation network features
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech, credit-risk-feature-engineering]
+date: 2026-04-24
+---
+
 # 关联网络特征：团伙欺诈识别的核心武器
 
 > 挖掘用户之间的隐藏关联关系，识别传统特征发现不了的团伙欺诈、中介风险

@@ -1,3 +1,12 @@
+---
+title: insight 20260418 asgardbench
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-04-24
+---
+
 # AsgardBench: 视觉 Grounding 交互式规划基准
 能力框架: capability-requirement-decision capability-data-driven
 

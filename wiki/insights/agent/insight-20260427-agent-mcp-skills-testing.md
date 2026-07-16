@@ -1,3 +1,12 @@
+---
+title: insight 20260427 agent mcp skills testing
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # Insight: Agent+MCP+Skills 重构自动化测试
 
 > 原始链接: https://mp.weixin.qq.com/s/aOJBjPgppTAYq39dSUvYqg

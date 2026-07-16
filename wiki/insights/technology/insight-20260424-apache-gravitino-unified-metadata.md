@@ -1,3 +1,12 @@
+---
+title: insight 20260424 apache gravitino unified metadata
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, technology]
+date: 2026-05-23
+---
+
 # Insight: Apache Gravitino 统一元数据与血缘
 
 > 原始链接: https://mp.weixin.qq.com/s/5YeEahEtZSOmZ4NpIo-bzw

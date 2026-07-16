@@ -1,3 +1,12 @@
+---
+title: insight 20260522 兴业银行数智化转型战略深度解析 从数字化基础到AI 金融落地路径
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, fintech]
+date: 2026-05-23
+---
+
 # 兴业银行数智化转型战略深度解析：从数字化基础到AI+金融落地路径
 
 > **来源**: Get笔记

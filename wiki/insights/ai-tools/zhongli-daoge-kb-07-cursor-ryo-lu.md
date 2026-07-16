@@ -1,3 +1,12 @@
+---
+title: zhongli daoge kb 07 cursor ryo lu
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-tools]
+date: 2026-06-30
+---
+
 # #7 Cursor 设计负责人 Ryo Lu 访谈：AI 时代的软件构建新范式
 
 **源**: 刀哥 KB `2eYxaj0z` | note_id `1902390543611170744` | 2026-02-22 | tags: Cursor, AI 辅助编程

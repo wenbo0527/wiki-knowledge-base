@@ -1,3 +1,12 @@
+---
+title: ant group
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ENTITY
+doc_type: 其他
+tags: [entities, companies]
+date: 2026-04-24
+---
+
 # 蚂蚁集团 (Ant Group)
 
 > 中国领先的金融科技平台，支付宝的母公司

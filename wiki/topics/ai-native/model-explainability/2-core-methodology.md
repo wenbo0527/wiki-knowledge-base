@@ -1,3 +1,12 @@
+---
+title: 2 core methodology
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-native, model-explainability]
+date: 2026-04-24
+---
+
 # 模型可解释性方法论
 > 白盒模型 vs 黑盒事后解释 vs 全局 vs 局部可解释性，全面解析金融场景适用的方法
 ---

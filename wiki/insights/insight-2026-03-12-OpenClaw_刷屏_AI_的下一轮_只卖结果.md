@@ -1,3 +1,12 @@
+---
+title: insight 2026 03 12 OpenClaw 刷屏 AI 的下一轮 只卖结果
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights]
+date: 2026-06-30
+---
+
 # OpenClaw 刷屏，AI 的下一轮，只卖结果
 
 > **来源**: 人人都是产品经理

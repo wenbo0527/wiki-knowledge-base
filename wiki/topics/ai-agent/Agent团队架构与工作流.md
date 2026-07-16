@@ -1,3 +1,12 @@
+---
+title: Agent团队架构与工作流
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-agent]
+date: 2026-05-23
+---
+
 # Agent 团队架构与工作流
 
 > **版本**: v1.0

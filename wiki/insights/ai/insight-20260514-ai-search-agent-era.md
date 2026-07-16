@@ -1,3 +1,12 @@
+---
+title: insight 20260514 ai search agent era
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai]
+date: 2026-05-14
+---
+
 # 阿里云AI搜索进入Agent时代
 
 > Insights - AI搜索

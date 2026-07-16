@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CODE
+doc_type: 其他
+tags: [code-examples, multi-agent-routing]
+date: 2026-04-30
+---
+
 # Multi-Agent Routing - 多智能体路由
 
 > 来源: insight-20260430-multi-agent-architecture-guide

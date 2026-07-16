@@ -1,3 +1,12 @@
+---
+title: insight 20260505 luofuLi agent framework
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-06
+---
+
 # 罗福莉访谈：AI范式已然巨变，Agent框架激发中层模型上限
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-product-design
 

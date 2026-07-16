@@ -1,3 +1,12 @@
+---
+title: source 20260419 ai product manager workflow
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources]
+date: 2026-04-24
+---
+
 # Source: 产品经理的效率革命：我的AI工作流完整拆解
 
 > **Source ID**: source-20260419-ai-product-manager-workflow  

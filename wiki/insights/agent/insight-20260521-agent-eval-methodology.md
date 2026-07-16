@@ -1,3 +1,12 @@
+---
+title: insight 20260521 agent eval methodology
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # AI Agent评估（Eval）方法论深度解析
 
 > **版本**: v1.0

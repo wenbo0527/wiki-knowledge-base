@@ -1,3 +1,12 @@
+---
+title: insight 20260510 hermes agent
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # Hermes Agent：自进化革命
 能力框架: capability-requirement-decision capability-data-driven
 

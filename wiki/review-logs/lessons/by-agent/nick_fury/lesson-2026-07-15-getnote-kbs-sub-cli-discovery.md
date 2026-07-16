@@ -1,3 +1,12 @@
+---
+title: lesson 2026 07 15 getnote kbs sub cli discovery
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-07-15
+---
+
 # L-40: 订阅 KB 必用 `getnote kbs-sub` CLI（HTTP API 不返回）
 
 > **教训族**: INC-2026-07-15-005 治本  

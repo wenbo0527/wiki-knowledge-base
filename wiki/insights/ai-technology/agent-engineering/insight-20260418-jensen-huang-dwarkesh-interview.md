@@ -1,3 +1,12 @@
+---
+title: insight 20260418 jensen huang dwarkesh interview
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, agent-engineering]
+date: 2026-04-24
+---
+
 # Jensen Huang × Dwarkesh：NVIDIA的护城河与对华芯片战略
 能力框架: capability-data-driven capability-tech-understanding
 

@@ -1,3 +1,12 @@
+---
+title: EPIC RISK EXT DATA LIFECYCLE 外部数据生命周期管理
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management, epics]
+date: 2026-04-24
+---
+
 # EPIC-RISK_EXT_DATA_LIFECYCLE - 外部数据生命周期管理
 
 > Epic 级别需求文档 | 产品域：PD-RISK（数字风险）

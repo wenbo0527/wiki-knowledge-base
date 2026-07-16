@@ -1,3 +1,12 @@
+---
+title: insight 20260426 linjunyang agent thinking
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-04-26
+---
+
 # AI的下一步：从"推理思维"到"智能体思维"
 能力框架: capability-requirement-decision capability-data-driven
 

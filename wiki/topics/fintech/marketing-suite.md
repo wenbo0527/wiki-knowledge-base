@@ -8,7 +8,10 @@ product_domain: PD-MKT
 tags: [marketing, cdp, ab-experiment, aarrr]
 status: 正式版
 维护者: Tony Stark
+doc_type: 其他
+date: 2026-04-24
 ---
+
 
 # 营销套件落地综述
 ## 数字营销产品域 (PD-MKT) 综合介绍

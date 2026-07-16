@@ -1,3 +1,12 @@
+---
+title: ai data query sql generator
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, ai-data-query]
+date: 2026-04-24
+---
+
 # SQL生成与校验 - 深度探索
 
 > 将结构化查询对象转换为准确的SQL语句

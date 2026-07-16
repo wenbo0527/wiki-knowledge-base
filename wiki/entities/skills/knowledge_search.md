@@ -1,3 +1,12 @@
+---
+title: knowledge search
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ENTITY
+doc_type: 其他
+tags: [entities, skills]
+date: 2026-05-23
+---
+
 # knowledge_search
 
 > Skill 档案

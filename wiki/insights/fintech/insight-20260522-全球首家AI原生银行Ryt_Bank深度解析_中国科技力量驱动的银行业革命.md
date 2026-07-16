@@ -1,3 +1,12 @@
+---
+title: insight 20260522 全球首家AI原生银行Ryt Bank深度解析 中国科技力量驱动的银行业革命
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, fintech]
+date: 2026-05-23
+---
+
 # 全球首家AI原生银行Ryt Bank深度解析：中国科技力量驱动的银行业革命
 
 > **来源**: Get笔记

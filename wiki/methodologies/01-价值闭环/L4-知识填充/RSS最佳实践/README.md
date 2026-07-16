@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-METHODOLOGY
+doc_type: 其他
+tags: [methodologies, 01-价值闭环, L4-知识填充]
+date: 2026-07-16
+---
+
 # L4: 01-价值闭环 - 知识索引
 
 > 版本: v2.0

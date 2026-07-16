@@ -1,3 +1,12 @@
+---
+title: insight 20260616 俞敏洪谈AI革命 不可替代的人类价值与未来生存思考
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 俞敏洪谈AI革命：不可替代的人类价值与未来生存思考
 
 > **来源**: Get笔记

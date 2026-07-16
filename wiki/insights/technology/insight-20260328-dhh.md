@@ -1,3 +1,12 @@
+---
+title: insight 20260328 dhh
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, technology]
+date: 2026-05-23
+---
+
 # DHH：编程是诗——Ruby之父的技术哲学
 能力框架: capability-requirement-decision capability-tech-understanding
 

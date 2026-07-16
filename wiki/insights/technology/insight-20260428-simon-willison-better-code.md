@@ -1,3 +1,12 @@
+---
+title: insight 20260428 simon willison better code
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, technology]
+date: 2026-05-23
+---
+
 # Insight: Simon Willison - AI Should Help Us Produce Better Code
 能力框架: capability-value-closed-loop capability-product-design
 

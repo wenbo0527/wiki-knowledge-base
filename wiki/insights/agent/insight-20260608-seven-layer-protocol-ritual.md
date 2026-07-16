@@ -1,3 +1,12 @@
+---
+title: insight 20260608 seven layer protocol ritual
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-06-30
+---
+
 # "礼"作为多 Agent 交互协议：七层映射框架
 
 > **类型**: Insight（方法论提炼）  

@@ -1,3 +1,12 @@
+---
+title: insight 20260328 cursor team
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-23
+---
+
 # Cursor团队：AI编程的未来
 能力框架: capability-value-closed-loop capability-requirement-decision #capability-data-driven
 

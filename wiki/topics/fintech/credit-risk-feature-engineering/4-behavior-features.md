@@ -1,3 +1,12 @@
+---
+title: 4 behavior features
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, fintech, credit-risk-feature-engineering]
+date: 2026-04-24
+---
+
 # 行为特征体系：动态识别用户风险变化
 
 > 通过用户的行为模式变化，提前识别风险，比静态属性更及时、更准确

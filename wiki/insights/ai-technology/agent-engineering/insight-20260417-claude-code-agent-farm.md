@@ -1,3 +1,12 @@
+---
+title: insight 20260417 claude code agent farm
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology, agent-engineering]
+date: 2026-04-24
+---
+
 # Claude Code Agent Farm：多Agent并行编排实战
 能力框架: capability-value-closed-loop capability-product-design #capability-risk-control
 

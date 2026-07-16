@@ -1,3 +1,12 @@
+---
+title: insight 20260514 fintech ai summit
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai]
+date: 2026-05-14
+---
+
 # 金融大模型技术峰会：AI重塑金融行业
 
 > Insights - 金融AI

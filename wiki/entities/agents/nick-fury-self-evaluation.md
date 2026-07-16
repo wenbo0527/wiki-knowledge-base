@@ -1,3 +1,12 @@
+---
+title: nick fury self evaluation
+author: 尼克·弗瑞 🕵️
+product_domain: PD-ENTITY
+doc_type: 其他
+tags: [entities, agents]
+date: 2026-04-29
+---
+
 # Agent自评：尼克·弗瑞（Nick Fury）- 研究与分析Agent
 
 > **评估Agent**：尼克·弗瑞 🕵️ - 情报专家 / 研究分析师

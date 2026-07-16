@@ -1,3 +1,12 @@
+---
+title: inc 2026 07 02 003 intelligence json mock pollution
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, incidents, 2026-07]
+date: 2026-07-03
+---
+
 # INC-2026-07-02-003: 每日情报推送数据污染（intelligence.json 空 → mock fallback）
 
 ## 现象

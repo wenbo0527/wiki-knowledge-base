@@ -1,3 +1,12 @@
+---
+title: epic DFD DATA ASSET
+author: 尼克·弗瑞 🕵️
+product_domain: PD-TOPIC
+doc_type: 其他
+tags: [topics, product-management]
+date: 2026-04-24
+---
+
 # EPIC-DFD_DATA_ASSET - 数据资产字典
 
 > 一句话：统一的数据资产元数据管理中心，实现数据资产的"可见、可管、可用、可运营"

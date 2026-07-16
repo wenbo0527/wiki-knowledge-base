@@ -6,7 +6,9 @@ note_id: 1913635521106051560
 product_domain: PD-DATA
 doc_type: 深度解析
 tags: [agent, text2sql, anthropic, openai, intelligent-query, semantic-layer]
+author: 尼克·弗瑞 🕵️
 ---
+
 
 # 大模型智能问数技术路线深度解析：Anthropic 与 OpenAI 的殊途同归及本体智能问数的演进方向
 

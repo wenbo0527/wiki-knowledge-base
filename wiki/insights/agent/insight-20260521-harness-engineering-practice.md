@@ -1,3 +1,12 @@
+---
+title: insight 20260521 harness engineering practice
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, agent]
+date: 2026-05-23
+---
+
 # Harness Engineering实战指南：从制度化管理到最小可用形态
 
 > **版本**: v1.0

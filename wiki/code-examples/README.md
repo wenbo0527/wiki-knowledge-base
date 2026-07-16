@@ -1,3 +1,12 @@
+---
+title: README
+author: 尼克·弗瑞 🕵️
+product_domain: PD-CODE
+doc_type: 其他
+tags: [code-examples]
+date: 2026-04-30
+---
+
 # Code Examples - 代码示例库
 
 > 🕵️ 尼克·弗瑞知识资产管理

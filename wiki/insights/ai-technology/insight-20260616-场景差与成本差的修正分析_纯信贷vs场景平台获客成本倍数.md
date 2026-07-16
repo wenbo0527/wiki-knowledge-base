@@ -1,3 +1,12 @@
+---
+title: insight 20260616 场景差与成本差的修正分析 纯信贷vs场景平台获客成本倍数
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-06-30
+---
+
 # 场景差与成本差的修正分析：纯信贷vs场景平台获客成本倍数
 
 > **来源**: Get笔记

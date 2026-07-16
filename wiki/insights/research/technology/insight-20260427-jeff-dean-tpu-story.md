@@ -1,3 +1,12 @@
+---
+title: insight 20260427 jeff dean tpu story
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, research, technology]
+date: 2026-05-23
+---
+
 # Insight: Jeff Dean - TPU诞生与极客往事
 
 > 原始链接: https://mp.weixin.qq.com/s/uzf9gJFaPDrj6RUfxm4HNA

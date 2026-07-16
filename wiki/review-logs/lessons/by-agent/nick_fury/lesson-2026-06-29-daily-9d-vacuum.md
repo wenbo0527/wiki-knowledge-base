@@ -1,3 +1,12 @@
+---
+title: lesson 2026 06 29 daily 9d vacuum
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-06-30
+---
+
 # Lesson 2026-06-29: 日报 9 天真空 + C-3 哑告警
 
 > 沉淀时间: 2026-06-29 09:35

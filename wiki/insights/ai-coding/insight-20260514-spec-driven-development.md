@@ -1,3 +1,12 @@
+---
+title: insight 20260514 spec driven development
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-14
+---
+
 # Spec-Driven Development (SDD)：AI编程时代的工程方法论革命
 
 > Insights - AI编程工程方法论

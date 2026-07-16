@@ -1,3 +1,12 @@
+---
+title: insight 20260514 multi end framework
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-coding]
+date: 2026-05-14
+---
+
 # 多端统一应用框架：从起源到实战
 
 > Insights - 跨端框架

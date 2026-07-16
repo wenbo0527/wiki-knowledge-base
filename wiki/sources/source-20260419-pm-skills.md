@@ -1,3 +1,12 @@
+---
+title: source 20260419 pm skills
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources]
+date: 2026-04-24
+---
+
 # Source: 第005篇｜PM Skills 完整教程：产品经理最实用的 65 个 Skill 一次讲清
 
 > **Source ID**: source-20260419-pm-skills  

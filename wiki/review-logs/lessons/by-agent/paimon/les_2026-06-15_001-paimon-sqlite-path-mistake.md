@@ -1,3 +1,12 @@
+---
+title: les 2026 06 15 001 paimon sqlite path mistake
+author: 尼克·弗瑞 🕵️
+product_domain: PD-OPS
+doc_type: 其他
+tags: [review-logs, lessons, by-agent]
+date: 2026-06-30
+---
+
 # INC-2026-06-15-006 派蒙查错 sqlite 路径 4 小时
 
 **沉淀人**: 派蒙 🍳

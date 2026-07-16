@@ -1,3 +1,12 @@
+---
+title: insight 20260428 andrew ng fastest team
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, product-management]
+date: 2026-05-23
+---
+
 # Insight: 吴恩达 - 最快的团队，人人都是产品经理
 
 > 原始链接: https://mp.weixin.qq.com/s/oQshIvxH-3GfPSphN7H3RA

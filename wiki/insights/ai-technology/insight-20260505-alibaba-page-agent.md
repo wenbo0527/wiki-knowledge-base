@@ -1,3 +1,12 @@
+---
+title: insight 20260505 alibaba page agent
+author: 尼克·弗瑞 🕵️
+product_domain: PD-INSIGHT
+doc_type: 其他
+tags: [insights, ai-technology]
+date: 2026-05-06
+---
+
 # 阿里开源page-agent：重新定义AI驱动的Web自动化范式
 能力框架: capability-value-closed-loop capability-tech-understanding
 

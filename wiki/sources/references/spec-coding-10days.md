@@ -1,3 +1,12 @@
+---
+title: spec coding 10days
+author: 尼克·弗瑞 🕵️
+product_domain: PD-SOURCE
+doc_type: 其他
+tags: [sources, references]
+date: 2026-04-24
+---
+
 # Spec Coding实战：10天、2754次调用、提效36%
 
 ## 基本信息
