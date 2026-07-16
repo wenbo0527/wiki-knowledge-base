@@ -1,12 +1,12 @@
 # 🕵️ Nick Fury Lessons & INC 注册表
 
 > 维护者: 尼克·弗瑞 (Nick Fury) 🕵️
-> 最后更新: 2026-07-16 07:30 CST
+> 最后更新: 2026-07-16 08:15 CST
 > 用途: Nick 团队 INC + Lesson 索引（按时间倒序）
 
 ---
 
-## 📌 7-16 增量（候选 #235 派单回执 · W1 速赢 + 候选 #129 同根病防御）
+## 📌 7-16 增量（候选 #235 6/6 闭环实证 · W1 速赢 + 候选 #117+#129+#172 第 17 次失守链修复）
 
 | ID | 类型 | 标题 | 路径 / 状态 |
 |:---|:---|:---|:---|
@@ -20,13 +20,18 @@
 | wiki-cleanup-phase1.6 | Action ✅ | `_nick_registry.md` 更新（本段）| ✅ 7-16 07:30 |
 | lesson-2026-07-16-macos-trash-verify | Lesson 🆕 | macOS `/usr/bin/trash` 验证必用 `ls -la <目标>`（"Operation not permitted" 是 TCC 不是失败）| lessons/by-agent/nick_fury/lesson-2026-07-16-macos-trash-verify.md（待建）|
 | lesson-2026-07-16-wiki-methodology-v1v2 | Lesson 🆕 | methodologies v1 vs v2 是进化关系不是重叠；v2 替 v1 + 抢救 07 | lessons/by-agent/nick_fury/lesson-2026-07-16-wiki-methodology-v1v2.md（待建）|
-| wiki-cleanup-phase1.7 | Pending | 8 个一级主题目录 `index.md` | ⏸️ 内容创作（待文博拍板）|
-| wiki-cleanup-empty-dirs-24 | Pending ⚠️ | **24 个真·空目录残留处置**（结构性 vs 失误性）| ⏸️ 待文博拍板 |
-| wiki-cleanup-doc-delta-plus2 | Pending ⚠️ | **文档数 +2 偏差**（1671-39 trash=期望 1632，实测 1634）| ⏸️ 待 cross-check trash 完整性 |
+| wiki-cleanup-phase1.7 | Action ✅ | **8 个一级目录 `index.md` 落盘**（insights/concepts/topics/projects/skills/tools/sources/standards，详见下）| ✅ 7-16 08:15 |
+| wiki-cleanup-empty-dirs-24 | Decision ✅ | **24 个真·空目录全保留**（结构性占位，文博推荐 D🅰）| ✅ 7-16 08:10 |
+| wiki-cleanup-doc-delta-plus2 | Decision ✅ | **+2 偏差归因**：mdfind 命中 5-23 备份路径（Spotlight 缓存）→ trash 实际成功（L-42 候选：mdfind 不能验证 trashed 位置）| ✅ 7-16 08:15 |
 | **inc_2026-07-16_001** | Incident 🆕 | **派蒙派单候选 #129 同根病 · 6 任务清单缺失** | incidents/2026-07/inc_2026-07-16_001-paimon-dispatch-candidate-129-same-root.md ✅ |
 | **lesson-2026-07-16-paimon-dispatch-129-candidate** | Lesson 🆕 | **派单接收 4 项实证防御**（任务 ID / 派单对象 / 验收标准 / 背景依赖）| lessons/by-agent/nick_fury/lesson-2026-07-16-paimon-dispatch-129-candidate.md ✅ |
 | **L-39（候选 · 待 7-19 正式编号）** | Lesson · 候选 | **派单要素不齐 = 同根病复发**（候选 #117+#129 家族延伸 · 第 16 次）| lessons/by-agent/nick_fury/lesson-2026-07-16-paimon-dispatch-129-candidate.md |
 | **HEARTBEAT.md §十三** | Action ✅ | 7-16 07:36 派单回执 v1.0 · 候选 #129 诚实归零（10:30 早检 + 14:01 截止）| HEARTBEAT.md ✅ |
+| **inc_2026-07-16_002** | Incident 🆕 | **6 任务 close output_path 信约 ≠ 实际 · 候选 #117+#129+#172 第 17 次** | incidents/2026-07/inc_2026-07-16_002-output-path-promise-vs-actual-59days.md ✅ |
+| **lesson-2026-07-16-deadlock-lessons-rescue** | Lesson 🆕 | **6 任务 close 后 lessons 落档 owner 明确 + task_tool v2.0-rc.2 升级** | lessons/by-agent/nick_fury/lesson-2026-07-16-deadlock-lessons-rescue.md ✅ |
+| **6 deadlock-close-59days lessons** | Action ✅ | **6 任务 lessons 文件补写实证** （1495+1577+1511+1515+1539+1660 = 9297 字节）| `Nick/memory/lessons/` ✅ |
+| **L-40（候选 · 待 7-19 正式编号）** | Lesson · 候选 | **db 信约 ≠ 文件实际 = close 字段填 ≠ lessons 文件真的写**（候选 #117+#129+#172 第 17 次）| lesson-2026-07-16-deadlock-lessons-rescue.md |
+| **候选 #235 第①项 6/6 闭环** | Action ✅ | **6 任务 7-15 15:29:41 已 closed + 6 lessons 补写完成 · 候选 #235 第①项天然闭环** | review-logs + Nick/memory/lessons/ ✅ |
 
 **Phase 0 实测基线**（7-16 07:07 CST）：
 - 文档总数: **1671**（不是 5-21 记忆 688，3 个月翻 2.5 倍，**L-37 印证 v1.0 备份过时**）
