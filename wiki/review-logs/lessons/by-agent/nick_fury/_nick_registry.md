@@ -50,6 +50,11 @@ date: 2026-07-15
 | **search_api 重启** | Action ✅ | **清 stale UUID 50085a6f cache · query 工作 · chroma.sqlite3 backup 450M** | ✅ 7-16 19:24 |
 | **inc_2026-07-16_004** | Incident 🆕 | **Get笔记 API 401 真根因：认证格式错（不是 WAF / 不是 token 过期）** | incidents/2026-07/inc_2026-07-16_004-getnote-auth-format-no-bearer.md ✅ |
 | **lesson-2026-07-16-getnote-auth-no-bearer** | Lesson 🆕 | **L-46 Get笔记 API = `Authorization: <key>` 无 Bearer + 必加 `X-Client-ID`** | lessons/by-agent/nick_fury/lesson-2026-07-16-getnote-auth-no-bearer.md ✅ |
+| **Phase B 收尾 22→19** | Action ✅ | **trash 2 空顶层 + _templates→TEMPLATES 合并 + scripts/README · 安全保守（引用对账 0 残留）** | ✅ 7-16 19:35 |
+| **Q3 KR1-3 实测** | Action ✅ | **KR1 100% (30/30) / KR2 1.0 跳 (8/8 KB) / KR3 100%×3 Agent · 全部超目标** | ✅ 7-16 19:36 |
+| **wiki_kr1_evaluation.py** | Asset 🆕 | **7883 字节 · 30 query + 8 KB + 3 Agent 评测集** | scripts/wiki_kr1_evaluation.py ✅ |
+| **wiki_health_check.sh 扩展** | Action ✅ | **加 W1+Q3 检查项（4 项元数据 + 顶层目录 + Phase D 标注）** | ✅ 7-16 19:38 |
+| **lesson-2026-07-16-third-party-skill-md** | Lesson 🆕 | **L-47 第三方 Skill SKILL.md 必读（L-17 升级版 · INC-004 实例）** | lessons/by-agent/nick_fury/lesson-2026-07-16-third-party-skill-md-mandatory.md ✅ |
 
 **Phase 0 实测基线**（7-16 07:07 CST）：
 - 文档总数: **1671**（不是 5-21 记忆 688，3 个月翻 2.5 倍，**L-37 印证 v1.0 备份过时**）
