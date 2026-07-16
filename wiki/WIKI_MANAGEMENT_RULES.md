@@ -106,8 +106,8 @@ date: 2026-04-24
 #### 走查报告位置
 
 ```
-wiki/process/wiki-review-report-YYYYMMDD.md  # 自动走查报告
-wiki/process/wiki-health-check-report-YYYYMMDD.md  # 手动Lint报告（派蒙触发）
+wiki/methodologies/process/wiki-review-report-YYYYMMDD.md  # 自动走查报告
+wiki/methodologies/process/wiki-health-check-report-YYYYMMDD.md  # 手动Lint报告（派蒙触发）
 ```
 
 ### 1.6 质量标准（简化版）

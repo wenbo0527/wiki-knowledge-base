@@ -338,7 +338,7 @@ Step 4: 打Tag归档
 |:---|:---|:---|
 | 洞察 | `wiki/insights/` | 方法论Tag |
 | 方法论 | `wiki/methodologies/` | methodology |
-| 流程 | `wiki/process/` | SOP |
+| 流程 | `wiki/methodologies/process/` | SOP |
 | 行业研究 | `文档仓库/行业研究/` | product_domain |
 
 ---

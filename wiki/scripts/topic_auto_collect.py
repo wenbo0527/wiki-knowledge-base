@@ -15,7 +15,7 @@ from typing import Dict, List, Optional
 
 # 配置文件路径
 P0_RSS_CONFIG = "/Users/wenbo/.openclaw/workspace/agents/nick_fury/data/p0_rss_sources.json"
-MONITORING_CONFIG = "/Users/wenbo/Documents/project/Wiki/wiki/process/topic-monitoring-config.md"
+MONITORING_CONFIG = "/Users/wenbo/Documents/project/Wiki/wiki/methodologies/process/topic-monitoring-config.md"
 
 class TopicAutoCollector:
     """Topic自动收集器"""

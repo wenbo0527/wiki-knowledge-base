@@ -37,7 +37,7 @@ date: 2026-07-16
 ## 关键依赖路径（topic_auto_collect.py）
 
 - `P0_RSS_CONFIG` = `/Users/wenbo/.openclaw/workspace/agents/nick_fury/data/p0_rss_sources.json`
-- `MONITORING_CONFIG` = `/Users/wenbo/Documents/project/Wiki/wiki/process/topic-monitoring-config.md`
+- `MONITORING_CONFIG` = `/Users/wenbo/Documents/project/Wiki/wiki/methodologies/process/topic-monitoring-config.md`
 - `summary_path` = `~/.openclaw/workspace/agents/nick_fury/data/auto_collect_summary.md`
 
 ---
