@@ -348,3 +348,100 @@ date: 2026-07-15
 - ✅ INC-005 + lesson L-49.5 落档
 - ✅ sunday_cron_health_weekly cron 7-19 22:00 首跑（含 L-49.5 自动检测）
 - ⏳ 9 个死脚本 cron + 27 个 disabled delivery 错配 cron 待清理（决策点 A/B/C/D）
+
+### 7-17 14:31 增量（用户决策 C · 批量删除 9 个死脚本 cron）
+
+| ID | 类型 | 标题 | 路径 |
+|:---|:---|:---|:---|
+| inc_2026-07-17_006 | Incident | 用户决策 C · 批量删除 9 个 OpenClaw 死脚本 cron | incidents/2026-07/inc_2026-07-17_006-cron-cleanup-c-partial-9-dead-scripts.md |
+| lesson-2026-07-17-cron-cleanup-decision-tree-l49-6 | Lesson | cron cleanup 决策树（部分清模式 · L-49 升级版）| lessons/by-agent/nick_fury/lesson-2026-07-17-cron-cleanup-decision-tree-l49-6.md |
+
+### 7-17 14:31 修复实证（用户拍 C）
+
+| # | 动作 | 实证 |
+|:--|:--|:--|
+| 1 | §5 安全边界：sqlite 备份 | ✅ 91MB · `.bak-2026-07-17-pre-delete-dead-scripts-1784269807` |
+| 2 | 第 1 次 rm 失败（shell 变量解析 bug）| ❌ invalid cron.remove params: id not found |
+| 3 | 修正后 while 循环逐个 rm | ✅ 9/9 全部成功 |
+| 4 | sqlite 验证总数 | 78 → 69（删 9 个）|
+| 5 | sunday_cron_health_check 复跑 | 问题数 38 → 17（减 21 个）|
+
+### 7-17 14:31 剩余问题（17 个）
+
+- 14 个 disabled cron delivery 错配（保留）
+- 3 个 enabled cron delivery 错配（钟离 2 + nick_fury 历史测试 1）
+
+### 7-17 14:40 增量（INC-006 报告纠错 · escalate 钟离 · L-49.7）
+
+| ID | 类型 | 标题 | 路径 |
+|:---|:---|:---|:---|
+| inc_2026-07-17_007 | Incident | INC-006 报告纠错 · 启用/禁用 tag 区分 + escalate 钟离 | incidents/2026-07/inc_2026-07-17_007-enabled-disabled-tag-misjudge-and-fixup.md |
+| lesson-2026-07-17-inc-report-enabled-disabled-tag-l49-7 | Lesson | INC 报告必加 enabled/disabled tag 区分 | lessons/by-agent/nick_fury/lesson-2026-07-17-inc-report-enabled-disabled-tag-l49-7.md |
+
+### 7-17 14:40 修复实证（用户"请继续" → F escalate）
+
+| # | 动作 | 实证 |
+|:--|:--|:--|
+| 1 | 14:34 INC-006 报告纠错（17 个里实际 2 个 enabled）| ✅ 精确查 sqlite |
+| 2 | 14:34 escalate 钟离（runId d9b3a61c）| ✅ 钟离已接受 |
+| 3 | 14:38 sunday_cron_health 升级版（加 tag + 动作建议）| ✅ 必修 🔴 + 保留 ⚠️ 区分 |
+| 4 | 14:40 INC-007 + L-49.7 落档 | ✅ |
+
+### 7-17 14:40 当前问题精确分类
+
+| 类别 | 数量 | 状态 |
+|:--|:--|:--|
+| **enabled delivery 错配（必修）**| 2（钟离）| ⏳ 等钟离修完回执 |
+| **disabled delivery 错配（保留）**| 15（C 决策）| ✅ 不动 |
+| **dead script（已删）**| 0 | ✅ 候选 #C 二段清完 |
+| **wiki.monthly·refresher 已 disable** | 1 | ✅ 14:18 闭环 |
+
+### 7-17 14:40 L-49 族系（L-49 → L-49.5 → L-49.6 → L-49.7）
+
+```
+L-49   cron edit 必看 argv 完整 JSON          (INC-002)
+L-49.5 argv 必查脚本路径存在性                 (INC-005)
+L-49.6 cron cleanup 决策树（4 类 + 4 动作）    (INC-006)
+L-49.7 INC 报告必加 enabled/disabled tag 区分 (INC-007)
+```
+
+---
+
+### 7-17 14:44 增量（钟离 L-35.1 修复闭环回执 + L-49.8）
+
+**钟离 14:39 CST escalate 回执**：
+
+| ID | 类型 | 标题 | 路径 |
+|:---|:---|:---|:---|
+| **lesson-2026-07-17-id-cite-must-be-complete-l49-8** | Lesson 🆕 | **L-49.8 ID 引用必完整（34 字符）+ grep 原文回填 + escalate 与报告 ID 必一致** | lessons/by-agent/nick_fury/lesson-2026-07-17-id-cite-must-be-complete-l49-8.md ✅ |
+| **INC-2026-07-17-005 偏差修正** | Incident 补完 | **钟离回执揭穿 ID 缺末 6 位 → 已按完整 ID 修正 + 闭环段追加** | incidents/2026-07/inc_2026-07-17_005-l49-5-cron-dead-scripts-and-delivery-mess.md ✅ |
+| **inc_2026-07-17_007 关联** | Incident | **INC-006 纠错 + escalate 钟离 · L-49.7** | incidents/2026-07/inc_2026-07-17_007-enabled-disabled-tag-misjudge-and-fixup.md ✅ |
+
+### 7-17 14:44 钟离修复回执实证（双源）
+
+| 数据源 | 修复前 | 修复后 |
+|:--|:--|:--|
+| **gateway API**（cron get）| to=ou_5550...3446 | to=user:ou_5550...3446 ✅ |
+| **sqlite**（cron_jobs delivery_to 字段）| 同上 | user:ou_5550...3446 ✅ |
+| mode / channel / enabled | announce / feishu / true（保留） | 同（保留）✅ |
+
+### 7-17 14:44 INC-005 全集闭环状态
+
+| 子项 | 状态 | 闭环证据 |
+|:--|:--:|:--|
+| L-49.5 9 死脚本 | ✅ 已删 | 候选 #C（14:29 文博决策）|
+| L-35.1 disabled cron delivery 错配 | ✅ 保留不动 | 候选 #C 决策（disabled 不发 push）|
+| L-35.1 enabled cron delivery 错配（钟离）| ✅ 已修 | 双源实证 14:44 |
+| INC-005 ID 偏差 | ✅ 已补完 | 钟离 14:39 反馈 |
+
+### 7-17 14:44 L-49 族系升级（5 层）
+
+```
+L-49    cron edit 必看 argv 完整 JSON          (INC-002 · 7-15)
+L-49.5  argv 必查脚本路径存在性                 (INC-005 · 7-17)
+L-49.6  cron cleanup 决策树（4 类 + 4 动作）    (INC-006 · 7-17)
+L-49.7  INC 报告必加 enabled/disabled tag 区分 (INC-007 · 7-17)
+L-49.8  ID 引用必完整（grep 原文 + 长度校验）  (本回执驱动 · 7-17)
+```
+
+**族系本质**：从"配置写对"→"路径存在"→"清理决策"→"报告精度"→"标识精度"——逐层把 cron 运维从粗放到精确。
