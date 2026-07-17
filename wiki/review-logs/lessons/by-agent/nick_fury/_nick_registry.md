@@ -324,3 +324,27 @@ date: 2026-07-15
 - 🔴 `钟离-P0阻塞3级升级-1h-20260716`: to 没 `user:` 前缀
 
 → 详见 HEARTBEAT §二十一（候选 #C 启动）
+
+### 7-17 14:22 增量（L-49.5 升级 · 揭穿 38 个新问题）
+
+| ID | 类型 | 标题 | 路径 |
+|:---|:---|:---|:---|
+| inc_2026-07-17_005 | Incident | L-49.5 升级 + L-35.1 全集复查 · 揭穿 38 个 OpenClaw cron 历史遗留问题 | incidents/2026-07/inc_2026-07-17_005-l49-5-cron-dead-scripts-and-delivery-mess.md |
+| lesson-2026-07-17-cron-edit-must-check-script-path-l49-5 | Lesson | cron edit 必查脚本路径存在性（L-49 升级版）| lessons/by-agent/nick_fury/lesson-2026-07-17-cron-edit-must-check-script-path-l49-5.md |
+| sunday_cron_health_check.py upgrade | Script upgrade | L-49 加 Path.exists() 检查 + L-35.1 查全集（enabled+disabled）| scripts/sunday_cron_health_check.py |
+
+### 7-17 14:18 修复实证（用户授权"请修复"）
+
+| # | 动作 | 实证 |
+|:--|:--|:--|
+| 1 | `cron edit e71b27b2 wiki.monthly·refresher` delivery 对齐 L-35 | ✅ channel=feishu, to=user:ou_xxx |
+| 2 | `cron edit e71b27b2 --disable` | ✅ enabled=false（避免 7-30 再爆）|
+| 3 | L-49 升级 → L-49.5（加 Path.exists()）| ✅ 揭穿 9 个死脚本 |
+| 4 | L-35.1 升级 → 查 cron_jobs 全集 78 个 | ✅ 揭穿 38 个问题 |
+
+### 7-17 14:22 防退化闭环
+
+- ✅ scripts/sunday_cron_health_check.py 升级版跑通（38 个问题检出）
+- ✅ INC-005 + lesson L-49.5 落档
+- ✅ sunday_cron_health_weekly cron 7-19 22:00 首跑（含 L-49.5 自动检测）
+- ⏳ 9 个死脚本 cron + 27 个 disabled delivery 错配 cron 待清理（决策点 A/B/C/D）
