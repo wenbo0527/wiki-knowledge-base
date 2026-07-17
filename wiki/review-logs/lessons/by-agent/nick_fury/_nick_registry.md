@@ -302,3 +302,25 @@ date: 2026-07-15
 | **L-49**（cron argv hardcoded）| cron 4367285d 去 --date | 7-19 cron 加 cron argv 复查 |
 | **L-35.1**（INC 治本复查同类）| cron d795c8d4 改 delivery | 7-19 cron 加周日 delivery 全集复查 |
 | **L-13.1**（launchd vs OpenClaw 双跑）| cron da137eba disable | 7-19 cron 加跨机制重复检测 |
+
+### 7-17 09:18 增量（候选 #C · 7-19 cron 防退化脚本）
+
+| ID | 类型 | 标题 | 路径 |
+|:---|:---|:---|:---|
+| sunday_cron_health_check.py | Script | 周日 Cron 健康检查（L-48/L-49/L-35.1/L-13.1 防退化）| scripts/sunday_cron_health_check.py |
+| nick_cron_health_weekly | Cron | 每周日 22:00 跑 `sunday_cron_health_check.py` | OpenClaw cron `ab65ed59-a489-433a-8d7b-5da9b8bfd719` |
+
+**设计要点**：
+- ✅ 直接读 `~/.openclaw/state/openclaw.sqlite` 的 `cron_jobs` 表（1s 拿全部数据 · 不用 N 次 CLI 调用）
+- ✅ 含 4 项 check 函数（L-48 / L-49 / L-35.1 / L-13.1）
+- ✅ 退出码：0=全通过 / 1=有告警 / 2=脚本错误
+- ✅ 主通道 lark-cli 成功 → exit 0（L-36）
+- ✅ 告警写 `data/sunday_alerts/`（兜底）
+
+**L-35.1 实测发现 4 个同类问题**（首跑 09:16）：
+- 🔴 `wiki.monthly·refresher`: channel=last（未修）
+- 🔴 `wiki.monthly·refresher`: to=空
+- 🔴 `钟离-SOP空闲探活-20260715`: to 没 `user:` 前缀
+- 🔴 `钟离-P0阻塞3级升级-1h-20260716`: to 没 `user:` 前缀
+
+→ 详见 HEARTBEAT §二十一（候选 #C 启动）
