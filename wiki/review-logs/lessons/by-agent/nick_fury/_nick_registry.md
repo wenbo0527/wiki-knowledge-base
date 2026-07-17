@@ -265,3 +265,40 @@ date: 2026-07-15
 
 **禁用脚本**: `/tmp/disable_duplicate_launchd_2026-07-14.sh` (82 行, 失败 0)
 **恢复方法**: 见 INC-006 "恢复方法" 段
+
+---
+
+### 7-17 08:55 增量（L-48/L-49/L-35.1/L-13.1 治本族）
+
+| ID | 类型 | 标题 | 路径 |
+|:---|:---|:---|:---|
+| inc_2026-07-17_001 | Incident | Wiki 整理速赢副作用：trash `process/*` 误删目录 → wiki.review 跑挂 5h | incidents/2026-07/inc_2026-07-17_001-wiki-process-trash-sideeffect.md |
+| inc_2026-07-17_002 | Incident | etf.hegang cron argv 硬编码 `--date 2026-06-26` → 报告日期永远 6-26 | incidents/2026-07/inc_2026-07-17_002-etf-hegang-argv-hardcoded-date.md |
+| inc_2026-07-17_003 | Incident | getnote·wiki·sync delivery channel=last 无 to → fail-closed | incidents/2026-07/inc_2026-07-17_003-getnote-delivery-channel-last-fail-closed.md |
+| inc_2026-07-17_004 | Incident | wiki·health·check 双跑（OpenClaw cron + launchd plist 同脚本 9:00）| incidents/2026-07/inc_2026-07-17_004-wiki-health-duplicate-run.md |
+| lesson-2026-07-17-wiki-cleanup-trash-sideeffect-l48 | Lesson | Wiki 清理 trash 副作用必查目录结构（L-41 强化版）| lessons/by-agent/nick_fury/lesson-2026-07-17-wiki-cleanup-trash-sideeffect-l48.md |
+| lesson-2026-07-17-cron-edit-must-read-argv-complete-l49 | Lesson | cron edit 必看 argv 完整 JSON（防 hardcoded 参数）| lessons/by-agent/nick_fury/lesson-2026-07-17-cron-edit-must-read-argv-complete-l49.md |
+| lesson-2026-07-17-inc-fixup-recheck-all-same-class-l35-1 | Lesson | INC 治本后必复查同类全集（L-16 升级版）| lessons/by-agent/nick_fury/lesson-2026-07-17-inc-fixup-recheck-all-same-class-l35-1.md |
+| lesson-2026-07-17-launchd-vs-openclaw-cross-mechanism-dedup-l13-1 | Lesson | launchd 专属决策必 disable 对应 OpenClaw cron | lessons/by-agent/nick_fury/lesson-2026-07-17-launchd-vs-openclaw-cross-mechanism-dedup-l13-1.md |
+
+### 7-17 08:55 闭环（用户决策 B · 完整修复）
+
+**用户 08:50 拍 B**："完整修复 = A 紧急必修 + etf.error 查根因 + wiki.review 查根因 + 双跑去重"
+
+**修复实证**：
+
+| # | cron / 问题 | 修改 | 实证 |
+|:---|:---|:---|:---|
+| 1 | `f3b606ed wiki.review` | mkdir -p `wiki/process/` + 手动跑通 | ✅ 报告 wiki-review-report-20260717.md 生成 |
+| 2 | `4367285d etf.hegang.report` | cron edit 去硬编码 `--date 2026-06-26` | ✅ argv 改为动态日期 |
+| 3 | `d795c8d4 getnote·wiki·sync` | cron edit delivery 改 `mode=none, channel=feishu, to=user:ou_xxx` | ✅ delivery 对齐派蒙模式 |
+| 4 | `da137eba wiki·health·check` | cron disable（保留 launchd plist `com.nickfury.wiki-health-check`）| ✅ enabled=false |
+
+### 7-17 INC/Lesson 关键洞察（按 SOUL §3 系统级归因）
+
+| 教训族 | 治本 | 防退化机制 |
+|:---|:---|:---|
+| **L-48**（trash 副作用）| L-41 强化版 + mkdir 重建 process/ | 7-19 cron 加 Wiki process/* 反向验证 |
+| **L-49**（cron argv hardcoded）| cron 4367285d 去 --date | 7-19 cron 加 cron argv 复查 |
+| **L-35.1**（INC 治本复查同类）| cron d795c8d4 改 delivery | 7-19 cron 加周日 delivery 全集复查 |
+| **L-13.1**（launchd vs OpenClaw 双跑）| cron da137eba disable | 7-19 cron 加跨机制重复检测 |
