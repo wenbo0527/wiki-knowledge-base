@@ -1,10 +1,10 @@
 {
-  "last_run": "2026-07-17T08:52:43.882950",
-  "total_pages": 1651,
+  "last_run": "2026-07-18T03:31:16.370149",
+  "total_pages": 1668,
   "health_score": 65,
-  "health_label": "🟠 一般 (65/100) - 过时页面(15个), 真实死链(16个), 空目录(24个)",
-  "orphaned_count": 1565,
+  "health_label": "🟠 一般 (65/100) - 过时页面(15个), 真实死链(16个), 空目录(23个)",
+  "orphaned_count": 1582,
   "stale_count": 15,
   "dead_links_count": 1087,
-  "empty_dirs_count": 24
+  "empty_dirs_count": 23
 }
