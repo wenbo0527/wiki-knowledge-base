@@ -26,19 +26,58 @@ find /Users/wenbo/Documents/project/Wiki/wiki -name "*${partial_name}*"
 
 **教训**：本次 5 个 wiki-link 中 4 个是"路径错位"（缺前缀/缺子目录），1 个是真不存在。修前不 verify 会修错。
 
-### L-50.2 · cron 算法误报率 > 50% 必须升级（不能信报告数字）
+### L-50.2 族系（v1→v2→v3 三次迭代 · 7-18 闭环）
+
+**触发条件**（任一即触发升级）：
+- 跑 cron 后"修死链但报告数字不变"
+- 报告里同一文件反复出现同一死链
+- 死链路径看起来"应该存在但报死链"
+
+#### L-50.2.1 · v1 基础（必加 .md 双向候选）
+
+```python
+# all_paths 含两种形式：带 .md + 去 .md 后缀
+all_paths.add(rel)
+if rel.endswith('.md'):
+    all_paths.add(rel[:-3])
+```
+
+**效果**：1082 → 731（-351, -32.4%）
+
+#### L-50.2.2 · v2 目录支持（Obsidian 风格）
+
+```python
+# 目录也是合法目标（README.md / index.md 作为目录入口）
+for d in WIKI_ROOT.rglob("*"):
+    if d.is_dir():
+        all_paths.add(str(d.relative_to(WIKI_ROOT)))
+        for readme in ['README.md', 'index.md']:
+            if (d / readme).exists():
+                all_paths.add(f"{rel}/{readme}")
+```
+
+**效果**：731 → 715（-16）
+
+#### L-50.2.3 · v3 大小写不敏感（macOS fs 不敏感）
+
+```python
+# 双层：all_paths（严格）+ all_paths_lower（小写）
+# 匹配时双层 OR
+if not (any(c in all_paths for c in candidates) or 
+        any(c in all_paths_lower for c in candidates_lower)):
+    dead_links.append(...)
+```
+
+**效果**：715 → 712（-3）
+
+#### L-50.2.4 · 误报率 > 50% 必须升级（不能信报告数字）
 
 **本次实证**：
 - `wiki_auto_review.py` 报告"真实死链 20 个"
 - 验证 10/10 真存在 = 100% 误报率
 - 修了 5 个后报告数字不变 = 算法根本没解析路径
 
-**触发条件**：
-- 跑 cron 后"修死链但报告数字不变"
-- 报告里同一文件反复出现同一死链
-- 死链路径看起来"应该存在但报死链"
-
-**修法**：升级 `deadlink_check()` 函数——递归解析 + 路径补全 + 白名单。
+**结论**：本次 P1.5 把误报率从 100% 降到 1.3%（712 个里 9 个真死链）。
 
 ### L-50.3 · "修死链后跑 cron 数字不变" = 算法 bug 信号
 

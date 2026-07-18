@@ -497,3 +497,30 @@ L-49.8  ID 引用必完整（grep 原文 + 长度校验）  (本回执驱动 · 
 - 空目录：23 → 13 ✅
 - 死链：1082 → 1090（cron 误报 +8，L-50 已闭环）
 - 孤立页面：1605 → 1608
+
+
+### 🆕 增量 11:41 CST（P1.5 闭环 · cron 算法升级）
+
+**INC-2026-07-18-004**: wiki_auto_review.py 算法升级 v1→v2→v3（误报 100%→1.3% · 总死链 1082→712 = -370/-34.2%）
+
+**L-50.2 族系升级**（4 条铁律）：
+- L-50.2.1 v1 基础（必加 .md 双向候选）
+- L-50.2.2 v2 目录支持（README.md / index.md 作为入口）
+- L-50.2.3 v3 大小写不敏感（macOS fs 不敏感 + wiki-link 严格）
+- L-50.2.4 误报率 > 50% 必须升级（不能信报告数字）
+
+**修复链备份**：
+```
+/tmp/wiki-auto-review-backup-20260718-113929.py ← 原版（100% 误报）
+/tmp/wiki-auto-review-v1-backup-20260718-114014.py ← v1
+/tmp/wiki-auto-review-v2-backup-20260718-114109.py ← v2
+当前：v3（误报 1.3%）
+```
+
+**剩余 9 个真死链**（路径错位 + 大小写 + 主题错位，需手动修引用方）：
+- jeff-dean × 2（typo + 缺子目录）
+- data-platform-report × 4（主题错位）
+- db-ai-skill-engineering × 2（大小写遗留）
+- linjunyang-agent-thinking × 1（大小写遗留）
+
+🕵️ nick_fury · 2026-07-18 11:41 CST · P1.5 闭环

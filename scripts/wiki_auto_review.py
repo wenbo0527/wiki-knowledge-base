@@ -132,22 +132,79 @@ def check_stale_pages(all_pages: List[Path]) -> Dict:
     return {'count': len(stale), 'pages': stale[:30]}
 
 def check_dead_links(all_pages: List[Path]) -> Dict:
-    """检查死链"""
-    all_paths = {str(p.relative_to(WIKI_ROOT)) for p in all_pages}
-    dead_links = []
+    """检查死链（v3 · L-50.2.3 治本 · 7-18 终版 · 含大小写不敏感）"""
+    # 1. 构建 all_paths：.md + 去 .md + 目录 + 目录/README.md + 大小写不敏感
+    all_paths = set()
+    all_paths_lower = set()
+    for p in all_pages:
+        rel = str(p.relative_to(WIKI_ROOT))
+        all_paths.add(rel)
+        all_paths_lower.add(rel.lower())
+        if rel.endswith('.md'):
+            no_md = rel[:-3]
+            all_paths.add(no_md)
+            all_paths_lower.add(no_md.lower())
+    for d in WIKI_ROOT.rglob("*"):
+        if d.is_dir():
+            rel = str(d.relative_to(WIKI_ROOT))
+            all_paths.add(rel)
+            all_paths_lower.add(rel.lower())
+            for readme in ['README.md', 'index.md']:
+                if (d / readme).exists():
+                    full = f"{rel}/{readme}"
+                    all_paths.add(full)
+                    all_paths_lower.add(full.lower())
+                    no_md = f"{rel}/{readme[:-3]}"
+                    all_paths.add(no_md)
+                    all_paths_lower.add(no_md.lower())
     
+    # 2. 死链 = wiki-link 不在 all_paths（含大小写不敏感匹配）
+    dead_links = []
     for page in all_pages:
         links = get_page_links(page)
         page_rel = str(page.relative_to(WIKI_ROOT))
         for link in links:
             link_path = link.split('|')[0].strip()
-            # 检查是否是本地wiki链接
-            if not link_path.startswith(('http', 'https', 'mailto')):
-                if link_path not in all_paths:
-                    dead_links.append({
-                        'from': page_rel,
-                        'link': link_path
-                    })
+            if link_path.startswith(('http', 'https', 'mailto')):
+                continue
+            
+            # 多候选
+            candidates = {link_path}
+            candidates_lower = {link_path.lower()}
+            if link_path.endswith('.md'):
+                candidates.add(link_path[:-3])
+                candidates_lower.add(link_path[:-3].lower())
+            else:
+                candidates.add(link_path + '.md')
+                candidates_lower.add((link_path + '.md').lower())
+            # 目录候选
+            for readme in ['README.md', 'index.md']:
+                candidates.add(f"{link_path}/{readme}")
+                candidates.add(f"{link_path}/{readme[:-3]}")
+                candidates_lower.add(f"{link_path}/{readme}".lower())
+                candidates_lower.add(f"{link_path}/{readme[:-3]}".lower())
+            # 相对路径解析
+            if not link_path.startswith('/'):
+                try:
+                    rel_path = (page.parent / link_path).resolve()
+                    rel_to_wiki = rel_path.relative_to(WIKI_ROOT.resolve())
+                    rel_str = str(rel_to_wiki)
+                    candidates.add(rel_str)
+                    candidates_lower.add(rel_str.lower())
+                    if rel_str.endswith('.md'):
+                        no_md = rel_str[:-3]
+                        candidates.add(no_md)
+                        candidates_lower.add(no_md.lower())
+                except ValueError:
+                    pass
+            
+            # 双层匹配：严格 + 大小写不敏感
+            if not (any(c in all_paths for c in candidates) or 
+                    any(c in all_paths_lower for c in candidates_lower)):
+                dead_links.append({
+                    'from': page_rel,
+                    'link': link_path
+                })
     
     return {'count': len(dead_links), 'links': dead_links[:20]}
 
