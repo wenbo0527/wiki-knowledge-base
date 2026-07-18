@@ -1,6 +1,6 @@
 # Wiki 自动走查报告
 
-> **执行时间**: 2026-07-18 03:31
+> **执行时间**: 2026-07-18 09:13
 > **执行人**: 尼克·弗瑞 🕵️
 
 ---
@@ -9,20 +9,20 @@
 
 | 项目 | 数值 |
 |------|------|
-| 总文件数 | 1668 |
-| 孤立页面 | 1582 |
+| 总文件数 | 1691 |
+| 孤立页面 | 1605 |
 | 过时页面 | 15 |
-| 死链 | 1087 |
+| 死链 | 1082 |
 | 空目录 | 23 |
 
-**整体健康度**: 🟠 一般 (65/100) - 过时页面(15个), 真实死链(16个), 空目录(23个)
+**整体健康度**: 🟠 一般 (65/100) - 过时页面(15个), 真实死链(20个), 空目录(23个)
 
 ## 二、孤立页面 ⚠️
 
 | 页面 | 天数 | 状态 |
 |------|------|------|
 | WIKI_MAINTENANCE.md | 1 | ✅ active |
-| AGENT_COLLAB_GUIDE.md | 1 | ✅ active |
+| AGENT_COLLAB_GUIDE.md | 0 | ✅ active |
 | WIKI_PRINCIPLES.md | 1 | ✅ active |
 | insights/insight-2026-03-04-财务产品经理的AI时代生存指南.md | 1 | ✅ active |
 | insights/insight-2026-03-12-2026职场生存指南_主业保质_副业风生水起_这套闭环建议收藏_.md | 1 | ✅ active |
@@ -31,7 +31,7 @@
 | insights/insight-2026-03-04-SaaS_末日还是_AI_涅槃_硅谷正在疯传的真相.md | 1 | ✅ active |
 | insights/insight-2026-03-11-从全民狂欢到理性回归_OpenClaw_爆火背后_AI_智能体的产品真相与落地路径.md | 1 | ✅ active |
 | insights/insight-2026-03-04-我用openclaw和自己的技能杂交了5个副业方向_找到了月入过万的机会.md | 1 | ✅ active |
-| ... | | |（共1582个）
+| ... | | |（共1605个）
 
 ## 三、过时页面 ⏰
 
@@ -57,16 +57,16 @@
 
 | 来源文件 | 失效链接 |
 |----------|---------|
-| AGENT_COLLAB_GUIDE.md | insight-YYYYMMDD-xxx |
-| AGENT_COLLAB_GUIDE.md | insights/ai |
-| AGENT_COLLAB_GUIDE.md | concepts/llm-agent |
-| AGENT_COLLAB_GUIDE.md | entities/companies/openai |
-| AGENT_COLLAB_GUIDE.md | people/xxx |
-| AGENT_COLLAB_GUIDE.md | insight-YYYYMMDD-yyy |
 | AGENT_COLLAB_GUIDE.md | topics/ai-agent |
+| AGENT_COLLAB_GUIDE.md | insights/ai |
 | AGENT_COLLAB_GUIDE.md | topics/product-management |
-| AGENT_COLLAB_GUIDE.md | entities/companies/xxx |
-| insights/research/insight-20260429-18year-ai-pioneer.md | insights/insight-20260429-boris-cherney-claude-code |
+| AGENT_COLLAB_GUIDE.md | entities/companies/openai |
+| AGENT_COLLAB_GUIDE.md | concepts/llm-agent |
+| insights/research/insight-20260429-18year-ai-pioneer.md | insights/agent/insight-20260429-karpathy-ai-agent-revolution |
+| insights/research/insight-20260429-18year-ai-pioneer.md | topics/ai-native/agent-engineering |
+| insights/research/technology/insight-20260423-autoresearch-karpathy.md | topics/ai-native/ai-programming |
+| insights/research/technology/insight-20260423-autoresearch-karpathy.md | topics/ai-native/agent-engineering |
+| insights/research/technology/insight-20260427-jeff-dean-tpu-story.md | insights/ai-technology/ai-infrastructure/insight-20260418-ai-energy-challenge |
 
 ## 五、空目录 📁
 
@@ -109,10 +109,10 @@
 
 ## 七、建议行动
 
-- [ ] 处理 1582 个孤立页面（删除或建立链接）
+- [ ] 处理 1605 个孤立页面（删除或建立链接）
 - [ ] 更新 15 个过时页面
-- [ ] 修复 1087 个死链
+- [ ] 修复 1082 个死链
 - [ ] 清理 23 个空目录
 
 ---
-*Wiki自动走查系统 · 尼克·弗瑞 🕵️ · 2026-07-18 03:31*
+*Wiki自动走查系统 · 尼克·弗瑞 🕵️ · 2026-07-18 09:13*

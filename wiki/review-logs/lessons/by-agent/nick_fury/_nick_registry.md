@@ -445,3 +445,34 @@ L-49.8  ID 引用必完整（grep 原文 + 长度校验）  (本回执驱动 · 
 ```
 
 **族系本质**：从"配置写对"→"路径存在"→"清理决策"→"报告精度"→"标识精度"——逐层把 cron 运维从粗放到精确。
+
+
+---
+
+## 📅 2026-07-18 09:14 CST 增量（P0.5 闭环 + L-50 族）
+
+### 🆕 新增 lesson
+- **L-50**: wiki-link 路径规范 + cron 算法升级族（5 条铁律）
+  - L-50.1 wiki-link 路径修复必先 verify 真实位置
+  - L-50.2 cron 算法误报率 > 50% 必须升级
+  - L-50.3 修死链后 cron 数字不变 = 算法 bug 信号
+  - L-50.4 真死链 = 路径错 + 引用方修改
+  - L-50.5 sed BSD bug 换 Python re.sub
+
+### 🆕 新增 INC
+- **INC-2026-07-18-001**: wiki_auto_review.py 死链检测全报 false positive · 10/10 误判（cron 算法 bug）
+- **INC-2026-07-18-002**: 5 个 wiki-link 路径错误修复闭环（让 Obsidian 链接真的可跳转）
+
+### 📊 P0.5 闭环成果
+- 修 5 个原本路径错的 wiki-link（4 路径错位 + 1 文件不存在改写）
+- Backup: `/tmp/wiki-deadlink-fix-20260718-091026/` + `/tmp/wiki-deadlink-fix2-20260718-091236/`
+- cron 算法 bug 揭穿（10/10 误判）· L-50 闭环
+
+### ⏳ 待办
+- **P1** 清 10 个意外空目录（L-48 安全流程，15min）
+- **P1.5** 升级 wiki_auto_review.py 算法（L-50.2 治本，30min）
+- **P2** local-docs-rag 第二波（969 篇剩余）
+- **P3** metadata 全集 verify
+- 🟡 顺手修 GET 笔记 token 过期（早上报告的 P0 风险）
+
+🕵️ nick_fury · 2026-07-18 09:14 CST

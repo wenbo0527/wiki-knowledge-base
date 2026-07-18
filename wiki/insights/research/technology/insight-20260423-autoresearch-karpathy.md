@@ -118,8 +118,8 @@ Karpathy在README开头写了一段"未来预言"：
 
 ## 关联专题
 
-- [[ai-programming/vibe-coding]] - Vibe Coding上下文管理
-- [[ai-native/agent-engineering]] - Agent工程化实践
+- [[topics/ai-native/ai-programming|AI Programming]] - Vibe Coding上下文管理
+- [[topics/ai-native/agent-engineering|Agent工程化]] - Agent工程化实践
 
 ---
 

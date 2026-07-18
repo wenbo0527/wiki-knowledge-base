@@ -222,7 +222,7 @@ Wiki/                              # Wiki根目录
 
 - [[topics/ai-agent|AI Agent]] - {关联说明}
 - [[entities/companies/openai|OpenAI]] - {关联说明}
-- [[insight-YYYYMMDD-xxx]] - {关联说明}
+- `insight-YYYYMMDD-{标题}` - {关联说明}
 
 ## 📝 原始资料
 
@@ -261,13 +261,13 @@ Wiki/                              # Wiki根目录
 
 ### 关键洞察
 
-- [[insight-YYYYMMDD-xxx]] - {关联洞察}
-- [[insight-YYYYMMDD-yyy]] - {关联洞察}
+- `insight-YYYYMMDD-{标题}` - {关联洞察}
+- `insight-YYYYMMDD-{标题}` - {关联洞察}
 
 ### 案例实践
 
 - {公司/产品名称} - {一句话描述}
-  - [[entities/companies/xxx]] - 关联实体
+  - `entities/companies/{公司}` - 关联实体
 
 ### 相关技术/方法
 
@@ -311,7 +311,7 @@ Wiki/                              # Wiki根目录
 ## 🎯 核心信息
 
 - **成立/上线时间**: {时间}
-- **关键人物**: [[people/xxx]]
+- **关键人物**: `entities/people/{人物}`
 - **官方网站**: [{名称}]({URL})
 
 ## 📊 关键数据

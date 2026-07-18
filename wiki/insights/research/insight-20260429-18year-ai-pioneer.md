@@ -79,9 +79,9 @@ date: 2026-05-23
 
 ## 关联知识
 
-- [[ai-native/agent-engineering]] - Agent工程化专题
-- [[insights/insight-20260429-boris-cherney-claude-code]] - Claude Code创建者访谈
-- [[insights/insight-20260429-karpathy-ai-agent-revolution]] - Karpathy AI代理革命
+- [[topics/ai-native/agent-engineering|Agent工程化]] - Agent工程化专题
+- `insights/insight-{date}-{name}-claude-code-访谈` - Claude Code创建者访谈
+- [[insights/agent/insight-20260429-karpathy-ai-agent-revolution|Karpathy AI代理革命]] - Karpathy AI代理革命
 
 ---
 
