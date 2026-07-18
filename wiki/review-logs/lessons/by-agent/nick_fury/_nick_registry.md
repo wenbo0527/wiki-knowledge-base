@@ -678,3 +678,37 @@ L-49.8  ID 引用必完整（grep 原文 + 长度校验）  (本回执驱动 · 
 - 总 Lesson: 累计 30+（L-1 ~ L-51 系列）
 
 🕵️ nick_fury · 2026-07-19 01:13 CST · 凌晨轻量自检日报 · 第 10 次 cron 元数据漂移
+
+### 🆕 增量 2026-07-19 06:20 CST（L-46 治本闭环 · INC-001）
+
+**INC**：INC-2026-07-19-001 (etf.hegang.report card table over limit · 21h+ 治本)
+**Lesson**：L-46.0 ~ L-46.5（5 条铁律族系 · cron stdout 长度 + 飞书 card 表格上限）
+
+**L-46 治本 4 步**（6:15 ~ 6:19 CST · 9 min）：
+1. ✅ fetcher v2.4 加 sina 备用源（4 宽基实时点位恢复 · 4 行业仍 preset）
+2. ✅ cron argv 加 `--no-push`（stdout 5326B → 1116 字符 · 0 表格）
+3. ✅ argv 嵌套 bug 修复（6:17 → 6:18 双层 sh -lc → 单层）
+4. ✅ 端到端验证（exit 0 · 13 行 stdout · 无 markdown 表格）
+
+**健康度增量**（7-19 06:10 → 06:20）：
+- 🟢 etf.hegang.report: error → 待周一 7-20 8:35 cron 自动跑通验证 status=ok
+- 🟢 Cron error 数：1 → 0（如果周一 cron 跑通）| 实际验证 next 7-20 8:35
+- 🟢 C-3 自检：100% 完稿率 (2/2) | SYNC OK 216/216 | KB LIST OK 8/8
+
+**关联教训族系**：
+- L-46.0 cron stdout 长度上限
+- L-46.1 exit code 语义统一
+- L-46.2 partial failure 告警日志
+- L-46.3 md 生成失败 fail-closed
+- L-46.4 cron argv 嵌套防错
+- L-46.5 飞书 card 表格上限 5
+
+**今日 3 节点**：
+- ✅ 06:10 早检 + 治本 9min 完成
+- ⏳ 22:00 nick_cron_health_weekly 首次跑通（16h 后）
+- ⏳ 明天 7-20 8:35 etf.hegang.report cron 自动验证
+
+**累计 INC**：~30+ (从 6-08 起)
+**累计 Lesson**：L-1 ~ L-51 + L-46 系列 (40+)
+
+🕵️ nick_fury · 2026-07-19 06:20 CST · L-46 治本日
