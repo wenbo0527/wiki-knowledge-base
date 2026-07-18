@@ -476,3 +476,24 @@ L-49.8  ID 引用必完整（grep 原文 + 长度校验）  (本回执驱动 · 
 - 🟡 顺手修 GET 笔记 token 过期（早上报告的 P0 风险）
 
 🕵️ nick_fury · 2026-07-18 09:14 CST
+
+
+### 🆕 增量 09:59 CST（P1 闭环）
+
+**INC-2026-07-18-003**: P1 清 10 个意外空目录 · 完美闭环（10/10 rmdir 成功 · 父目录全保留 · 空目录 23→13）
+
+**L-48.5** 🆕: find 必加 `-mindepth 1` 排除目录自身（7-18 实证踩坑：第一次 10/10 SKIP 因为 find -type d 算目录自身）
+
+**剩余 13 个空目录 = 全结构占位**（按预期保留）：
+- review-logs/by-severity/{low,critical,medium}
+- review-logs/archives/2026
+- review-logs/lessons/by-agent/{tony,agatha,wenbo}
+- review-logs/lessons/by-topic/{product,collab,tech}
+- review-logs/incidents/resolved
+- review-logs/reviews/{monthly,weekly}
+
+**wiki_auto_review.py 9:59 输出**：
+- 健康度：🟠 65/100（cron 算法 bug 不变）
+- 空目录：23 → 13 ✅
+- 死链：1082 → 1090（cron 误报 +8，L-50 已闭环）
+- 孤立页面：1605 → 1608
