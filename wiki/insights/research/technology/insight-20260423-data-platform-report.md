@@ -136,16 +136,16 @@ OneService → 统一数据服务
 
 ## 关联概念
 
-- [[concepts/data-lake]] - 数据湖
-- [[concepts/data-warehouse]] - 数据仓库
+- [[insights/ai-technology/insight-20260426-gravitino-metadata-lake|元数据湖]] - 数据湖
+- [[insights/agent/insight-20260622-hermes-rule-pack-data-warehouse|数据仓库]] - 数据仓库
 - [[topics/fintech/data-platform]] - 金融数据中台
 
 ---
 
 ## 关联专题
 
-- [[fintech/data-platform]] - 数据平台专题
-- [[fintech/data-governance]] - 数据治理专题
+- [[topics/fintech/data-platform|金融数据平台]] - 数据平台专题
+- [[topics/fintech/data-platform|数据平台治理]] - 数据治理专题
 
 ---
 

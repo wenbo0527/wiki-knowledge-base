@@ -102,7 +102,7 @@ date: 2026-04-26
 ## 🔗 关联专题
 
 - [[AI Native/Agent Engineering]] - Harness Engineering核心概念
-- [[AI Native/Multi-Agent Systems]] - 多智能体系统
+- [[topics/ai-agent/topic-04-multi-agent|Multi-Agent 系统]] - 多智能体系统
 - [[AI Native/AI-Agent Design]] - AI Agent设计模式
 
 ---

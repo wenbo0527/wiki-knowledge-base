@@ -1,6 +1,6 @@
 # Wiki 自动走查报告
 
-> **执行时间**: 2026-07-18 11:41
+> **执行时间**: 2026-07-18 11:58
 > **执行人**: 尼克·弗瑞 🕵️
 
 ---
@@ -9,10 +9,10 @@
 
 | 项目 | 数值 |
 |------|------|
-| 总文件数 | 1696 |
-| 孤立页面 | 1610 |
+| 总文件数 | 1697 |
+| 孤立页面 | 1611 |
 | 过时页面 | 15 |
-| 死链 | 712 |
+| 死链 | 703 |
 | 空目录 | 13 |
 
 **整体健康度**: 🟠 一般 (65/100) - 过时页面(15个), 真实死链(20个), 空目录(13个)
@@ -31,7 +31,7 @@
 | insights/insight-2026-03-04-SaaS_末日还是_AI_涅槃_硅谷正在疯传的真相.md | 1 | ✅ active |
 | insights/insight-2026-03-11-从全民狂欢到理性回归_OpenClaw_爆火背后_AI_智能体的产品真相与落地路径.md | 1 | ✅ active |
 | insights/insight-2026-03-04-我用openclaw和自己的技能杂交了5个副业方向_找到了月入过万的机会.md | 1 | ✅ active |
-| ... | | |（共1610个）
+| ... | | |（共1611个）
 
 ## 三、过时页面 ⏰
 
@@ -57,16 +57,16 @@
 
 | 来源文件 | 失效链接 |
 |----------|---------|
-| insights/research/technology/insight-20260427-jeff-dean-tpu-story.md | topic-ai-native/ai-infrastructure |
-| insights/research/technology/insight-20260427-jeff-dean-tpu-story.md | insight-20260417-harness-engineering |
-| insights/research/technology/insight-20260423-data-platform-report.md | fintech/data-governance |
-| insights/research/technology/insight-20260423-data-platform-report.md | concepts/data-warehouse |
-| insights/research/technology/insight-20260423-data-platform-report.md | concepts/data-lake |
-| insights/research/technology/insight-20260423-data-platform-report.md | fintech/data-platform |
-| insights/ai-technology/insight-20260426-db-ai-skill-engineering.md | AI Native/Agent Engineering |
-| insights/ai-technology/insight-20260426-db-ai-skill-engineering.md | AI Native/AI-Agent Design |
-| insights/ai-technology/insight-20260426-linjunyang-agent-thinking.md | AI Native/Multi-Agent Systems |
 | insights/ai-technology/insight-20260426-linjunyang-agent-thinking.md | AI Native/Agent Engineering |
+| insights/ai-technology/insight-20260426-linjunyang-agent-thinking.md | AI Native/AI-Agent Design |
+| insights/ai-technology/insight-20260426-us-china-tech-stocks.md | Tech-Industry/AI-Investment |
+| insights/ai-technology/insight-20260426-us-china-tech-stocks.md | Investment/China-A-Share |
+| insights/ai-technology/insight-20260426-free-energy-principle.md | Concepts/Bayesian-Thinking |
+| insights/ai-technology/insight-20260426-adele-ai-performance.md | AI Native/Agent Engineering |
+| insights/ai-technology/insight-20260426-adele-ai-performance.md | Concepts/AI-System-Reliability |
+| insights/ai-technology/insight-20260426-adele-ai-performance.md | AI Native/AI-Evaluation |
+| insights/ai-technology/insight-20260426-vibe-analyzing-asktable.md | AI Native/Agent Engineering |
+| insights/ai-technology/insight-20260426-vibe-analyzing-asktable.md | Fintech/Data Analysis |
 
 ## 五、空目录 📁
 
@@ -99,10 +99,10 @@
 
 ## 七、建议行动
 
-- [ ] 处理 1610 个孤立页面（删除或建立链接）
+- [ ] 处理 1611 个孤立页面（删除或建立链接）
 - [ ] 更新 15 个过时页面
-- [ ] 修复 712 个死链
+- [ ] 修复 703 个死链
 - [ ] 清理 13 个空目录
 
 ---
-*Wiki自动走查系统 · 尼克·弗瑞 🕵️ · 2026-07-18 11:41*
+*Wiki自动走查系统 · 尼克·弗瑞 🕵️ · 2026-07-18 11:58*

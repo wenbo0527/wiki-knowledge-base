@@ -144,3 +144,28 @@ L-50   wiki-link 路径规范 + cron 算法升级族    (7-18) ← 本次
 ---
 
 *🕵️ 尼克·弗瑞 · 2026-07-18 09:14 CST · L-50 闭环*
+
+---
+
+## L-50.8 · wiki-link regex 必允许可选别名 \|xxx（7-18 实证踩坑）
+
+**踩坑实证（INC-2026-07-18-005）**：
+
+```python
+# ❌ 错误：假设 wiki-link 结尾是 ]]
+re.sub(r'\[\[topic-ai-native/ai-infrastructure\]\]', ..., line)
+# 实际：'[[topic-ai-native/ai-infrastructure|AI基础设施专题]]'
+# 结果：不匹配
+
+# ✅ 正确：允许可选别名
+re.sub(r'\[\[topic-ai-native/ai-infrastructure(\|[^\]]*)?\]\]', ..., line)
+```
+
+**教训**：
+
+所有 wiki-link regex 必允许可选的别名格式 `\|xxx`：
+- 形式：`\[\[path(\|[^\]]*)?\]\]`
+- `\|[^\]]*` 匹配 `|` 开头 + 任意字符 + 直到 `]]`
+- 整个 `(\|...)?` 可选（不强求别名）
+
+**关联**：INC-2026-07-18-005 P1.5 第一次跑时 jeff-dean 2 个 wiki-link 没替换上 → 加 alias 支持后修复。

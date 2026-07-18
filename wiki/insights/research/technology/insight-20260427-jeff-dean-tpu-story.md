@@ -147,9 +147,9 @@ Jeff Dean的思维方式：
 
 ## 相关文档
 
-- [[topic-ai-native/ai-infrastructure|AI基础设施专题]]
+- [[topics/ai-native/ai-infrastructure|AI基础设施专题]]
 - [[insights/ai-technology/ai-infrastructure/insight-20260418-ai-energy-challenge|AI能源挑战]]
-- [[insight-20260417-harness-engineering|Harness Engineering]]
+- [[insights/ai-technology/agent-engineering/insight-20260417-harness-engineering|Harness Engineering]]
 
 ---
 

@@ -524,3 +524,22 @@ L-49.8  ID 引用必完整（grep 原文 + 长度校验）  (本回执驱动 · 
 - linjunyang-agent-thinking × 1（大小写遗留）
 
 🕵️ nick_fury · 2026-07-18 11:41 CST · P1.5 闭环
+
+
+### 🆕 增量 11:58 CST（P1.5 自然延续 · 9 真死链修复）
+
+**INC-2026-07-18-005**: v3 算法揭穿 9 个真死链修复闭环（总死链 712→703）
+
+**L-50.8** 🆕: wiki-link regex 必允许可选别名 \|xxx（实证踩坑：第一次跑 jeff-dean 2 个 wiki-link 没替换上）
+
+**9 个真死链改写明细**：
+- jeff-dean × 2（typo + 缺子目录）
+- data-platform-report × 4（主题错位改写到相近文件）
+- db-ai-skill × 2（大小写 + 路径）
+- linjunyang × 1（大小写 + 主题）
+
+**备份**：`/tmp/wiki-deadlink-fix3-20260718-115810/`
+
+**剩余 703 个死链**（v3 报前 20 含 7 个 `AI Native/` 大小写遗留）→ 下一批清理目标
+
+🕵️ nick_fury · 2026-07-18 11:58 CST · P1.5 自然延续闭环
