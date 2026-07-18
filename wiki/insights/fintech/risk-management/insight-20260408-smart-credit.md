@@ -121,9 +121,9 @@ date: 2026-04-24
 
 ## 相关主题
 
-- [[risk-management]] - 风控系统
-- [[intelligent-systems]] - 智能系统
-- [[data-platform]] - 数据中台
+- [[topics/fintech/risk-management]] - 风控系统
+- [[topics/fintech/intelligent-systems]] - 智能系统
+- [[topics/fintech/data-platform]] - 数据中台
 
 ## 来源
 

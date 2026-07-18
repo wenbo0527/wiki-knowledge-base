@@ -63,7 +63,7 @@ date: 2026-05-14
 
 ## 相关洞察
 
-- [[insight-20260514-spec-driven-development]]
+- [[insights/ai-coding/insight-20260514-spec-driven-development]]
 
 ---
 

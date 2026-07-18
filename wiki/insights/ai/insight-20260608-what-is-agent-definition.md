@@ -70,8 +70,8 @@ Agent（能做）：
 
 ## 关联文档
 
-- [[insight-20260608-harness-engineering-third-paradigm|Harness Engineering 范式]]
-- [[insight-20260608-skill-vs-subagent-architecture|Skill vs Sub-Agent 决策]]
+- [[insights/ai/insight-20260608-harness-engineering-third-paradigm|Harness Engineering 范式]]
+- [[insights/agent/insight-20260608-skill-vs-subagent-architecture|Skill vs Sub-Agent 决策]]
 
 ---
 

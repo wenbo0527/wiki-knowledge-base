@@ -42,9 +42,9 @@ Anthropic同时被五角大楼封杀和白宫推荐，形成矛盾局面。
 
 ## 相关洞察
 
-- [[insight-20260418-anthropic-capability-stratification]] - Opus 4.7能力分级
-- [[insight-20260418-bengio-ai-self-preservation]] - Bengio警告
-- [[insight-20260418-pentagon-paradox]] - Pentagon Paradox分析
+- [[insights/ai-technology/agent-engineering/insight-20260418-anthropic-capability-stratification]] - Opus 4.7能力分级
+- [[insights/ai-technology/agent-engineering/insight-20260418-bengio-ai-self-preservation]] - Bengio警告
+- [[insights/ai-technology/ai-safety-regulation/insight-20260418-pentagon-paradox]] - Pentagon Paradox分析
 
 ---
 

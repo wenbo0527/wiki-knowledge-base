@@ -151,7 +151,7 @@ date: 2026-04-24
 **Ingest处理**:
 - ✅ 价值评估: ⭐⭐⭐⭐⭐ (5星 - 极高价值，开创新领域)
 - ✅ 入库处理: 创建Insight文档 + 更新关联Topic
-- ✅ 双向链接: [[ai-native]] | [[knowledge-management]] | [[palantir]]
+- ✅ 双向链接: [[ai-native]] | [[topics/knowledge-management]] | [[palantir]]
 - ✅ 处理时间: 2026-04-21
 - ✅ 处理Agent: 尼克·弗瑞
 

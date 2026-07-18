@@ -90,9 +90,9 @@ date: 2026-04-24
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260418-a16z-capital-flywheel]] - a16z资本飞轮
-- [[insight-20260418-perplexity-computer-pivot]] - Perplexity验证商业化
-- [[insight-20260418-digital-employee-industry]] - 数字员工产业
+- [[insights/ai-technology/agent-engineering/insight-20260418-a16z-capital-flywheel]] - a16z资本飞轮
+- [[insights/ai-technology/agent-engineering/insight-20260418-perplexity-computer-pivot]] - Perplexity验证商业化
+- [[insights/ai-technology/agent-engineering/insight-20260418-digital-employee-industry]] - 数字员工产业
 
 ---
 

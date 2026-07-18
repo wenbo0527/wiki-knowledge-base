@@ -235,8 +235,8 @@ ORDER BY s.priority, e.id
 
 ## 🔗 关联内容
 
-- [[product-management-methodology|产品管理方法论]] - 四层架构详解
-- [[product-management-toolchain|工具链与集成]] - 技术实现细节
+- [[topics/product-management/product-management-methodology|产品管理方法论]] - 四层架构详解
+- [[topics/product-management/product-management-toolchain|工具链与集成]] - 技术实现细节
 - [[topics/fintech/data-platform|数据中台]] - 数据中台实践参考
 - [[concepts/llm-agent|LLM Agent]] - AI 拆解技术基础
 

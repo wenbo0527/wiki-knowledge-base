@@ -132,7 +132,7 @@ def check_stale_pages(all_pages: List[Path]) -> Dict:
     return {'count': len(stale), 'pages': stale[:30]}
 
 def check_dead_links(all_pages: List[Path]) -> Dict:
-    """检查死链（v3 · L-50.2.3 治本 · 7-18 终版 · 含大小写不敏感）"""
+    """检查死链（v4 · L-50.2.4 治本 · 7-18 升级 · ../ 跳出 wiki 根支持）"""
     # 1. 构建 all_paths：.md + 去 .md + 目录 + 目录/README.md + 大小写不敏感
     all_paths = set()
     all_paths_lower = set()
@@ -158,7 +158,7 @@ def check_dead_links(all_pages: List[Path]) -> Dict:
                     all_paths.add(no_md)
                     all_paths_lower.add(no_md.lower())
     
-    # 2. 死链 = wiki-link 不在 all_paths（含大小写不敏感匹配）
+    # 2. 死链 = wiki-link 不在 all_paths（含 ../ 跳出 + 外部引用支持）
     dead_links = []
     for page in all_pages:
         links = get_page_links(page)
@@ -183,19 +183,27 @@ def check_dead_links(all_pages: List[Path]) -> Dict:
                 candidates.add(f"{link_path}/{readme[:-3]}")
                 candidates_lower.add(f"{link_path}/{readme}".lower())
                 candidates_lower.add(f"{link_path}/{readme[:-3]}".lower())
-            # 相对路径解析
-            if not link_path.startswith('/'):
+            
+            # v4 新增：../ 相对路径解析（Obsidian 风格 + 跳出 wiki 根支持）
+            if link_path.startswith('../') or link_path.startswith('./'):
+                # 尝试解析（不抛 ValueError）
                 try:
-                    rel_path = (page.parent / link_path).resolve()
-                    rel_to_wiki = rel_path.relative_to(WIKI_ROOT.resolve())
-                    rel_str = str(rel_to_wiki)
-                    candidates.add(rel_str)
-                    candidates_lower.add(rel_str.lower())
-                    if rel_str.endswith('.md'):
-                        no_md = rel_str[:-3]
-                        candidates.add(no_md)
-                        candidates_lower.add(no_md.lower())
-                except ValueError:
+                    full_path = (page.parent / link_path).resolve()
+                    # 在 wiki 内
+                    full_path_str = str(full_path)
+                    if full_path_str.startswith(str(WIKI_ROOT.resolve())):
+                        rel_str = str(full_path.relative_to(WIKI_ROOT.resolve()))
+                        candidates.add(rel_str)
+                        candidates_lower.add(rel_str.lower())
+                        if rel_str.endswith('.md'):
+                            no_md = rel_str[:-3]
+                            candidates.add(no_md)
+                            candidates_lower.add(no_md.lower())
+                    else:
+                        # 跳出 wiki 根：检查文件是否真实存在（外部引用）
+                        if full_path.exists():
+                            continue  # 外部引用且存在 → 跳过不算死链
+                except Exception:
                     pass
             
             # 双层匹配：严格 + 大小写不敏感

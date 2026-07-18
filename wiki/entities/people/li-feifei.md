@@ -102,8 +102,8 @@ date: 2026-04-24
 
 ## 相关人物
 
-- [[andrew-ng]] - 机器学习教育家，Google Brain创始人
-- [[karpathy]] - 深度学习先驱，OpenAI研究员
+- [[entities/people/andrew-ng]] - 机器学习教育家，Google Brain创始人
+- [[entities/people/karpathy]] - 深度学习先驱，OpenAI研究员
 
 ---
 

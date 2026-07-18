@@ -263,8 +263,8 @@ FEISHU_APP_TOKEN: ANhxbU3MDabWsysyeI8c4t0mnfe
 
 ## 📚 关联内容
 
-- [[product-management-ontology|本体论设计]] - 知识图谱 Schema 详解
-- [[product-management-cases|实践案例]] - 具体 Epic 拆解案例
+- [[topics/product-management/product-management-ontology|本体论设计]] - 知识图谱 Schema 详解
+- [[topics/product-management/product-management-cases|实践案例]] - 具体 Epic 拆解案例
 - [[concepts/llm-agent|LLM Agent]] - AI 拆解技术基础
 - [[concepts/rag|RAG]] - 检索增强生成技术
 - [[topics/ai-native/agent-engineering|Agent 工程]] - Agent 开发最佳实践

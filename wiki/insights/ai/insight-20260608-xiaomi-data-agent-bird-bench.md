@@ -66,7 +66,7 @@ Text-to-SQL 难点：
 
 - [[../ai-strategy/insight-20260520-databricks-data-agent-research|Databricks Data Agent 调研]]
 - [[../ai-technology/insight-20260520-agent-skills-landscape-research|Agent Skills 全景研究]]
-- [[../../../../05_AgentOutput/agent_work/Nick/02_最佳实践/Agent评估|研发团队 2 评估]]
+- [[../../../../../05_AgentOutput/agent_work/Nick/02_最佳实践/Agent评估|研发团队 2 评估]]
 
 ---
 

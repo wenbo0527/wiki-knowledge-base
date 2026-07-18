@@ -348,7 +348,7 @@ CPU           →     模型            →     原始算力
 
 ### 延伸阅读
 
-- [[insight-20260422-context-compression-methodology]] - 完整对比分析
+- [[insights/agent/insight-20260422-context-compression-methodology]] - 完整对比分析
 - 原文：https://mp.weixin.qq.com/s/h5QyZ07G7Kj9xi2gUTltMw
 
 ### 学习资源
@@ -410,7 +410,7 @@ Layer 4: 事件通信协议   ── 用户点了我怎么办
 
 ### 延伸阅读
 
-- [[insight-20260422-card-protocol]] - 完整卡片协议方案
+- [[insights/ai-technology/agent-engineering/insight-20260422-card-protocol]] - 完整卡片协议方案
 - A2UI: https://a2ui.org/
 - MCP Apps: https://modelcontextprotocol.io/extensions/apps/overview
 
@@ -425,26 +425,26 @@ Layer 4: 事件通信协议   ── 用户点了我怎么办
 
 ## 相关页面
 
-- [[tech-ai]] - AI专题入口
-- [[ai-programming]] - AI编程实践
-- [[ai-application]] - AI行业应用
+- [[topics/tech-ai]] - AI专题入口
+- [[topics/ai-native/ai-programming]] - AI编程实践
+- [[topics/ai-native/ai-application]] - AI行业应用
 
 ## 相关洞察
 
-- [[insight-20260409-agent-framework]] - Agent框架选型洞察
-- [[insight-20260417-harness-engineering]] - Harness Engineering总览
-- [[insight-20260417-harness-engineering-deep-research]] - Harness落地实践汇总
-- [[insight-20260417-mitchell-ai-adoption-journey]] - Mitchell六阶段采纳模型
-- [[insight-20260417-claude-code-agent-farm]] - Claude Code Agent Farm实战
-- [[insight-20260422-card-protocol]] - 卡片式对话协议方案(淘宝)
-- [[insight-20260423-umodel-code-knowledge-graph]] - ⭐⭐⭐⭐⭐ UModel代码知识图谱（阿里云）
-- [[insight-20260428-simon-willison-subagents]] - ⭐⭐⭐⭐⭐ Subagents子代理模式
-- [[insight-20260428-simon-willison-anti-patterns]] - ⭐⭐⭐⭐⭐ Anti-patterns反模式警示
-- [[insight-20260428-simon-willison-linear-walkthroughs]] - ⭐⭐⭐⭐⭐ Linear Walkthroughs
-- [[insight-20260428-simon-willison-code-is-cheap]] - ⭐⭐⭐⭐ 代码变得廉价
-- [[insight-20260428-simon-willison-better-code]] - ⭐⭐⭐⭐ AI应产出更好代码
-- [[insight-20260428-simon-willison-hoard-things]] - ⭐⭐⭐⭐ 囤积知识模式
-- [[insight-20260427-agent-mcp-skills-testing]] - ⭐⭐⭐⭐ Agent+MCP+Skills重构自动化测试
+- [[insights/fintech/llm-finance/insight-20260409-agent-framework]] - Agent框架选型洞察
+- [[insights/ai-technology/agent-engineering/insight-20260417-harness-engineering]] - Harness Engineering总览
+- [[insights/ai-technology/agent-engineering/insight-20260417-harness-engineering-deep-research]] - Harness落地实践汇总
+- [[insights/ai-technology/agent-engineering/insight-20260417-mitchell-ai-adoption-journey]] - Mitchell六阶段采纳模型
+- [[insights/ai-technology/agent-engineering/insight-20260417-claude-code-agent-farm]] - Claude Code Agent Farm实战
+- [[insights/ai-technology/agent-engineering/insight-20260422-card-protocol]] - 卡片式对话协议方案(淘宝)
+- [[insights/technology/insight-20260423-umodel-code-knowledge-graph]] - ⭐⭐⭐⭐⭐ UModel代码知识图谱（阿里云）
+- [[insights/technology/insight-20260428-simon-willison-subagents]] - ⭐⭐⭐⭐⭐ Subagents子代理模式
+- [[insights/technology/insight-20260428-simon-willison-anti-patterns]] - ⭐⭐⭐⭐⭐ Anti-patterns反模式警示
+- [[insights/technology/insight-20260428-simon-willison-linear-walkthroughs]] - ⭐⭐⭐⭐⭐ Linear Walkthroughs
+- [[insights/technology/insight-20260428-simon-willison-code-is-cheap]] - ⭐⭐⭐⭐ 代码变得廉价
+- [[insights/technology/insight-20260428-simon-willison-better-code]] - ⭐⭐⭐⭐ AI应产出更好代码
+- [[insights/technology/insight-20260428-simon-willison-hoard-things]] - ⭐⭐⭐⭐ 囤积知识模式
+- [[insights/agent/insight-20260427-agent-mcp-skills-testing]] - ⭐⭐⭐⭐ Agent+MCP+Skills重构自动化测试
 
 ---
 

@@ -167,7 +167,7 @@ date: 2026-05-23
 
 - [[topics/fintech/compliance|合规专题]] (可作为首个案例填充)
 - [[topics/fintech/consumer-finance|消费金融专题]] (行业影响)
-- [[insight-20260427-leo-cdp-framework-analysis|Leo CDP框架分析]] (营销合规)
+- [[insights/fintech/insight-20260427-leo-cdp-framework-analysis|Leo CDP框架分析]] (营销合规)
 
 ---
 

@@ -157,7 +157,7 @@ date: 2026-05-23
 
 ### 3.2 RepoKG代码知识图谱
 
-**来源**：[[insight-20260511-code-knowledge-graph-repo-doc]]
+**来源**：[[insights/technology/insight-20260511-code-knowledge-graph-repo-doc]]
 
 **四步闭环**：
 ```
@@ -296,9 +296,9 @@ date: 2026-05-23
 
 | 文档 | 说明 |
 |:---|:---|
-| [[insight-20260429-improve-code-understanding]] | 代码理解能力提升方案 |
-| [[insight-20260418-karpathy-claude-md-agent-config]] | Karpathy CLAUDE.md范式 |
-| [[insight-20260511-code-knowledge-graph-repo-doc]] | RepoDoc代码知识图谱 |
+| [[insights/ai-coding/insight-20260429-improve-code-understanding]] | 代码理解能力提升方案 |
+| [[insights/ai-technology/agent-engineering/insight-20260418-karpathy-claude-md-agent-config]] | Karpathy CLAUDE.md范式 |
+| [[insights/technology/insight-20260511-code-knowledge-graph-repo-doc]] | RepoDoc代码知识图谱 |
 | [[../skills/code-examples/context-management/README.md]] | 上下文管理 |
 
 ---

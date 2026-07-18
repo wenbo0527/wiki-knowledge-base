@@ -82,7 +82,7 @@ date: 2026-06-30
 
 ## 关联文档
 
-- [[insight-20260608-harness-engineering-third-paradigm|Harness Engineering 范式]]
+- [[insights/ai/insight-20260608-harness-engineering-third-paradigm|Harness Engineering 范式]]
 - [[../ai/insight-20260608-claude-code-context-three-paradigms|Claude Code 上下文三范式]]
 
 ---

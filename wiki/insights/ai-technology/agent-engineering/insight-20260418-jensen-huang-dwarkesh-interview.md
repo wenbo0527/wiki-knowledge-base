@@ -151,9 +151,9 @@ NVIDIA 的成功不只是芯片设计，而是：
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260417-harness-engineering]] - Harness Engineering（与AI芯片基础设施相关）
-- [[insight-20260418-digital-employee-industry]] - 数字员工产业分析
-- [[insight-20260418-ai-three-fundamental-debates]] - AI大神分歧（Scaling Law讨论）
+- [[insights/ai-technology/agent-engineering/insight-20260417-harness-engineering]] - Harness Engineering（与AI芯片基础设施相关）
+- [[insights/ai-technology/agent-engineering/insight-20260418-digital-employee-industry]] - 数字员工产业分析
+- [[insights/ai-technology/agent-engineering/insight-20260418-ai-three-fundamental-debates]] - AI大神分歧（Scaling Law讨论）
 
 ---
 

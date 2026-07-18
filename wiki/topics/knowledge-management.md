@@ -104,9 +104,9 @@ date: 2026-04-24
 
 ## 相关页面
 
-- [[llm-wiki-pattern]] - LLM Wiki模式
-- [[rag]] - RAG技术
-- [[karpathy]] - Andrej Karpathy
+- [[concepts/llm-wiki-pattern]] - LLM Wiki模式
+- [[concepts/rag]] - RAG技术
+- [[entities/people/karpathy]] - Andrej Karpathy
 
 ## 相关洞察
 

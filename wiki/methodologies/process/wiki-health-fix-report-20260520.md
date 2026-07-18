@@ -34,7 +34,7 @@ date: 2026-05-23
 | [[entity-id]] | [[entities/companies/openai|OpenAI]] |
 | [[concept-id]] | [[concepts/llm-agent|LLM Agent]] |
 | [[requirements]] | [[topics/product-management|产品管理]] |
-| [[architecture]] | [[topics/ai-agent|AI Agent]] |
+| [[topics/palantir-ontology/platform/architecture]] | [[topics/ai-agent|AI Agent]] |
 | [[intelligence]] | [[insights/ai|AI洞察]] |
 
 ### 过时页面已审核

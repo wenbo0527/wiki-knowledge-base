@@ -112,7 +112,7 @@ Gravitino社区的终极目标是通过实现**MCP（Model Context Protocol）**
 
 ## 🔗 关联专题
 
-- [[AI Native/Agent Engineering]] - AI Agent基础设施
+- [[topics/ai-native/agent-engineering|Agent 工程化]] - AI Agent基础设施
 - [[Concepts/Data-Governance]] - 数据治理
 - [[AI Native/AI-Middleware]] - AI中间件
 

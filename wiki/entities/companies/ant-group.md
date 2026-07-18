@@ -76,13 +76,13 @@ date: 2026-04-24
 
 ## 在最佳实践中的引用
 
-- [[data-platform]] - OneData数据中台方法论
-- [[intelligent-systems]] - 支小宝智能客服
-- [[risk-management]] - 智能风控
+- [[topics/fintech/data-platform]] - OneData数据中台方法论
+- [[topics/fintech/intelligent-systems]] - 支小宝智能客服
+- [[topics/fintech/risk-management]] - 智能风控
 
 ## 相关实体
 
-- [[alipay]] - 支付宝
+- [[entities/companies/alipay]] - 支付宝
 
 ## 来源
 

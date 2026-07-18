@@ -56,9 +56,9 @@ date: 2026-04-24
 
 ## 相关实体
 
-- [[ant-group]] - 母公司
-- [[intelligent-systems]] - 智能客服实践
-- [[risk-management]] - 风控能力
+- [[entities/companies/ant-group]] - 母公司
+- [[topics/fintech/intelligent-systems]] - 智能客服实践
+- [[topics/fintech/risk-management]] - 风控能力
 
 ---
 

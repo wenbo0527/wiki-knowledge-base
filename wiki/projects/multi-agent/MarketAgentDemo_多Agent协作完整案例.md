@@ -806,9 +806,9 @@ TASK创建 ──→ pending ──→ in_progress ──→ done ──→ clos
 
 | 文档 | 说明 | 关联度 |
 |:---|:---|:---|
-| [[Agent团队架构与工作流]] | 团队架构与系统拓扑 | ⭐⭐⭐⭐⭐ |
-| [[Agent任务系统用户手册]] | SQLite任务系统操作 | ⭐⭐⭐⭐⭐ |
-| [[Agent任务管理注册框架]] | 任务注册规范 | ⭐⭐⭐⭐ |
+| [[topics/ai-agent/Agent团队架构与工作流]] | 团队架构与系统拓扑 | ⭐⭐⭐⭐⭐ |
+| [[topics/ai-agent/Agent任务系统用户手册]] | SQLite任务系统操作 | ⭐⭐⭐⭐⭐ |
+| [[topics/ai-agent/Agent任务管理注册框架]] | 任务注册规范 | ⭐⭐⭐⭐ |
 | [[knowledge-base/README]] | 知识库首页 | ⭐⭐⭐⭐ |
 | [[ai-data-query]] | AI问数系统（相关项目） | ⭐⭐⭐ |
 

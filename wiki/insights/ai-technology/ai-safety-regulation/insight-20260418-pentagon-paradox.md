@@ -88,9 +88,9 @@ date: 2026-04-24
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260418-anthropic-capability-stratification]] - Anthropic能力分级
-- [[insight-20260418-bengio-ai-self-preservation]] - Bengio警告
-- [[ai-safety-regulation]] - AI安全/监管Topic
+- [[insights/ai-technology/agent-engineering/insight-20260418-anthropic-capability-stratification]] - Anthropic能力分级
+- [[insights/ai-technology/agent-engineering/insight-20260418-bengio-ai-self-preservation]] - Bengio警告
+- [[topics/ai-native/ai-safety-regulation]] - AI安全/监管Topic
 
 ---
 

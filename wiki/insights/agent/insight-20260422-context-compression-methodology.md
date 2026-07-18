@@ -22,7 +22,7 @@ date: 2026-05-23
 - **发布时间**: 2026-03-31
 - **价值评级**: ⭐⭐⭐⭐⭐ (5/5)
 - **标签**: #上下文管理 #Agent工程 #工程实践
-- **关联专题**: [[agent-engineering]] | [[harness-engineering]]
+- **关联专题**: [[topics/ai-native/agent-engineering]] | [[harness-engineering]]
 
 ---
 
@@ -168,7 +168,7 @@ ingest（摄入）→ assemble（组装）→ compact（压缩）
 
 | 资源 | 说明 |
 |------|------|
-| [[agent-engineering]] | Agent工程实践专题（已新增上下文压缩章节） |
+| [[topics/ai-native/agent-engineering]] | Agent工程实践专题（已新增上下文压缩章节） |
 | Harness Engineering insight | 上下文压缩是Harness的核心组成部分 |
 
 ---

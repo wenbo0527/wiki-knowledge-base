@@ -55,8 +55,8 @@ Apple Inc. (NASDAQ: AAPL) 是全球市值最高的消费电子公司，以iPhone
 
 ## 相关页面
 
-- [[a-share]] - A股市场
-- [[karpathy]] - 曾与Karpathy相关讨论
+- [[entities/markets/a-share]] - A股市场
+- [[entities/people/karpathy]] - 曾与Karpathy相关讨论
 
 ## 来源引用
 

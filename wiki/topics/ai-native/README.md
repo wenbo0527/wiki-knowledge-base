@@ -122,7 +122,7 @@ date: 2026-04-24
 
 ## 关联专题
 
-- [[tech-ai]] - AI技术总览
+- [[topics/tech-ai]] - AI技术总览
 - [[ai-native]] - AI Native软件开发
 - [[product-management]] - 产品管理（专题06 VIBE CODING）
 

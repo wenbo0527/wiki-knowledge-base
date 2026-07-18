@@ -40,7 +40,7 @@ date: 2026-04-24
 
 ## 相关实体
 
-- [[tencent]] - 腾讯(母公司)
+- [[entities/companies/tencent]] - 腾讯(母公司)
 
 ---
 

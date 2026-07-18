@@ -40,7 +40,7 @@ date: 2026-04-24
 
 ## 相关实体
 
-- [[zhaolian]] - 招联金融(子公司)
+- [[entities/companies/zhaolian]] - 招联金融(子公司)
 
 ---
 

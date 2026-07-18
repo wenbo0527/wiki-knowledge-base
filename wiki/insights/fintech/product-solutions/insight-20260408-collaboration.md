@@ -75,8 +75,8 @@ date: 2026-04-24
 
 ## 相关主题
 
-- [[data-platform]] - 数据中台
-- [[knowledge-management]] - 知识管理
+- [[topics/fintech/data-platform]] - 数据中台
+- [[topics/knowledge-management]] - 知识管理
 
 ## 来源
 

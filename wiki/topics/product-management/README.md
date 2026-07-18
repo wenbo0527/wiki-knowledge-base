@@ -28,18 +28,18 @@ date: 2026-04-24
 
 ## 📚 子专题
 
-- [[product-management-methodology|产品管理方法论]] - 四层架构详解与实践原则
-- [[product-management-toolchain|工具链与集成]] - Neo4j、飞书、AI 服务集成方案
-- [[product-management-cases|实践案例]] - Epic 拆解实战案例与经验总结
-- [[product-management-ontology|本体论设计]] - 产品知识图谱 Schema 与术语体系
+- [[topics/product-management/product-management-methodology|产品管理方法论]] - 四层架构详解与实践原则
+- [[topics/product-management/product-management-toolchain|工具链与集成]] - Neo4j、飞书、AI 服务集成方案
+- [[topics/product-management/product-management-cases|实践案例]] - Epic 拆解实战案例与经验总结
+- [[topics/product-management/product-management-ontology|本体论设计]] - 产品知识图谱 Schema 与术语体系
 
 ### 产品域规划方案
-- [[roadmap-DFD|数据发现（PD-DFD）]] - 数据资产管理与运营
-- [[roadmap-MKT|数字营销（PD-MKT）]] - 客群中心与精准营销
-- [[roadmap-RISK|数字风险（PD-RISK）]] - 风控与合规管理
-- [[roadmap-COM|数字社区（PD-COM）]] - 门户与生态建设
-- [[roadmap-DEX|数据探索（PD-DEX）]] - 自助分析与智能洞察
-- [[roadmap-DMT|数据管理（PD-DMT）]] - 元数据与数据治理
+- [[topics/product-management/roadmap-DFD|数据发现（PD-DFD）]] - 数据资产管理与运营
+- [[topics/product-management/roadmap-MKT|数字营销（PD-MKT）]] - 客群中心与精准营销
+- [[topics/product-management/roadmap-RISK|数字风险（PD-RISK）]] - 风控与合规管理
+- [[topics/product-management/roadmap-COM|数字社区（PD-COM）]] - 门户与生态建设
+- [[topics/product-management/roadmap-DEX|数据探索（PD-DEX）]] - 自助分析与智能洞察
+- [[topics/product-management/roadmap-DMT|数据管理（PD-DMT）]] - 元数据与数据治理
 
 ---
 
@@ -73,7 +73,7 @@ date: 2026-04-24
 
 ## 相关洞察
 
-- [[insight-20260409-ai-project-weekly]] - AI项目周报洞察
+- [[insights/fintech/product-solutions/insight-20260409-ai-project-weekly]] - AI项目周报洞察
 
 ---
 

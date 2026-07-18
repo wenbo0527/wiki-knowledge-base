@@ -188,7 +188,7 @@ Agent Commerce
 
 ## 📚 相关洞察
 
-- [[insight-20260418-business-world-model]] - 商业世界模型核心洞察
+- [[insights/ai-technology/business-world-model/insight-20260418-business-world-model]] - 商业世界模型核心洞察
 
 ---
 

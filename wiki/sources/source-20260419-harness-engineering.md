@@ -32,7 +32,7 @@ Harness Engineering是AI时代的核心基础设施方法论，强调模型之�
 
 ## 关联Insight文档
 
-- [[insight-20260419-harness-engineering|Insight: Harness Engineering深度技术解析]]
+- [[insights/agent/insight-20260419-harness-engineering|Insight: Harness Engineering深度技术解析]]
 
 ---
 

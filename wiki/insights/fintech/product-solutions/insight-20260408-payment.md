@@ -112,9 +112,9 @@ date: 2026-04-24
 
 ## 相关主题
 
-- [[risk-management]] - 风控系统
-- [[infrastructure]] - 基础设施
-- [[compliance]] - 合规科技
+- [[topics/fintech/risk-management]] - 风控系统
+- [[topics/fintech/infrastructure]] - 基础设施
+- [[topics/fintech/compliance]] - 合规科技
 
 ## 来源
 

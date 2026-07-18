@@ -15,7 +15,7 @@ date: 2026-05-23
 > **分类**: AI Agent / Architecture / Methodologies
 > **状态**: 正式发布
 > **Tags**: #agent-design-pattern #harness #multi-agent #governance #context-boundary
-> **关联**: [[insight-20260521-agent-evaluation-review]]（Agent测评体系）
+> **关联**: [[insights/agent/agent-evaluation/insight-20260521-agent-evaluation-review]]（Agent测评体系）
 > **方法论**: 框架驱动
 > **更新说明**: v2.8新增上下文边界设计原则、上下文压缩四要素、架构建设顺序
 
@@ -396,8 +396,8 @@ Long-term层（永久）→ MEMORY.md + USER.md + RAG知识库
 
 | 文档 | 说明 |
 |:---|:---|
-| [[insight-20260521-agent-evaluation-review]] | Agent测评体系 |
-| [[insight-20260521-claude-md-best-practices]] | CLAUDE.md最佳实践 |
+| [[insights/agent/agent-evaluation/insight-20260521-agent-evaluation-review]] | Agent测评体系 |
+| [[insights/agent/agent-skills/insight-20260521-claude-md-best-practices]] | CLAUDE.md最佳实践 |
 | [[wiki/concepts/agent-seven-corners-model]] | 七角能力模型 |
 
 ---

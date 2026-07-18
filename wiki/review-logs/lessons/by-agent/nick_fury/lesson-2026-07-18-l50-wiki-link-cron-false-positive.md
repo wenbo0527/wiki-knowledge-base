@@ -169,3 +169,120 @@ re.sub(r'\[\[topic-ai-native/ai-infrastructure(\|[^\]]*)?\]\]', ..., line)
 - 整个 `(\|...)?` 可选（不强求别名）
 
 **关联**：INC-2026-07-18-005 P1.5 第一次跑时 jeff-dean 2 个 wiki-link 没替换上 → 加 alias 支持后修复。
+
+
+---
+
+## L-50.9 · 批量死链修复必构建 filename → 真路径映射（7-18 INC-007 治本）
+
+**核心算法**：
+```python
+# 1. 构建 filename → 真路径映射（保留路径最深的）
+filename_to_path = {}
+for p in all_pages:
+    base = basename(p)[:-3]  # 去 .md
+    if base not in filename_to_path or rel.count('/') > filename_to_path[base].count('/'):
+        filename_to_path[base] = rel
+
+# 2. dead_to_real 字典
+dead_to_real = {}
+for path in all_pages:
+    for match in re.findall(r'\[\[([^\]]+)\]\]', content):
+        link = match.split('|')[0].strip()
+        if is_dead(link) and link in filename_to_path:
+            real = filename_to_path[link][:-3]
+            dead_to_real[link] = real
+
+# 3. 批量替换
+for dead, real in dead_to_real.items():
+    pattern = r'\[\[' + re.escape(dead) + r'(\|[^\]]*)?\]\]'
+    content = re.sub(pattern, lambda m: f'[[{real}{m.group(1) or ""}]]', content)
+```
+
+**效果**：121 个独立 link 自动映射 → 685 处替换，无需手动查每个。
+
+## L-50.10 · dead_to_real 字典格式规范
+
+```python
+# key: dead link (无 .md 后缀)
+# value: 真相对路径（无 .md 后缀）
+dead_to_real = {
+    'insight-20260417-harness-engineering': 'insights/ai-technology/agent-engineering/insight-20260417-harness-engineering',
+    # ...
+}
+```
+
+**注意**：保留路径最深的（用 `rel.count('/') > ...` 比较）—— 当多个同名文件存在时。
+
+## L-50.11 · 批量替换前必 backup 到独立目录（保留时间戳）
+
+```python
+TS = datetime.now().strftime("%Y%m%d-%H%M%S")
+BACKUP_DIR = f"/tmp/wiki-insight-subdir-fix-{TS}"
+os.makedirs(BACKUP_DIR, exist_ok=True)
+# 每个文件 backup 到 BACKUP_DIR/<filename>
+```
+
+**好处**：时间戳隔离多批修复 + 按目录回滚 + 不污染 /tmp 根目录。
+
+
+---
+
+## L-50.2.4 · except ValueError: pass 是 wiki-link 算法禁忌（v4 治本）
+
+**v3 bug**：
+```python
+try:
+    rel_path = (page.parent / link_path).resolve()
+    rel_to_wiki = rel_path.relative_to(WIKI_ROOT.resolve())
+except ValueError:
+    pass  # 跳出 wiki 根的全部静默 = bug
+```
+
+**v4 治本**：
+```python
+try:
+    full_path = (page.parent / link_path).resolve()
+    full_path_str = str(full_path)
+    if full_path_str.startswith(str(WIKI_ROOT.resolve())):
+        # 在 wiki 内：常规处理
+        rel_str = str(full_path.relative_to(WIKI_ROOT.resolve()))
+        candidates.add(rel_str)
+    else:
+        # 跳出 wiki 根：显式判定（外部引用 vs 真死链）
+        if full_path.exists():
+            continue  # 外部引用 + 存在 → 跳过不算死链
+        # 文件不存在 → fall through 算死链
+except Exception:
+    pass
+```
+
+**关键**：不要 `except ValueError: pass`——必须显式处理跳出 wiki 根的情况。
+
+## L-50.2.5 · ../ 跳出 wiki 根必须区分"外部引用 vs 真死链"
+
+| 场景 | 判断 | 处理 |
+|:---|:---|:---|
+| `../X` 在 wiki 内 | WIKI_ROOT 前缀匹配 | 常规解析 |
+| `../../../../05_AgentOutput/...` + 文件存在 | 跳出 + exists | continue（外部引用 OK）|
+| `../../../../nonexistent/...` + 文件不存在 | 跳出 + not exists | 报死链 |
+
+**关键**：`full_path.exists()` 是核心判断——文件存在就算 OK（外部引用），不存在才算真死链。
+
+## L-50.12 · +1 层 ../ 修复 = 路径少一层（Wiki 根多算一层）
+
+**踩坑实证（INC-2026-07-18-008）**：
+
+从 `wiki/insights/ai/insight-xxx.md` 出发：
+- `../` × 4 = `/Users/wenbo/Documents/project/Wiki/`（**Wiki 根**）
+- `../` × 5 = `/Users/wenbo/Documents/project/`（**Project 根**，含 05_AgentOutput）
+
+所以原引用 `../../../../05_AgentOutput/...` 解析到 `Wiki/05_AgentOutput/...`（不存在），需 +1 层 → `../../../../../05_AgentOutput/...`（真实位置）。
+
+**修法**：
+```bash
+# 从 wiki 根算层数
+# wiki = N 层深 → ../ 数量 = N + 目标相对 Project 根的层数
+```
+
+**关联**：INC-2026-07-18-008 C 任务 2 个引用修复。

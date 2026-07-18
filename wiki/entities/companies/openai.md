@@ -73,9 +73,9 @@ OpenAI Inc (非营利母公司)
 
 ## 相关页面
 
-- [[karpathy]] - Andrej Karpathy（创始成员，后离开）
-- [[llm-agent]] - AI Agent
-- [[rag]] - RAG技术
+- [[entities/people/karpathy]] - Andrej Karpathy（创始成员，后离开）
+- [[concepts/llm-agent]] - AI Agent
+- [[concepts/rag]] - RAG技术
 
 ## 来源引用
 

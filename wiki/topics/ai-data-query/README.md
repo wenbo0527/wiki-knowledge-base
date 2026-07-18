@@ -145,20 +145,20 @@ date: 2026-04-24
 
 ### 核心组件
 
-- [[ai-data-query-intent]] - 意图理解与指标映射
-- [[ai-data-query-sql-generator]] - SQL生成与校验
-- [[ai-data-query-execution]] - 查询执行与优化
-- [[ai-data-query-result-explanation]] - 结果解释与NLG
-- [[ai-data-query-interactive]] - 交互式分析能力
+- [[topics/ai-data-query/ai-data-query-intent]] - 意图理解与指标映射
+- [[topics/ai-data-query/ai-data-query-sql-generator]] - SQL生成与校验
+- [[topics/ai-data-query/ai-data-query-execution]] - 查询执行与优化
+- [[topics/ai-data-query/ai-data-query-result-explanation]] - 结果解释与NLG
+- [[topics/ai-data-query/ai-data-query-interactive]] - 交互式分析能力
 
 ### 技术选型
 
-- [[ai-data-query-semantic-layer]] - 语义层设计
-- [[ai-data-query-components-oss]] - 开源组件选型
+- [[topics/ai-data-query/ai-data-query-semantic-layer]] - 语义层设计
+- [[topics/ai-data-query/ai-data-query-components-oss]] - 开源组件选型
 
 ### 案例研究
 
-- [[ai-data-query-wrenai-analysis]] - WrenAI架构分析
+- [[topics/ai-data-query/ai-data-query-wrenai-analysis]] - WrenAI架构分析
 
 ---
 

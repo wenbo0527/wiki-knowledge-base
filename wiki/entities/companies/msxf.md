@@ -55,8 +55,8 @@ date: 2026-04-24
 
 ## 在最佳实践中的引用
 
-- [[data-platform]] - TBDS数据中台
-- [[risk-management]] - 天镜智能风控
+- [[topics/fintech/data-platform]] - TBDS数据中台
+- [[topics/fintech/risk-management]] - 天镜智能风控
 
 ---
 

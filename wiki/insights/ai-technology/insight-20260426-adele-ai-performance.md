@@ -85,7 +85,7 @@ Microsoft Research发布**ADeLe**（Attribution-Driven Learning）框架，旨�
 
 ## 🔗 关联专题
 
-- [[AI Native/Agent Engineering]] - Harness Engineering核心概念
+- [[topics/ai-native/agent-engineering|Agent 工程化]] - Harness Engineering核心概念
 - [[AI Native/AI-Evaluation]] - AI评估与测试
 - [[Concepts/AI-System-Reliability]] - AI系统可靠性
 

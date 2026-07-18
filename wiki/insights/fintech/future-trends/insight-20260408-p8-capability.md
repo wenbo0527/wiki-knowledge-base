@@ -81,9 +81,9 @@ date: 2026-04-24
 
 ## 相关主题
 
-- [[data-platform]] - 数据中台
-- [[llm-finance]] - 大模型金融
-- [[risk-management]] - 风控系统
+- [[topics/fintech/data-platform]] - 数据中台
+- [[topics/fintech/llm-finance]] - 大模型金融
+- [[topics/fintech/risk-management]] - 风控系统
 
 ## 来源
 

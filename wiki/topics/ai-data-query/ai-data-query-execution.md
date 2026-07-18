@@ -268,8 +268,8 @@ wren-engine (Rust + Apache DataFusion)
 
 ## 相关页面
 
-- [[ai-data-query-sql-generator]] - SQL生成
-- [[ai-data-query-result-explanation]] - 结果解释
+- [[topics/ai-data-query/ai-data-query-sql-generator]] - SQL生成
+- [[topics/ai-data-query/ai-data-query-result-explanation]] - 结果解释
 
 ---
 

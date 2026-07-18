@@ -163,7 +163,7 @@ date: 2026-05-23
 ## 关联文档
 
 - [[topic-ai-native/agent-engineering|Agent工程实践]]
-- [[insight-20260428-simon-willison-subagents|Subagents子代理模式]]
+- [[insights/technology/insight-20260428-simon-willison-subagents|Subagents子代理模式]]
 
 ---
 

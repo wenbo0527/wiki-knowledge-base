@@ -86,9 +86,9 @@ Karpathy提出了一种新的**LLM知识管理范式**：
 
 ## 相关页面
 
-- [[llm-wiki-pattern]] - LLM Wiki模式
-- [[llm-agent]] - AI Agent
-- [[rag]] - RAG技术
+- [[concepts/llm-wiki-pattern]] - LLM Wiki模式
+- [[concepts/llm-agent]] - AI Agent
+- [[concepts/rag]] - RAG技术
 
 ## 来源引用
 

@@ -123,8 +123,8 @@ date: 2026-05-23
 
 ## 🔗 关联专题
 
-- [[AI Native/Agent Engineering]] - Agent工程
-- [[AI Native/AI-Agent Design]] - Agent设计模式
+- [[topics/ai-native/agent-engineering|Agent 工程化]] - Agent工程
+- [[insights/agent/agent-design-patterns/insight-20260521-agent-design-pattern-review|AI Agent 设计模式]] - Agent设计模式
 - [[AI Technology/OpenClaw]] - OpenClaw最佳实践
 - [[Product Management/AI PM]] - AI产品管理
 

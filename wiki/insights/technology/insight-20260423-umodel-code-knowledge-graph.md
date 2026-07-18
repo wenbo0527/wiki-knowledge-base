@@ -184,8 +184,8 @@ date: 2026-05-23
 
 ## 关联文档
 
-- [[insight-20260423-harness-engineering-complete-guide|Harness Engineering完整指南]] (Harness层)
-- [[insight-20260419-harness-engineering|Harness Engineering]] (基础)
+- [[insights/agent/harness-engineering/insight-20260423-harness-engineering-complete-guide|Harness Engineering完整指南]] (Harness层)
+- [[insights/agent/insight-20260419-harness-engineering|Harness Engineering]] (基础)
 - [[topic-ai-native|AI原生专题]] (整体框架)
 - [[topic-agent-engineering|Agent Engineering专题]] (Agent相关)
 

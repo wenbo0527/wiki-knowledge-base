@@ -74,11 +74,11 @@ ROI = (收益 - 成本) / 成本 × 100%
 
 ## 相关页面
 
-- [[tech-understanding]] - 技术理解方法论
-- [[requirement-decision]] - 需求决策方法论
-- [[product-design]] - 产品设计方法论
-- [[data-driven]] - 数据驱动方法论
-- [[risk-control]] - 风险防控方法论
+- [[concepts/tech-understanding]] - 技术理解方法论
+- [[concepts/requirement-decision]] - 需求决策方法论
+- [[concepts/product-design]] - 产品设计方法论
+- [[concepts/data-driven]] - 数据驱动方法论
+- [[concepts/risk-control]] - 风险防控方法论
 
 ---
 

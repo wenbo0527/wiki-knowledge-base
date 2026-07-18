@@ -131,9 +131,9 @@ OpenClaw：帮你直接做完
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260418-openclaw-10-use-cases]] - 龙虾10个使用场景
-- [[insight-20260418-openclaw-memory-sovereignty]] - OpenClaw记忆主权
-- [[openclaw-practices]] - OpenClaw实践
+- [[insights/ai-technology/openclaw/insight-20260418-openclaw-10-use-cases]] - 龙虾10个使用场景
+- [[insights/ai-technology/openclaw/insight-20260418-openclaw-memory-sovereignty]] - OpenClaw记忆主权
+- [[topics/ai-native/openclaw-practices]] - OpenClaw实践
 
 ---
 

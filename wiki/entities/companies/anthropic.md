@@ -148,9 +148,9 @@ date: 2026-04-24
 
 ## 相关页面
 
-- [[openai]] - OpenAI对比
-- [[nvidia]] - GPU供应商
-- [[llm-agent]] - LLM Agent相关
+- [[entities/companies/openai]] - OpenAI对比
+- [[entities/companies/nvidia]] - GPU供应商
+- [[concepts/llm-agent]] - LLM Agent相关
 
 ---
 

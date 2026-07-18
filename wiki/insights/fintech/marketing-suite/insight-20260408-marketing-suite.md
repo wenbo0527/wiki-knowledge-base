@@ -113,9 +113,9 @@ date: 2026-04-24
 
 ## 相关主题
 
-- [[marketing-suite]] - 营销套件
-- [[data-platform]] - 数据中台
-- [[intelligent-systems]] - 智能系统
+- [[topics/fintech/marketing-suite]] - 营销套件
+- [[topics/fintech/data-platform]] - 数据中台
+- [[topics/fintech/intelligent-systems]] - 智能系统
 
 ## 来源
 

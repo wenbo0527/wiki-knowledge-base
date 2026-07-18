@@ -2052,14 +2052,14 @@ weight_calculation:
 
 | 层级 | Demo 阶段 (当前) | 生产环境 (目标) | Wiki最佳实践来源 |
 |:---|:---|:---|:---|
-| **意图理解** | 模式匹配 (parser.py) | WrenAI Intent Classification | [[ai-data-query-intent]] |
-| **SQL生成** | 模板 + 特殊模板 | DIN-SQL 自修正 + MAC-SQL 多Agent | [[ai-data-query-sql-generator]] |
-| **校验机制** | SQL预检 (简单) | L1语法 + L2 Schema + L3执行 三层校验 | [[ai-data-query-sql-generator]] |
-| **Pre-Processing** | 时间表达式 | Schema Linking + Terminology Mapping | [[ai-data-query-sql-generator]] |
-| **Post-Processing** | 格式化响应 | SQL格式化 + 危险检测 + 性能优化 | [[ai-data-query-sql-generator]] |
-| **多Agent协作** | 无 | MAC-SQL 三Agent (Decomposer/Generator/Refiner) | [[ai-data-query-components-oss]] |
-| **测试体系** | 20个用例 | L1-L5分级 + 边界用例 + 回归测试 | [[ai-data-query-sql-generator]] |
-| **指标体系** | 原子 + 复合指标 | 语义层 (MDL) + 血缘追踪 + 版本管理 | [[insight-20260408-metrics-platform]] |
+| **意图理解** | 模式匹配 (parser.py) | WrenAI Intent Classification | [[topics/ai-data-query/ai-data-query-intent]] |
+| **SQL生成** | 模板 + 特殊模板 | DIN-SQL 自修正 + MAC-SQL 多Agent | [[topics/ai-data-query/ai-data-query-sql-generator]] |
+| **校验机制** | SQL预检 (简单) | L1语法 + L2 Schema + L3执行 三层校验 | [[topics/ai-data-query/ai-data-query-sql-generator]] |
+| **Pre-Processing** | 时间表达式 | Schema Linking + Terminology Mapping | [[topics/ai-data-query/ai-data-query-sql-generator]] |
+| **Post-Processing** | 格式化响应 | SQL格式化 + 危险检测 + 性能优化 | [[topics/ai-data-query/ai-data-query-sql-generator]] |
+| **多Agent协作** | 无 | MAC-SQL 三Agent (Decomposer/Generator/Refiner) | [[topics/ai-data-query/ai-data-query-components-oss]] |
+| **测试体系** | 20个用例 | L1-L5分级 + 边界用例 + 回归测试 | [[topics/ai-data-query/ai-data-query-sql-generator]] |
+| **指标体系** | 原子 + 复合指标 | 语义层 (MDL) + 血缘追踪 + 版本管理 | [[insights/fintech/data-platform/insight-20260408-metrics-platform]] |
 
 ### 15.2 Demo 阶段特点
 
@@ -2757,23 +2757,23 @@ def run_test_suite(level: str = "ALL"):
 
 | 模块 | Wiki参考文档 | 对齐状态 |
 |:---|:---|:---:|
-| 配置驱动架构 | [[ai-data-query-sql-generator]] | ✅ 已对齐 |
-| 指标体系设计 | [[insight-20260408-metrics-platform]] | ✅ 已对齐 |
-| 异动归因设计 | [[insight-20260408-metrics-platform]] | ✅ 已对齐 |
+| 配置驱动架构 | [[topics/ai-data-query/ai-data-query-sql-generator]] | ✅ 已对齐 |
+| 指标体系设计 | [[insights/fintech/data-platform/insight-20260408-metrics-platform]] | ✅ 已对齐 |
+| 异动归因设计 | [[insights/fintech/data-platform/insight-20260408-metrics-platform]] | ✅ 已对齐 |
 | 五层架构 | [[ai-data-query]] | ✅ 已对齐 |
 
 ### 17.2 待对齐项
 
 | 模块 | Wiki参考文档 | 当前状态 | 目标状态 | 优先级 |
 |:---|:---|:---|:---|:---:|
-| **三层校验** | [[ai-data-query-sql-generator]] | 简单预检 | L1+L2+L3完整校验 | 🔴 高 |
-| **DIN-SQL自修正** | [[ai-data-query-sql-generator]] | 无 | 自修正循环 | 🔴 高 |
-| **意图分类** | [[ai-data-query-intent]] | 模式匹配 | 意图分类器 | 🟠 中 |
-| **Schema Linking** | [[ai-data-query-sql-generator]] | 无 | 自动表字段识别 | 🟠 中 |
-| **Terminology Mapping** | [[ai-data-query-components-oss]] | 简单同义词 | pgvector向量检索 | 🟠 中 |
-| **MAC-SQL多Agent** | [[ai-data-query-components-oss]] | 无 | 三Agent协作 | 🟡 低 |
-| **L1-L5测试分级** | [[ai-data-query-sql-generator]] | 20个用例 | 分级测试套件 | 🟠 中 |
-| **语义层(MDL)** | [[insight-20260408-metrics-platform]] | 指标定义 | 完整语义层 | 🟡 低 |
+| **三层校验** | [[topics/ai-data-query/ai-data-query-sql-generator]] | 简单预检 | L1+L2+L3完整校验 | 🔴 高 |
+| **DIN-SQL自修正** | [[topics/ai-data-query/ai-data-query-sql-generator]] | 无 | 自修正循环 | 🔴 高 |
+| **意图分类** | [[topics/ai-data-query/ai-data-query-intent]] | 模式匹配 | 意图分类器 | 🟠 中 |
+| **Schema Linking** | [[topics/ai-data-query/ai-data-query-sql-generator]] | 无 | 自动表字段识别 | 🟠 中 |
+| **Terminology Mapping** | [[topics/ai-data-query/ai-data-query-components-oss]] | 简单同义词 | pgvector向量检索 | 🟠 中 |
+| **MAC-SQL多Agent** | [[topics/ai-data-query/ai-data-query-components-oss]] | 无 | 三Agent协作 | 🟡 低 |
+| **L1-L5测试分级** | [[topics/ai-data-query/ai-data-query-sql-generator]] | 20个用例 | 分级测试套件 | 🟠 中 |
+| **语义层(MDL)** | [[insights/fintech/data-platform/insight-20260408-metrics-platform]] | 指标定义 | 完整语义层 | 🟡 低 |
 
 ### 17.3 对齐执行计划
 
@@ -2819,11 +2819,11 @@ def run_test_suite(level: str = "ALL"):
 
 | 资料 | 来源 | 说明 |
 |:---|:---|:---|
-| [[ai-data-query-sql-generator]] | Wiki | SQL生成与校验最佳实践 |
-| [[ai-data-query-intent]] | Wiki | 意图理解最佳实践 |
-| [[ai-data-query-components-oss]] | Wiki | 开源组件选型 |
+| [[topics/ai-data-query/ai-data-query-sql-generator]] | Wiki | SQL生成与校验最佳实践 |
+| [[topics/ai-data-query/ai-data-query-intent]] | Wiki | 意图理解最佳实践 |
+| [[topics/ai-data-query/ai-data-query-components-oss]] | Wiki | 开源组件选型 |
 | [[ai-data-query]] | Wiki | AI问数系统整体架构 |
-| [[insight-20260408-metrics-platform]] | Wiki | 指标中台与语义层 |
+| [[insights/fintech/data-platform/insight-20260408-metrics-platform]] | Wiki | 指标中台与语义层 |
 | DIN-SQL | 微软论文 | 自修正机制参考 |
 | MAC-SQL | 学术论文 | 多Agent协作参考 |
 | WrenAI | GitHub ⭐14.9k | 完整NL2SQL实现参考 |

@@ -88,8 +88,8 @@ AI让代码生成变得**极其容易**，但这也意味着**责任更重**—�
 
 ## 相关文档
 
-- [[insight-20260428-simon-willison-linear-walkthroughs|Linear Walkthroughs]] (同来源)
-- [[insight-20260428-simon-willison-subagents|Subagents模式]] (同来源)
+- [[insights/technology/insight-20260428-simon-willison-linear-walkthroughs|Linear Walkthroughs]] (同来源)
+- [[insights/technology/insight-20260428-simon-willison-subagents|Subagents模式]] (同来源)
 - [[topic-ai-native/ai-programming/vibe-coding|Vibe Coding专题]]
 
 ---

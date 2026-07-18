@@ -32,7 +32,7 @@ Spec-Kit是一个开源的规格驱动编程工具包，将自然语言需求自
 
 ## 关联Insight文档
 
-- [[insight-20260419-spec-kit|Insight: Spec-Kit规格驱动编程实践指南]]
+- [[insights/product-management/insight-20260419-spec-kit|Insight: Spec-Kit规格驱动编程实践指南]]
 
 ---
 

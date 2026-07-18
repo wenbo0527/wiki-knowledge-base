@@ -186,8 +186,8 @@ date: 2026-05-23
 
 | 类型 | 资源 | 链接 |
 |:---|:---|:---|
-| 关联Insight | Palantir本体论企业AI落地 | [[insight-20260421-palantir-ontology-enterprise-ai]] |
-| 关联Insight | OpenSpec+Superpowers实战 | [[insight-20260421-openspec-superpowers-practice]] |
+| 关联Insight | Palantir本体论企业AI落地 | [[insights/data-driven/insight-20260421-palantir-ontology-enterprise-ai]] |
+| 关联Insight | OpenSpec+Superpowers实战 | [[insights/product-management/insight-20260421-openspec-superpowers-practice]] |
 | 关联Topic | 金融科技 | [[fintech/README]] |
 | 关联Topic | AI原生架构 | [[ai-native/README]] |
 

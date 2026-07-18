@@ -127,7 +127,7 @@ ChatGPT达到1亿用户时，Hassabis在DeepMind内部宣布进入"战时状态"
 
 - [[AI Technology/AGI Timeline]] - AGI时间线
 - [[AI Technology/Scaling Laws]] - Scaling Laws讨论
-- [[AI Native/Agent Engineering]] - Agent工程
+- [[topics/ai-native/agent-engineering|Agent 工程化]] - Agent工程
 - [[AI Technology/World Models]] - 世界模型
 
 ---

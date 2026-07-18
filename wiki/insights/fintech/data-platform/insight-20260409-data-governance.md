@@ -80,7 +80,7 @@ date: 2026-04-24
 
 ## 相关主题
 
-- [[data-platform]] - 数据中台
+- [[topics/fintech/data-platform]] - 数据中台
 - [[data-asset]] - 数据资产管理
 - [[cloud-native]] - 云原生架构
 

@@ -80,8 +80,8 @@ Spec定义（人）
 
 ## 相关洞察
 
-- [[insight-20260514-spec-driven-development]]
-- [[insight-20260514-enterprise-ai-coding-scaffolding]]
+- [[insights/ai-coding/insight-20260514-spec-driven-development]]
+- [[insights/ai-coding/insight-20260514-enterprise-ai-coding-scaffolding]]
 
 ---
 

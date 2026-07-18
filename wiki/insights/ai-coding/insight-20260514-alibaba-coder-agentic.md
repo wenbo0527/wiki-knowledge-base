@@ -52,7 +52,7 @@ date: 2026-05-14
 
 ## 相关洞察
 
-- [[insight-20260514-ai-agent-enterprise-practice]]
+- [[insights/ai/insight-20260514-ai-agent-enterprise-practice]]
 
 ---
 

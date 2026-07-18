@@ -140,11 +140,11 @@ projects/
 **检查时间**: 2026-04-16 09:41
 
 **修复内容**:
-- 修复 `[[real-time-risk]]` → `[[risk-management]]`
-- 修复 `[[data-governance]]` → `[[insight-20260409-data-governance]]`
+- 修复 `[[real-time-risk]]` → `[[topics/fintech/risk-management]]`
+- 修复 `[[data-governance]]` → `[[insights/fintech/data-platform/insight-20260409-data-governance]]`
 - 删除失效实体链接：`[[wechat-pay]]`, `[[oceanbase]]`, `[[us-markets]]`, `[[tech-indices]]`, `[[china-unicom]]`, `[[baidu]]`
 - 修复 `[[analysis-frameworks]]` 自引用（5个分析框架文件）
-- 修复 `[[zhaolian]]`, `[[msxf]]`, `[[duxiaoman]]` 中文实体引用
+- 修复 `[[entities/companies/zhaolian]]`, `[[entities/companies/msxf]]`, `[[entities/companies/duxiaoman]]` 中文实体引用
 - 修复 `[[icbc]]`, `[[ping-an]]`, `[[tongdun]]` 改为普通文本
 - 修复 `[[ant-cloud]]`, `[[banking-digital]]`, `[[alibaba-cloud]]` 删除
 - 修复 Concept 文件中的占位符链接

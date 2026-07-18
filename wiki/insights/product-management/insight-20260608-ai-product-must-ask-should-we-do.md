@@ -69,7 +69,7 @@ date: 2026-06-30
 
 ## 关联文档
 
-- [[insight-20260608-ai-pm-101-data-agent-0to1|AI PM 101：0-1 做 Data Agent]]
+- [[insights/product-management/insight-20260608-ai-pm-101-data-agent-0to1|AI PM 101：0-1 做 Data Agent]]
 - [[../../../../05_AgentOutput/agent_work/Nick/02_最佳实践/Agent评估/方法论/Agent能力评估方法论-PM自驱版-v1.0|PM 自驱版方法论]]
 
 ---

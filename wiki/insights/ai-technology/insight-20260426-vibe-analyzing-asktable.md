@@ -139,8 +139,8 @@ date: 2026-04-26
 
 ## 🔗 关联专题
 
-- [[AI Native/Agent Engineering]] - Harness Engineering核心概念
-- [[AI Native/AI-Agent Design]] - AI Agent设计模式
+- [[topics/ai-native/agent-engineering|Agent 工程化]] - Harness Engineering核心概念
+- [[insights/agent/agent-design-patterns/insight-20260521-agent-design-pattern-review|AI Agent 设计模式]] - AI Agent设计模式
 - [[Fintech/Data Analysis]] - 数据分析实践
 
 ---

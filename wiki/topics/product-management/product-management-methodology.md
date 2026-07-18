@@ -210,8 +210,8 @@ date: 2026-04-24
 
 ## 🔗 关联内容
 
-- [[product-management-toolchain|工具链与集成]] - 技术实现细节
-- [[product-management-cases|实践案例]] - 具体 Epic 拆解经验
+- [[topics/product-management/product-management-toolchain|工具链与集成]] - 技术实现细节
+- [[topics/product-management/product-management-cases|实践案例]] - 具体 Epic 拆解经验
 - [[concepts/llm-agent|LLM Agent]] - AI 拆解技术基础
 - [[topics/ai-native/agent-engineering|Agent 工程]] - Agent 开发方法
 

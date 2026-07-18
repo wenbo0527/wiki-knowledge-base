@@ -81,8 +81,8 @@ date: 2026-04-24
 ## 相关主题
 
 - [[payment]] - 支付系统
-- [[open-banking]] - 开放银行
-- [[risk-management]] - 风控系统
+- [[topics/fintech/open-banking]] - 开放银行
+- [[topics/fintech/risk-management]] - 风控系统
 
 ## 来源
 

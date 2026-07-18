@@ -98,8 +98,8 @@ date: 2026-05-14
 
 ## 相关洞察
 
-- [[insight-20260514-ab-experiment-architecture]]
-- [[insight-20260514-ab-experiment-user-experience]]
+- [[insights/data-driven/insight-20260514-ab-experiment-architecture]]
+- [[insights/data-driven/insight-20260514-ab-experiment-user-experience]]
 
 ---
 

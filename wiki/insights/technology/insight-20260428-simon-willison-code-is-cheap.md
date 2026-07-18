@@ -118,8 +118,8 @@ Simon Willison的核心洞察：**代码变得廉价了**。这是采用Agentic 
 
 ## 相关文档
 
-- [[insight-20260428-simon-willison-better-code|AI should help us produce better code]] (同来源)
-- [[insight-20260428-simon-willison-hoard-things|Hoard things you know how to do]] (同来源)
+- [[insights/technology/insight-20260428-simon-willison-better-code|AI should help us produce better code]] (同来源)
+- [[insights/technology/insight-20260428-simon-willison-hoard-things|Hoard things you know how to do]] (同来源)
 - [[topic-ai-native/ai-programming/vibe-coding|Vibe Coding专题]]
 
 ---

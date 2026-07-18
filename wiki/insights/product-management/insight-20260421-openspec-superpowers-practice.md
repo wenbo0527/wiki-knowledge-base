@@ -17,7 +17,7 @@ date: 2026-05-23
 > **原文**: https://mp.weixin.qq.com/s/7EpVsLbFznkngJbD7tFA9A  
 > **分析师**: 尼克·弗瑞  
 > **分类**: AI-Native / AI Programming / Best Practice  
-> **关联专题**: [[ai-programming/README|AI编程]] | [[agent-engineering|Agent工程]] | [[skill-evaluation|Skill评估]]
+> **关联专题**: [[ai-programming/README|AI编程]] | [[topics/ai-native/agent-engineering|Agent工程]] | [[topics/ai-native/skill-evaluation|Skill评估]]
 
 ---
 
@@ -267,8 +267,8 @@ Superpowers把写代码这件事标准化成了7个工作流。一个理解业�
 | 作者 | 术哥无界 | 运维有术 / 术哥无界 微信公众号 |
 | 系列 | AI编程最佳实战「2026」系列 | 第19篇（本文） |
 | 关联专题 | Vibe Coding | [[vibe-coding/README|Vibe Coding专题]] |
-| 关联专题 | Agent Engineering | [[agent-engineering|Agent工程]] |
-| 关联专题 | Skill Evaluation | [[skill-evaluation|Skill评估]] |
+| 关联专题 | Agent Engineering | [[topics/ai-native/agent-engineering|Agent工程]] |
+| 关联专题 | Skill Evaluation | [[topics/ai-native/skill-evaluation|Skill评估]] |
 
 ---
 

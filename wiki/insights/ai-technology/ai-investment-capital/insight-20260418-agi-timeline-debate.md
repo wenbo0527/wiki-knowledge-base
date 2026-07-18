@@ -110,8 +110,8 @@ date: 2026-04-24
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260418-hassabis-20vc-interview]] - Demis Hassabis访谈
-- [[insight-20260418-tao-ai-math-capability]] - 陶哲轩AI数学能力
+- [[insights/ai-technology/agent-engineering/insight-20260418-hassabis-20vc-interview]] - Demis Hassabis访谈
+- [[insights/ai-technology/ai-safety-regulation/insight-20260418-tao-ai-math-capability]] - 陶哲轩AI数学能力
 
 ---
 

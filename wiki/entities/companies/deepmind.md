@@ -142,9 +142,9 @@ Google AI
 
 ## 相关页面
 
-- [[openai]] - OpenAI
-- [[anthropic]] - Anthropic
-- [[nvidia]] - NVIDIA (GPU供应商)
+- [[entities/companies/openai]] - OpenAI
+- [[entities/companies/anthropic]] - Anthropic
+- [[entities/companies/nvidia]] - NVIDIA (GPU供应商)
 
 ---
 

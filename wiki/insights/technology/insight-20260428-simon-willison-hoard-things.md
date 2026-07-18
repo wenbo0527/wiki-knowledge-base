@@ -128,8 +128,8 @@ I want to combine this with Tesseract.js OCR to create a tool that...
 
 ## 相关文档
 
-- [[insight-20260428-simon-willison-code-is-cheap|Writing code is cheap now]] (同来源)
-- [[insight-20260428-simon-willison-better-code|AI should help us produce better code]] (同来源)
+- [[insights/technology/insight-20260428-simon-willison-code-is-cheap|Writing code is cheap now]] (同来源)
+- [[insights/technology/insight-20260428-simon-willison-better-code|AI should help us produce better code]] (同来源)
 - [[topic-knowledge-management/second-brain|第二大脑方法论]]
 
 ---

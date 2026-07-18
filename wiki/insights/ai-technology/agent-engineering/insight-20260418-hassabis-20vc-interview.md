@@ -169,10 +169,10 @@ date: 2026-04-24
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260418-digital-employee-industry]] - 数字员工产业分析
-- [[insight-20260418-ai-three-fundamental-debates]] - AI大神分歧（Scaling Law讨论）
-- [[insight-20260417-harness-engineering]] - Harness Engineering
-- [[insight-20260418-skill-development]] - Skill开发方法论（与长期记忆相关）
+- [[insights/ai-technology/agent-engineering/insight-20260418-digital-employee-industry]] - 数字员工产业分析
+- [[insights/ai-technology/agent-engineering/insight-20260418-ai-three-fundamental-debates]] - AI大神分歧（Scaling Law讨论）
+- [[insights/ai-technology/agent-engineering/insight-20260417-harness-engineering]] - Harness Engineering
+- [[insights/ai-technology/agent-engineering/insight-20260418-skill-development]] - Skill开发方法论（与长期记忆相关）
 
 ---
 

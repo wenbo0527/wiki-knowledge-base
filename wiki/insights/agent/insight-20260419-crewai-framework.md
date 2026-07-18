@@ -670,8 +670,8 @@ migrated_state = state.migrate(
 
 ## 关联阅读
 
-- [[insight-20260419-harness-engineering|Harness Engineering深度技术解析]]
-- [[insight-20260419-spec-kit|Spec-Kit规格驱动编程实践指南]]
+- [[insights/agent/insight-20260419-harness-engineering|Harness Engineering深度技术解析]]
+- [[insights/product-management/insight-20260419-spec-kit|Spec-Kit规格驱动编程实践指南]]
 - [[topic-multi-agent|Multi-Agent专题]]
 - [[topic-ai-infrastructure|AI基础设施专题]]
 

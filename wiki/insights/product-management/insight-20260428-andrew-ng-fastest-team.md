@@ -132,8 +132,8 @@ date: 2026-05-23
 
 ## 关联文档
 
-- [[insight-20260419-anthropic-ai-pm|AI指数增长时代的产品管理]] (Cat Wu视角)
-- [[insight-20260419-harness-engineering|Harness Engineering]] (工具层)
+- [[insights/product-management/pm-workflow/insight-20260419-anthropic-ai-pm|AI指数增长时代的产品管理]] (Cat Wu视角)
+- [[insights/agent/insight-20260419-harness-engineering|Harness Engineering]] (工具层)
 - [[topic-ai-product-management|AI产品管理专题]]
 
 ---

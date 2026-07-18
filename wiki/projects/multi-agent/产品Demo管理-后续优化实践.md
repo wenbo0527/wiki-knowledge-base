@@ -160,11 +160,11 @@ portal-shell/
 
 | 文档 | 说明 | 关联度 |
 |:-----|:-----|:-------|
-| [[产品Demo管理最佳实践]] | 主文档（v1.2） | ⭐⭐⭐⭐⭐ |
+| [[projects/multi-agent/产品Demo管理最佳实践]] | 主文档（v1.2） | ⭐⭐⭐⭐⭐ |
 | [[vibe-coding/项目管理.md]] | Vibe Coding 项目管理 | ⭐⭐⭐⭐⭐ |
 | [[vibe-coding/开发经验.md]] | Vibe Coding 开发经验 | ⭐⭐⭐⭐ |
-| [[insight-20260429-playwright-claude-code-testing]] | Playwright 测试实践 | ⭐⭐⭐⭐ |
-| [[insight-20260419-harness-engineering]] | Harness 工程化 | ⭐⭐⭐⭐ |
+| [[insights/ai-coding/insight-20260429-playwright-claude-code-testing]] | Playwright 测试实践 | ⭐⭐⭐⭐ |
+| [[insights/agent/insight-20260419-harness-engineering]] | Harness 工程化 | ⭐⭐⭐⭐ |
 | [[automation-testing.md]] | 自动化测试规范 | ⭐⭐⭐⭐ |
 
 ---

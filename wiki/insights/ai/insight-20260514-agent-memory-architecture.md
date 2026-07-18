@@ -70,7 +70,7 @@ date: 2026-05-14
 
 ## 相关洞察
 
-- [[insight-20260514-milvus-multi-agent-consistency]]
+- [[insights/ai/insight-20260514-milvus-multi-agent-consistency]]
 
 ---
 

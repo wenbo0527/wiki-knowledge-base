@@ -25,10 +25,10 @@ date: 2026-04-24
 
 | 框架 | 创始人 | 核心特点 | 适用场景 |
 |------|--------|----------|----------|
-| [[hegang-framework]] | 何刚 | 宏观→行业→公司三层 | 投资分析 |
-| [[majiangbo-framework]] | 马江博 | 趋势→结构→节奏 | 市场分析 |
-| [[caiyu-framework]] | 蔡钰 | 商业逻辑→用户价值 | 商业分析 |
-| [[wanweigang-framework]] | 万维钢 | 科学思维→跨界迁移 | 认知升级 |
+| [[topics/analysis-frameworks/hegang-framework]] | 何刚 | 宏观→行业→公司三层 | 投资分析 |
+| [[topics/analysis-frameworks/majiangbo-framework]] | 马江博 | 趋势→结构→节奏 | 市场分析 |
+| [[topics/analysis-frameworks/caiyu-framework]] | 蔡钰 | 商业逻辑→用户价值 | 商业分析 |
+| [[topics/analysis-frameworks/wanweigang-framework]] | 万维钢 | 科学思维→跨界迁移 | 认知升级 |
 
 ---
 
@@ -36,7 +36,7 @@ date: 2026-04-24
 
 | 模型 | 适用场景 | 来源 |
 |------|----------|------|
-| [[10-analysis-models]] | 综合分析 | 经典方法论 |
+| [[topics/analysis-frameworks/10-analysis-models]] | 综合分析 | 经典方法论 |
 
 ---
 
@@ -84,9 +84,9 @@ date: 2026-04-24
 
 ## 相关专题
 
-- [[tech-ai]] - 科技AI（行业背景）
+- [[topics/tech-ai]] - 科技AI（行业背景）
 - [[fintech]] - 金融科技（应用场景）
-- [[wanweigang]] - 万维钢人物页
+- [[entities/people/wanweigang]] - 万维钢人物页
 
 ---
 

@@ -120,8 +120,8 @@ date: 2026-05-23
 
 ## 关联阅读
 
-- [[insight-20260419-anthropic-ai-pm|AI指数增长时代的产品管理 - Anthropic官方实践]]
-- [[insight-20260419-spec-kit|Spec-Kit规格驱动编程]]
+- [[insights/product-management/pm-workflow/insight-20260419-anthropic-ai-pm|AI指数增长时代的产品管理 - Anthropic官方实践]]
+- [[insights/product-management/insight-20260419-spec-kit|Spec-Kit规格驱动编程]]
 - [[topic-agent-engineering|Agent Engineering专题]]
 - [[topic-ai-infrastructure|AI基础设施专题]]
 

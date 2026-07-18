@@ -104,9 +104,9 @@ Yoshua Bengio在温莎城堡接受安妮公主授勋（OBE英帝国军官勋章�
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260418-anthropic-capability-stratification]] - Anthropic能力分级
-- [[insight-20260418-hassabis-20vc-interview]] - Demis Hassabis访谈（AGI时间线）
-- [[insight-20260418-ai-three-fundamental-debates]] - AI大神分歧（安全vs发展）
+- [[insights/ai-technology/agent-engineering/insight-20260418-anthropic-capability-stratification]] - Anthropic能力分级
+- [[insights/ai-technology/agent-engineering/insight-20260418-hassabis-20vc-interview]] - Demis Hassabis访谈（AGI时间线）
+- [[insights/ai-technology/agent-engineering/insight-20260418-ai-three-fundamental-debates]] - AI大神分歧（安全vs发展）
 
 ---
 

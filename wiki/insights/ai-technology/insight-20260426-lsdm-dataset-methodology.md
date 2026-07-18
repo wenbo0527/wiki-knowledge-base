@@ -90,7 +90,7 @@ date: 2026-04-26
 
 - [[AI Native/AI-Evaluation]] - AI评估与测试
 - [[Concepts/AI-System-Reliability]] - AI系统可靠性
-- [[AI Native/Agent Engineering]] - Harness Engineering
+- [[topics/ai-native/agent-engineering|Agent 工程化]] - Harness Engineering
 
 ---
 

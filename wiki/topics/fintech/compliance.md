@@ -178,18 +178,18 @@ date: 2026-04-24
 
 ## 相关实体
 
-- [[ant-group]] - 蚂蚁金服(合规输出)
+- [[entities/companies/ant-group]] - 蚂蚁金服(合规输出)
 - 同盾科技（合规科技参考）
 - [[tencent-security]] - 腾讯安全
 
 ## 相关主题
 
-- [[risk-management]] - 风控系统
-- [[data-platform]] - 数据中台
+- [[topics/fintech/risk-management]] - 风控系统
+- [[topics/fintech/data-platform]] - 数据中台
 
 ## 相关洞察
 
-- [[insight-20260409-privacy-computing]] - 隐私计算洞察
+- [[insights/fintech/compliance/insight-20260409-privacy-computing]] - 隐私计算洞察
 
 ## 来源
 

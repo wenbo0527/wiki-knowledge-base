@@ -396,8 +396,8 @@ Claude Design代表了AI辅助设计的一个重要方向，但它还处于早�
 
 ## 关联阅读
 
-- [[insight-20260419-anthropic-ai-pm|AI指数增长时代的产品管理]]
-- [[insight-20260419-harness-engineering|Harness Engineering深度技术解析]]
+- [[insights/product-management/pm-workflow/insight-20260419-anthropic-ai-pm|AI指数增长时代的产品管理]]
+- [[insights/agent/insight-20260419-harness-engineering|Harness Engineering深度技术解析]]
 - [[topic-ai-design|AI辅助设计专题]]
 - [[topic-ui-ux|UI/UX设计专题]]
 

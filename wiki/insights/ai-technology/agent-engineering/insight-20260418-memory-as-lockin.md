@@ -132,10 +132,10 @@ Harrison Chase在LangChain官方博客发表战略长文《Your Harness, Your Me
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260417-harness-engineering]] - Harness Engineering概述
-- [[insight-20260418-karpathy-claude-md-agent-config]] - CLAUDE.md配置模板
-- [[insight-20260418-skill-development]] - Skill开发方法论
-- [[insight-20260418-agent-27-design-patterns]] - Agent设计模式
+- [[insights/ai-technology/agent-engineering/insight-20260417-harness-engineering]] - Harness Engineering概述
+- [[insights/ai-technology/agent-engineering/insight-20260418-karpathy-claude-md-agent-config]] - CLAUDE.md配置模板
+- [[insights/ai-technology/agent-engineering/insight-20260418-skill-development]] - Skill开发方法论
+- [[insights/ai-technology/agent-engineering/insight-20260418-agent-27-design-patterns]] - Agent设计模式
 
 ---
 

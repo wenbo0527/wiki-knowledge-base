@@ -53,8 +53,8 @@ date: 2026-04-24
 
 ## 在最佳实践中的引用
 
-- [[data-platform]] - 实时数仓实践
-- [[intelligent-systems]] - 智能推荐
+- [[topics/fintech/data-platform]] - 实时数仓实践
+- [[topics/fintech/intelligent-systems]] - 智能推荐
 
 ## 相关实体
 

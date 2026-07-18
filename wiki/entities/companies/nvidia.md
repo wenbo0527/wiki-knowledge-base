@@ -74,8 +74,8 @@ NVIDIA Corporation (NASDAQ: NVDA) 是一家美国跨国科技公司，总部位�
 
 ## 相关页面
 
-- [[llm-agent]] - LLM Agent
-- [[rag]] - RAG技术
+- [[concepts/llm-agent]] - LLM Agent
+- [[concepts/rag]] - RAG技术
 
 ## 来源引用
 

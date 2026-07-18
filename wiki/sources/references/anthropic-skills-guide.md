@@ -119,8 +119,8 @@ description: What it does. Use when user asks to [specific phrases].
 - description即"入口文案"的概念对Agent的HEARTBEAT.md编写有指导意义
 
 ## 相关主题
-- [[agent-engineering]] - Agent工程
-- [[ai-programming]] - AI编程实践
+- [[topics/ai-native/agent-engineering]] - Agent工程
+- [[topics/ai-native/ai-programming]] - AI编程实践
 
 ## 标签
 #Anthropic #Skills #MCP #AI开发方法论 #Agent

@@ -83,7 +83,7 @@ date: 2026-04-24
 
 ## 相关主题
 
-- [[data-platform]] - 数据中台
+- [[topics/fintech/data-platform]] - 数据中台
 - [[analysis-suite]] - 分析套件
 
 ## 来源

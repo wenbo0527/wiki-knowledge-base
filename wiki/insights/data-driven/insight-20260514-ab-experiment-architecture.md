@@ -75,8 +75,8 @@ Layer 3: 营销实验（流量C，与A、B正交）
 
 ## 相关洞察
 
-- [[insight-20260514-ab-experiment-user-experience]]
-- [[insight-20260514-ab-experiment-advanced-guide]]
+- [[insights/data-driven/insight-20260514-ab-experiment-user-experience]]
+- [[insights/data-driven/insight-20260514-ab-experiment-advanced-guide]]
 
 ---
 

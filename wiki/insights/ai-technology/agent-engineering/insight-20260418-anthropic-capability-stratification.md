@@ -123,10 +123,10 @@ Claude Pro用户
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260417-harness-engineering]] - Harness Engineering（能力限制相关）
-- [[insight-20260418-hassabis-20vc-interview]] - Demis Hassabis访谈（自举效应）
-- [[insight-20260418-jensen-huang-dwarkesh-interview]] - Jensen Huang访谈
-- [[insight-20260418-ai-three-fundamental-debates]] - AI大神分歧（安全vs开放讨论）
+- [[insights/ai-technology/agent-engineering/insight-20260417-harness-engineering]] - Harness Engineering（能力限制相关）
+- [[insights/ai-technology/agent-engineering/insight-20260418-hassabis-20vc-interview]] - Demis Hassabis访谈（自举效应）
+- [[insights/ai-technology/agent-engineering/insight-20260418-jensen-huang-dwarkesh-interview]] - Jensen Huang访谈
+- [[insights/ai-technology/agent-engineering/insight-20260418-ai-three-fundamental-debates]] - AI大神分歧（安全vs开放讨论）
 
 ---
 

@@ -88,11 +88,11 @@ date: 2026-04-24
 
 ## 相关页面
 
-- [[tech-ai]] - 科技AI主题
-- [[llm-agent]] - LLM Agent
-- [[llm-wiki-pattern]] - LLM Wiki模式
-- [[nvidia]] - NVIDIA公司
-- [[openai]] - OpenAI公司
+- [[topics/tech-ai]] - 科技AI主题
+- [[concepts/llm-agent]] - LLM Agent
+- [[concepts/llm-wiki-pattern]] - LLM Wiki模式
+- [[entities/companies/nvidia]] - NVIDIA公司
+- [[entities/companies/openai]] - OpenAI公司
 
 ## 数据来源
 

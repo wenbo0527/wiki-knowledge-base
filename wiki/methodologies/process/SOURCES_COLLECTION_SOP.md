@@ -151,7 +151,7 @@ Concept（Layer 3）
 ## 相关页面
 
 - [[WIKI_MANAGEMENT_RULES]] - Wiki 管理细则
-- [[llm-wiki-pattern]] - Karpathy LLM Wiki Pattern
+- [[concepts/llm-wiki-pattern]] - Karpathy LLM Wiki Pattern
 - [[insight-20260429-Skill-insight进阶指南...]] - Skill进阶指南
 
 ---

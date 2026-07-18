@@ -158,8 +158,8 @@ def quality_gate(outputs):
 
 ## 关联Insight
 
-- [[insight-20260419-vibe-coding-concepts]] - Vibe Coding核心概念
-- [[insight-20260422-context-compression-methodology]] - 上下文压缩方法论
+- [[insights/ai-coding/insight-20260419-vibe-coding-concepts]] - Vibe Coding核心概念
+- [[insights/agent/insight-20260422-context-compression-methodology]] - 上下文压缩方法论
 
 ---
 

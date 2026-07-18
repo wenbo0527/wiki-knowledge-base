@@ -84,9 +84,9 @@ date: 2026-04-24
 
 ## 相关主题
 
-- [[open-banking]] - 开放银行
-- [[marketing-suite]] - 营销套件
-- [[data-platform]] - 数据中台
+- [[topics/fintech/open-banking]] - 开放银行
+- [[topics/fintech/marketing-suite]] - 营销套件
+- [[topics/fintech/data-platform]] - 数据中台
 
 ## 来源
 

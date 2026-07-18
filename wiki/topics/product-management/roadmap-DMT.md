@@ -184,11 +184,11 @@ date: 2026-04-24
 
 ## 🔗 关联内容
 
-- [[product-management-methodology|产品管理方法论]] - 四层架构详解
-- [[product-management-toolchain|工具链与集成]] - 技术实现方案
-- [[product-management-ontology|本体论设计]] - 元数据与知识图谱
-- [[roadmap-DFD|数据发现产品域规划]] - 数据资产管理
-- [[roadmap-DEX|数据探索产品域规划]] - 自助分析与洞察
+- [[topics/product-management/product-management-methodology|产品管理方法论]] - 四层架构详解
+- [[topics/product-management/product-management-toolchain|工具链与集成]] - 技术实现方案
+- [[topics/product-management/product-management-ontology|本体论设计]] - 元数据与知识图谱
+- [[topics/product-management/roadmap-DFD|数据发现产品域规划]] - 数据资产管理
+- [[topics/product-management/roadmap-DEX|数据探索产品域规划]] - 自助分析与洞察
 
 ---
 

@@ -96,15 +96,15 @@ LLM Wiki Pattern是由Andrej Karpathy提出的一种**个人知识管理系统**
 # Wiki Index
 
 ## Entities
-- [[nvidia]] - NVIDIA公司
-- [[openai]] - OpenAI公司
+- [[entities/companies/nvidia]] - NVIDIA公司
+- [[entities/companies/openai]] - OpenAI公司
 
 ## Concepts
-- [[llm-wiki-pattern]] - LLM Wiki模式
-- [[rag]] - RAG技术
+- [[concepts/llm-wiki-pattern]] - LLM Wiki模式
+- [[concepts/rag]] - RAG技术
 
 ## Topics
-- [[tech-ai]] - 科技AI主题
+- [[topics/tech-ai]] - 科技AI主题
 ```
 
 ### log.md - 操作日志
@@ -172,9 +172,9 @@ LLM Wiki Pattern是由Andrej Karpathy提出的一种**个人知识管理系统**
 
 ## 相关页面
 
-- [[karpathy]] - Andrej Karpathy
-- [[rag]] - RAG技术
-- [[knowledge-management]] - 知识管理主题
+- [[entities/people/karpathy]] - Andrej Karpathy
+- [[concepts/rag]] - RAG技术
+- [[topics/knowledge-management]] - 知识管理主题
 
 ## 来源引用
 

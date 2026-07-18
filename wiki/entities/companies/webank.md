@@ -51,11 +51,11 @@ date: 2026-04-24
 
 ## 在最佳实践中的引用
 
-- [[intelligent-systems]] - 微小宝智能客服
+- [[topics/fintech/intelligent-systems]] - 微小宝智能客服
 
 ## 相关实体
 
-- [[tencent]] - 腾讯(母公司)
+- [[entities/companies/tencent]] - 腾讯(母公司)
 - [[webank-we-cross]] - WeCross区块链
 
 ---

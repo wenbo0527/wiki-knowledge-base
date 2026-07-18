@@ -84,8 +84,8 @@ Superpowers是一个完整的**软件开发工作流框架**，专门为AI编程
 - Cursor：`/add-plugin superpowers`
 
 ## 相关主题
-- [[ai-programming]] - AI编程实践
-- [[agent-engineering]] - Agent工程
+- [[topics/ai-native/ai-programming]] - AI编程实践
+- [[topics/ai-native/agent-engineering]] - Agent工程
 
 ## 标签
 #AI编程 #工作流 #方法论 #TDD #Superpowers

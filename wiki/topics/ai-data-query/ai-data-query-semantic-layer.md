@@ -318,8 +318,8 @@ class TimeExpressionParser:
 
 ## 相关页面
 
-- [[ai-data-query-intent]] - 意图理解
-- [[ai-data-query-sql-generator]] - SQL生成
+- [[topics/ai-data-query/ai-data-query-intent]] - 意图理解
+- [[topics/ai-data-query/ai-data-query-sql-generator]] - SQL生成
 
 ---
 

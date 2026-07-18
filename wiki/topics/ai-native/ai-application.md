@@ -190,14 +190,14 @@ date: 2026-04-24
 
 ## 相关页面
 
-- [[tech-ai]] - AI专题入口
-- [[ai-programming]] - AI编程实践
-- [[agent-engineering]] - Agent工程
+- [[topics/tech-ai]] - AI专题入口
+- [[topics/ai-native/ai-programming]] - AI编程实践
+- [[topics/ai-native/agent-engineering]] - Agent工程
 - [[fintech/llm-finance]] - 金融大模型
 
 ## 相关洞察
 
-- [[insight-20260409-agentic-ai-aws]] - AWS Agentic AI洞察
+- [[insights/fintech/llm-finance/insight-20260409-agentic-ai-aws]] - AWS Agentic AI洞察
 
 ## 来源
 

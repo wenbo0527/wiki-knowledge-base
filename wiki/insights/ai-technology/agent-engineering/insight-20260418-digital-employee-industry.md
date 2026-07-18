@@ -298,10 +298,10 @@ date: 2026-04-24
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260418-agent-orchestration-landscape]] - Agent编排全景
-- [[insight-20260417-harness-engineering]] - Harness Engineering概述
-- [[insight-20260417-harness-engineering-deep-research]] - Harness深度研究
-- [[insight-20260418-skill-development]] - Skill开发方法（待创建）
+- [[insights/ai-technology/agent-engineering/insight-20260418-agent-orchestration-landscape]] - Agent编排全景
+- [[insights/ai-technology/agent-engineering/insight-20260417-harness-engineering]] - Harness Engineering概述
+- [[insights/ai-technology/agent-engineering/insight-20260417-harness-engineering-deep-research]] - Harness深度研究
+- [[insights/ai-technology/agent-engineering/insight-20260418-skill-development]] - Skill开发方法（待创建）
 
 ---
 

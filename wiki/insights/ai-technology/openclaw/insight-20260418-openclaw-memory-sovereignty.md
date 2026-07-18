@@ -95,9 +95,9 @@ OpenClaw = Agent平台 + 用户主权 + 开源生态
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260418-memory-as-lockin]] - 记忆即锁定
-- [[insight-20260418-deep-agents-framework]] - Deep Agents框架
-- [[openclaw-practices]] - OpenClaw实践
+- [[insights/ai-technology/agent-engineering/insight-20260418-memory-as-lockin]] - 记忆即锁定
+- [[insights/ai-technology/agent-engineering/insight-20260418-deep-agents-framework]] - Deep Agents框架
+- [[topics/ai-native/openclaw-practices]] - OpenClaw实践
 
 ---
 

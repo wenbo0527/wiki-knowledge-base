@@ -46,12 +46,12 @@ date: 2026-04-24
 
 ### 芯片竞争
 
-- [[insight-20260418-jensen-huang-dwarkesh-interview]] - NVIDIA护城河与TPU竞争
-- [[insight-20260427-jeff-dean-tpu-story]] - ⭐⭐⭐⭐ Jeff Dean TPU诞生与极客往事
+- [[insights/ai-technology/agent-engineering/insight-20260418-jensen-huang-dwarkesh-interview]] - NVIDIA护城河与TPU竞争
+- [[insights/research/technology/insight-20260427-jeff-dean-tpu-story]] - ⭐⭐⭐⭐ Jeff Dean TPU诞生与极客往事
 
 ### 算力供应链
 
-- [[insight-20260418-a16z-capital-flywheel]] - 资本飞轮与算力投入
+- [[insights/ai-technology/agent-engineering/insight-20260418-a16z-capital-flywheel]] - 资本飞轮与算力投入
 
 ### 能源挑战
 
@@ -63,8 +63,8 @@ date: 2026-04-24
 
 ## 相关洞察
 
-- [[insight-20260418-jensen-huang-dwarkesh-interview]] - Jensen Huang访谈
-- [[insight-20260418-hassabis-20vc-interview]] - Demis Hassabis访谈
+- [[insights/ai-technology/agent-engineering/insight-20260418-jensen-huang-dwarkesh-interview]] - Jensen Huang访谈
+- [[insights/ai-technology/agent-engineering/insight-20260418-hassabis-20vc-interview]] - Demis Hassabis访谈
 
 ---
 

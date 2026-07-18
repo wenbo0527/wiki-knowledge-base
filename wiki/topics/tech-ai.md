@@ -58,7 +58,7 @@ date: 2026-04-24
 
 ## 子专题索引
 
-### 1. [[ai-programming|AI编程实践]] ⭐
+### 1. [[topics/ai-native/ai-programming|AI编程实践]] ⭐
 
 **定位**: Vibe Coding、AI辅助编程、Prompt Engineering实践
 
@@ -75,7 +75,7 @@ date: 2026-04-24
 
 ---
 
-### 2. [[agent-engineering|Agent工程实践]] ⭐
+### 2. [[topics/ai-native/agent-engineering|Agent工程实践]] ⭐
 
 **定位**: Agent系统架构、框架选型、工程落地
 
@@ -109,7 +109,7 @@ date: 2026-04-24
 
 ---
 
-### 4. [[ai-application|AI行业应用]] ⭐
+### 4. [[topics/ai-native/ai-application|AI行业应用]] ⭐
 
 **定位**: AI在各行业的落地实践与案例
 
@@ -138,7 +138,7 @@ date: 2026-04-24
 
 ---
 
-### 6. [[openclaw-practices|OpenClaw实践]]
+### 6. [[topics/ai-native/openclaw-practices|OpenClaw实践]]
 
 **定位**: Agent平台运维、多Agent协作、团队管理
 
@@ -154,10 +154,10 @@ date: 2026-04-24
 
 | 场景 | 推荐阅读 |
 |------|----------|
-| **想用AI写代码** | [[ai-programming]] |
-| **想构建Agent系统** | [[agent-engineering]] |
-| **想了解AI落地案例** | [[ai-application]] |
-| **想用OpenClaw** | [[openclaw-practices]] |
+| **想用AI写代码** | [[topics/ai-native/ai-programming]] |
+| **想构建Agent系统** | [[topics/ai-native/agent-engineering]] |
+| **想了解AI落地案例** | [[topics/ai-native/ai-application]] |
+| **想用OpenClaw** | [[topics/ai-native/openclaw-practices]] |
 
 ---
 
@@ -180,8 +180,8 @@ date: 2026-04-24
 
 ### 内部链接
 - [[fintech/llm-finance]] - 金融大模型应用
-- [[knowledge-management]] - 知识管理
-- [[data-platform]] - 数据中台
+- [[topics/knowledge-management]] - 知识管理
+- [[topics/fintech/data-platform]] - 数据中台
 
 ### 外部资源
 - [Simon Willison](https://simonwillison.net) - AI工具深度评测
@@ -193,16 +193,16 @@ date: 2026-04-24
 
 ## 相关实体
 
-- [[apple]] - Apple（AI芯片、端侧AI）
-- [[nvidia]] - NVIDIA（AI芯片）
-- [[openai]] - OpenAI（GPT系列）
-- [[anthropic]] - Anthropic（Claude系列）
-- [[deepmind]] - DeepMind（AlphaGo系列）
+- [[entities/companies/apple]] - Apple（AI芯片、端侧AI）
+- [[entities/companies/nvidia]] - NVIDIA（AI芯片）
+- [[entities/companies/openai]] - OpenAI（GPT系列）
+- [[entities/companies/anthropic]] - Anthropic（Claude系列）
+- [[entities/companies/deepmind]] - DeepMind（AlphaGo系列）
 
 ## 相关洞察
 
-- [[insight-20260409-agent-framework]] - Agent框架选型洞察
-- [[insight-20260414-vibe-coding]] - Vibe Coding最佳实践
+- [[insights/fintech/llm-finance/insight-20260409-agent-framework]] - Agent框架选型洞察
+- [[insights/ai-technology/vibe-coding/insight-20260414-vibe-coding]] - Vibe Coding最佳实践
 
 ## 来源
 

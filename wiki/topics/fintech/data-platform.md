@@ -134,7 +134,7 @@ date: 2026-04-24
 - 物化视图（6000亿→200亿压缩）
 - 倒排索引（Date Skipping效率10倍提升）
 
-📎 详情: [[insight-20260428-xiaohongshu-data-architecture|小红书数据架构演进]]
+📎 详情: [[insights/fintech/insight-20260428-xiaohongshu-data-architecture|小红书数据架构演进]]
 
 ---
 
@@ -258,16 +258,16 @@ date: 2026-04-24
 
 ## 相关实体
 
-- [[ant-group]] - 阿里巴巴
-- [[bytedance]] - 字节跳动
-- [[zhaolian]] - 招联金融
-- [[msxf]] - 马上消费金融
-- [[tencent-cloud]] - 腾讯云
+- [[entities/companies/ant-group]] - 阿里巴巴
+- [[entities/companies/bytedance]] - 字节跳动
+- [[entities/companies/zhaolian]] - 招联金融
+- [[entities/companies/msxf]] - 马上消费金融
+- [[entities/companies/tencent-cloud]] - 腾讯云
 
 ## 相关概念
 
-- [[risk-management]] - 风控专题
-- [[insight-20260409-data-governance]] - 数据治理洞察
+- [[topics/fintech/risk-management]] - 风控专题
+- [[insights/fintech/data-platform/insight-20260409-data-governance]] - 数据治理洞察
 
 ## 来源
 

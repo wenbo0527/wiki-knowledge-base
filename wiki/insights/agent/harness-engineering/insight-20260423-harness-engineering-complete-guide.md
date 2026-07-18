@@ -174,10 +174,10 @@ Harness = 除模型以外的一切：
 
 ## 关联Insight
 
-- [[insight-20260419-harness-engineering]] - Harness Engineering早期版本
-- [[insight-20260417-mitchell-ai-adoption-journey]] - Mitchell六阶段采纳模型
-- [[insight-20260419-harness-agent]] - Harness Agent架构
-- [[insight-20260422-context-compression-methodology]] - 上下文压缩方法论（相关）
+- [[insights/agent/insight-20260419-harness-engineering]] - Harness Engineering早期版本
+- [[insights/ai-technology/agent-engineering/insight-20260417-mitchell-ai-adoption-journey]] - Mitchell六阶段采纳模型
+- [[insights/agent/insight-20260419-harness-agent]] - Harness Agent架构
+- [[insights/agent/insight-20260422-context-compression-methodology]] - 上下文压缩方法论（相关）
 
 ---
 

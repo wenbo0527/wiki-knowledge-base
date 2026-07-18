@@ -83,8 +83,8 @@ date: 2026-04-24
 
 ## 相关页面
 
-- [[ai-programming]] - AI编程实践
-- [[tech-ai]] - AI专题入口
+- [[topics/ai-native/ai-programming]] - AI编程实践
+- [[topics/tech-ai]] - AI专题入口
 
 ---
 

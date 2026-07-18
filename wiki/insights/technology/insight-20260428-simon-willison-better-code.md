@@ -127,8 +127,8 @@ Dan Shipper和Kieran Klaassen（Every公司）提出的方法：
 
 ## 相关文档
 
-- [[insight-20260428-simon-willison-code-is-cheap|Writing code is cheap now]] (同来源)
-- [[insight-20260428-simon-willison-hoard-things|Hoard things you know how to do]] (同来源)
+- [[insights/technology/insight-20260428-simon-willison-code-is-cheap|Writing code is cheap now]] (同来源)
+- [[insights/technology/insight-20260428-simon-willison-hoard-things|Hoard things you know how to do]] (同来源)
 - [[topic-ai-native/enterprise-refactoring|Enterprise Refactoring专题]]
 
 ---

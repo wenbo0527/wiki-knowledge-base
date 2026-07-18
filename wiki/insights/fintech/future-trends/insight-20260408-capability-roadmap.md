@@ -82,9 +82,9 @@ date: 2026-04-24
 
 ## 相关主题
 
-- [[data-platform]] - 数据中台
-- [[llm-finance]] - 大模型金融
-- [[future-trends]] - 未来趋势
+- [[topics/fintech/data-platform]] - 数据中台
+- [[topics/fintech/llm-finance]] - 大模型金融
+- [[topics/fintech/future-trends]] - 未来趋势
 
 ## 来源
 

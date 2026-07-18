@@ -198,8 +198,8 @@ date: 2026-04-24
 
 ## 相关页面
 
-- [[hegang-framework]] - 何刚框架
-- [[caiyu-framework]] - 蔡钰框架
+- [[topics/analysis-frameworks/hegang-framework]] - 何刚框架
+- [[topics/analysis-frameworks/caiyu-framework]] - 蔡钰框架
 
 ---
 

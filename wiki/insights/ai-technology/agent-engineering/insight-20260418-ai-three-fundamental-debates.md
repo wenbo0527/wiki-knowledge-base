@@ -159,9 +159,9 @@ Scaling Law判断
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260418-digital-employee-industry]] - 数字员工产业分析
-- [[insight-20260417-harness-engineering]] - Harness Engineering
-- [[insight-20260418-microsoft-nfow-2026]] - Microsoft NFW 2026报告
+- [[insights/ai-technology/agent-engineering/insight-20260418-digital-employee-industry]] - 数字员工产业分析
+- [[insights/ai-technology/agent-engineering/insight-20260417-harness-engineering]] - Harness Engineering
+- [[insights/ai-technology/agent-engineering/insight-20260418-microsoft-nfow-2026]] - Microsoft NFW 2026报告
 
 ---
 

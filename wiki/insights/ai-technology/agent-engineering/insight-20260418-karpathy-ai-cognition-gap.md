@@ -79,9 +79,9 @@ Karpathy在X上回应一篇关于AI认知极化的分析文章：
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260418-karpathy-claude-md-agent-config]] - CLAUDE.md配置模板
-- [[insight-20260417-harness-engineering]] - Harness Engineering
-- [[insight-20260418-skill-development]] - Skill开发方法论
+- [[insights/ai-technology/agent-engineering/insight-20260418-karpathy-claude-md-agent-config]] - CLAUDE.md配置模板
+- [[insights/ai-technology/agent-engineering/insight-20260417-harness-engineering]] - Harness Engineering
+- [[insights/ai-technology/agent-engineering/insight-20260418-skill-development]] - Skill开发方法论
 
 ---
 

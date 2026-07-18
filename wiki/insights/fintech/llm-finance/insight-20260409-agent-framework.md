@@ -68,8 +68,8 @@ Worker1 / Worker2 / Worker3 → 各司其职
 
 ## 相关页面
 
-- [[agent-engineering]] - Agent工程
-- [[tech-ai]] - AI专题入口
+- [[topics/ai-native/agent-engineering]] - Agent工程
+- [[topics/tech-ai]] - AI专题入口
 
 ---
 

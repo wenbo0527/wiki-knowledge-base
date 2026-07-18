@@ -260,9 +260,9 @@ date: 2026-04-24
 
 ## 相关页面
 
-- [[majiangbo-framework]] - 马江博框架
-- [[caiyu-framework]] - 蔡钰框架
-- [[10-analysis-models]] - 十大分析模型
+- [[topics/analysis-frameworks/majiangbo-framework]] - 马江博框架
+- [[topics/analysis-frameworks/caiyu-framework]] - 蔡钰框架
+- [[topics/analysis-frameworks/10-analysis-models]] - 十大分析模型
 
 ---
 

@@ -61,7 +61,7 @@ date: 2026-06-30
 
 ## 关联文档
 
-- [[insight-20260608-harness-engineering-third-paradigm|Harness Engineering 范式跃迁（C 已入库）]]
+- [[insights/ai/insight-20260608-harness-engineering-third-paradigm|Harness Engineering 范式跃迁（C 已入库）]]
 - [[../../../../05_AgentOutput/agent_work/Nick/02_最佳实践/OpenClaw治理/Standing-Orders-5层解法与落地实践-v2.0|Standing Orders v2.0]]
 
 ---

@@ -24,7 +24,7 @@ date: 2026-04-24
 | **课程主题** | Agent系统的27种设计模式与Harness工程化 |
 | **时长** | 24分46秒 |
 | **领域** | AI Agent / 软件工程 / Harness工程 |
-| **关联** | [[insight-20260417-harness-engineering]] / [[insight-20260417-harness-engineering-deep-research]] |
+| **关联** | [[insights/ai-technology/agent-engineering/insight-20260417-harness-engineering]] / [[insights/ai-technology/agent-engineering/insight-20260417-harness-engineering-deep-research]] |
 
 ---
 
@@ -210,10 +210,10 @@ date: 2026-04-24
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260417-harness-engineering]] - Harness Engineering概述
-- [[insight-20260417-harness-engineering-deep-research]] - Harness深度研究
-- [[insight-20260418-agent-orchestration-landscape]] - Agent编排全景
-- [[insight-20260418-digital-employee-industry]] - 数字员工产业分析（待创建）
+- [[insights/ai-technology/agent-engineering/insight-20260417-harness-engineering]] - Harness Engineering概述
+- [[insights/ai-technology/agent-engineering/insight-20260417-harness-engineering-deep-research]] - Harness深度研究
+- [[insights/ai-technology/agent-engineering/insight-20260418-agent-orchestration-landscape]] - Agent编排全景
+- [[insights/ai-technology/agent-engineering/insight-20260418-digital-employee-industry]] - 数字员工产业分析（待创建）
 
 ---
 

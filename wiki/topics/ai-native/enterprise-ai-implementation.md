@@ -207,8 +207,8 @@ SDD-RIPER 是团队级AI编程落地的核心框架：
 ```
 
 ### 相关专题
-- [[ai-programming]] - 个人AI编程实践
-- [[agent-engineering]] - Agent工程
+- [[topics/ai-native/ai-programming]] - 个人AI编程实践
+- [[topics/ai-native/agent-engineering]] - Agent工程
 
 ---
 

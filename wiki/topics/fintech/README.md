@@ -102,38 +102,38 @@ date: 2026-04-24
 
 | Insight | 主题 | 来源 |
 |---------|------|------|
-| [[insight-20260408-analysis-suite]] | 分析套件 | Day02 |
-| [[insight-20260408-marketing-suite]] | 营销套件 | Day03 |
-| [[insight-20260408-risk-management]] | 风控系统 | Day05 |
-| [[insight-20260408-customer-service]] | 智能客服 | Day06 |
-| [[insight-20260408-smart-credit]] | 智能信贷 | Day08 |
-| [[insight-20260408-payment]] | 支付系统 | Day09 |
-| [[insight-20260408-open-banking]] | 开放银行 | Day10 |
-| [[insight-20260408-regtech]] | 合规科技 | Day11 |
-| [[insight-20260408-cloud-native]] | 云原生 | Day12 |
-| [[insight-20260408-comprehensive-review]] | 综合复盘 | Day07 |
-| [[insight-20260408-capability-roadmap]] | 能力路线图 | Day14 |
-| [[insight-20260408-llm-deep-dive]] | 大模型深度 | Day15 |
+| [[insights/fintech/marketing-suite/insight-20260408-analysis-suite]] | 分析套件 | Day02 |
+| [[insights/fintech/marketing-suite/insight-20260408-marketing-suite]] | 营销套件 | Day03 |
+| [[insights/fintech/risk-management/insight-20260408-risk-management]] | 风控系统 | Day05 |
+| [[insights/fintech/intelligent-systems/insight-20260408-customer-service]] | 智能客服 | Day06 |
+| [[insights/fintech/risk-management/insight-20260408-smart-credit]] | 智能信贷 | Day08 |
+| [[insights/fintech/product-solutions/insight-20260408-payment]] | 支付系统 | Day09 |
+| [[insights/fintech/open-banking/insight-20260408-open-banking]] | 开放银行 | Day10 |
+| [[insights/fintech/compliance/insight-20260408-regtech]] | 合规科技 | Day11 |
+| [[insights/fintech/data-platform/insight-20260408-cloud-native]] | 云原生 | Day12 |
+| [[insights/fintech/future-trends/insight-20260408-comprehensive-review]] | 综合复盘 | Day07 |
+| [[insights/fintech/future-trends/insight-20260408-capability-roadmap]] | 能力路线图 | Day14 |
+| [[insights/fintech/llm-finance/insight-20260408-llm-deep-dive]] | 大模型深度 | Day15 |
 
 ### 深度专题Insights
 
 | Insight | 主题 | 来源 |
 |---------|------|------|
-| [[insight-20260409-privacy-computing]] | 隐私计算 | 专题02 |
-| [[insight-20260408-digital-currency]] | 数字人民币 | 专题04 |
-| [[insight-20260408-llm-agent]] | LLM Agent | 概念 |
+| [[insights/fintech/compliance/insight-20260409-privacy-computing]] | 隐私计算 | 专题02 |
+| [[insights/fintech/digital-currency/insight-20260408-digital-currency]] | 数字人民币 | 专题04 |
+| [[insights/fintech/llm-finance/insight-20260408-llm-agent]] | LLM Agent | 概念 |
 
 ### Round3 Insights
 
 | Insight | 主题 | 来源 |
 |---------|------|------|
-| [[insight-20260408-data-asset]] | 数据资产 | Day16 |
-| [[insight-20260408-metrics-platform]] | 指标中台 | Day17 |
-| [[insight-20260408-data-security]] | 数据安全 | Day18 |
-| [[insight-20260408-aigc-product]] | AIGC产品 | Day19 |
-| [[insight-20260408-open-platform]] | 开放平台 | Day20 |
-| [[insight-20260408-collaboration]] | 组织协同 | Day21 |
-| [[insight-20260408-p8-capability]] | P8+能力 | Day22 |
+| [[insights/fintech/data-platform/insight-20260408-data-asset]] | 数据资产 | Day16 |
+| [[insights/fintech/data-platform/insight-20260408-metrics-platform]] | 指标中台 | Day17 |
+| [[insights/ai-technology/ai-safety-regulation/insight-20260408-data-security]] | 数据安全 | Day18 |
+| [[insights/fintech/product-solutions/insight-20260408-aigc-product]] | AIGC产品 | Day19 |
+| [[insights/fintech/open-banking/insight-20260408-open-platform]] | 开放平台 | Day20 |
+| [[insights/fintech/product-solutions/insight-20260408-collaboration]] | 组织协同 | Day21 |
+| [[insights/fintech/future-trends/insight-20260408-p8-capability]] | P8+能力 | Day22 |
 
 ## 待补充主题
 

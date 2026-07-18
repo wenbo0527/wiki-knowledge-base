@@ -118,9 +118,9 @@ Karpathy提出的**LLM Wiki模式**是RAG的进化：
 
 ## 相关页面
 
-- [[llm-wiki-pattern]] - LLM Wiki模式（Karpathy提出的进化方向）
-- [[karpathy]] - Andrej Karpathy
-- [[llm-agent]] - AI Agent
+- [[concepts/llm-wiki-pattern]] - LLM Wiki模式（Karpathy提出的进化方向）
+- [[entities/people/karpathy]] - Andrej Karpathy
+- [[concepts/llm-agent]] - AI Agent
 
 ## 来源引用
 

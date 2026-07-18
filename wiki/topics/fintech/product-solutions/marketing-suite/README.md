@@ -217,10 +217,10 @@ Phase 3（5-6月）：
 
 ## 相关主题
 
-- [[data-platform]] - 数据中台
+- [[topics/fintech/data-platform]] - 数据中台
 - [[risk-suite]] - 风控套件
 - [[analysis-suite]] - 分析套件
-- [[insight-20260408-marketing-suite]] - 营销套件行业洞察
+- [[insights/fintech/marketing-suite/insight-20260408-marketing-suite]] - 营销套件行业洞察
 
 ## 来源
 

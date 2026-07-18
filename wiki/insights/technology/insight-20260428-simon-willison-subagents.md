@@ -166,9 +166,9 @@ that are affected by this change.
 
 ## 相关文档
 
-- [[insight-20260428-simon-willison-anti-patterns|Anti-patterns反模式]] (同来源)
-- [[insight-20260428-simon-willison-linear-walkthroughs|Linear Walkthroughs]] (同来源)
-- [[insight-20260417-claude-code-agent-farm|Claude Code Agent Farm]]
+- [[insights/technology/insight-20260428-simon-willison-anti-patterns|Anti-patterns反模式]] (同来源)
+- [[insights/technology/insight-20260428-simon-willison-linear-walkthroughs|Linear Walkthroughs]] (同来源)
+- [[insights/ai-technology/agent-engineering/insight-20260417-claude-code-agent-farm|Claude Code Agent Farm]]
 
 ---
 

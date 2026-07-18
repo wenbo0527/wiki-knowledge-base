@@ -41,8 +41,8 @@ date: 2026-04-24
 
 ## 相关实体
 
-- [[tencent-cloud]] - 腾讯云
-- [[webank]] - 微众银行
+- [[entities/companies/tencent-cloud]] - 腾讯云
+- [[entities/companies/webank]] - 微众银行
 
 ---
 

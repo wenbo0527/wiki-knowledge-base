@@ -76,8 +76,8 @@ date: 2026-04-24
 
 ## 相关主题
 
-- [[llm-finance]] - 大模型金融
-- [[intelligent-systems]] - 智能系统
+- [[topics/fintech/llm-finance]] - 大模型金融
+- [[topics/fintech/intelligent-systems]] - 智能系统
 
 ## 来源
 

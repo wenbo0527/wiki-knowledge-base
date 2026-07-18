@@ -95,9 +95,9 @@ Agent平台 + 小团队 + 垂直场景 = 指数级增长
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260418-digital-employee-industry]] - 数字员工产业分析
-- [[insight-20260418-microsoft-nfow-2026]] - Microsoft NFW报告
-- [[insight-20260418-a16z-capital-flywheel]] - a16z资本飞轮
+- [[insights/ai-technology/agent-engineering/insight-20260418-digital-employee-industry]] - 数字员工产业分析
+- [[insights/ai-technology/agent-engineering/insight-20260418-microsoft-nfow-2026]] - Microsoft NFW报告
+- [[insights/ai-technology/agent-engineering/insight-20260418-a16z-capital-flywheel]] - a16z资本飞轮
 
 ---
 

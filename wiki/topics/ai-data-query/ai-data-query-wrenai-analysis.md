@@ -236,8 +236,8 @@ MVP阶段:
 
 ## 相关页面
 
-- [[ai-data-query-sql-generator]] - SQL生成层
-- [[ai-data-query-semantic-layer]] - 语义层设计
+- [[topics/ai-data-query/ai-data-query-sql-generator]] - SQL生成层
+- [[topics/ai-data-query/ai-data-query-semantic-layer]] - 语义层设计
 
 ---
 

@@ -160,8 +160,8 @@ Mitchell 在脚注中特别提到：
 
 ## 🔗 关联知识
 
-- [[insight-20260417-harness-engineering]] - Harness Engineering总体介绍
-- [[insight-20260417-harness-engineering-deep-research]] - 深度情报汇总
+- [[insights/ai-technology/agent-engineering/insight-20260417-harness-engineering]] - Harness Engineering总体介绍
+- [[insights/ai-technology/agent-engineering/insight-20260417-harness-engineering-deep-research]] - 深度情报汇总
 - [[topics/ai-native/agent-engineering]] - Agent工程实践入口
 
 ---

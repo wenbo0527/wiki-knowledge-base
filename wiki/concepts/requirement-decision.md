@@ -86,11 +86,11 @@ date: 2026-05-23
 
 ## 相关页面
 
-- [[tech-understanding]] - 技术理解方法论
-- [[product-design]] - 产品设计方法论
-- [[data-driven]] - 数据驱动方法论
-- [[value-closed-loop]] - 价值闭环方法论
-- [[risk-control]] - 风险防控方法论
+- [[concepts/tech-understanding]] - 技术理解方法论
+- [[concepts/product-design]] - 产品设计方法论
+- [[concepts/data-driven]] - 数据驱动方法论
+- [[concepts/value-closed-loop]] - 价值闭环方法论
+- [[concepts/risk-control]] - 风险防控方法论
 
 ---
 

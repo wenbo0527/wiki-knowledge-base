@@ -32,7 +32,7 @@ Claude Design是Anthropic推出的AI驱动设计工具，通过自然语言交�
 
 ## 关联Insight文档
 
-- [[insight-20260419-claude-design|Insight: Claude Design AI驱动设计工具深度评测]]
+- [[insights/agent/insight-20260419-claude-design|Insight: Claude Design AI驱动设计工具深度评测]]
 
 ---
 

@@ -78,9 +78,9 @@ date: 2026-05-14
 
 ## 相关洞察
 
-- [[insight-20260514-enterprise-ai-coding-scaffolding]]
-- [[insight-20260514-meituan-ai-coding-refactor]]
-- [[insight-20260514-mineshine-bank-sdd-practice]]
+- [[insights/ai-coding/insight-20260514-enterprise-ai-coding-scaffolding]]
+- [[insights/ai-coding/insight-20260514-meituan-ai-coding-refactor]]
+- [[insights/fintech/insight-20260514-mineshine-bank-sdd-practice]]
 
 ---
 

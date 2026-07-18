@@ -78,8 +78,8 @@ date: 2026-05-14
 
 ## 相关洞察
 
-- [[insight-20260514-ab-experiment-core-problems]]
-- [[insight-20260514-ab-experiment-architecture]]
+- [[insights/data-driven/insight-20260514-ab-experiment-core-problems]]
+- [[insights/data-driven/insight-20260514-ab-experiment-architecture]]
 
 ---
 

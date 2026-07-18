@@ -192,13 +192,13 @@ spec:
 
 ## 相关实体
 
-- [[tencent-cloud]] - 腾讯云
-- [[ant-group]] - 蚂蚁集团(基础设施)
+- [[entities/companies/tencent-cloud]] - 腾讯云
+- [[entities/companies/ant-group]] - 蚂蚁集团(基础设施)
 
 ## 相关主题
 
-- [[data-platform]] - 数据中台
-- [[risk-management]] - 风控系统
+- [[topics/fintech/data-platform]] - 数据中台
+- [[topics/fintech/risk-management]] - 风控系统
 
 ## 来源
 

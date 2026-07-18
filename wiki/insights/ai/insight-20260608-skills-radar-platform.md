@@ -55,7 +55,7 @@ date: 2026-06-30
 
 - [[../ai-technology/insight-20260520-agent-skills-landscape-research|Agent Skills 全景研究]]
 - [[../ai/insight-20260421-openai-skill-evaluation|OpenAI Skill 评测系统调研]]
-- [[../../../../05_AgentOutput/agent_work/Nick/02_最佳实践/Agent评估|研发团队 2 评估全套]]
+- [[../../../../../05_AgentOutput/agent_work/Nick/02_最佳实践/Agent评估|研发团队 2 评估全套]]
 
 ---
 

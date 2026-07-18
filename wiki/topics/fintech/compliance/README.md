@@ -44,7 +44,7 @@ date: 2026-04-24
 
 ## 行业洞察
 
-- [[insight-20260426-financial-product-marketing-regulations|金融产品网络营销管理办法解读]] ⭐⭐⭐⭐
+- [[insights/fintech/insight-20260426-financial-product-marketing-regulations|金融产品网络营销管理办法解读]] ⭐⭐⭐⭐
   - 发布：2026-04-26
   - 来源：销售有道
   - 要点：去伪存真、持牌经营、划清界限

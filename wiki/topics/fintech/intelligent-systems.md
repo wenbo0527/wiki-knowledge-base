@@ -150,14 +150,14 @@ date: 2026-04-24
 
 ## 相关实体
 
-- [[ant-group]] - 蚂蚁集团
-- [[webank]] - 微众银行
-- [[alipay]] - 支付宝
+- [[entities/companies/ant-group]] - 蚂蚁集团
+- [[entities/companies/webank]] - 微众银行
+- [[entities/companies/alipay]] - 支付宝
 
 ## 相关主题
 
-- [[risk-management]] - 风控系统
-- [[data-platform]] - 数据中台
+- [[topics/fintech/risk-management]] - 风控系统
+- [[topics/fintech/data-platform]] - 数据中台
 
 ## 来源
 

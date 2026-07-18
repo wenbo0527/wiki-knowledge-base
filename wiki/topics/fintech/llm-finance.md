@@ -226,22 +226,22 @@ date: 2026-04-24
 
 ## 相关实体
 
-- [[ant-group]] - 蚂蚁集团(贞观大模型)
-- [[cmb]] - 招商银行(AI家庭医生)
+- [[entities/companies/ant-group]] - 蚂蚁集团(贞观大模型)
+- [[entities/companies/cmb]] - 招商银行(AI家庭医生)
 - 平安银行(AskBob)
 - 京东科技(京言)
 - 东方财富(股医生)
 
 ## 相关主题
 
-- [[intelligent-systems]] - 智能系统
-- [[risk-management]] - 风控系统
-- [[compliance]] - 合规科技
-- [[future-trends]] - 未来趋势
+- [[topics/fintech/intelligent-systems]] - 智能系统
+- [[topics/fintech/risk-management]] - 风控系统
+- [[topics/fintech/compliance]] - 合规科技
+- [[topics/fintech/future-trends]] - 未来趋势
 
 ## 相关洞察
 
-- [[insight-20260409-finance-agent]] - 金融AI Agent洞察
+- [[insights/fintech/llm-finance/insight-20260409-finance-agent]] - 金融AI Agent洞察
 
 ## 来源
 

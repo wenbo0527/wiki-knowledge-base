@@ -93,7 +93,7 @@ date: 2026-04-24
 
 ## 相关洞察
 
-- [[insight-20260408-data-asset]] - 数据资产洞察
-- [[insight-20260408-analysis-suite]] - 分析套件洞察
-- [[insight-20260408-marketing-suite]] - 营销套件洞察
-- [[insight-20260408-risk-management]] - 风控套件洞察
+- [[insights/fintech/data-platform/insight-20260408-data-asset]] - 数据资产洞察
+- [[insights/fintech/marketing-suite/insight-20260408-analysis-suite]] - 分析套件洞察
+- [[insights/fintech/marketing-suite/insight-20260408-marketing-suite]] - 营销套件洞察
+- [[insights/fintech/risk-management/insight-20260408-risk-management]] - 风控套件洞察

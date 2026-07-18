@@ -135,9 +135,9 @@ NVIDIA的工作原则：
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260418-jensen-huang-dwarkesh-interview]] - Jensen访谈完整版
-- [[insight-20260418-a16z-capital-flywheel]] - a16z资本飞轮
-- [[ai-infrastructure]] - AI基础设施Topic
+- [[insights/ai-technology/agent-engineering/insight-20260418-jensen-huang-dwarkesh-interview]] - Jensen访谈完整版
+- [[insights/ai-technology/agent-engineering/insight-20260418-a16z-capital-flywheel]] - a16z资本飞轮
+- [[topics/ai-native/ai-infrastructure]] - AI基础设施Topic
 
 ---
 

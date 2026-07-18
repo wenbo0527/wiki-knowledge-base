@@ -51,7 +51,7 @@ date: 2026-04-24
 
 ## 关联文档
 
-- **深度分析**: [[insight-20260419-ai-product-manager-workflow|AI产品经理工作流完整拆解]]
+- **深度分析**: [[insights/product-management/pm-workflow/insight-20260419-ai-product-manager-workflow|AI产品经理工作流完整拆解]]
 - **相关主题**: [[topics/ai-native/agent-engineering|Agent工程]], [[topics/knowledge-management|知识管理]]
 
 ---

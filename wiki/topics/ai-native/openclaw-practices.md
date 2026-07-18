@@ -234,17 +234,17 @@ date: 2026-04-24
 
 ## 相关页面
 
-- [[tech-ai]] - AI专题入口
-- [[ai-programming]] - AI编程实践
-- [[agent-engineering]] - Agent工程
+- [[topics/tech-ai]] - AI专题入口
+- [[topics/ai-native/ai-programming]] - AI编程实践
+- [[topics/ai-native/agent-engineering]] - Agent工程
 
 ---
 
 ## 相关洞察
 
-- [[insight-20260409-openclaw-11-person-team]] - OpenClaw团队协作洞察
-- [[insight-20260620-daoge-kb]] - 刀哥 KB 全量分析：1132 篇深度文 + Claude Code/OpenClaw 双主线
-- [[insight-20260620-daoge-kb-2026]] - 刀哥 KB 2026 专题：84 篇月度叙事 + TOP 10 必读
+- [[insights/ai-technology/openclaw/insight-20260409-openclaw-11-person-team]] - OpenClaw团队协作洞察
+- [[topics/ai-native/openclaw-practices/insight-20260620-daoge-kb]] - 刀哥 KB 全量分析：1132 篇深度文 + Claude Code/OpenClaw 双主线
+- [[topics/ai-native/openclaw-practices/insight-20260620-daoge-kb-2026]] - 刀哥 KB 2026 专题：84 篇月度叙事 + TOP 10 必读
 
 ## 来源
 

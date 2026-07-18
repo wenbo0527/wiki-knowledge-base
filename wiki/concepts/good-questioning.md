@@ -312,8 +312,8 @@ date: 2026-04-24
 
 ## 相关页面
 
-- [[scqa-framework]] - SCQA表达框架
-- [[knowledge-management]] - 知识管理
+- [[concepts/scqa-framework]] - SCQA表达框架
+- [[topics/knowledge-management]] - 知识管理
 
 ---
 

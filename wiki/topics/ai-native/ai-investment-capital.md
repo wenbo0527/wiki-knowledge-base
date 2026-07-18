@@ -46,8 +46,8 @@ date: 2026-04-24
 
 ## 相关洞察
 
-- [[insight-20260418-a16z-capital-flywheel]] - a16z资本飞轮
-- [[insight-20260418-a16z-q1-300b-investment]] - a16z Q1 $3000亿投资
+- [[insights/ai-technology/agent-engineering/insight-20260418-a16z-capital-flywheel]] - a16z资本飞轮
+- [[insights/ai-technology/agent-engineering/insight-20260418-a16z-q1-300b-investment]] - a16z Q1 $3000亿投资
 
 ---
 

@@ -158,8 +158,8 @@ AI：先查本体论...
 
 ## 相关专题
 
-- [[ai-programming]] - AI编程实践（Superpowers工作流）
-- [[agent-engineering]] - Agent工程（Anthropic Skills框架）
+- [[topics/ai-native/ai-programming]] - AI编程实践（Superpowers工作流）
+- [[topics/ai-native/agent-engineering]] - Agent工程（Anthropic Skills框架）
 - 产品管理专题02c - 我们已有的本体论实践
 
 ---

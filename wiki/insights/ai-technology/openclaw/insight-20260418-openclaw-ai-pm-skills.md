@@ -106,9 +106,9 @@ date: 2026-04-24
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260418-openclaw-10-use-cases]] - 龙虾10个使用场景
-- [[insight-20260418-openclaw-product-analysis]] - 产品分析
-- [[insight-20260418-openclaw-memory-sovereignty]] - 记忆主权
+- [[insights/ai-technology/openclaw/insight-20260418-openclaw-10-use-cases]] - 龙虾10个使用场景
+- [[insights/ai-technology/openclaw/insight-20260418-openclaw-product-analysis]] - 产品分析
+- [[insights/ai-technology/openclaw/insight-20260418-openclaw-memory-sovereignty]] - 记忆主权
 
 ---
 

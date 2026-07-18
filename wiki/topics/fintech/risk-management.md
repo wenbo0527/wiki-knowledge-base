@@ -207,14 +207,14 @@ date: 2026-04-24
 
 ## 相关实体
 
-- [[msxf]] - 天镜智能风控
-- [[zhaolian]] - 智鹿风控中台
-- [[duxiaoman]] - 磐石智能风控
+- [[entities/companies/msxf]] - 天镜智能风控
+- [[entities/companies/zhaolian]] - 智鹿风控中台
+- [[entities/companies/duxiaoman]] - 磐石智能风控
 
 ## 相关主题
 
-- [[data-platform]] - 数据中台（特征计算基础）
-- [[llm-finance]] - 大模型金融
+- [[topics/fintech/data-platform]] - 数据中台（特征计算基础）
+- [[topics/fintech/llm-finance]] - 大模型金融
 
 ## 来源
 

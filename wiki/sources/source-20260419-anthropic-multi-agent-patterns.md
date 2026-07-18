@@ -45,7 +45,7 @@ date: 2026-04-24
 
 ## 关联文档
 
-- **深度分析**: [[insight-20260419-anthropic-multi-agent-patterns|Anthropic多智能体协作模式深度解析]]
+- **深度分析**: [[insights/agent/insight-20260419-anthropic-multi-agent-patterns|Anthropic多智能体协作模式深度解析]]
 - **相关主题**: [[topics/ai-native/agent-engineering|Agent工程]]
 
 ---

@@ -89,9 +89,9 @@ date: 2026-04-24
 
 ## 相关主题
 
-- [[llm-finance]] - 大模型金融
-- [[risk-management]] - 风控系统
-- [[future-trends]] - 未来趋势
+- [[topics/fintech/llm-finance]] - 大模型金融
+- [[topics/fintech/risk-management]] - 风控系统
+- [[topics/fintech/future-trends]] - 未来趋势
 
 ## 来源
 

@@ -32,7 +32,7 @@ date: 2026-04-24
 
 ## 关联Insight文档
 
-- [[insight-20260419-harness-agent|Insight: Harness Agent工程行业最佳实践深度解析]]
+- [[insights/agent/insight-20260419-harness-agent|Insight: Harness Agent工程行业最佳实践深度解析]]
 
 ---
 

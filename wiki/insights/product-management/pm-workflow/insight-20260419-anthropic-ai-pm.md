@@ -157,8 +157,8 @@ Cat Wu提出了产品经理在AI时代必须做出的四个根本性转变：
 
 ## 关联阅读
 
-- [[insight-20260419-harness-engineering|Harness Engineering深度技术解析]]
-- [[insight-20260419-spec-kit|Spec-Kit规格驱动编程]]
+- [[insights/agent/insight-20260419-harness-engineering|Harness Engineering深度技术解析]]
+- [[insights/product-management/insight-20260419-spec-kit|Spec-Kit规格驱动编程]]
 - [[topic-ai-product-management|AI产品管理专题]]
 - [[topic-agent-engineering|Agent Engineering专题]]
 

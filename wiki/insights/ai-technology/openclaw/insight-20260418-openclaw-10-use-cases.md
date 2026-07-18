@@ -211,9 +211,9 @@ date: 2026-04-24
 
 ## 🔗 Wiki链路关联
 
-- [[openclaw-practices]] - OpenClaw实践
-- [[insight-20260418-openclaw-memory-sovereignty]] - OpenClaw记忆主权
-- [[insight-20260409-openclaw-11-person-team]] - OpenClaw团队协作
+- [[topics/ai-native/openclaw-practices]] - OpenClaw实践
+- [[insights/ai-technology/openclaw/insight-20260418-openclaw-memory-sovereignty]] - OpenClaw记忆主权
+- [[insights/ai-technology/openclaw/insight-20260409-openclaw-11-person-team]] - OpenClaw团队协作
 
 ---
 

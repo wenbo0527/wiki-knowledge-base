@@ -45,7 +45,7 @@ date: 2026-04-24
 
 ## 相关实体
 
-- [[risk-management]] - 风控专题
+- [[topics/fintech/risk-management]] - 风控专题
 
 ---
 

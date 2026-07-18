@@ -193,8 +193,8 @@ claude-code-agent-farm doctor --path /path/to/project
 
 ## 🔗 关联知识
 
-- [[insight-20260417-harness-engineering]] - Harness Engineering核心概念
-- [[insight-20260417-mitchell-ai-adoption-journey]] - Mitchell六阶段模型
+- [[insights/ai-technology/agent-engineering/insight-20260417-harness-engineering]] - Harness Engineering核心概念
+- [[insights/ai-technology/agent-engineering/insight-20260417-mitchell-ai-adoption-journey]] - Mitchell六阶段模型
 - [[topics/ai-native/agent-engineering]] - Agent工程实践
 
 ---

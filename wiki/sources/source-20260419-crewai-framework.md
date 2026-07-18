@@ -32,7 +32,7 @@ CrewAI创始人提出"框架层空心化"理论，认为当前Multi-Agent框架�
 
 ## 关联Insight文档
 
-- [[insight-20260419-crewai-framework|Insight: CrewAI框架层"空心化"预言深度解析]]
+- [[insights/agent/insight-20260419-crewai-framework|Insight: CrewAI框架层"空心化"预言深度解析]]
 
 ---
 

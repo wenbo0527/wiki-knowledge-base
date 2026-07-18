@@ -25,7 +25,7 @@ date: 2026-04-24
 | **课程主题** | 大模型AI Skill编写、评测迭代与长链路任务实践经验 |
 | **时长** | 37分钟11秒 |
 | **领域** | Agent开发 / 大模型应用工程 |
-| **关联** | [[insight-20260418-digital-employee-industry]] / [[insight-20260417-harness-engineering]] |
+| **关联** | [[insights/ai-technology/agent-engineering/insight-20260418-digital-employee-industry]] / [[insights/ai-technology/agent-engineering/insight-20260417-harness-engineering]] |
 
 ---
 
@@ -271,10 +271,10 @@ Skill描述的核心作用是让大模型知道**何时调用**以及**如何做
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260418-digital-employee-industry]] - 数字员工产业分析
-- [[insight-20260417-harness-engineering]] - Harness Engineering概述
-- [[insight-20260417-harness-engineering-deep-research]] - Harness深度研究
-- [[insight-20260418-agent-27-design-patterns]] - 27种设计模式
+- [[insights/ai-technology/agent-engineering/insight-20260418-digital-employee-industry]] - 数字员工产业分析
+- [[insights/ai-technology/agent-engineering/insight-20260417-harness-engineering]] - Harness Engineering概述
+- [[insights/ai-technology/agent-engineering/insight-20260417-harness-engineering-deep-research]] - Harness深度研究
+- [[insights/ai-technology/agent-engineering/insight-20260418-agent-27-design-patterns]] - 27种设计模式
 
 ---
 

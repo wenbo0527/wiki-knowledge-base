@@ -91,9 +91,9 @@ date: 2026-04-24
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260418-digital-employee-industry]] - 数字员工产业分析
-- [[insight-20260418-hassabis-20vc-interview]] - Demis Hassabis访谈
-- [[insight-20260418-perplexity-computer-pivot]] - Perplexity转型
+- [[insights/ai-technology/agent-engineering/insight-20260418-digital-employee-industry]] - 数字员工产业分析
+- [[insights/ai-technology/agent-engineering/insight-20260418-hassabis-20vc-interview]] - Demis Hassabis访谈
+- [[insights/ai-technology/agent-engineering/insight-20260418-perplexity-computer-pivot]] - Perplexity转型
 
 ---
 

@@ -85,11 +85,11 @@ date: 2026-04-24
 
 ## 相关页面
 
-- [[karpathy]] - AI专家
-- [[llm-wiki-pattern]] - LLM Wiki模式
-- [[rag]] - RAG技术
-- [[llm-agent]] - AI Agent
-- [[tech-ai]] - 科技AI主题
+- [[entities/people/karpathy]] - AI专家
+- [[concepts/llm-wiki-pattern]] - LLM Wiki模式
+- [[concepts/rag]] - RAG技术
+- [[concepts/llm-agent]] - AI Agent
+- [[topics/tech-ai]] - 科技AI主题
 
 ## 来源引用
 

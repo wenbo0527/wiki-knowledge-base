@@ -69,8 +69,8 @@ date: 2026-05-14
 
 ## 相关洞察
 
-- [[insight-20260514-tianwan-multi-agent]]
-- [[insight-20260514-multica-agent-collaboration]]
+- [[insights/ai/insight-20260514-tianwan-multi-agent]]
+- [[insights/ai/insight-20260514-multica-agent-collaboration]]
 
 ---
 

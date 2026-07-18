@@ -101,9 +101,9 @@ Crawl (爬行)          Walk (行走)            Run (运行)
 
 ## 相关主题
 
-- [[infrastructure]] - 基础设施
-- [[data-platform]] - 数据中台
-- [[risk-management]] - 风控系统
+- [[topics/fintech/infrastructure]] - 基础设施
+- [[topics/fintech/data-platform]] - 数据中台
+- [[topics/fintech/risk-management]] - 风控系统
 
 ## 来源
 

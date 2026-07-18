@@ -59,7 +59,7 @@ Harness Engineering 是2026年AI工程圈最热话题，核心观点是"模型�
 
 ## 🔗 Wiki关联
 
-- **Insight**: [[insight-20260417-harness-engineering]]
+- **Insight**: [[insights/ai-technology/agent-engineering/insight-20260417-harness-engineering]]
 - **Topic**: [[topics/ai-native/agent-engineering]]
 
 ---

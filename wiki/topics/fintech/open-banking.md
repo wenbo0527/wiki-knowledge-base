@@ -145,14 +145,14 @@ date: 2026-04-24
 
 ## 相关实体
 
-- [[cmb]] - 招商银行
+- [[entities/companies/cmb]] - 招商银行
 - 工商银行（参考）
 
 ## 相关主题
 
-- [[data-platform]] - 数据中台
-- [[intelligent-systems]] - 智能系统
-- [[compliance]] - 合规科技
+- [[topics/fintech/data-platform]] - 数据中台
+- [[topics/fintech/intelligent-systems]] - 智能系统
+- [[topics/fintech/compliance]] - 合规科技
 
 ## 来源
 

@@ -295,8 +295,8 @@ class ChartGeneratorTool {
 
 ## 相关页面
 
-- [[ai-data-query-execution]] - 查询执行
-- [[ai-data-query-interactive]] - 交互式分析
+- [[topics/ai-data-query/ai-data-query-execution]] - 查询执行
+- [[topics/ai-data-query/ai-data-query-interactive]] - 交互式分析
 
 ---
 

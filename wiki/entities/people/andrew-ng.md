@@ -104,8 +104,8 @@ date: 2026-04-24
 
 ## 相关人物
 
-- [[karpathy]] - OpenAI研究员，深度学习先驱
-- [[li-feifei]] - 计算机视觉先驱，ImageNet创始人
+- [[entities/people/karpathy]] - OpenAI研究员，深度学习先驱
+- [[entities/people/li-feifei]] - 计算机视觉先驱，ImageNet创始人
 
 ---
 

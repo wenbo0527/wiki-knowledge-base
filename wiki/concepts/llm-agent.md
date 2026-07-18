@@ -120,10 +120,10 @@ LLM规划 (Planning)
 
 ## 相关页面
 
-- [[llm-wiki-pattern]] - LLM Wiki模式
-- [[rag]] - RAG技术
-- [[karpathy]] - Andrej Karpathy
-- [[ai-llm]] - AI/LLM概念
+- [[concepts/llm-wiki-pattern]] - LLM Wiki模式
+- [[concepts/rag]] - RAG技术
+- [[entities/people/karpathy]] - Andrej Karpathy
+- [[concepts/ai-llm]] - AI/LLM概念
 
 ## 来源引用
 

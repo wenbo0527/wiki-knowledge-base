@@ -61,13 +61,13 @@ date: 2026-04-24
 
 ## 在最佳实践中的引用
 
-- [[data-platform]] - Apache Doris统一数仓
-- [[risk-management]] - 智鹿风控中台
+- [[topics/fintech/data-platform]] - Apache Doris统一数仓
+- [[topics/fintech/risk-management]] - 智鹿风控中台
 
 ## 相关实体
 
-- [[cmb]] - 招商银行(股东)
-- [[risk-management]] - 风控专题
+- [[entities/companies/cmb]] - 招商银行(股东)
+- [[topics/fintech/risk-management]] - 风控专题
 
 ---
 

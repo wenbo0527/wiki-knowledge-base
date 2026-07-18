@@ -32,7 +32,7 @@ date: 2026-04-24
 
 ## 关联Insight文档
 
-- [[insight-20260419-vibe-coding-concepts|Insight: Vibe Coding 30个核心概念全解析]]
+- [[insights/ai-coding/insight-20260419-vibe-coding-concepts|Insight: Vibe Coding 30个核心概念全解析]]
 
 ---
 

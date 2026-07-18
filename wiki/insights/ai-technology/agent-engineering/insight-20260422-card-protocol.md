@@ -20,7 +20,7 @@ date: 2026-04-24
 - **来源**: [微信公众 - 大淘宝技术](https://mp.weixin.qq.com/s/-aPwcWt076X0B-sEXIeTAg)
 - **类型**: 行业实践
 - **标签**: #AgentUI #协议设计 #MCP #A2UI #卡片交互
-- **关联专题**: [[agent-engineering]], [[ai-programming]]
+- **关联专题**: [[topics/ai-native/agent-engineering]], [[topics/ai-native/ai-programming]]
 
 ---
 
@@ -385,8 +385,8 @@ function ChatMessage({ markdown }) {
 
 ## 相关Insight
 
-- [[insight-20260417-harness-engineering]] - Harness工程核心概念
-- [[insight-20260417-claude-code-agent-farm]] - Claude Code多Agent编排
+- [[insights/ai-technology/agent-engineering/insight-20260417-harness-engineering]] - Harness工程核心概念
+- [[insights/ai-technology/agent-engineering/insight-20260417-claude-code-agent-farm]] - Claude Code多Agent编排
 
 ---
 

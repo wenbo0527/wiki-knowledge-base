@@ -92,9 +92,9 @@ date: 2026-04-24
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260418-digital-employee-industry]] - 数字员工产业分析
-- [[insight-20260418-memory-as-lockin]] - Agent记忆主权
-- [[insight-20260418-a16z-capital-flywheel]] - a16z资本飞轮
+- [[insights/ai-technology/agent-engineering/insight-20260418-digital-employee-industry]] - 数字员工产业分析
+- [[insights/ai-technology/agent-engineering/insight-20260418-memory-as-lockin]] - Agent记忆主权
+- [[insights/ai-technology/agent-engineering/insight-20260418-a16z-capital-flywheel]] - a16z资本飞轮
 
 ---
 

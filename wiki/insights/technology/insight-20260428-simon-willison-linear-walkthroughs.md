@@ -130,8 +130,8 @@ Step 3: 生成walkthrough.md
 
 ## 关联文档
 
-- [[insight-20260423-umodel-code-knowledge-graph|UModel代码知识图谱]] (阿里云方案)
-- [[insight-20260419-harness-engineering|Harness Engineering]] (Harness层)
+- [[insights/technology/insight-20260423-umodel-code-knowledge-graph|UModel代码知识图谱]] (阿里云方案)
+- [[insights/agent/insight-20260419-harness-engineering|Harness Engineering]] (Harness层)
 - [[topic-ai-native/ai-programming/vibe-coding|Vibe Coding专题]]
 
 ---

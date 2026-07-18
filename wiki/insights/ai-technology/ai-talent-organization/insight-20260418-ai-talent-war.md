@@ -85,8 +85,8 @@ date: 2026-04-24
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260418-a16z-capital-flywheel]] - a16z资本飞轮
-- [[ai-talent-organization]] - AI人才/组织Topic
+- [[insights/ai-technology/agent-engineering/insight-20260418-a16z-capital-flywheel]] - a16z资本飞轮
+- [[topics/ai-native/ai-talent-organization]] - AI人才/组织Topic
 
 ---
 

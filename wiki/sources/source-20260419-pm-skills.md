@@ -44,7 +44,7 @@ date: 2026-04-24
 
 ## 关联文档
 
-- **深度分析**: [[insight-20260419-pm-skills|PM Skills 65个技能深度解析]]
+- **深度分析**: [[insights/product-management/pm-skills/insight-20260419-pm-skills|PM Skills 65个技能深度解析]]
 - **相关主题**: [[topics/ai-native/agent-engineering|Agent工程]], [[topics/product-management|产品管理]]
 
 ---

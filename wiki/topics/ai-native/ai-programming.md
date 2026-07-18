@@ -213,9 +213,9 @@ Review这段代码：
 
 ## 相关页面
 
-- [[tech-ai]] - AI专题入口
-- [[agent-engineering]] - Agent工程
-- [[ai-application]] - AI行业应用
+- [[topics/tech-ai]] - AI专题入口
+- [[topics/ai-native/agent-engineering]] - Agent工程
+- [[topics/ai-native/ai-application]] - AI行业应用
 
 ## 相关洞察
 

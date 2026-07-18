@@ -180,11 +180,11 @@ date: 2026-04-24
 
 ## 🔗 关联内容
 
-- [[product-management-methodology|产品管理方法论]] - 四层架构详解
-- [[product-management-toolchain|工具链与集成]] - 技术实现方案
-- [[product-management-cases|实践案例]] - 客群中心案例详解
-- [[roadmap-DFD|数据发现产品域规划]] - 数据资产管理规划
-- [[roadmap-RISK|数字风险产品域规划]] - 风控产品规划
+- [[topics/product-management/product-management-methodology|产品管理方法论]] - 四层架构详解
+- [[topics/product-management/product-management-toolchain|工具链与集成]] - 技术实现方案
+- [[topics/product-management/product-management-cases|实践案例]] - 客群中心案例详解
+- [[topics/product-management/roadmap-DFD|数据发现产品域规划]] - 数据资产管理规划
+- [[topics/product-management/roadmap-RISK|数字风险产品域规划]] - 风控产品规划
 
 ---
 

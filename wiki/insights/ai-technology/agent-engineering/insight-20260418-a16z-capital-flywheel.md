@@ -203,9 +203,9 @@ date: 2026-04-24
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260418-digital-employee-industry]] - 数字员工产业分析
-- [[insight-20260418-hassabis-20vc-interview]] - Demis Hassabis访谈（自举效应）
-- [[insight-20260418-ai-three-fundamental-debates]] - AI大神分歧（开源vs闭源讨论）
+- [[insights/ai-technology/agent-engineering/insight-20260418-digital-employee-industry]] - 数字员工产业分析
+- [[insights/ai-technology/agent-engineering/insight-20260418-hassabis-20vc-interview]] - Demis Hassabis访谈（自举效应）
+- [[insights/ai-technology/agent-engineering/insight-20260418-ai-three-fundamental-debates]] - AI大神分歧（开源vs闭源讨论）
 
 ---
 

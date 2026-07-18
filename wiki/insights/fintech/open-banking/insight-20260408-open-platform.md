@@ -63,8 +63,8 @@ date: 2026-04-24
 
 ## 相关主题
 
-- [[open-banking]] - 开放银行
-- [[infrastructure]] - 基础设施
+- [[topics/fintech/open-banking]] - 开放银行
+- [[topics/fintech/infrastructure]] - 基础设施
 
 ## 来源
 

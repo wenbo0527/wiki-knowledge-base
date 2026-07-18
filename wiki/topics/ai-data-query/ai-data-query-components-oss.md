@@ -372,10 +372,10 @@ LIMIT 5;
 
 ## 相关页面
 
-- [[ai-data-query-intent]] - 意图理解
-- [[ai-data-query-sql-generator]] - SQL生成
-- [[ai-data-query-execution]] - 查询执行
-- [[ai-data-query-semantic-layer]] - 语义层
+- [[topics/ai-data-query/ai-data-query-intent]] - 意图理解
+- [[topics/ai-data-query/ai-data-query-sql-generator]] - SQL生成
+- [[topics/ai-data-query/ai-data-query-execution]] - 查询执行
+- [[topics/ai-data-query/ai-data-query-semantic-layer]] - 语义层
 
 ---
 

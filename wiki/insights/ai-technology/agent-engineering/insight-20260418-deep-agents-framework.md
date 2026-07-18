@@ -93,9 +93,9 @@ LangChain发布Deep Agents——一个即开即用的Agent框架。
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260417-harness-engineering]] - Harness Engineering概述
-- [[insight-20260418-memory-as-lockin]] - 记忆主权问题
-- [[insight-20260418-karpathy-claude-md-agent-config]] - CLAUDE.md配置模板
+- [[insights/ai-technology/agent-engineering/insight-20260417-harness-engineering]] - Harness Engineering概述
+- [[insights/ai-technology/agent-engineering/insight-20260418-memory-as-lockin]] - 记忆主权问题
+- [[insights/ai-technology/agent-engineering/insight-20260418-karpathy-claude-md-agent-config]] - CLAUDE.md配置模板
 
 ---
 

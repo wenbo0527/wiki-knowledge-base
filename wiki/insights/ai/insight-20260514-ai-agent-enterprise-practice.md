@@ -49,7 +49,7 @@ date: 2026-05-14
 
 ## 相关洞察
 
-- [[insight-20260421-AI-Agent重塑数据基础设施]]
+- [[insights/agent/insight-20260421-AI-Agent重塑数据基础设施]]
 
 ---
 

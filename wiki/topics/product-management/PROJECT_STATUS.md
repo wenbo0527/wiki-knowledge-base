@@ -168,11 +168,11 @@ date: 2026-04-24
 
 ## 🔗 关联文档
 
-- [[EPIC_NAVIGATION]] - Epic导航
-- [[PRODUCT_MGMT_GUIDE]] - 产品管理指南
-- [[roadmap-DFD|数据发现规划]] - 产品域详细规划
-- [[roadmap-MKT|数字营销规划]] - 产品域详细规划
-- [[roadmap-RISK|数字风险规划]] - 产品域详细规划
+- [[topics/product-management/EPIC_NAVIGATION]] - Epic导航
+- [[topics/product-management/PRODUCT_MGMT_GUIDE]] - 产品管理指南
+- [[topics/product-management/roadmap-DFD|数据发现规划]] - 产品域详细规划
+- [[topics/product-management/roadmap-MKT|数字营销规划]] - 产品域详细规划
+- [[topics/product-management/roadmap-RISK|数字风险规划]] - 产品域详细规划
 
 ---
 

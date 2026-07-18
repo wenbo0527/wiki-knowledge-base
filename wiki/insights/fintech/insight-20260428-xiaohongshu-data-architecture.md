@@ -195,8 +195,8 @@ Lambda架构的痛点（双代码、低一致性、高成本）在AI时代被放
 ## 关联文档
 
 - [[topics/fintech/data-platform|数据中台最佳实践]] (可作为互联网大厂案例补充)
-- [[insight-20260424-apache-gravitino-unified-metadata|Apache Gravitino统一元数据]] (元数据架构部分关联)
-- [[insight-20260421-AI-Agent重塑数据基础设施|AI Agent重塑数据基础设施]] (AI+Data趋势)
+- [[insights/technology/insight-20260424-apache-gravitino-unified-metadata|Apache Gravitino统一元数据]] (元数据架构部分关联)
+- [[insights/agent/insight-20260421-AI-Agent重塑数据基础设施|AI Agent重塑数据基础设施]] (AI+Data趋势)
 
 ---
 

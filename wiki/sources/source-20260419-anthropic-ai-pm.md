@@ -32,7 +32,7 @@ date: 2026-04-24
 
 ## 关联Insight文档
 
-- [[insight-20260419-anthropic-ai-pm|Insight: AI指数增长时代的产品管理深度解析]]
+- [[insights/product-management/pm-workflow/insight-20260419-anthropic-ai-pm|Insight: AI指数增长时代的产品管理深度解析]]
 
 ---
 

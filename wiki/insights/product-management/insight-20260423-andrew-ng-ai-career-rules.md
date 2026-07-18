@@ -174,9 +174,9 @@ AI时代职业生存指南——不是学AI，是用AI做事的能力。瓶颈�
 
 ## 关联Insight
 
-- [[insight-20260414-vibe-coding]] - Vibe Coding最佳实践
-- [[insight-20260423-progressive-skill-methodology]] - 渐进式Skill方法论
-- [[insight-20260423-harness-engineering-complete-guide]] - Harness Engineering完整指南
+- [[insights/ai-technology/vibe-coding/insight-20260414-vibe-coding]] - Vibe Coding最佳实践
+- [[insights/agent/agent-skills/insight-20260423-progressive-skill-methodology]] - 渐进式Skill方法论
+- [[insights/agent/harness-engineering/insight-20260423-harness-engineering-complete-guide]] - Harness Engineering完整指南
 
 ---
 

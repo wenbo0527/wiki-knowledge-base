@@ -781,7 +781,7 @@ spec-kit generate --lang rust --input order.spec.yaml --output ./rust
 
 ## 关联阅读
 
-- [[insight-20260419-harness-engineering|Harness Engineering深度技术解析]]
+- [[insights/agent/insight-20260419-harness-engineering|Harness Engineering深度技术解析]]
 - [[topic-ai-programming|AI编程专题]]
 - [[topic-code-quality|代码质量专题]]
 - [[concept-type-system|类型系统概念]]

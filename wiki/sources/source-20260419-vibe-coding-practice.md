@@ -43,9 +43,9 @@ date: 2026-04-24
 
 ## 关联文档
 
-- **深度分析**: [[insight-20260419-vibe-coding-practice|Vibe Coding实战篇深度解析]]
+- **深度分析**: [[insights/ai-coding/insight-20260419-vibe-coding-practice|Vibe Coding实战篇深度解析]]
 - **相关主题**: [[topics/ai-native/agent-engineering|Agent工程]], [[topics/ai-programming/vibe-coding/README|Vibe Coding]]
-- **补充概念**: [[insight-20260419-vibe-coding-concepts|Vibe Coding 30个核心概念]]
+- **补充概念**: [[insights/ai-coding/insight-20260419-vibe-coding-concepts|Vibe Coding 30个核心概念]]
 
 ---
 

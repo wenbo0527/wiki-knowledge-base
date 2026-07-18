@@ -32,7 +32,7 @@ Tech Interview Handbook是一个全面的技术面试准备指南开源项目，
 
 ## 关联Insight文档
 
-- [[insight-20260419-tech-interview|Insight: Tech Interview Handbook开源项目深度分析]]
+- [[insights/agent/insight-20260419-tech-interview|Insight: Tech Interview Handbook开源项目深度分析]]
 
 ---
 

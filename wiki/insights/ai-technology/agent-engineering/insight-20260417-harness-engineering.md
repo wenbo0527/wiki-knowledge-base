@@ -68,7 +68,7 @@ Harness不是"壳"，是控制系统：
 
 - [[topics/ai-native/agent-engineering]] - Agent工程实践
 - [[topics/ai-native/vibe-coding]] - Vibe Coding专题
-- [[insight-20260408-llm-agent]] - LLM Agent洞察
+- [[insights/fintech/llm-finance/insight-20260408-llm-agent]] - LLM Agent洞察
 
 ---
 

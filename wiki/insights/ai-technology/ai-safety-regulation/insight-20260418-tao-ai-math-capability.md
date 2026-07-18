@@ -81,8 +81,8 @@ date: 2026-04-24
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260418-karpathy-ai-cognition-gap]] - Karpathy AI认知鸿沟
-- [[insight-20260418-ai-three-fundamental-debates]] - AI大神分歧
+- [[insights/ai-technology/agent-engineering/insight-20260418-karpathy-ai-cognition-gap]] - Karpathy AI认知鸿沟
+- [[insights/ai-technology/agent-engineering/insight-20260418-ai-three-fundamental-debates]] - AI大神分歧
 
 ---
 

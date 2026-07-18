@@ -86,8 +86,8 @@ Spec定义（人） → AI生成代码（AI） → 人工审查（人） → CI/
 
 ## 相关洞察
 
-- [[insight-20260514-meituan-ai-coding-refactor]]
-- [[insight-20260514-enterprise-ai-coding-scaffolding]]
+- [[insights/ai-coding/insight-20260514-meituan-ai-coding-refactor]]
+- [[insights/ai-coding/insight-20260514-enterprise-ai-coding-scaffolding]]
 
 ---
 

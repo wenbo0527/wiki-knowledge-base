@@ -60,7 +60,7 @@ date: 2026-04-24
 ## 关联文档
 
 - **相关主题**: [[topics/ai-native/agent-engineering|Agent工程]]
-- **相关工具**: [[insight-20260419-deerflow|DeerFlow 2.0]]
+- **相关工具**: [[insights/agent/insight-20260419-deerflow|DeerFlow 2.0]]
 
 ---
 

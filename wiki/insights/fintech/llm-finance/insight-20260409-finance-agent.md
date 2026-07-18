@@ -90,10 +90,10 @@ AI Agent正在从"概念验证"走向"规模化落地"，金融是最佳落地�
 
 ## 相关主题
 
-- [[llm-finance]] - 大模型金融
-- [[risk-management]] - 风控系统
+- [[topics/fintech/llm-finance]] - 大模型金融
+- [[topics/fintech/risk-management]] - 风控系统
 - [[customer-service]] - 智能客服
-- [[future-trends]] - 未来趋势
+- [[topics/fintech/future-trends]] - 未来趋势
 
 ## 来源
 

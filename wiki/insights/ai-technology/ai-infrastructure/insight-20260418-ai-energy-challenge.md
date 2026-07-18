@@ -82,8 +82,8 @@ date: 2026-04-24
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260418-jensen-huang-dwarkesh-interview]] - Jensen Huang访谈
-- [[ai-infrastructure]] - AI基础设施Topic
+- [[insights/ai-technology/agent-engineering/insight-20260418-jensen-huang-dwarkesh-interview]] - Jensen Huang访谈
+- [[topics/ai-native/ai-infrastructure]] - AI基础设施Topic
 
 ---
 

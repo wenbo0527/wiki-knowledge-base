@@ -188,7 +188,7 @@ Proposal → Design → Specs → Tasks
 ---
 
 ## 相关专题
-- [[ai-programming]] - AI编程实践
+- [[topics/ai-native/ai-programming]] - AI编程实践
 - [[superpowers]] - Superpowers工作流（待补充）
 
 ## 标签

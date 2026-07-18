@@ -226,10 +226,10 @@ Phase 3（5-6月）：
 
 ## 相关主题
 
-- [[data-platform]] - 数据中台
-- [[marketing-suite]] - 营销套件
+- [[topics/fintech/data-platform]] - 数据中台
+- [[topics/fintech/marketing-suite]] - 营销套件
 - [[analysis-suite]] - 分析套件
-- [[insight-20260408-risk-management]] - 风控系统行业洞察
+- [[insights/fintech/risk-management/insight-20260408-risk-management]] - 风控系统行业洞察
 
 ## 来源
 

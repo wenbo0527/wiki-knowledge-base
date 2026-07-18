@@ -79,7 +79,7 @@ Writer Agent → 写入 → 等待同步 → Reader Agent读取
 
 ## 相关洞察
 
-- [[insight-20260514-agent-memory-architecture]]
+- [[insights/ai/insight-20260514-agent-memory-architecture]]
 
 ---
 

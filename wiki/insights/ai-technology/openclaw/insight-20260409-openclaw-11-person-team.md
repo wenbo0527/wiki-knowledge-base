@@ -140,9 +140,9 @@ AI学习任务
 
 ## 相关页面
 
-- [[openclaw-practices]] - OpenClaw实践
-- [[agent-engineering]] - Agent工程
-- [[tech-ai]] - AI专题
+- [[topics/ai-native/openclaw-practices]] - OpenClaw实践
+- [[topics/ai-native/agent-engineering]] - Agent工程
+- [[topics/tech-ai]] - AI专题
 
 ---
 

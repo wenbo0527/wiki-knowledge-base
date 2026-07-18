@@ -78,8 +78,8 @@ date: 2026-04-24
 ## 相关主题
 
 - [[data-security]] - 数据安全
-- [[risk-management]] - 风控系统
-- [[llm-finance]] - 大模型金融
+- [[topics/fintech/risk-management]] - 风控系统
+- [[topics/fintech/llm-finance]] - 大模型金融
 
 ## 来源
 

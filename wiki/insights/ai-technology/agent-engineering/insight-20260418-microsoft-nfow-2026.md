@@ -202,10 +202,10 @@ AI时代：从"做工作" → "指导、批评和改进AI的工作"
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260418-digital-employee-industry]] - 数字员工产业分析
-- [[insight-20260418-vibe-coding-landscape]] - Vibe Coding专题
-- [[insight-20260418-skill-development]] - Skill开发方法论
-- [[insight-20260418-agent-27-design-patterns]] - Agent设计模式
+- [[insights/ai-technology/agent-engineering/insight-20260418-digital-employee-industry]] - 数字员工产业分析
+- [[insights/ai-technology/vibe-coding/insight-20260418-vibe-coding-landscape]] - Vibe Coding专题
+- [[insights/ai-technology/agent-engineering/insight-20260418-skill-development]] - Skill开发方法论
+- [[insights/ai-technology/agent-engineering/insight-20260418-agent-27-design-patterns]] - Agent设计模式
 
 ---
 

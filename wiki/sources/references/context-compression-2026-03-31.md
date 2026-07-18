@@ -155,7 +155,7 @@ LangChain 的 Deep Agents SDK 加了一个"自主压缩工具"——不是固定
 ## 参考链接
 
 - 原文：https://mp.weixin.qq.com/s/h5QyZ07G7Kj9xi2gUTltMw
-- 相关洞察：[[insight-20260422-context-compression-methodology]]
+- 相关洞察：[[insights/agent/insight-20260422-context-compression-methodology]]
 
 ---
 

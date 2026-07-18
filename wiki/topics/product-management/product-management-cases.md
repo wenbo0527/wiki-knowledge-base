@@ -260,8 +260,8 @@ date: 2026-04-24
 
 ## 🔗 关联内容
 
-- [[product-management-methodology|产品管理方法论]] - 四层架构详解
-- [[product-management-ontology|本体论设计]] - 知识图谱 Schema
+- [[topics/product-management/product-management-methodology|产品管理方法论]] - 四层架构详解
+- [[topics/product-management/product-management-ontology|本体论设计]] - 知识图谱 Schema
 - [[topics/ai-native/agent-engineering|Agent 工程]] - AI 服务开发
 - [[concepts/rag|RAG]] - 检索增强生成
 

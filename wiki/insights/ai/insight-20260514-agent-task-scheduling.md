@@ -96,7 +96,7 @@ date: 2026-05-14
 
 ## 相关洞察
 
-- [[insight-20260514-agent-memory-architecture]]
+- [[insights/ai/insight-20260514-agent-memory-architecture]]
 
 ---
 

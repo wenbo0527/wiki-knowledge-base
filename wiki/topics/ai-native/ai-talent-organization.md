@@ -44,8 +44,8 @@ FT独家：Zuckerberg正在构建自己的AI分身来管理10万人公司。
 
 ## 相关洞察
 
-- [[insight-20260418-zuckerberg-ai-clone]] - Zuckerberg AI克隆
-- [[insight-20260418-perplexity-computer-pivot]] - Perplexity转型
+- [[insights/ai-technology/agent-engineering/insight-20260418-zuckerberg-ai-clone]] - Zuckerberg AI克隆
+- [[insights/ai-technology/agent-engineering/insight-20260418-perplexity-computer-pivot]] - Perplexity转型
 
 ---
 

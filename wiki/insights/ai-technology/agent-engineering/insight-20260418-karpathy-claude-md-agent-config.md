@@ -133,10 +133,10 @@ CLAUDE.md本质上是 **Harness Engineering** 的具体实现：
 
 ## 🔗 Wiki链路关联
 
-- [[insight-20260417-harness-engineering]] - Harness Engineering概述
-- [[insight-20260418-skill-development]] - Skill开发方法论
-- [[insight-20260418-agent-27-design-patterns]] - Agent设计模式
-- [[insight-20260418-vibe-coding-landscape]] - Vibe Coding专题
+- [[insights/ai-technology/agent-engineering/insight-20260417-harness-engineering]] - Harness Engineering概述
+- [[insights/ai-technology/agent-engineering/insight-20260418-skill-development]] - Skill开发方法论
+- [[insights/ai-technology/agent-engineering/insight-20260418-agent-27-design-patterns]] - Agent设计模式
+- [[insights/ai-technology/vibe-coding/insight-20260418-vibe-coding-landscape]] - Vibe Coding专题
 
 ---
 

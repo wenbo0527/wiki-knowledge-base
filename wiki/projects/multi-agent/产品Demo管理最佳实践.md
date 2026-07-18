@@ -178,7 +178,7 @@ curl -sk https://118.196.79.130:8443/<app>/  # 验证
 
 ### 2.6 上下文膨胀处理
 
-> 来自 [[insight-20260419-harness-engineering]] 的 Harness 设计思想
+> 来自 [[insights/agent/insight-20260419-harness-engineering]] 的 Harness 设计思想
 
 当单个会话任务超过30分钟时：
 
@@ -233,7 +233,7 @@ curl -sk https://118.196.79.130:8443/<app>/  # 验证
 
 ### 3.4 错误处理框架
 
-> 对齐 [[insight-20260419-harness-engineering]] 的错误分类处理
+> 对齐 [[insights/agent/insight-20260419-harness-engineering]] 的错误分类处理
 
 | 错误类型 | 识别方式 | 处理策略 |
 |:---------|:---------|:---------|
@@ -258,7 +258,7 @@ curl -sk https://118.196.79.130:8443/<app>/  # 验证
 
 ### 4.2 AI 写测试用例
 
-> 对齐 [[insight-20260429-playwright-claude-code-testing]] 的三 Skill 架构
+> 对齐 [[insights/ai-coding/insight-20260429-playwright-claude-code-testing]] 的三 Skill 架构
 
 让 CC Agent 生成 Playwright 测试用例：
 
@@ -578,7 +578,7 @@ echo "=== 检查完成 ==="
 | 文档 | 说明 | 关联度 |
 |:-----|:-----|:-------|
 | [[数字社区产品管理系统现状]] | 当前项目状态记录 | ⭐⭐⭐⭐⭐ |
-| [[Agent团队架构与工作流]] | 团队架构与系统拓扑 | ⭐⭐⭐ |
+| [[topics/ai-agent/Agent团队架构与工作流]] | 团队架构与系统拓扑 | ⭐⭐⭐ |
 | [[Portal Shell + 子应用集成-技术细节]] | 本次技术实现细节 | ⭐⭐⭐⭐ |
 | [[vibe-coding/项目管理.md]] | Vibe Coding 项目管理 | ⭐⭐⭐⭐⭐ |
 | [[vibe-coding/开发经验.md]] | Vibe Coding 开发经验 | ⭐⭐⭐⭐ |

@@ -88,8 +88,8 @@ date: 2026-04-24
 
 ## 相关主题
 
-- [[data-platform]] - 数据中台
-- [[compliance]] - 合规科技
+- [[topics/fintech/data-platform]] - 数据中台
+- [[topics/fintech/compliance]] - 合规科技
 
 ## 来源
 
