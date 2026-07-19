@@ -521,7 +521,7 @@ date: 2026-04-24
 🦾 *营销套件落地综述 v2.0 完成*
 
 **关联文档**：
-- [PRD-数字营销产品域v1.0]
+- [projects/fintech-product产品域v1.0]
 - [EPIC-MKT-CROWD]
 - [EPIC-MKT-CANVAS]
 - [EPIC-MKT-REACH]

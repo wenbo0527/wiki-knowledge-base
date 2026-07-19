@@ -339,7 +339,7 @@ date: YYYY-MM-DD
 格式: YYYY-MM-DD-类型-标题.md
 
 示例:
-· 2026-05-18-PRD-数字营销产品需求.md
+· 2026-05-18-projects/fintech-product产品需求.md
 · 2026-05-18-SOP-S4-需求拆解流程.md
 · 2026-05-18-报告-周报第12期.md
 ```

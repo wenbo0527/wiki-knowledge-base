@@ -774,7 +774,7 @@ Get 笔记 API (gk_live_xxx)
 | 优化项 | 现状 | 建议 |
 |:---|:---|:---|
 | **行业研究 MarketAgentDemo** | 5-19 写 · 未深入 | 下一迭代考虑专题深挖 |
-| **PRD-数字营销 目录** | Wiki 有 1 个目录 · 内容薄 | 补充近期 PRD |
+| **projects/fintech-product 目录** | Wiki 有 1 个目录 · 内容薄 | 补充近期 PRD |
 | **cloud-agent-team** | 7 项目 · 状态未跟踪 | 建 review-logs |
 | **产品管理项目 13 子项目** | 文档分散 | 统一索引页 |
 | **数字社区项目 14 子项目** | 同上 | 同上 |
