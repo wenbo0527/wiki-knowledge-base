@@ -14,7 +14,7 @@ from typing import List, Dict, Set, Tuple
 
 # ============ 配置 ============
 WIKI_ROOT = Path("/Users/wenbo/Documents/project/Wiki/wiki")
-REPORT_DIR = WIKI_ROOT / "methodologies" / "process"  # L-N 治本 7-20: 修正路径漂移,与历史 report 同目录
+REPORT_DIR = WIKI_ROOT / "process"
 STATS_FILE = REPORT_DIR / "wiki_stats.json"
 LINK_PATTERN = re.compile(r'\[\[([^\]]+)\]\]')
 

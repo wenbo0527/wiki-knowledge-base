@@ -751,3 +751,63 @@ L-49.8  ID 引用必完整（grep 原文 + 长度校验）  (本回执驱动 · 
 - INC-003 待写 + escalate 钟离
 
 🕵️ nick_fury · 2026-07-19 07:08 CST · 钟离 cron 漂移升级
+
+### 🆕 增量 2026-07-20 18:30 CST（Wiki 健康度进展 · INC-001 + L-49.9 治本）
+
+**INC**：INC-2026-07-20-001（Wiki 自动走查报告路径漂移 4 天"假断档"）
+
+**Lesson**：**L-49.9** · 脚本路径常量漂移 silent failure（cron ok ≠ 落点对）
+
+**触发场景**：
+- 文博 7-20 16:38 派单"更新 Wiki 健康度提升进展"
+- 查 review report 路径发现：7-17~7-20 报告全部落到 `wiki/process/` 而不是 `wiki/methodologies/process/`
+- 表面"断档 4 天"，实际 cron ok 只是路径漂移
+
+**根因**：
+- `scripts/wiki_auto_review.py` 第 17 行 `REPORT_DIR = WIKI_ROOT / "process"`（应为 `/methodologies/process`）
+- 修改无注释、commit 无 INC 编号、跑通无产物路径校验
+
+**3 件套治本**（18:24-18:30 CST · 6 min）：
+1. 备份脚本 → `wiki_auto_review.py.bak.20260720_1822`
+2. 修常量 + 加注释（含 INC-2026-07-20-001）
+3. 移动 4 份错位 report + stats.json → `methodologies/process/`
+4. 删空目录 `wiki/process/`
+5. 端到端验证：手动跑一次脚本 → 新报告落正确路径
+
+**新增铁律（3 条）**：
+| # | 铁律 |
+|:---:|:---|
+| 1 | `Path(...)` 常量修改必加注释（含 INC 编号）|
+| 2 | cron argv 修改 commit 必带 INC 编号 |
+| 3 | cron 修完 24h 内必 verify 产物落点 |
+
+**L-49 族系扩展到 6 层**：
+```
+L-49    cron edit 必看 argv 完整 JSON
+L-49.5  argv 必查脚本路径存在性
+L-49.6  cron cleanup 决策树
+L-49.7  INC 报告必加 enabled/disabled tag 区分
+L-49.8  ID 引用必完整
+L-49.9  脚本路径常量漂移 silent failure 治本  ← NEW
+```
+
+**Wiki 健康度进展报告**（B 步骤）：
+- 路径：`wiki/methodologies/process/wiki-health-improvement-20260714-20260720.md`
+- 数据对比：死链 1093→368（-66%）/ 过时 1085→15（-99%）/ 空目录 27→1（-96%）
+- 健康度：~40/100 → 70-75/100
+- 13 个 INC + 3+ lessons 治本轨迹（按时间线）
+
+**24h verify**：
+- 7-21 03:30 cron 自动跑 → 验证 report 落 `methodologies/process/`（不靠人盯）
+- 7-21 18:00 close INC（如一切正常）
+
+**关联产物**：
+| 路径 | 大小 | 状态 |
+|:---|:---:|:---:|
+| `wiki/review-logs/incidents/2026-07/inc_2026-07-20_001-...md` | 3862B | ✅ |
+| `wiki/review-logs/lessons/by-agent/nick_fury/lesson-2026-07-20-wiki-review-path-drift-l49-9.md` | 2745B | ✅ |
+| `wiki/methodologies/process/wiki-health-improvement-20260714-20260720.md` | 4621B | ✅ |
+| `scripts/wiki_auto_review.py` | 17573B（+18B）| ✅ |
+| `scripts/wiki_auto_review.py.bak.20260720_1822` | 17555B | ✅ |
+
+🕵️ nick_fury · 2026-07-20 18:30 CST · Wiki 健康度进展 · L-49.9 治本
