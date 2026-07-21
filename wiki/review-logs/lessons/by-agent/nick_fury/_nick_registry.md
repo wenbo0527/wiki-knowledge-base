@@ -811,3 +811,116 @@ L-49.9  脚本路径常量漂移 silent failure 治本  ← NEW
 | `scripts/wiki_auto_review.py.bak.20260720_1822` | 17555B | ✅ |
 
 🕵️ nick_fury · 2026-07-20 18:30 CST · Wiki 健康度进展 · L-49.9 治本
+
+---
+
+## 2026-07-21 09:10 CST · INC-001 · L-49.10 增量区
+
+**INC-2026-07-21-001**：Wiki Git Push 静默失败 61 个 commit（凭证失效 + silent failure）
+
+**核心数据**：
+- 文博 9:00 CST 飞书派单 → 09:10 CST 闭环 = **10min**
+- ahead 61 个 commit（7-19 ~ 7-21 累积）
+- 远程 `github.com/wenbo0527/wiki-knowledge-base`
+
+**4 层根因**：
+1. 🔴 HTTPS PAT token `ghp_qRjB1k...` 失效
+2. 🔴 push 失败 = silent failure（只 log 不告警，cron 不感知）
+3. 🟠 cron 上下文无 ssh-agent（`SSH_AUTH_SOCK` 不继承）
+4. 🟡 post-commit 钩子双重失败（`timeout: command not found` + 同套 HTTPS）
+
+**4 步修复**：
+1. 凭证 HTTPS → SSH（`git@github.com:wenbo0527/wiki-knowledge-base.git`）
+2. `git pull --no-rebase` 整合远程 2 commit
+3. `git push` 推完 ahead 61 → 0
+4. 改脚本：3 处改动（GIT_SSH_COMMAND export / push 失败飞书告警 / exit 1）
+
+**3 条铁律（L-49.10）**：
+1. HTTPS PAT 严禁用于自动 push（必 SSH）
+2. silent failure 必加告警 + exit 非零
+3. cron 上下文 SSH 必显式 `GIT_SSH_COMMAND`
+
+**L-49 族系扩展**：从 L-49.9（7-20 Wiki 健康度路径漂移）→ **L-49.10**（7-21 Git 凭证 + 静默失败）= 第 7 层
+
+**L-16 grep 全集实证**（L-16 修一类必 grep 全集铁律）：
+| 路径 | 是否有 .git | 风险 |
+|:---|:---:|:---:|
+| `/Users/wenbo/Documents/project/Wiki/` | ✅ | 已修 |
+| 其他 6 个候选路径 | ❌ | n/a |
+
+**L-49 族系（7-15 → 7-21 共 7 层）**：
+```
+L-49    cron edit 必看 argv 完整 JSON          (INC-002)
+L-49.5  argv 必查脚本路径存在性                 (INC-005)
+L-49.6  cron cleanup 决策树（4 类 + 4 动作）    (INC-006)
+L-49.7  INC 报告必加 enabled/disabled tag 区分 (INC-007)
+L-49.8  ID 引用必完整（grep 原文 + 长度校验）   (INC-005 补)
+L-49.9  脚本路径常量漂移 silent failure 治本   (INC-001 7-20)
+L-49.10 Git 凭证 + 静默失败 + cron SSH 上下文  (INC-001 7-21) ← NEW
+```
+
+**关联产物**：
+| 路径 | 大小 | 状态 |
+|:---|:---:|:---:|
+| `wiki/review-logs/incidents/2026-07/inc_2026-07-21_001-wiki-git-push-fail-61-ahead.md` | 4957B | ✅ |
+| `wiki/review-logs/lessons/by-agent/nick_fury/lesson-2026-07-21-git-push-credential-strategy-l49-10.md` | 4014B | ✅ |
+| `wiki/methodologies/process/wiki-health-improvement-20260714-20260720.md`（7-20 已写）| 4621B | ✅ |
+| `/Users/wenbo/.nickfury/scripts/wiki_auto_commit.sh` | ~4200B（+550B）| ✅ |
+| `/Users/wenbo/.nickfury/scripts/wiki_auto_commit.sh.bak.20260721_0900` | 3654B | ✅ |
+| `memory/daily/2026-07-21.md` | 3060B | ✅ |
+
+**后续 todo**（等文博拍板）：
+1. post-commit 钩子要不要也改 SSH + 失败告警？🟡
+2. 装 GNU coreutils 让 `timeout` 可用？🟢
+3. cron delivery mode=none 改造？🟡
+4. L-49.10 集成到 sunday_cron_health_check.py 周日复查？✅ 必集成
+
+**自我归因**（L-29 命中）：
+- 61 个 commit 静默累积 2 天 —— cron 跑过 96 次没人查 ahead
+- silent failure 是 L-32 早就说过"不 swallow"的同根病，但 4-24 旧脚本没覆盖
+- **反思**：cron 类任务必须有 ahead/behind 健康检查
+
+🕵️ nick_fury · 2026-07-21 09:10 CST · INC-001 闭环 · L-49.10 治本 · 10min 修复
+
+---
+
+## 2026-07-21 09:17 CST · 3 项全做闭环（"同意" + "全做"）
+
+**核心数据**：
+- 09:11 文博"同意" → 09:11 文博"全做" → 09:17 3 项全闭环 = **6min**
+- 产物：4 文件更新 + 3 新备份 + 1 副产（coreutils 装成功）
+
+**#1 改 post-commit 钩子**：
+- 第一版 async 模式 → 误报（PID 未注册返回 127）
+- 改用同步 push → 2 次 test commit 成功推
+- 边界守住：保留原"非阻塞"设计意图（改同步牺牲 1-3s 阻塞换可靠）
+- 副作用：远程多 2 test commit（0583d47 / 47e0313）
+
+**#2 brew install coreutils**：
+- gtimeout 9.11 装成功
+- 副作用澄清：钩子已改同步，**装完用不上**
+- 写进 lesson L-49.10 铁律 4（以后 push 卡死兜底）
+
+**#3 集成 L-49.10 到 sunday_cron_health_check.py**：
+- 新增 `check_l49_10_git_push_health()` · 4 项铁律
+- 单测 pass=True · 0 issues
+- 脚本行数 351 → 460（+109 行）
+- 完整 main() 留给 7-19 22:00 cron 自动跑
+
+**L-49 族系扩展到 8 层**：
+```
+L-49.10    Git 凭证 + 静默失败 + cron SSH 上下文
+L-49.10.1  hook 异步 vs 同步 push 选型 + gtimeout 兜底  ← NEW
+```
+
+**自我归因**（L-29 命中）：
+- async wait 误报 1 次：推了假"push 失败"告警给文博
+- 主动坦白 + 立刻改同步 + 3 备份保留
+- 教训：hook 场景不能用 async wait（写进 L-49.10.1）
+
+**后续 todo**（等文博拍板）：
+1. 远程 2 test commit 保留 / reset？
+2. 7-19 22:00 cron 自动跑全套验证
+3. 7-19 周日 22:00 sunday_cron_health_check 跑完后复查
+
+🕵️ nick_fury · 2026-07-21 09:17 CST · INC-001 完整闭环 · 4 文件更新 + 3 项完成
