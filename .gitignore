@@ -1,14 +1,43 @@
-# macOS
-.DS_Store
-
-# Node/Python
-node_modules/
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
 
-# Large data files
-*.json.bak
-*.csv.bak
+# Virtual env
+venv/
+.venv/
+env/
+ENV/
+
+# Database
+*.db
+*.sqlite3
 
 # Logs
+logs/
 *.log
+
+# Editor / IDE
+.vscode/
+.idea/
+.DS_Store
+
+# AI IDE
+.trae/
+.aider*
+
+# Env
+.env
+.env.local
+.env.*.local
