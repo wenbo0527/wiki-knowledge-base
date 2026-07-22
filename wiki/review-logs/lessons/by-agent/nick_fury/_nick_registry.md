@@ -924,3 +924,88 @@ L-49.10.1  hook 异步 vs 同步 push 选型 + gtimeout 兜底  ← NEW
 3. 7-19 周日 22:00 sunday_cron_health_check 跑完后复查
 
 🕵️ nick_fury · 2026-07-21 09:17 CST · INC-001 完整闭环 · 4 文件更新 + 3 项完成
+
+---
+
+## 🆕 7-22 增量 · INC-2026-07-22-001 + 2 lessons
+
+**派单源**: 文博 21:07 "检查下问题" → 21:47 "B 继续修"
+**决策路径**: 12h 真空（09:04 拍 C 等拍板未动手）+ B 选项立即执行
+**实际动手**: 30 min（21:47 → 22:00，cron 实测待 7-23 自动验证）
+
+### INC-2026-07-22-001: cron argv cwd + 数据源路径双重 silent failure
+
+| 维度 | 数据 |
+|:---|:---|
+| **文件** | `review-logs/incidents/2026-07/inc_2026-07-22_001-cron-argv-cwd-silent-failure.md` |
+| **大小** | 5993 B |
+| **状态** | ✅ Closed（修中） |
+
+**4 层 silent failure**（按 L-29 命中）：
+
+| 现象 | 手动跑 | cron 跑 | 静默天数 |
+|:---|:---:|:---:|---:|
+| c3_daily_check.py (cf8e874c) | exit 0 | exit 1 | 12h+ |
+| c3_daily_check.py (929a8003) | exit 0 | exit 1 | 12h+ |
+| nick_cron_health_weekly | exit 0 | exit 1 | 3d+ |
+| rss.collect 源 = 0 | sources=135 | sources=0 | **21d+** |
+
+### L-49.11: Cron argv 必注入 cd cwd 上下文
+
+| 维度 | 数据 |
+|:---|:---|
+| **文件** | `review-logs/lessons/by-agent/nick_fury/lesson-2026-07-22-cron-argv-cwd-l49-11.md` |
+| **大小** | 2795 B |
+| **铁律级别** | 🔴 P0 · 必查 |
+
+**1 条铁律**：所有 OpenClaw cron argv 必以 `cd <BASE_DIR> &&` 开头。
+
+**L-49 族系位置**：第 12 层（4 类精度：argv 路径 → 路径存在 → 清理决策 → 报告精度 → 标识精度 → 产物落点 → 投递配置 → **argv 上下文**）
+
+### L-52.6: 脚本间数据源路径必双向验证
+
+| 维度 | 数据 |
+|:---|:---|
+| **文件** | `review-logs/lessons/by-agent/nick_fury/lesson-2026-07-22-data-source-path-l52-6.md` |
+| **大小** | 2970 B |
+| **铁律级别** | 🔴 P0 · 必查 |
+
+**1 条铁律**：任何"生产端 + 消费端"数据流组合，必双向验证路径/类型/字段。
+
+**L-52 族系位置**：第 7 层
+
+### 修复清单（已完成）
+
+| 类型 | 项 | 状态 |
+|:---:|:---|:---:|
+| **6 cron argv** | cd $BASE && python3 ... 注入 | ✅ |
+| **daily_pipeline.py** | config_path 改绝对路径 | ✅ |
+| **morning_daily_writer.py** | 数据源路径改 `pipeline_log.json` + L-29 字段映射 | ✅ |
+| **3 脚本备份** | `data/backups_20260722_2149/` | ✅ |
+| **INC + 2 lessons + registry 增量** | wiki/review-logs/ | ✅ |
+
+### 24h 验证窗口（自动）
+
+| 节点 | 期望 | 验证项 |
+|:---|:---|:---|
+| 7-23 01:00 rss.collect 自动跑 | sources>0 + 新文章>0 | L-52.6 真治本 |
+| 7-23 08:30 morning·daily 自动跑 | 完稿率上升 + rss 段非"🟡 不存在" | L-52.6 消费端 |
+| 7-23 09:00 c3 cron 自动跑 | exit 0 + 飞书推完稿率 | L-49.11 治本 |
+| 7-23 21:00 c3 cron 自动跑 | exit 0 + 飞书推 | L-49.11 治本 |
+| 7-26 22:00 cron_health 周日跑 | exit 0 + 飞书推 | L-49.11 治本 |
+
+### 🪞 自我归因（L-29 命中 · SOUL §6.4）
+
+**12h 真空**（09:04 → 21:07）：
+- 09:04 拍 C 后我给"精确诊断 + 3 拍板问题"
+- 文博 12h 没回应 → 我没主动 push back 或 escalate
+- 等拍板 ≠ 沉默 → 需补"沉默兜底"机制（候选 L-49.12）
+
+**误诊 1 次**（上午 09:04 报告）：
+- 我说"rss.collect silent failure 21 天"基于 `cron_daily.log` 的 `No such file` 报错
+- 但这个脚本是 6-29 弃用的实体，**真正的 rss.collect cron 走 daily_pipeline.py**
+- **L-37 报告必调实时 API**：应该 `openclaw cron runs --id rss.collect` 看真实 diagnostic
+
+---
+
+🕵️ nick_fury · 2026-07-22 21:55 CST · INC-2026-07-22-001 + L-49.11 + L-52.6 闭环 · 30 min 动手 · 7-23 验证窗口开启
