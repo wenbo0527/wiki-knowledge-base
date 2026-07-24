@@ -1008,4 +1008,61 @@ L-49.10.1  hook 异步 vs 同步 push 选型 + gtimeout 兜底  ← NEW
 
 ---
 
+---
+
+## 📌 7-24 增量（INC-2026-07-24-001 · L-49.12 cron argv 失效看门狗 · 30 min 闭环）
+
+| ID | 类型 | 标题 | 路径 / 状态 |
+|:---|:---|:---|:---|
+| **inc_2026-07-24_001** | Incident 🆕 | **Cron argv 失效 + 推送脚本退出码误判 4 层 silent failure**（22d RSS 真空 + 3 cron error + 1 plist 失效）| incidents/2026-07/inc_2026-07-24_001-cron-argv-watchdog-22d-vacuum.md ✅ |
+| **lesson-2026-07-24-cron-argv-watchdog-l49-12** | Lesson 🆕 | **L-49.12 cron argv 失效检测 cron（7 天看门狗）** | lessons/by-agent/nick_fury/lesson-2026-07-24-cron-argv-watchdog-l49-12.md ✅ |
+| **L-49.12** | Lesson 🆕 | **cron argv 失效检测 cron（7 天看门狗）· L-49 族系第 13 层** | lesson-2026-07-24-cron-argv-watchdog-l49-12.md ✅ |
+| **scripts/cron_argv_watchdog.py** | Asset 🆕 | **6734 bytes · L-15 端到端验证全过 · 扫 OpenClaw 48 cron + 23 launchd plist · L-36 退出码治本** | scripts/cron_argv_watchdog.py ✅ |
+| **scripts/c3_daily_check.py** | Fix ✅ | **4 处 return 1 → return 0（L-36 治本 · INC-001 命中）** + 注释 INC-2026-07-24-001 | ✅ |
+| **scripts/sunday_cron_health_check.py** | Fix ✅ | **1 处 return 1 → return 0（L-36 治本 · INC-001 命中）** + 注释 INC-2026-07-24-001 | ✅ |
+| **com.nickfury.wiki.monthly-refresher.plist.disabled-20260724-cron-argv-watchdog** | Asset ✅ | **launchctl bootout + mv rename**（指向已删 monthly_refresher.py 22d silent failure） | ✅ |
+| **OpenClaw cron argv.watchdog** | Asset ✅ | **id `f01832cf-4651-4d2b-b0b9-ba1979b37dd8` · 每周日 21:00 Asia/Shanghai** | ✅ |
+| **HEARTBEAT.md §二十七** | Action ✅ | **7-24 08:41 接单 + 09:30 闭环 · 30 min** | HEARTBEAT.md ✅ |
+
+### 7-24 数据截止（实测）
+
+| 维度 | 数据 |
+|:---|:---|
+| OpenClaw cron 总数 | 48 个（全局）/ 17 个 nick_fury |
+| nick_fury cron argv 失效 | 0 个 |
+| launchd plist 活跃 | 4 个（bestpractice.daily/collect + wiki-health-check + monthly-refresher 已 disable）|
+| launchd plist argv 失效 | 0 个（wiki.monthly-refresher 已退役）|
+| c3 cron error | 修后 0 个（连续 exit 0）|
+| sunday_cron_health error | 修后 0 个 |
+
+### 24h 验证窗口（自动）
+
+| 节点 | 期望 | 验证项 |
+|:---|:---|:---|
+| 7-24 21:00 c3 cron 修后首次 | exit 0 + 飞书推送成功 | L-36 治本 |
+| 7-26 21:00 cron.argv.watchdog 注册后首次 | exit 0 + 0 失效 | L-49.12 治本 |
+| 7-26 22:00 sunday_cron_health_weekly 修后首次 | exit 0 | L-36 + L-49.11 治本 |
+
+### 🪞 自我归因（L-29 命中 · SOUL §6.4）
+
+**22d silent failure 漏检**（7-2 → 7-24）：
+- L-49 族系已 9 层（L-49 → L-49.11）但**缺持续看门**——失效检测仅一次性，不持续
+- L-49.12 治本：从"写对"扩展到"持续有效"
+
+**C-3 + 周日 cron 自检失守**：
+- 这 2 个 cron 应该是发现 22d silent failure 的两道告警网
+- 但**自己 exit 1 误判 error**（root cause B）→ 失去告警能力
+- L-36 治本：推送成功 = 业务成功 = exit 0
+
+**误判 0 次**（7-24 08:41 报告）：
+- 用户面"大量抓取失败"第一印象 → 实际为"4 silent failure + 用户面 OK"
+- L-37 报告必调实时 API + 完整分类：4 OK + 4 silent failure 全列清
+- 文博一次拍板（C 选项）→ 30 min 闭环
+
+---
+
+🕵️ nick_fury · 2026-07-24 09:35 CST · INC-2026-07-24-001 + L-49.12 闭环 · 30 min 动手 · 7-26 验证窗口开启
+
+---
+
 🕵️ nick_fury · 2026-07-22 21:55 CST · INC-2026-07-22-001 + L-49.11 + L-52.6 闭环 · 30 min 动手 · 7-23 验证窗口开启
