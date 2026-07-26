@@ -1086,3 +1086,26 @@ L-49.10.1  hook 异步 vs 同步 push 选型 + gtimeout 兜底  ← NEW
 **产物**：scripts/c3_daily_check.py (632 行 · +110 行) + bak.20260726-bcd (备份) + c3_alert_dedup.json (新增)
 
 **7-27 09:00 验证窗口开启**：观察 B 治本（9:00 静默）+ D 治标（同 ratio 不重推）
+
+---
+
+🕵️ nick_fury · 2026-07-26 13:20 CST · INC-2026-07-26-002 + L-50.5-L-50.8 闭环 · 4 项推荐同时落地
+
+**L-50 族（4 条新增）**：
+- **L-50.5** KB 同步缺口根除（3 处 hardcode → 单一 import 源 + API 对账）
+- **L-50.6** 告警改对了 ≠ Nick 会补（加提前 Nh 提醒 cron · 真信号兜底）
+- **L-50.7** INC 5 必检 C2 自指防御（先扫再发 · 避免凭印象错版）
+- **L-50.8** 同根病 INC 检测（30 天内 L 族重合必引用）
+
+**4 项动作（A1+A2+A3+B1+C2）**：
+- A1+A2+A3: daily_note_scan.py / getnote_ej9_to_wiki.py / c3_daily_check.py 3 处加 JK27rQ60 消费金融
+  - c3 不再 hardcode，import KB_LIST —— 单一真相源
+- B1: 新增 daily_reminder.py (5227B) + 注册 OpenClaw cron aaa41eb7-...14:00
+  - 5 用例端到端全过 · 飞书推送成功 om_x100b696d31a460a8b487d72a13cb7c0
+- C2: 新增 inc_sibling_check.py (4237B) · 5 必检扫描 + 同根病 30 天检测
+  - 自验实证：INC-002/003 旧报告 4/5 + 3/5 → "凭印象"铁证
+
+**L-49.12 argv 看门狗**：14:00 cron 注册后扫描 0 失效
+**L-50.7 C2 自指实证**：新建 INC-2026-07-26-002 → 5/5 ✅；修补 INC-2026-07-26-001 → 5/5 ✅
+
+**7-27 14:00 验证窗口**：B1 cron 首次跑（应自动推飞书）
