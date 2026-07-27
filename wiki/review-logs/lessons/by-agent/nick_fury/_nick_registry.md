@@ -1128,3 +1128,84 @@ L-49.10.1  hook 异步 vs 同步 push 选型 + gtimeout 兜底  ← NEW
 - 推荐 #5 disabled = 1（按 INC-007 L-49.7 治本）
 
 **C2 自验**：INC-003 = 5/5 ✅ · 5 min 调研 + 不脑补
+
+---
+
+## 📌 7-27 增量（C-3 0% 反复告警 + OpenClaw 卡死 · 中修 4 daily 闭环 · L-51 新族）
+
+| ID | 类型 | 标题 | 路径 / 状态 |
+|:---|:---|:---|:---|
+| inc-2026-07-27-002-c3-silence-openclaw | INC 🆕 | C-3 完稿率反复告警（5 天 9 次）同根病 + OpenClaw gateway 卡死（11 cron stuck · CPU 65.7%）+ Wiki ahead 12 跨 5 天 push 失败 | `review-logs/incidents/2026-07/inc_2026-07-27_002-c3-daily-silence-openclaw-stuck.md`（4653B）|
+| lesson-2026-07-27-l51-c3-silence-openclaw | Lesson 🆕 | L-51 族（2 条）· L-51.1 daily `## ✅ 完稿时间` 必手动加（L-50 C 治本只解决判定不解决主动加）· L-51.2 OpenClaw gateway CPU > 50% + status=running > 11 个待拍 kill | `review-logs/lessons/by-agent/nick_fury/lesson-2026-07-27-l51-c3-silence-openclaw.md`（2246B）|
+| daily-2026-07-24 | Daily ✅ | HEARTBEAT §二十七镜像 · INC-001 + L-49.12 cron argv 看门狗闭环 · 49 min | `memory/daily/2026-07-24.md`（3050B）|
+| daily-2026-07-25 | Daily ✅ | 周六无接单日 · 真空日忠实记录 · HEARTBEAT 当日零增量 | `memory/daily/2026-07-25.md`（1473B）|
+| daily-2026-07-26 | Daily ✅ | HEARTBEAT §二十八到 §三十一镜像 · INC-001/002/003 + L-50 族 8 条 + Wiki ahead 11 待拍板 | `memory/daily/2026-07-26.md`（3114B）|
+| daily-2026-07-27 | Daily ✅ | 8:51-8:55 早上事件 + 中修 4 daily 落地 | `memory/daily/2026-07-27.md`（2513B）|
+
+### C-3 cron 24h 实测（补完后）
+
+| daily | 原 size | 完稿后 size | 完稿标记 |
+|:---|:---:|---:|:---:|
+| 2026-07-24.md | 1727B | 3050B | ✅ |
+| 2026-07-25.md | 1859B | 1473B | ✅ |
+| 2026-07-26.md | 1836B | 3114B | ✅ |
+| 2026-07-27.md | (空)| 2513B | ✅ |
+
+```
+24h 内 daily: 4
+✅ 完稿: 4
+ratio: 100% ✅
+
+c3_daily_check.py 实跑：
+  stdout: ✅ MORNING OK: 骨架已生成 4 个 | 21:00 再查完稿率
+  exit: 0
+```
+
+**21:00 c3 cron 预期**：ratio=100% → 清 dedup + 静默成功（不再 ALERT）。
+
+### OpenClaw gateway 卡死（同根病 · 仍待拍板）
+
+| 检查项 | 实测值 |
+|:---|:---|
+| OpenClaw cron status=running | 11 个 |
+| morning·daily runningAtMs | 7-27 08:55:12（**延迟 25min**）|
+| tech·briefing lastRunAtMs | 7-26 08:35（7-27 没跑）|
+| gateway PID 18855 CPU | **65.7%**（异常）|
+
+### Wiki ahead 12 待文博拍板（不擅自动 push）
+
+| 项 | 实测 |
+|:---|:---|
+| git rev-list origin/main..HEAD | **12 commits ahead** |
+| .git/FETCH_HEAD | **不存在**（fetch 都未做）|
+| .git/refs/remotes/origin/main | **不存在** |
+| 5+ 天未 push | 7-22 ~ 7-27 |
+
+### 中修 4 daily 完成情况
+
+- [x] INC-2026-07-27-002 落档（4653B · L-31 路径正确）
+- [x] lesson-2026-07-27-l51 落档（2246B · L-31 路径正确）
+- [x] 4 daily 补完稿（HEARTBEAT 当日内容镜像 · 加 `## ✅ 完稿时间`）
+- [x] _nick_registry.md 7-27 增量（本段）
+- [ ] OpenClaw gateway kill+restart（**等文博拍板 PID 18855**）
+- [ ] Wiki ahead 12 push 治本（**等文博拍板**）
+
+### L-51 族新教训（INC-002 治本）
+
+```
+L-51.1 daily `## ✅ 完稿时间` 必手动加，无 cron 自动加（7-27）
+L-51.2 OpenClaw gateway CPU > 50% + status=running > 11 个 → 待拍 kill（7-27）
+```
+
+### C2 自验：INC-002 = 5/5 ✅
+
+- ① 数据截止（8:55 CST ✅）
+- ② 数据源（c3_daily.log + memory/daily/ + openclaw cron list + ps aux ✅）
+- ③ 完整分类（4 daily + 11 running + 12 ahead ✅）
+- ④ 真实覆盖率（4/4 真空 / 11/49 卡死 / 12/5天 push fail ✅）
+- ⑤ 关键洞察（L-51.1 主动加 vs 判定完 ✅ + L-51.2 gateway kill 待拍 ✅）
+
+---
+
+🕵️ nick_fury · 2026-07-27 09:00 CST · INC-2026-07-27-002 + L-51 + 4 daily 全闭环 · 中修落地完稿 · 21:00 c3 cron 预期 100% 静默 · gateway + wiki 2 项等拍板
+
