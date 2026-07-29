@@ -1209,3 +1209,47 @@ L-51.2 OpenClaw gateway CPU > 50% + status=running > 11 个 → 待拍 kill（7-
 
 🕵️ nick_fury · 2026-07-27 09:00 CST · INC-2026-07-27-002 + L-51 + 4 daily 全闭环 · 中修落地完稿 · 21:00 c3 cron 预期 100% 静默 · gateway + wiki 2 项等拍板
 
+
+---
+
+## 📌 7-29 增量（L-49.14 KB 3 分类标注 · 文博 09:06 需求改进闭环）
+
+| ID | 类型 | 标题 | 路径 / 状态 |
+|:---|:---|:---|:---|
+| lesson-2026-07-29-l49-14-kb-3class | Lesson 🆕 | Get 笔记精选 3 分类（⭐自手写 / 🔔KB同步 / 📚其他）| lessons/by-agent/nick_fury/lesson-2026-07-29-l49-14-kb-3class.md ✅ 7-29 09:56 |
+
+### L-49.14 族新教训
+
+```
+L-49.14.1 API 字段盘点先于逻辑改造（7-29）
+L-49.14.2 KB notes API 不返回 source 是硬约束（KB 层只分 ⭐/🔔，不细化到单条笔记）（7-29）
+L-49.14.3 is_self 硬编码白名单是唯一可靠方案（API 不返回 owner）（7-29）
+L-49.14.4 标签渲染用 bucket 类别而非 source 字段（防 source=app+link 错标 ⭐）（7-29）
+L-49.14.5 3 分类改造要双脚本同步（Q1 = 两者都要改）（7-29）
+```
+
+### 实施改动
+
+| 文件 | 改动 | 风险 |
+|:---|:---|:---:|
+| `scripts/daily_note_scan.py` | 加 KB_META + 3 分类判定 + 推送分类汇总 | 🟢 仅 print |
+| `scripts/getnote_ej9_to_wiki.py` | 加 KB_META + tier frontmatter + 推送分类统计 | 🟢 print + frontmatter |
+| Wiki `wiki/insights/*/getnote-*.md` | 新写入文件加 `KB 等级` + `KB ID` frontmatter | 🟡 已存文件不变（state 防重）|
+
+### 待办（不阻塞）
+
+- [ ] 抽 `_getnote_meta.py` 共享模块（两脚本 KB_META 重复）
+- [ ] 评估 RAG 检索是否用 `KB 等级` 过滤（区分 ⭐ vs 🔔）
+- [ ] 探索 BOOKSPACE KB（10 个知识广场书）接入策略
+
+### C2 自验：L-49.14 = 5/5 ✅
+
+- ① 数据截止（9:54 CST ✅）
+- ② 数据源（API curl 实测 + daily_note_scan dry-run + getnote_ej9_to_wiki mock + 真实跑 ✅）
+- ③ 完整分类（⭐23 + 🔔12 + 📚31 + KB 9+3=12 ✅）
+- ④ 真实覆盖率（fetch=191 一致、write=0 state 防重 ✅）
+- ⑤ 关键洞察（openapi 是书草稿、bucket 标签 vs source 字段 ✅）
+
+---
+
+🕵️ nick_fury · 2026-07-29 09:56 CST · L-49.14 KB 3 分类闭环 · daily_note_scan.py + getnote_ej9_to_wiki.py 双改造完成 · cron argv 自动生效 · lesson + registry 沉淀
