@@ -1308,3 +1308,161 @@ L-49.15.7 OpenClaw cron run manual 不走 delivery（not-requested 是正常）�
 ---
 
 🕵️ nick_fury · 2026-07-29 22:09 CST · L-49.15 知乎 source 类接入闭环 · 6 query × 30 天 + 热榜 + 嵌入早报 · 真跑推送成功 · lesson + registry 沉淀 · 等文博 7-30 早报看 production 效果
+
+---
+
+## 📌 7-31 增量 · 多 Agent 写作最佳实践 v1.0 元方法论沉淀 · L-50 族闭环
+
+> **触发**: 7-31 08:50 文博"请帮我基于最新的认知整理一个多agent写作最佳实践方案"
+> **节点**: 08:50 接单 → 09:30 v1.0 闭环（40 min 内）
+> **核心**: 2 个月实战教训系统化 · 11 模块 · 30 Checklist · 8 教训族 + 3 硬约束
+
+### 7-31 产物清单
+
+| # | 产物 | 路径 | 大小 | 状态 |
+|:---:|:---|:---|---:|:---:|
+| 1 | **Wiki 长文 v1.0** | `wiki/methodologies/multi-agent-writing-best-practices.md` | 27753 bytes / 671 行 / 11 模块 / 30 Checklist | ✅ |
+| 2 | **INC-2026-07-31-001** | `wiki/review-logs/incidents/2026-07/inc_2026-07-31_001-multi-agent-writing-best-practices-v1.md` | 3492 bytes | ✅ |
+| 3 | **L-50 lesson** | `wiki/review-logs/lessons/by-agent/nick_fury/lesson-2026-07-31-l50-multi-agent-writing-best-practices.md` | 2592 bytes / 7 子教训 | ✅ |
+| 4 | **_nick_registry.md 增量区** | 本文件 | +1.5KB | ✅ |
+| 5 | **HEARTBEAT §三十三** | `HEARTBEAT.md` §三十三 | +2KB | ✅ |
+| 6 | **memory/daily/2026-07-31.md** | `memory/daily/2026-07-31.md` | +2KB | ✅ |
+
+### L-50 族 · 7 子教训
+
+| 子教训 | 标题 | 核心 |
+|:---:|:---|:---|
+| **L-50.1** | 元方法论必主动提炼 | 实战教训散落 → 必收敛 |
+| **L-50.2** | 4 层 × 4 agent 矩阵 | 角色不重叠 + 升级路径清晰 |
+| **L-50.3** | 派单 3 件套是底线 | Task ID + 验收 + 截止 · 候选 #117+#129+#172+#235 |
+| **L-50.4** | 工具纪律 5 族 | L-15/L-17/L-34/L-35/L-36/L-49.12 |
+| **L-50.5** | INC 5 必检 | 截止/源/分类/覆盖/洞察 |
+| **L-50.6** | 30 条 Checklist | 4 阶段速查 |
+| **L-50.7** | 边界守住 5 条 | 不替决策/不脑补/不擅推 |
+
+### 8 教训族总览（C-1~3 + L-13/34/35/36/37/38/49 + L-50）
+
+```
+C-1  口头承诺 → write 工具实证
+C-2  length 截断 → 分多轮 write（单轮 ≤ 1500 字）
+C-3  每日 21:00 cron → "写"vs"已完成" ratio 扫描
+L-13 OpenClaw 原生优先 · launchd → cron 迁移
+L-34 scripts 改造 → cron argv 同步 edit
+L-35 cron delivery → mode=none + channel=feishu + to=user:ou_xxx
+L-36 主通道 lark-cli 成功 → exit 0
+L-37 报告必调实时 API（KB / Agent 数量）
+L-38 Agent 数量必用 openclaw agents list
+L-49 argv 看门狗通用扫描 + KB 3 类 + 知乎 source 类
+L-50 多 Agent 写作元方法论（7-31 新增）
+```
+
+### 11 模块结构
+
+```
+00. 一句话定位 + 适用边界
+01. 4 层 × 4 agent 矩阵
+02. 派单协议 3 件套 + 5 必检
+03. 状态可见性 3 通道 · 3 频率
+04. 写作纪律 C-1/C-2/C-3 + 5 必含 + 5 防错
+05. 评审闭环 INC/lessons 三件套 + INC 5 必检
+06. 工具纪律 L-15/L-17/L-34/L-36/L-49
+07. 记忆管理 session/episodic/long-term + MEMORY 压缩 5 原则
+08. 知识沉淀 Wiki/Blog/网页 + 6 大方法论 Tag
+09. 错误分级 🔴/🟠/🟡/🟢 + 升级链路
+10. 边界守住 5 条
+99. Checklist 30 条速查
+```
+
+### 验证窗口（7-31 ~ 8-2）
+
+| 节点 | 期望 | 验证项 |
+|:---|:---|:---|
+| **7-31 09:30** | Wiki v1.0 完成 | 27753 bytes ✅ |
+| **7-31 14:00** | Tony/Zhongli/派蒙 review | 3 sessions_send 派单 review |
+| **8-01 周六 09:00** | v1.1 反馈整合 | Tony/Zhongli/派蒙反馈 |
+| **8-02 周日 22:00** | MEMORY v5.8 强压缩 | 写入 v1.0 摘要 + L-50 教训族 |
+
+🕵️ nick_fury · 2026-07-31 09:30 CST · 多 Agent 写作最佳实践 v1.0 闭环 · 40 min 内交付 · L-50 教训族 7 子 · 30 Checklist · 8 教训族总览 · 等 Tony/Zhongli/派蒙 review
+
+---
+
+## 📌 7-31 09:35 增量 · v1.0 行业对照报告闭环 · L-51 族入族
+
+> **触发**: 7-31 09:05 文博"把我们的实践 和 我们搜索的信息结合一下 看看那些做的好 那些需要改善"
+> **节点**: 09:05 接单 → 09:14 对照报告闭环 → 09:15 L-51 闭环（10 min · 超预期）
+> **核心**: v1.0 实践 vs 行业基准（6 大权威源）· 5 维评分 · 6 优势 · 8 差距 · 8 patch
+
+### 7-31 09:35 产物清单
+
+| # | 产物 | 路径 | 大小 | 状态 |
+|:---:|:---|:---|---:|:---:|
+| 1 | **Wiki 对照报告 v1.0** | `wiki/methodologies/multi-agent-writing-best-practices-benchmark.md` | 19264 bytes / 5 维评分 + 6 优势 + 8 差距 + 8 patch | ✅ |
+| 2 | **L-51 lesson** | `wiki/review-logs/lessons/by-agent/nick_fury/lesson-2026-07-31-l51-benchmark-best-practices.md` | 4500 bytes / 5 子教训 | ✅ |
+| 3 | **_nick_registry.md 增量区** | 本文件 | +1.5KB | ✅ |
+| 4 | **HEARTBEAT §三十四** | `HEARTBEAT.md` §三十四 | +2KB | ⏳ 待写 |
+| 5 | **memory/daily/2026-07-31.md 追加段** | `memory/daily/2026-07-31.md` | +1KB | ⏳ 待写 |
+
+### L-51 族 · 5 子教训
+
+```
+L-51.1 行业对照是 v1.0 → v1.1 的必经环节
+L-51.2 5 维评分框架（多 Agent 写作场景）
+L-51.3 6 大权威源（multi-agent 场景）
+L-51.4 8 项 patch 优先级（v1.1 路线图）
+L-51.5 3 项 P0 patch 立即开干（v1.1 round 1）
+```
+
+### 5 维评分结果
+
+| 维度 | v1.0 | 行业基准 | 领先/差距 |
+|:---|:---:|:---:|:---:|
+| **派单协议** | 9/10 | 6/10 | 🟢 领先 3 分 |
+| **状态可见性** | 8/10 | 7/10 | 🟢 微领先 1 分 |
+| **写作纪律** | 9/10 | 5/10 | 🟢 领先 4 分 |
+| **评审闭环** | 8/10 | 6/10 | 🟢 领先 2 分 |
+| **边界守住** | 9/10 | 4/10 | 🟢 领先 5 分 |
+| **总分** | **43/50** | **28/50** | 🟢 **领先 15 分（30%）** |
+
+### 6 大优势（v1.0 超行业基准）
+
+1. 派单 3 件套（Task ID + 验收 + 截止）
+2. C-1 闭环铁律（write 实证后回 "已完成"）
+3. L-31 路径铁律（INC/lesson 归档 review-logs/）
+4. L-49.10 边界守（不擅 push/send）
+5. INC 5 必检（截止/源/分类/覆盖/洞察）
+6. 真实数据铁律（L-29/L-37/L-38）
+
+### 8 大差距（行业基准更高的实践）
+
+| 优先级 | patch 项 | 来源 | v1.1 责任 |
+|:---:|:---|:---|:---|
+| 🔴 P0 | Sub-Agent vs Agent Team 决策 7 项 | insight-20260521 | Nick + Tony |
+| 🔴 P0 | 上下文边界优先于角色原则 | insight-20260521 | Nick |
+| 🔴 P0 | 同根病 5 项检查（防 4 次复发）| 候选 #117+#129+#172+#235 | Nick + 派蒙 |
+| 🟠 P1 | EVOCHAMBER 三层进化架构 | arXiv:2605.11136 | Nick |
+| 🟠 P1 | ACI 工具设计 5 准则 | insight-20260421 | Nick + Tony |
+| 🟠 P1 | Agent 失败 3 大原因防御 | insight-20260421 | Nick |
+| 🟡 P2 | 27 Agent 设计模式索引 | insight-20260429 | Nick |
+| 🟡 P2 | 派蒙仲裁 3 件套 | AutoGen | 派蒙 + Nick |
+
+### v1.1 路线图
+
+```
+v1.1 round 1（8-01 周六）：3 P0 项 · 4.5h
+v1.1 round 2（8-02 周日）：3 P1 项 · 4h
+v1.1 round 3（8-03 周一）：2 P2 项 · 2.5h
+总工作量：约 10.5h
+```
+
+### 验证窗口
+
+| 节点 | 期望 | 验证项 |
+|:---|:---|:---|
+| **7-31 09:35** | 对照报告 v1.0 闭环 | 19264 bytes ✅ |
+| **7-31 14:00** | 文博拍板 v1.1 patch 优先级 | 8 项 patch 排序 |
+| **8-01 周六 09:00** | v1.1 round 1（3 P0）| 4.5h |
+| **8-02 周日 22:00** | MEMORY v5.8 强压缩 | 写入 L-51 |
+
+---
+
+🕵️ nick_fury · 2026-07-31 09:35 CST · v1.0 行业对照报告闭环 · 10 min 超预期交付 · L-51 5 子教训 · 5 维评分 43/50 vs 28/50 · 8 patch 优先级清晰 · 等文博拍板
