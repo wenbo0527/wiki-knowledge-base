@@ -1494,3 +1494,31 @@ v1.1 round 3（8-03 周一）：2 P2 项 · 2.5h
 ---
 
 🕵️ nick_fury · 2026-08-01 10:50 CST · INC-2026-08-01-001 闭环 · L-52 入族 · 24 死源清零 · 85.6% 成功率 · 健康监控治本
+
+---
+
+## 📌 8-01 增量（Wiki Insight 自动沉淀 · 方案 B 实施 · L-53 入族）
+
+| ID | 类型 | 标题 | 路径 / 状态 |
+|:---|:---|:---|:---|
+| **inc_2026-08-01_002** | Incident 🆕 | **Wiki Insight 自动沉淀**（方案 B 实施 · 0% → 1.4%）| `review-logs/incidents/2026-08/inc_2026-08-01_002-wiki-insight-auto-write.md` ✅ 4208B |
+| **lesson-2026-08-01-l53-wiki-insight-auto** | Lesson 🆕 | **L-53 族首：流程末端必须落到 L2 Wiki**（4 子教训）| `review-logs/lessons/by-agent/nick_fury/lesson-2026-08-01-l53-wiki-insight-auto.md` ✅ 1900B |
+| **L-53** | 教训族 | **知识沉淀**（L-53.1 流程末端 Wiki + L-53.2 内存态持久化 + L-53.3 沉淀率监控 + L-53.4 模板质量平衡）| lesson-2026-08-01-l53-wiki-insight-auto.md |
+| **wiki_insight_writer.py** | Asset 🆕 | **Wiki Insight 自动沉淀脚本 9959B**（24h 内重点关注 → insight md → Wiki）| `scripts/wiki_insight_writer.py` ✅ |
+| **OpenClaw cron 23ad3239** | Cron 🆕 | **每日 08:40 跑 wiki_insight_writer · delivery mode=none（L-35 治本）** | `openclaw cron list \| grep wiki-insight-writer` ✅ |
+| **8-1 沉淀 2 篇** | Action ✅ | **insight-20260801-美团外卖大战.md + insight-20260801-WorkBuddy.md**（product 类）| `wiki/insights/research/product/` ✅ 4414B |
+| **state + log** | Data 🆕 | **`data/wiki_insight_writer_state.json` (2 篇 written) + `data/wiki_insight_writer.log`** | data/ ✅ |
+| **HEARTBEAT §三十六** | Action ✅ | **8-1 11:31 闭环 + L-53 入族** | `HEARTBEAT.md` ⏳ 待追加 |
+
+### 8-1 第二次闭环验证窗口（11:31 → 8-2）
+
+| 节点 | 期望 | 验证项 |
+|:---|:---|:---|
+| **8-1 11:31** | 2 篇沉淀 + cron 注册 | ✅ |
+| **8-2 08:40** | cron 首次跑（24h 内新候选）| ⏳ 21h 后 |
+| **8-2 09:00** | 文博看到效果（飞书推送 + Wiki 沉淀）| ⏳ |
+| **9-1** | 30 天累计沉淀 ~30~90 篇 | ⏳ |
+
+---
+
+🕵️ nick_fury · 2026-08-01 11:31 CST · INC-2026-08-01-002 闭环 · L-53 入族 · Wiki 沉淀率 0% → 1.4% · 自动化治本循环已启动
