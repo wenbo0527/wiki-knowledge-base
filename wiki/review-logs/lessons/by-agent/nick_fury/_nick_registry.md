@@ -1466,3 +1466,31 @@ v1.1 round 3（8-03 周一）：2 P2 项 · 2.5h
 ---
 
 🕵️ nick_fury · 2026-07-31 09:35 CST · v1.0 行业对照报告闭环 · 10 min 超预期交付 · L-51 5 子教训 · 5 维评分 43/50 vs 28/50 · 8 patch 优先级清晰 · 等文博拍板
+
+---
+
+## 📌 8-01 增量（RSS 财经源 24 条死链清理 + L-52 健康监控治本）
+
+| ID | 类型 | 标题 | 路径 / 状态 |
+|:---|:---|:---|:---|
+| **inc_2026-08-01_001** | Incident 🆕 | **RSS 财经源 24 条死链一次性清理**（财新/华尔街见闻/东方财富/中国基金报/第一财经 等） | `review-logs/incidents/2026-08/inc_2026-08-01_001-rss-sources-dead-cleanup.md` ✅ 4497B |
+| **lesson-2026-08-01-l52-rss-health-monitor** | Lesson 🆕 | **L-52 族首：RSS 源健康必须主动监控（连续失败 ≥7 天告警）** | `review-logs/lessons/by-agent/nick_fury/lesson-2026-08-01-l52-rss-health-monitor.md` ✅ 2031B |
+| **L-52** | 教训族 | **RSS 源治理**（L-52.1 主动监控 + L-52.2 连续失败阈值 + L-52.3 治本循环 + L-52.4 重复配） | lesson-2026-08-01-l52-rss-health-monitor.md |
+| **rss_source_health_monitor.py** | Asset 🆕 | **RSS 源健康监控脚本 6375B**（独立于 fetcher · 30 天历史 · 7 天阈值） | `scripts/rss_source_health_monitor.py` ✅ |
+| **sources_full.json 135→111** | Config 🆕 | **剔除 24 条死链 + 备份 22KB · 成功率 60% → 85.6%** | `skills/rss-intelligence/config/sources_full.json` ✅ |
+| **OpenClaw cron 3d8bd0cb** | Cron 🆕 | **每日 09:00 跑健康监控 · delivery mode=none（L-35 治本）** | `openclaw cron list \| grep rss-source-health-monitor` ✅ |
+| **state + alert log** | Data 🆕 | **`data/rss_source_health_state.json` (111 源) + `data/rss_source_health_alert.log`** | data/ ✅ |
+| **HEARTBEAT §三十五** | Action ✅ | **8-1 10:25 三方派单实证 + 10:50 闭环** | `HEARTBEAT.md` ⏳ 待追加 |
+
+### 8-1 验证窗口
+
+| 节点 | 期望 | 状态 |
+|:---|:---|:---:|
+| **8-1 10:50** | 配置 + cron + INC + lesson 全闭环 | ✅ |
+| **8-2 09:00** | cron 首次跑（实测 111 源）| ⏳ |
+| **8-8 09:00** | 第 7 天（首条潜在告警）| ⏳ |
+| **9-1** | 30 天历史首次月度盘点 | ⏳ |
+
+---
+
+🕵️ nick_fury · 2026-08-01 10:50 CST · INC-2026-08-01-001 闭环 · L-52 入族 · 24 死源清零 · 85.6% 成功率 · 健康监控治本
