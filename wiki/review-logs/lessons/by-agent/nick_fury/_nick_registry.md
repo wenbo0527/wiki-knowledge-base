@@ -1522,3 +1522,49 @@ v1.1 round 3（8-03 周一）：2 P2 项 · 2.5h
 ---
 
 🕵️ nick_fury · 2026-08-01 11:31 CST · INC-2026-08-01-002 闭环 · L-53 入族 · Wiki 沉淀率 0% → 1.4% · 自动化治本循环已启动
+
+---
+
+## 📌 8-02 增量（rss.collect 误报 8 天 · INC-001 闭环 · L-54 族首 · MEMORY v5.x）
+
+| ID | 类型 | 标题 | 路径 / 状态 |
+|:---|:---|:---|:---|
+| **inc_2026-08-02_001** | Incident 🆕 | **rss.collect 误报 8 天 = 真相错位**（L-29 直接命中 · 日报 vs 实际反向校验缺失）| `review-logs/incidents/2026-08/inc_2026-08-02_001-rss-collect-misreport.md` ✅ ~4500B |
+| **lesson-2026-08-02-l54-rss-collect-misreport** | Lesson 🆕 | **L-54 族首：日报输入真实 ≠ 输出成功**（4 子教训）| `review-logs/lessons/by-agent/nick_fury/lesson-2026-08-02-l54-rss-collect-misreport.md` ✅ ~3500B |
+| **L-54** | 教训族 | **日报自检治本**（L-54.1 cron show diagnostic + L-54.2 路径变更留痕 + L-54.3 C-3 反向校验 + L-54.4 错版订正 ⛔）| lesson-2026-08-02-l54-rss-collect-misreport.md |
+| **MEMORY.md v5.x** | Asset 🆕 | **强压缩 19984B → ~4500B**（12 教训族 + 4 项 P0 待办 + L-29/L-54 强化）| `MEMORY.md` ✅ |
+| **8 篇 daily 订正 banner** | Action ⏳ | **8-2 22:43 后续**：8 篇 daily（7-26 → 8-2）顶部加 ⛔ 订正 banner | `memory/daily/` ⏳ 今晚动手 |
+| **c3_daily_check.py T3 升级** | Action ⏳ | **必加 cron_status_field 反向校验字段**（L-54.3 治本）| `scripts/c3_daily_check.py` ⏳ 今晚动手 |
+| **cron_argv_watchdog T2 升级** | Action ⏳ | **周日 cron 跑前必加"路径一致性"检查**（L-54.2 治本）| `scripts/cron_argv_watchdog.py` ⏳ 周日 cron 跑前 |
+| **HEARTBEAT §三十七** | Action ✅ | **8-2 22:43 INC-001 + L-54 入族 + MEMORY v5.x 闭环** | `HEARTBEAT.md` ✅ |
+
+### 8-2 验证窗口
+
+| 节点 | 期望 | 验证项 | 状态 |
+|:---|:---|:---|:---:|
+| **8-2 22:43** | INC + L-54 + MEMORY + registry + HEARTBEAT 5 件闭环 | ✅ | ✅ |
+| **8-3 01:18** | rss.collect cron 仍 ok | 实测 cron show | ⏳ 3h 后 |
+| **8-3 09:00** | 8-3 日报含 T1 治本 + 错版订正 | daily.md 顶部 banner | ⏳ 10h 后 |
+| **8-3 21:00** | C-3 cron 跑（含 T3 cron_status_field）| c3_daily_check.py 升级版 | ⏳ 22h 后 |
+| **8-9 周日 21:00** | cron_argv_watchdog 再跑（含 T2 路径一致性）| 路径变更留痕检查 | ⏳ 7 天后 |
+
+### 8-2 关键误报订正（L-29 教训命中 · L-54 治本）
+
+| 误报 | 日报声称（8-1 / 8-2 22:43 前）| 22:34 实测 | 错位天数 |
+|:---|:---|:---|:---:|
+| rss.collect cron | 🔴 error · 30 天真空 | ✅ ok · 8-2 01:18:45 跑通 | **8 天**（7-26 → 8-2）|
+| MEMORY.md 字符 | "过期 18 天" | **过期 7+ 天**（mtime 7-26 19:15）| 我日报抄错 |
+| 输出路径 | "data/topic_collection/ 最新 7-1" | **已迁移** → `data/tech_push_history/` | 6 周未追踪 |
+
+### 8-2 待办（4 项 P0 · 22:43 盘点）
+
+| # | 项 | 等多久 | 边界 |
+|:---:|:---|:---:|:---|
+| 1 | 8 patch v1.1 路线图（3 P0 项）| 3 天 | L-49.10 等拍板 |
+| 2 | c3_daily_check.py 加 T3 cron_status_field | - | **今晚动手** |
+| 3 | 8 篇 daily 顶部加 ⛔ 订正 banner | - | **今晚动手** |
+| 4 | cron_argv_watchdog 加 T2 路径一致性 | - | 周日 cron 跑前 |
+
+---
+
+🕵️ nick_fury · 2026-08-02 22:43 CST · INC-2026-08-02-001 闭环 · L-54 族首 · rss.collect 误报 8 天 = 真相错位 · L-29 强化 · 9 min 闭环 · 4 子教训治本循环已启动 · MEMORY v5.x 强压缩 19984B → 4500B
