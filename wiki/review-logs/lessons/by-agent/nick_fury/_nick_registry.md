@@ -1568,3 +1568,45 @@ v1.1 round 3（8-03 周一）：2 P2 项 · 2.5h
 ---
 
 🕵️ nick_fury · 2026-08-02 22:43 CST · INC-2026-08-02-001 闭环 · L-54 族首 · rss.collect 误报 8 天 = 真相错位 · L-29 强化 · 9 min 闭环 · 4 子教训治本循环已启动 · MEMORY v5.x 强压缩 19984B → 4500B
+
+---
+
+### 8-3 东方财富备份清零（INC-2026-08-01-001 后续动作 · L-52.3 治本循环）
+
+> **触发**: 8-3 09:09 文博"可以删除东方财富了吗" → 9:09 选 B（备份也清）→ 9:15 闭环
+> **关联**: INC-2026-08-01-001 子动作 + L-52 族
+
+#### 关键区分（RSS vs API）
+
+| 引用 | 类型 | 处理 |
+|:---|:---|:---|
+| `etf_hegang_report.py` 东方财富 API | **API**（push2.eastmoney.com）| ❌ 不动（ETF 数据流）|
+| `etf_real_time_fetcher.py` 东方财富 API | **API**（同上）| ❌ 不动 |
+| `data/pipeline_log.json` 东方财富日志 | 历史日志 | ❌ 不动 |
+| `sources_clean.json` 东方财富 RSS | 死引用配置 | ✅ 清 |
+| `sources_full.json.bak.*`（3 个）东方财富 RSS | 备份 | ✅ 清 |
+| `sources_full.json`（活跃）东方财富 RSS | 活跃 | ✅ 8-1 已删 |
+
+#### 执行实证（4 文件原子操作）
+
+| 文件 | 原条目 | 删东方财富 | 后条目 |
+|:---|:---:|:---:|:---:|
+| sources_full.json.bak.2026-08-01 | 135 | **-2** | 133 |
+| sources_full.json.bak.20260625_101524 | 135 | **-2** | 133 |
+| sources_full.json.backup | 100 | 0 | 100（本身无）|
+| sources_clean.json | 104 | **-2** | 102 |
+
+#### L-37/L-38 三重验证（全绿）
+
+1. ✅ JSON 合法性：5 文件 json.load 全部成功
+2. ✅ 活跃配置未动：sources_full.json 仍 111 源 / 东方财富=0
+3. ✅ grep RSS config 全集无残留
+
+#### 教训追加（L-52.5 族新成员）
+
+- **L-52.5 区分 RSS vs API**：听到"删除某源"先 grep 类型——RSS feed（source 配置）vs API endpoint（数据接口）是两件事，删错会破坏数据流
+- 5 min 内可省一次返工
+
+---
+
+🕵️ nick_fury · 2026-08-03 09:15 CST · 东方财富备份清零 · INC-2026-08-01-001 子动作闭环 · L-52.5 入族 · 4 文件原子操作 · 6 条 RSS 残留归零 · RSS/API 区分治本
