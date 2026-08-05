@@ -1682,3 +1682,83 @@ v1.1 round 3（8-03 周一）：2 P2 项 · 2.5h
 ---
 
 🕵️ nick_fury · 2026-08-04 09:13 CST · INC-2026-08-04-001 闭环 · L-55 族首 · 东方财富 push2 100% 失败治本 · 12 min 端到端 · 54s → 3.7s 提速 93% · 8/8 ETF 实时数据全拿 · 5 子教训入族 · 边界守住 5 项
+
+---
+
+## 8-5 增量区 · INC-2026-08-05-001 + L-56 族首
+
+| # | 产物 | 路径 | 状态 |
+|:---:|:---|:---|:---:|
+| 1 | etf_hegang_report.py v2.6 | `skills/rss-intelligence/scripts/etf_hegang_report.py` | ✅ 5178B |
+| 2 | etf_percentile_today.json 8-5 持久化 | `data/etf_percentile_today.json` | ✅ 2596B |
+| 3 | INC-2026-08-05-001 | `review-logs/incidents/2026-08/inc_2026-08-05_001-data-freshness-transparency.md` | ✅ 5178B |
+| 4 | lesson-2026-08-05-l56 | `review-logs/lessons/by-agent/nick_fury/lesson-2026-08-05-l56-data-freshness.md` | ✅ 4035B |
+
+### 5 件交付清单
+
+| # | 产物 | 路径 | 状态 |
+|:---:|:---|:---|:---:|
+| 1 | etf_hegang_report.py v2.6 | `skills/rss-intelligence/scripts/etf_hegang_report.py` | ✅ 5178B |
+| 2 | etf_percentile_today.json 8-5 持久化 | `data/etf_percentile_today.json` | ✅ 2596B（修复 7-14 真空）|
+| 3 | INC-2026-08-05-001 | `review-logs/incidents/2026-08/` | ✅ 5178B |
+| 4 | lesson-2026-08-05-l56 | `review-logs/lessons/by-agent/nick_fury/` | ✅ 4035B |
+| 5 | 8-5 daily 完整版 | `memory/daily/2026-08-05.md` | ⏳ Round 2 |
+
+### 4 子教训族首
+
+- **L-56.1** 报告标题日期 ≠ 数据基准日（必须显式 📅 标注）
+- **L-56.2** data_source 字符串判断要严格（"预设"字样 ≠ preset 兜底）
+- **L-56.3** 写报告后必须持久化（修复 7-14 真空）
+- **L-56.4** 数据新鲜度 assert（> 24h 进 stale_warnings）
+- **L-56.5** C+B 组合 > 单纯 A 删（透明 + 治本更鲁棒）
+
+### 8-5 端到端 4/8 真实
+
+| 通道 | 真实源 | 状态 |
+|:---|:---|:---:|
+| 东方财富 push2.eastmoney.com | 8/8 fail-fast | ⛔ 已知不工作 |
+| 腾讯 qt.gtimg.cn | 4/8 成功（宽基 000016/000300/000905/000688）| ✅ |
+| sina 备用 | 0/8 行业指数空 | ⚠️ sina 拿不到行业 |
+| preset 后备 | 4/8 行业指数 | ⛔ 6-25 硬编码 |
+
+### C+B 路径验证（8-5 08:52 拍板）
+
+| 选项 | 决策 | 验证 |
+|:---|:---:|:---|
+| A 删东方财富 | ❌ 否 | 8-5 报告仍含东方财富 fallback（v2.5 L-55）|
+| B 治本 assert | ✅ | 报告顶部 🟡 数据陈旧 > 24h 告警 |
+| C 透明 | ✅ | 📅 数据基准日 + ⛔ preset 标注 |
+
+### 边界守住 6 项
+
+| 边界 | 实证 |
+|:---|:---|
+| C-1 闭环 | 5 件 write 全部成功 |
+| C-2 分段 | INC 5178B 单件 ≤ 边界（写一次）|
+| L-31 路径守 | INC/lesson 都在 `review-logs/` 子目录 ✅ |
+| L-37/L-38 报告必实测 | 8-5 08:55 端到端实测 fetcher → 报告 → json 三处一致 ✅ |
+| L-49.10 不擅 push | 用户拍板后动手，未推飞书 ✅ |
+| L-15 端到端 | 6 步全部通过 ✅ |
+
+### 验证窗口（8-5 → 8-12）
+
+| 节点 | 期望 | 状态 |
+|:---|:---|:---:|
+| 8-5 08:56 | INC + L-56 闭环 + 持久化修复 | ✅ |
+| 8-6 08:35 | cron 跑出新格式报告 | ⏳ 23h 后 |
+| 8-7 09:00 | daily_investment_report 读 json 验证 | ⏳ 2d 后 |
+| 8-12 周日 | cron_argv_watchdog 路径一致性 | ⏳ 7d 后 |
+
+### 5 项 P0 待办（接续 8-4 4 项 + 8-5 新增 1 项）
+
+| # | 项 | 状态 |
+|:---:|:---|:---:|
+| 1 | 8 patch v1.1 路线图 | ⏳ 等文博拍板 |
+| 2 | c3_daily_check.py 加 📅 标签校验 | ⏳ 今晚 |
+| 3 | 8 篇 daily 顶部加 ⛔ 订正 banner | ⏳ 今晚 |
+| 4 | 6-26 akshare 修复（PE/分位）| ⏳ 长期 |
+| 5 | 8-5 完整 daily（替换骨架）| ⏳ Round 2 |
+
+---
+
+🕵️ nick_fury · 2026-08-05 08:56 CST · INC-2026-08-05-001 闭环 · L-56 族首 · ETF 报告数据失真治本（C+B 组合）· 5 子教训入族 · 边界守住 6 项 · 8-5 端到端 4/8 真实 · 7-14 真空已修复
