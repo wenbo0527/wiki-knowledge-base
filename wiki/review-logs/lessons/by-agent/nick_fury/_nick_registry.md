@@ -1762,3 +1762,70 @@ v1.1 round 3（8-03 周一）：2 P2 项 · 2.5h
 ---
 
 🕵️ nick_fury · 2026-08-05 08:56 CST · INC-2026-08-05-001 闭环 · L-56 族首 · ETF 报告数据失真治本（C+B 组合）· 5 子教训入族 · 边界守住 6 项 · 8-5 端到端 4/8 真实 · 7-14 真空已修复
+
+---
+
+## 8-5 INC-002 增量区 · L-57 族首 · GitHub Push Protection 治本
+
+| # | 产物 | 路径 | 状态 |
+|:---:|:---|:---|:---:|
+| 1 | rebase 改写 31dbf669 → bc3bd37 | `wiki-knowledge-base` 本地 + origin | ✅ |
+| 2 | 公开仓库 API 扫描 0 PAT 暴露 | `api.github.com/repos/wenbo0527/wiki-knowledge-base/commits` | ✅ |
+| 3 | INC-2026-08-05-002 | `review-logs/incidents/2026-08/inc_2026-08-05_002-wiki-push-protection-15d-vacuum.md` | ✅ 5558B |
+| 4 | lesson-2026-08-05-l57 | `review-logs/lessons/by-agent/nick_fury/lesson-2026-08-05-l57-push-protection-rebase.md` | ✅ 4933B |
+| 5 | 备份 tag `backup-pre-pat-cleanup` | `wiki-knowledge-base` ref | ✅ 兜底 |
+
+### 端到端时间线（8-5 14:00 → 14:13）
+
+| 节点 | 动作 | 状态 |
+|:---|:---|:---:|
+| 14:00 | 文博推送 hook 告警 | 🔴 已发现 |
+| 14:03 | 同意 A 方案 | ✅ |
+| 14:05 | 备份 tag + 自动化 rebase 标记 31dbf669 为 edit | ✅ |
+| 14:09 | 改 3 处 PAT 字符串 + amend | ✅ |
+| 14:10 | 二次清理 2 处占位 + 再次 amend → bc3bd37 | ✅ |
+| 14:11 | rebase --continue 30 commits 重新 base | ✅ |
+| 14:12 | wiki_auto_commit hook 自动 force push | ✅ |
+| 14:13 | 公开仓库 API 扫描 0 PAT 暴露 | ✅ |
+
+### 5 子教训族首
+
+- **L-57.1** PAT 永远不能进 commit（无论完整/截断/占位）
+- **L-57.2** 历史改写三件套（REDACTED + rebase + force push）
+- **L-57.3** 公开仓库 PAT 扫描（api endpoint 验证）
+- **L-57.4** L-49.10 同步机制善用（hook 自动 force push）
+- **L-57.5** reflog 兜底（dangling commit 30 天保留）
+
+### PAT 暴露范围真相
+
+| 范围 | 状态 |
+|:---|:---|
+| 本地 main 分支 | 🟡 31dbf669 dangling（reflog 30 天）|
+| 公开仓库 origin/main | ✅ **从未暴露**（7-21 push 失败意外保护）|
+| GitHub Push Protection | ✅ 主动拦截 |
+| 文博 GitHub 账户 | 🟡 PAT 仍可能有效（待撤销）|
+
+### 边界守住 6 项
+
+| 边界 | 实证 |
+|:---|:---|
+| C-1 闭环 | 5 件 write 全部成功 |
+| L-31 路径守 | INC/lesson 都在 `review-logs/` |
+| L-37/L-38 报告必实测 | 公开仓库 API 扫描验证 ✅ |
+| L-49.10 边界守 | 文博拍板 A 后才动手 force push |
+| L-15 端到端 | 6 步全部通过 |
+| 8-5 14:00 文博推送 → 14:13 闭环 | **13 min 端到端** |
+
+### 5 项 P0 待办（含 INC-002 新增）
+
+| # | 项 | 状态 |
+|:---:|:---|:---:|
+| 1 | 8 patch v1.1 路线图 | ⏳ 等文博拍板 |
+| 2 | c3_daily_check.py 加 📅 标签校验 | ⏳ 今晚 |
+| 3 | 8 篇 daily 顶部加 ⛔ 订正 banner | ⏳ 今晚 |
+| 4 | 6-26 akshare 修复（PE/分位）| ⏳ 长期 |
+| 5 | **撤销 PAT `ghp_qRjB1k...` 在 GitHub Settings** | ⏳ **等文博操作** |
+
+---
+
+🕵️ nick_fury · 2026-08-05 14:13 CST · INC-2026-08-05-002 闭环 · L-57 族首 · Wiki push 阻塞 15 天治本 · 13 min 端到端 · 公开仓库 0 PAT 暴露 · L-49.10 同步机制善用
