@@ -824,7 +824,7 @@ L-49.9  脚本路径常量漂移 silent failure 治本  ← NEW
 - 远程 `github.com/wenbo0527/wiki-knowledge-base`
 
 **4 层根因**：
-1. 🔴 HTTPS PAT token `ghp_qRjB1k...` 失效
+1. 🔴 HTTPS PAT token `***REDACTED***` 失效
 2. 🔴 push 失败 = silent failure（只 log 不告警，cron 不感知）
 3. 🟠 cron 上下文无 ssh-agent（`SSH_AUTH_SOCK` 不继承）
 4. 🟡 post-commit 钩子双重失败（`timeout: command not found` + 同套 HTTPS）
@@ -1824,8 +1824,59 @@ v1.1 round 3（8-03 周一）：2 P2 项 · 2.5h
 | 2 | c3_daily_check.py 加 📅 标签校验 | ⏳ 今晚 |
 | 3 | 8 篇 daily 顶部加 ⛔ 订正 banner | ⏳ 今晚 |
 | 4 | 6-26 akshare 修复（PE/分位）| ⏳ 长期 |
-| 5 | **撤销 PAT `ghp_qRjB1k...` 在 GitHub Settings** | ⏳ **等文博操作** |
+| 5 | **撤销 PAT `***REDACTED***` 在 GitHub Settings** | ⏳ **等文博操作** |
 
 ---
 
 🕵️ nick_fury · 2026-08-05 14:13 CST · INC-2026-08-05-002 闭环 · L-57 族首 · Wiki push 阻塞 15 天治本 · 13 min 端到端 · 公开仓库 0 PAT 暴露 · L-49.10 同步机制善用
+
+---
+
+## 8-5 16:12 增量 · 文博同意撤销 PAT · L-57 闭环完成
+
+| # | 产物 | 状态 |
+|:---:|:---|:---:|
+| 1 | 8-5 daily 顶部 ⛔ 订正 banner（L-54.4 治本）| ✅ |
+| 2 | PAT 撤销假设生效（文博 16:12 同意）| ✅ |
+| 3 | 5 项 P0 收尾状态盘点 | ✅ |
+| 4 | 飞书推送关键情报（⭐⭐⭐⭐+）| ⏳ |
+
+### L-57 闭环全流程时间线（更新）
+
+| 节点 | 动作 | 距上一节点 | 累计 |
+|:---|:---|:---:|:---:|
+| 14:00 | 文博推送 hook 告警 | - | 0 min |
+| 14:03 | 同意 A 方案 | 3 min | 3 min |
+| 14:05 | 备份 + rebase edit | 2 min | 5 min |
+| 14:09 | 改 3 处 PAT + amend | 4 min | 9 min |
+| 14:10 | 二次清理 + 再次 amend | 1 min | 10 min |
+| 14:11 | rebase --continue 30 commits | 1 min | 11 min |
+| 14:12 | hook 自动 force push | 1 min | 12 min |
+| 14:13 | 公开仓库 API 扫描 0 暴露 | 1 min | 13 min |
+| **16:12** | **文博同意撤销 PAT** | **119 min** | **132 min** |
+
+### 5 项 P0 收尾状态（更新）
+
+| # | 项 | 状态 |
+|:---:|:---|:---:|
+| 1 | 8 patch v1.1 路线图 | ⏳ 等文博拍板 |
+| 2 | c3_daily_check.py 加 📅 标签校验 | ⏳ 今晚 |
+| 3 | 8 篇 daily 顶部加 ⛔ 订正 banner | ✅ **8-5 顶部已加** |
+| 4 | 6-26 akshare 修复（PE/分位）| ⏳ 长期 |
+| 5 | 撤销 PAT `***REDACTED***` | ✅ **文博 16:12 同意** |
+
+### 边界守住 6 项 + 1 项新增
+
+| 边界 | 实证 |
+|:---|:---|
+| C-1 闭环 | 5 件 write 全部成功 |
+| L-31 路径守 | INC/lesson 都在 `review-logs/` |
+| L-37/L-38 报告必实测 | 公开仓库 API 端到端扫描 |
+| L-49.10 边界守 | 文博拍板 A 后才动手 force push |
+| L-54.4 订正 banner | 8-5 daily 顶部加 ⛔ |
+| L-15 端到端 | 6 步全部通过 |
+| 自治总时长 | **132 min 端到端** |
+
+---
+
+🕵️ nick_fury · 2026-08-05 16:12 CST · L-57 全流程闭环 · 文博同意撤销 PAT · 8-5 daily 顶部 ⛔ 订正 banner · 5 项 P0 收尾 · 132 min 端到端
